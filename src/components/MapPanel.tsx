@@ -90,14 +90,13 @@ export function MapPanel({ points, user, selectedId, onSelect, height = 420 }: P
 
 function buildHtml(dark: boolean, t: ReturnType<typeof useTheme>) {
   // Anahtarsız, ücretsiz altlıklar; biri açılmazsa sıradakine geçilir.
+  // Anahtarsız, ücretsiz altlıklar; biri açılmazsa sıradakine geçilir.
+  // (CARTO artık API anahtarı istiyor ve hata yerine uyarı resmi döndürdüğü için kullanılmıyor.)
+  const esri = 'https://server.arcgisonline.com/ArcGIS/rest/services/Canvas';
   const providers = [
     {
-      url: `https://{s}.basemaps.cartocdn.com/${dark ? 'dark_all' : 'light_all'}/{z}/{x}/{y}{r}.png`,
-      attribution: '© OpenStreetMap © CARTO',
-      subdomains: 'abcd',
-    },
-    {
-      url: 'https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}',
+      url: `${esri}/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}`,
+      overlay: `${esri}/World_Light_Gray_Reference/MapServer/tile/{z}/{y}/{x}`,
       attribution: '© Esri, OpenStreetMap',
       maxZoom: 16,
       invert: dark,
@@ -133,11 +132,14 @@ var colors={pharmacy:'${t.primary}',hospital:'#B07A5A',emergency:'${t.danger}'};
 var glyph={pharmacy:'+',hospital:'H',emergency:'+'};
 var map=L.map('map',{zoomControl:false,attributionControl:true}).setView([39,35],6);
 var providers=${JSON.stringify(providers)},pi=0,base=null;
+var overlay=null;
 function useProvider(i){
   if(base)map.removeLayer(base);
+  if(overlay){map.removeLayer(overlay);overlay=null;}
   if(i>=providers.length){document.getElementById('msg').style.display='flex';return;}
   pi=i;var p=providers[i],ok=0,bad=0;
-  base=L.tileLayer(p.url,{maxZoom:p.maxZoom||19,subdomains:p.subdomains||'abc',attribution:p.attribution}).addTo(map);
+  base=L.tileLayer(p.url,{maxZoom:p.maxZoom||19,maxNativeZoom:p.maxZoom||19,attribution:p.attribution}).addTo(map);
+  if(p.overlay)overlay=L.tileLayer(p.overlay,{maxZoom:19,maxNativeZoom:p.maxZoom||19}).addTo(map);
   var pane=document.querySelector('.leaflet-tile-pane');if(pane)pane.classList.toggle('inv',!!p.invert);
   base.on('tileload',function(){ok++});
   base.on('tileerror',function(){bad++;if(!ok&&bad>=3&&pi===i)useProvider(i+1)});
@@ -164,7 +166,7 @@ window.setData=function(d){
     if(d.user)near.push([d.user.latitude,d.user.longitude]);
     if(!near.length)near=b;
     map.invalidateSize();
-    map.fitBounds(near,{padding:[40,40],maxZoom:15,animate:fitted});fitted=true;}
+    map.fitBounds(near,{padding:[40,40],maxZoom:16,animate:fitted});fitted=true;}
   var s=d.points.find(function(p){return p.id===d.selectedId});
   if(s&&fitted)map.panTo([s.lat,s.lng],{animate:true});
 };
