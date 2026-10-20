@@ -1,6 +1,7 @@
 import { Ionicons } from '@expo/vector-icons';
 import * as Haptics from 'expo-haptics';
 import { LinearGradient } from 'expo-linear-gradient';
+import { useState } from 'react';
 import { Linking, StyleSheet, Text, View } from 'react-native';
 import { type HospitalWithDistance, useHospitals } from '../hooks/useHospitals';
 import { radius, useTheme } from '../theme';
@@ -72,6 +73,16 @@ function HospitalCard({ h }: { h: HospitalWithDistance }) {
           {h.name}
         </Text>
         {!!h.kind && <Text style={[styles.sub, { color: t.textMuted }]}>{KIND_LABEL[h.kind]}</Text>}
+        {h.emergency !== true && (
+          <View style={[styles.erNote, { backgroundColor: t.warmSoft }]}>
+            <Ionicons name="information-circle-outline" size={16} color={t.warm} />
+            <Text style={[styles.erNoteText, { color: t.text }]}>
+              {h.emergency === false
+                ? 'Bu hastanede acil servis görünmüyor. Acil bir durumda 112\'yi ara.'
+                : 'Acil servis bilgisi kayıtlı değil. Gitmeden önce aramanı ya da 112\'ye danışmanı öneririz.'}
+            </Text>
+          </View>
+        )}
         <View style={styles.distanceRow}>
           <Text style={[styles.distance, { color: t.primary }]}>{formatDistance(h.distanceKm)}</Text>
           <Text style={[styles.hint, { color: t.textMuted }]}>{travelHint(h.distanceKm)}</Text>
@@ -113,14 +124,23 @@ function HospitalRow({ h, onPress }: { h: HospitalWithDistance; onPress: () => v
   return (
     <PressableScale onPress={onPress} style={[styles.listRow, { backgroundColor: t.card, borderColor: t.border }]}>
       <View style={[styles.icon, { backgroundColor: h.emergency ? t.dangerSoft : t.bgAccent }]}>
-        <Ionicons name={h.emergency ? 'medical' : 'business-outline'} size={18} color={h.emergency ? t.danger : t.primary} />
+        <Ionicons
+          name={h.dental ? 'happy-outline' : h.emergency ? 'medical' : 'business-outline'}
+          size={18}
+          color={h.emergency ? t.danger : t.primary}
+        />
       </View>
       <View style={{ flex: 1 }}>
         <Text style={[styles.rowName, { color: t.text }]} numberOfLines={2}>
           {h.name}
         </Text>
         <Text style={[styles.rowSub, { color: t.textMuted }]} numberOfLines={1}>
-          {[h.emergency ? 'Acil servis' : null, h.kind ? KIND_LABEL[h.kind] : null].filter(Boolean).join(' · ') || 'Hastane'}
+          {[
+            h.dental ? 'Ağız ve diş sağlığı' : h.emergency ? 'Acil servis var' : h.emergency === false ? 'Acil servis yok' : 'Acil durumu bilinmiyor',
+            h.kind ? KIND_LABEL[h.kind] : null,
+          ]
+            .filter(Boolean)
+            .join(' · ')}
         </Text>
       </View>
       <Text style={[styles.rowDistance, { color: t.text }]}>{formatDistance(h.distanceKm)}</Text>
@@ -128,9 +148,18 @@ function HospitalRow({ h, onPress }: { h: HospitalWithDistance; onPress: () => v
   );
 }
 
+type Filter = 'tumu' | 'acil' | 'dis';
+const FILTERS: { key: Filter; label: string }[] = [
+  { key: 'tumu', label: 'Tümü' },
+  { key: 'acil', label: 'Acil servisi olan' },
+  { key: 'dis', label: 'Ağız ve diş' },
+];
+
 export function HospitalsView({ coords, locating }: { coords: Coords | null; locating: boolean }) {
   const t = useTheme();
-  const { nearby, featured, loading, error, retry } = useHospitals(coords, true);
+  const { general, emergencyOnly, dental, featured, loading, error, retry } = useHospitals(coords, true);
+  const [filter, setFilter] = useState<Filter>('tumu');
+  const list = filter === 'acil' ? emergencyOnly : filter === 'dis' ? dental : general;
 
   let body: React.ReactNode;
   if (!coords && locating) body = <LoadingSkeleton />;
@@ -152,10 +181,37 @@ export function HospitalsView({ coords, locating }: { coords: Coords | null; loc
         <HospitalCard h={featured} />
         <FadeIn delay={160}>
           <Text style={[styles.section, { color: t.textMuted }]}>Yakındaki hastaneler</Text>
+          <View style={styles.chips}>
+            {FILTERS.map((f) => {
+              const active = f.key === filter;
+              return (
+                <PressableScale
+                  key={f.key}
+                  onPress={() => {
+                    Haptics.selectionAsync().catch(() => {});
+                    setFilter(f.key);
+                  }}
+                  accessibilityRole="button"
+                  accessibilityState={{ selected: active }}
+                  style={[
+                    styles.chip,
+                    { backgroundColor: active ? t.primary : t.card, borderColor: active ? t.primary : t.border },
+                  ]}
+                >
+                  <Text style={[styles.chipText, { color: active ? t.onPrimary : t.text }]}>{f.label}</Text>
+                </PressableScale>
+              );
+            })}
+          </View>
         </FadeIn>
+        {list.length === 0 && (
+          <Text style={[styles.note, { color: t.textMuted, marginTop: 0 }]}>
+            {filter === 'dis' ? 'Yakında kayıtlı bir ağız ve diş sağlığı merkezi görünmüyor.' : 'Bu grupta yakında kayıtlı hastane görünmüyor.'}
+          </Text>
+        )}
         <View style={{ gap: 10 }}>
-          {nearby.map((h, i) => (
-            <FadeIn key={h.id} delay={200 + Math.min(i, 8) * 60}>
+          {list.map((h, i) => (
+            <FadeIn key={`${filter}-${h.id}`} delay={Math.min(i, 8) * 50}>
               <HospitalRow h={h} onPress={() => openDirections(asPlace(h))} />
             </FadeIn>
           ))}
@@ -194,6 +250,11 @@ const styles = StyleSheet.create({
   primaryText: { fontSize: 16, fontWeight: '600' },
   secondaryBtn: { flexDirection: 'row', gap: 6, alignItems: 'center', justifyContent: 'center', height: 50, paddingHorizontal: 20, borderRadius: radius.md, borderWidth: 1 },
   secondaryText: { fontSize: 16, fontWeight: '600' },
+  erNote: { flexDirection: 'row', gap: 8, alignItems: 'center', padding: 10, borderRadius: radius.sm, marginTop: 12 },
+  erNoteText: { flex: 1, fontSize: 13, lineHeight: 18 },
+  chips: { flexDirection: 'row', flexWrap: 'wrap', gap: 8, marginTop: 10 },
+  chip: { paddingHorizontal: 14, height: 34, justifyContent: 'center', borderRadius: 99, borderWidth: 1 },
+  chipText: { fontSize: 13, fontWeight: '600' },
   section: { fontSize: 13, fontWeight: '600', letterSpacing: 0.3, marginTop: 10, textTransform: 'uppercase' },
   listRow: { flexDirection: 'row', alignItems: 'center', gap: 12, padding: 14, borderRadius: radius.md, borderWidth: 1 },
   icon: { width: 40, height: 40, borderRadius: 14, alignItems: 'center', justifyContent: 'center' },

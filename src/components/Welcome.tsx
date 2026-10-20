@@ -25,22 +25,22 @@ const GREETINGS = [
     button: 'Haydi, başlayalım',
   },
   {
-    lead: 'Hoş geldin. Gönlün ferah, yolun açık olsun.',
+    lead: 'Gönlün ferah, yolun açık olsun. Sağlıkla kal, sevdiklerinle kal.',
     quote: 'Gelin tanış olalım, işi kolay kılalım.',
     note: 'Yunus Emre',
     button: 'Hayırlısıyla başlayalım',
   },
   {
-    lead: 'Acil şifalar dileriz. İhtiyacın olan yardım sandığından daha yakın.',
-    quote: 'Her şey geçer, bu da geçecek.',
-    note: 'Biz de bu yolda yanındayız.',
-    button: 'Kolay gelsin, başlayalım',
+    lead: 'Allah\'a emanet ol. Sen merak etme, en yakın yardımı birlikte bulalım.',
+    quote: 'Dert veren, dermanını da verir.',
+    note: 'Atasözü',
+    button: 'Allah\'ın izniyle başlayalım',
   },
   {
-    lead: 'Sevdiklerinin yanında olman ne güzel. Gerisini bize bırak.',
-    quote: 'Ne olursan ol, yine gel.',
-    note: 'Mevlânâ',
-    button: 'Başlayalım',
+    lead: 'Kendin ya da bir yakının için buradaysan, doğru yerdesin.',
+    quote: 'İyilik eden iyilik bulur.',
+    note: 'Atasözü',
+    button: 'İyilikle başlayalım',
   },
 ];
 

@@ -7,6 +7,7 @@ import { LayoutAnimation, RefreshControl, ScrollView, StyleSheet, Text, View, us
 import { SafeAreaProvider, useSafeAreaInsets } from 'react-native-safe-area-context';
 import { CityPicker } from './src/components/CityPicker';
 import { HeroCard } from './src/components/HeroCard';
+import { Favorites } from './src/components/Favorites';
 import { EmergencyButton, HospitalsView } from './src/components/HospitalsView';
 import { FadeIn, PressableScale, Pulse } from './src/components/motion';
 import { PharmacyRow } from './src/components/PharmacyRow';
@@ -65,7 +66,6 @@ function Home() {
     () => pharmacies.find((p) => p.id === selectedId) ?? nearest,
     [pharmacies, selectedId, nearest],
   );
-  const favoriteOnDuty = pharmacies.find((p) => prefs.favorites.includes(p.name) && p.id !== hero?.id);
 
   const select = (id: string | null) => {
     Haptics.selectionAsync().catch(() => {});
@@ -141,20 +141,15 @@ function Home() {
           onBackToNearest={() => select(null)}
         />
 
-        {favoriteOnDuty && (
-          <FadeIn delay={120}>
-            <PressableScale
-              onPress={() => select(favoriteOnDuty.id)}
-              style={[styles.favBanner, { backgroundColor: t.warmSoft }]}
-            >
-              <Ionicons name="star" size={16} color={t.warm} />
-              <Text style={[styles.favText, { color: t.text }]} numberOfLines={1}>
-                Favorin <Text style={{ fontWeight: '700' }}>{favoriteOnDuty.name}</Text> bugün nöbetçi
-              </Text>
-              <Ionicons name="chevron-forward" size={16} color={t.textMuted} />
-            </PressableScale>
-          </FadeIn>
-        )}
+        <FadeIn delay={120}>
+          <Favorites
+            names={prefs.favorites}
+            pharmacies={pharmacies}
+            heroId={hero.id}
+            onSelect={select}
+            onToggle={toggleFav}
+          />
+        </FadeIn>
 
         <FadeIn delay={160}>
           <Text style={[styles.section, { color: t.textMuted }]}>Bugün nöbetçi olanlar · {pharmacies.length}</Text>
@@ -339,7 +334,5 @@ const styles = StyleSheet.create({
   liveText: { fontSize: 13 },
   demo: { flexDirection: 'row', gap: 8, alignItems: 'center', padding: 12, borderRadius: radius.sm, marginBottom: 14 },
   demoText: { flex: 1, fontSize: 13, lineHeight: 18 },
-  favBanner: { flexDirection: 'row', alignItems: 'center', gap: 10, padding: 14, borderRadius: radius.md },
-  favText: { flex: 1, fontSize: 14 },
   section: { fontSize: 13, fontWeight: '600', letterSpacing: 0.3, marginTop: 10, marginBottom: 2, textTransform: 'uppercase' },
 });

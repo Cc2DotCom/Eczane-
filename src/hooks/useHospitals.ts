@@ -3,7 +3,10 @@ import { getHospitals, type Hospital } from '../data/hospitals';
 import type { Coords } from '../types';
 import { distanceKm } from '../utils/geo';
 
-export type HospitalWithDistance = Hospital & { id: string; distanceKm: number };
+export type HospitalWithDistance = Hospital & { id: string; distanceKm: number; dental: boolean };
+
+/** Ağız ve diş sağlığı merkezleri acil durumda işe yaramaz; ayrı bir grupta gösterilir. */
+const DENTAL = /diş hastane|diş hekim|diş sağlı|diş poliklini|diş merkez|ağız ve diş|ağız-diş|dental|\bdent/i;
 
 /** Bu yarıçapın dışındaki hastaneler listelenmez. */
 const MAX_KM = 60;
@@ -33,19 +36,27 @@ export function useHospitals(coords: Coords | null, enabled: boolean) {
   const nearby: HospitalWithDistance[] = useMemo(() => {
     if (!all || !coords) return [];
     return all
-      .map((h, i) => ({ ...h, id: `${i}-${h.name}`, distanceKm: distanceKm(coords, { latitude: h.lat, longitude: h.lng }) }))
+      .map((h, i) => ({
+        ...h,
+        id: `${i}-${h.name}`,
+        dental: DENTAL.test(h.name.toLocaleLowerCase('tr-TR')),
+        distanceKm: distanceKm(coords, { latitude: h.lat, longitude: h.lng }),
+      }))
       .filter((h) => h.distanceKm <= MAX_KM)
-      .sort((a, b) => a.distanceKm - b.distanceKm)
-      .slice(0, MAX_ITEMS);
+      .sort((a, b) => a.distanceKm - b.distanceKm);
   }, [all, coords]);
+
+  const general = useMemo(() => nearby.filter((h) => !h.dental).slice(0, MAX_ITEMS), [nearby]);
+  const emergencyOnly = useMemo(() => nearby.filter((h) => !h.dental && h.emergency).slice(0, MAX_ITEMS), [nearby]);
+  const dental = useMemo(() => nearby.filter((h) => h.dental).slice(0, MAX_ITEMS), [nearby]);
 
   // Acil serviste işaretli en yakın hastane öne çıkar; çok uzaktaysa en yakın hastane.
   const featured = useMemo(() => {
-    const nearest = nearby[0];
-    const er = nearby.find((h) => h.emergency);
+    const nearest = general[0];
+    const er = general.find((h) => h.emergency);
     if (!nearest) return undefined;
     return er && er.distanceKm <= Math.max(nearest.distanceKm * 2, nearest.distanceKm + 3) ? er : nearest;
-  }, [nearby]);
+  }, [general]);
 
-  return { nearby, featured, loading: loading || (enabled && !all && !error), error, retry: load };
+  return { general, emergencyOnly, dental, featured, loading: loading || (enabled && !all && !error), error, retry: load };
 }
