@@ -2,10 +2,10 @@ name: Nöbet listesini güncelle
 
 on:
   schedule:
-    # Türkiye saatiyle 09:05 (nöbet 08:30'da değişir). 10:05'teki ikinci çalışma
-    # yalnızca ilki başarısız olduysa API'ye gider; liste güncelse hiçbir şey yapmaz.
-    - cron: '5 6 * * *'
-    - cron: '5 7 * * *'
+    # Türkiye saatiyle 09:15 (nöbet günü 09:00'da değişir). 12:15'teki ikinci çalışma
+    # yalnızca ilkinde alınamayan illeri dener; güncel iller atlanır.
+    - cron: '15 6 * * *'
+    - cron: '15 9 * * *'
   workflow_dispatch:
     inputs:
       force:
@@ -23,24 +23,24 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - name: Nöbetçi eczaneleri çek
-        env:
-          COLLECTAPI_KEY: ${{ secrets.COLLECTAPI_KEY }}
+      - name: Nöbetçi eczaneleri e-Devlet'ten çek
         run: node scripts/update-duty.mjs ${{ inputs.force && '--force' || '' }}
       - name: Değişiklikleri kaydet
         if: always()
         run: |
           git config user.name "nobet-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add api
+          git add api data
           if git diff --cached --quiet; then
             echo "Değişiklik yok"
           else
             git commit -m "Nöbet listesi: $(date -u +%F)"
+            git pull --rebase -q origin main
             git push
           fi

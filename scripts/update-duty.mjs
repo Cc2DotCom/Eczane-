@@ -51,13 +51,19 @@ export function slug(s) {
     .replace(/[^a-z0-9]/g, '');
 }
 
+/**
+ * Kaynakta adlar bazen Türkçe karakter olmadan büyük harfle yazılmış ("DENIZ").
+ * Türkçe harf içermeyen kelimede I'yı i sayarız ki "Denız" değil "Deniz" olsun.
+ */
 export function titleCase(s) {
   return s
     .trim()
     .replace(/\s+/g, ' ')
-    .toLocaleLowerCase('tr-TR')
     .split(' ')
-    .map((w) => (w ? w[0].toLocaleUpperCase('tr-TR') + w.slice(1) : w))
+    .map((w) => {
+      const lower = /[ŞĞÜÖÇİşğüöçı]/.test(w) ? w.toLocaleLowerCase('tr-TR') : w.replace(/I/g, 'i').toLocaleLowerCase('tr-TR');
+      return lower ? lower[0].toLocaleUpperCase('tr-TR') + lower.slice(1) : lower;
+    })
     .join(' ');
 }
 
@@ -187,6 +193,8 @@ await mkdir(path.dirname(COORDS_FILE), { recursive: true });
 const coords = await readJson(COORDS_FILE, {});
 const index = [];
 const failed = [];
+let updated = 0;
+let skipped = 0;
 
 for (const [codeStr, city] of Object.entries(CITIES)) {
   const code = Number(codeStr);
@@ -197,6 +205,7 @@ for (const [codeStr, city] of Object.entries(CITIES)) {
 
   if (existing?.dutyDay === today && !FORCE) {
     index.push(entry(existing));
+    skipped++;
     continue;
   }
   try {
@@ -204,6 +213,7 @@ for (const [codeStr, city] of Object.entries(CITIES)) {
     const data = { city, code, dutyDay: today, updatedAt: new Date().toISOString(), source: 'e-Devlet TİTCK', pharmacies: rows };
     await writeFile(file, JSON.stringify(data, null, 1) + '\n');
     index.push(entry(data));
+    updated++;
     const noLoc = rows.filter((p) => p.lat == null).length;
     console.log(`${city}: ${rows.length} eczane, ${fetched} yeni konum${noLoc ? `, ${noLoc} konumsuz` : ''}`);
   } catch (e) {
@@ -221,6 +231,6 @@ if (!ONLY) {
     JSON.stringify({ generatedAt: new Date().toISOString(), source: 'e-Devlet TİTCK', cities: index }, null, 1) + '\n',
   );
 }
-console.log(`\nTamamlandı: ${index.length - failed.length} il güncel${failed.length ? `, başarısız: ${failed.join(', ')}` : ''}`);
-// Birkaç il başarısız olsa da diğerleri kaydedilsin; hepsi başarısızsa görev kırmızı olsun.
-if (failed.length && failed.length >= index.length) process.exit(1);
+console.log(`\nTamamlandı: ${updated} il güncellendi, ${skipped} il zaten günceldi${failed.length ? `, başarısız: ${failed.join(', ')}` : ''}`);
+// Birkaç il başarısız olsa da diğerleri kaydedilsin; hiçbiri güncellenemediyse görev kırmızı olsun.
+if (failed.length && updated === 0) process.exit(1);
