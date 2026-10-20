@@ -200,7 +200,13 @@ function Home() {
           <View style={styles.liveRow}>
             <Pulse color={t.primary} />
             <Text style={[styles.liveText, { color: t.textMuted }]}>
-              {fetchedAt ? `Güncellendi ${relativeTime(fetchedAt)}` : 'Güncelleniyor'}
+              {fetchedAt
+                ? `Güncellendi ${relativeTime(fetchedAt)}`
+                : !area && location.status === 'loading'
+                  ? 'Konumun bulunuyor'
+                  : loading
+                    ? 'Liste getiriliyor'
+                    : 'Resmi kaynak: e-Devlet'}
               {source === 'demo' || usingDemoData ? ' · demo veri' : ''}
             </Text>
           </View>
