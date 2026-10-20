@@ -34,10 +34,6 @@ export function setThemeName(theme: ThemeName) {
   update({ theme });
 }
 
-export function showWelcome() {
-  update({ welcomeVisible: true });
-}
-
 export function hideWelcome() {
   AsyncStorage.setItem(KEYS.welcome, '1').catch(() => {});
   update({ welcomeVisible: false });

@@ -1,7 +1,7 @@
 import { Ionicons } from '@expo/vector-icons';
 import * as Haptics from 'expo-haptics';
 import { LinearGradient } from 'expo-linear-gradient';
-import { useEffect, useRef, useState } from 'react';
+import { useRef, useState } from 'react';
 import { Animated, Easing, StyleSheet, View } from 'react-native';
 import { Text } from './Text';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
@@ -54,17 +54,7 @@ export function Welcome() {
   const insets = useSafeAreaInsets();
   const visible = useWelcomeVisible();
   const fade = useRef(new Animated.Value(1)).current;
-  const [g, setG] = useState(() => GREETINGS[Math.floor(Math.random() * GREETINGS.length)]);
-
-  // Ayarlardan yeniden açıldığında görünür ol ve başka bir söz seç.
-  useEffect(() => {
-    if (!visible) return;
-    fade.setValue(1);
-    setG((prev) => {
-      const rest = GREETINGS.filter((x) => x !== prev);
-      return rest[Math.floor(Math.random() * rest.length)];
-    });
-  }, [visible, fade]);
+  const [g] = useState(() => GREETINGS[Math.floor(Math.random() * GREETINGS.length)]);
 
   const start = () => {
     Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Light).catch(() => {});
