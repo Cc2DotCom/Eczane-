@@ -45,4 +45,8 @@ jobs:
             git commit -m "Nöbet listesi: $(date -u +%F)"
             git pull --rebase -q origin main
             git push
+            # Yedek adres (jsDelivr) önbelleğini tazele ki uygulama oradan da güncel listeyi alsın.
+            for f in api/index.json api/duty/*.json; do
+              curl -s -o /dev/null "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/$f" || true
+            done
           fi

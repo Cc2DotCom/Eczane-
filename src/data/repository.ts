@@ -9,6 +9,10 @@ import { demoPharmacies } from './demo';
  * e-Devlet'teki TİTCK hizmetinden okunup api/duty/<il>.json dosyalarına yazılır; uygulama yalnızca bu dosyaları okur.
  */
 const DATA_URL = process.env.EXPO_PUBLIC_DATA_URL ?? 'https://raw.githubusercontent.com/Cc2DotCom/Eczane-/main/api';
+/** raw.githubusercontent.com bazı ağlarda yavaş ya da erişilemez; aynı dosyalar jsDelivr CDN'inden de sunulur. */
+const MIRROR_URL = 'https://cdn.jsdelivr.net/gh/Cc2DotCom/Eczane-@main/api';
+/** Bir kaynak bu sürede yanıt vermezse diğerine geçilir; kullanıcı asla sonsuza kadar beklemez. */
+const TIMEOUT_MS = 7000;
 const DEMO = process.env.EXPO_PUBLIC_DEMO === '1';
 /** Aynı nöbet günü içinde bu süreden yeni önbellek tekrar indirilmez. */
 const FRESH_MS = 10 * 60 * 1000;
@@ -59,6 +63,35 @@ function byDistrict(list: Pharmacy[], district?: string) {
   return hit.length ? hit : list;
 }
 
+async function fetchJson(url: string): Promise<{ status: number; json?: unknown }> {
+  const ctrl = new AbortController();
+  const timer = setTimeout(() => ctrl.abort(), TIMEOUT_MS);
+  try {
+    const res = await fetch(url, { signal: ctrl.signal });
+    if (!res.ok) return { status: res.status };
+    return { status: res.status, json: await res.json() };
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
+async function downloadCityFile(slug: string, city: string, today: string): Promise<RemoteFile> {
+  let lastError: unknown;
+  for (const base of [DATA_URL, MIRROR_URL]) {
+    try {
+      const r = await fetchJson(`${base}/duty/${slug}.json?d=${today}`);
+      if (r.status === 404) throw new CityNotCoveredError(city);
+      if (r.json) return r.json as RemoteFile;
+      lastError = new Error(`Liste alınamadı (${r.status})`);
+    } catch (e) {
+      if (e instanceof CityNotCoveredError) throw e;
+      lastError = e;
+    }
+  }
+  console.warn('Nöbet listesi indirilemedi', lastError);
+  throw new Error('Listeye şu an ulaşılamıyor. İnternet bağlantını kontrol edip tekrar dene.');
+}
+
 export async function getDutyPharmacies(
   area: Area,
   center: Coords | null,
@@ -88,10 +121,7 @@ export async function getDutyPharmacies(
   }
 
   try {
-    const res = await fetch(`${DATA_URL}/duty/${slug}.json?d=${today}`);
-    if (res.status === 404) throw new CityNotCoveredError(area.city);
-    if (!res.ok) throw new Error(`Liste alınamadı (${res.status})`);
-    const entry = { file: (await res.json()) as RemoteFile, fetchedAt: Date.now() };
+    const entry = { file: await downloadCityFile(slug, area.city, today), fetchedAt: Date.now() };
     if (entry.file.unavailable) throw new CityNotCoveredError(area.city);
     AsyncStorage.setItem(key, JSON.stringify(entry)).catch(() => {});
     return build(entry);

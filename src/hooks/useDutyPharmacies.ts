@@ -14,28 +14,35 @@ export function useDutyPharmacies(area: Area | null, coords: Coords | null) {
   const [error, setError] = useState<string | null>(null);
   const [notCovered, setNotCovered] = useState(false);
   const dayRef = useRef(dutyDayKey());
+  // İl hızlıca değiştirilirse geç gelen eski yanıt yenisinin üzerine yazmasın.
+  const reqRef = useRef(0);
   const areaKey = area ? `${area.city}|${area.district ?? ''}` : '';
 
   const load = useCallback(
     async (mode: 'initial' | 'pull' | 'silent' = 'initial') => {
       if (!area) return;
+      const req = ++reqRef.current;
       if (mode === 'initial') setLoading(true);
       if (mode === 'pull') setRefreshing(true);
       try {
         const r = await getDutyPharmacies(area, coords, { force: mode === 'pull' });
+        if (req !== reqRef.current) return;
         setResult(r);
         setError(null);
         setNotCovered(false);
         dayRef.current = dutyDayKey();
       } catch (e) {
+        if (req !== reqRef.current) return;
         if (e instanceof CityNotCoveredError) {
           setResult(null);
           setNotCovered(true);
         }
         setError(e instanceof Error ? e.message : 'Bir şeyler ters gitti');
       } finally {
-        setLoading(false);
-        setRefreshing(false);
+        if (req === reqRef.current) {
+          setLoading(false);
+          setRefreshing(false);
+        }
       }
     },
     // coords yalnızca demo verisi için merkez; her küçük konum değişiminde yeniden indirmeyelim.
