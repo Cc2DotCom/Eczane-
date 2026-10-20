@@ -170,6 +170,36 @@ async function fetchCity(code, cityName, coords) {
   return { rows, fetched };
 }
 
+/**
+ * Oda sitesi konum vermiyorsa eczaneyi adıyla OpenStreetMap'te ararız (yalnızca "eczane" türündeki sonuç kabul).
+ * Bulunan konumlar coords.json'da saklanır; Nominatim kuralı gereği saniyede en fazla bir istek.
+ */
+async function geocodeMissing(code, city, rows, coords) {
+  let n = 0;
+  for (const r of rows) {
+    if (r.lat != null) continue;
+    const key = `${code}|${slug(r.name)}|${slug(r.address)}`;
+    if (coords[key] === undefined) {
+      await sleep(1100);
+      try {
+        const q = new URLSearchParams({ format: 'jsonv2', countrycodes: 'tr', limit: '3', q: `${r.name}, ${city}` });
+        const res = await fetch(`https://nominatim.openstreetmap.org/search?${q}`, {
+          headers: { 'user-agent': 'NobetciEczane/1.0 (+https://github.com/Cc2DotCom/Eczane-)' },
+        });
+        const hit = (await res.json()).find((x) => x.type === 'pharmacy');
+        // Bulunamayanı da (null) kaydederiz ki her çalışmada yeniden sorulmasın.
+        coords[key] = hit ? { lat: Number(hit.lat), lng: Number(hit.lon) } : null;
+        n++;
+      } catch (e) {
+        console.warn(`  ${r.name}: konum aranamadı (${e.message})`);
+      }
+    }
+    r.lat = coords[key]?.lat ?? null;
+    r.lng = coords[key]?.lng ?? null;
+  }
+  return n;
+}
+
 async function readJson(file, fallback = null) {
   try {
     return JSON.parse(await readFile(file, 'utf8'));
@@ -210,6 +240,7 @@ for (const [codeStr, city] of Object.entries(CITIES)) {
         const ch = await fetchChamber(code);
         if (ch?.rows.length) {
           rows = data.pharmacies = ch.rows;
+          fetched = await geocodeMissing(code, city, rows, coords);
           data.source = ch.source;
           data.sourceUrl = ch.sourceUrl;
           console.log(`  ${city}: ${ch.source} sitesinden alındı`);

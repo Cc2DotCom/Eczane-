@@ -50,6 +50,12 @@ export const CHAMBERS = [
     parse: parseTable,
     route: (r) => (/^kilis/.test(slug(r.rawDistrict)) ? 79 : 27),
   },
+  {
+    cities: [40],
+    name: 'Aksaray-Kırşehir Eczacı Odası',
+    url: 'https://www.aksarayeo.org.tr/nobetci-eczaneler',
+    route: (r) => (r.province === 'kirsehir' ? 40 : 68),
+  },
   { cities: [9], name: 'Aydın Eczacı Odası', url: 'https://www.aydineczaciodasi.org.tr/mobil/', fetch: fetchAydin },
 ];
 
@@ -100,20 +106,26 @@ function sectionDistrict(heading) {
 /** Kart düzenindeki sayfalar (Edirne, Kayseri, Van, Batman, Eskişehir…). */
 export function parseCards(html) {
   html = html.replace(/<script[\s\S]*?<\/script>/gi, '');
-  const parts = html.split(/(?=<h[1-4][\s>])/i);
+  const parts = html.split(/(?=<h[1-5][\s>])/i);
   const rows = [];
   let section = null;
+  let sectionProvince = null;
   for (const part of parts) {
-    const head = part.match(/^<h([1-4])[^>]*>([\s\S]*?)<\/h\1>/i);
+    const head = part.match(/^<h([1-5])[^>]*>([\s\S]*?)<\/h\1>/i);
     if (!head) continue;
     const strong = head[2].match(/<strong>([\s\S]*?)<\/strong>/i);
     const body = part.slice(head[0].length);
-    const hasDetails = /tel:|fa-home|icon-home/.test(body.split(/<h[1-4][\s>]/i)[0]);
+    const hasDetails = /tel:|fa-home|icon-home/.test(body.split(/<h[1-5][\s>]/i)[0]);
     // Bazı sitelerde ad iki kez yazılıyor (mobil/masaüstü); ayrıntısı olmayan kopya atlanır.
-    if (strong && /eczane/i.test(strong[1]) && !hasDetails) continue;
+    if (strong && /eczane/i.test(strong[1]) && !/nöbetç/i.test(decode(strong[1])) && !hasDetails) continue;
     if (!strong || !hasDetails) {
       const sd = sectionDistrict(head[2]);
-      if (sd !== null || /nöbetçi/i.test(decode(head[2]))) section = sd;
+      if (sd !== null || /nöbetç/i.test(decode(head[2]))) {
+        // Aksaray: "MERKEZ/KIRŞEHİR" başlığından sonraki ilçeler de o ile ait.
+        const [d, prov] = (sd ?? '').split('/').map((x) => x.trim());
+        section = d || null;
+        if (prov) sectionProvince = slug(prov);
+      }
       continue;
     }
     // Van: <strong>AD<br><small>İLÇE</small></strong>
@@ -130,7 +142,7 @@ export function parseCards(html) {
     if (!rawName) continue;
     rows.push({
       rawDistrict,
-      province: province ? slug(province) : null,
+      province: province ? slug(province) : sectionProvince,
       district: cleanDistrict(rawDistrict) || 'Merkez',
       name: pharmacyName(rawName),
       address,
