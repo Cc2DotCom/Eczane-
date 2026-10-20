@@ -22,4 +22,6 @@ export type DutyResult = {
   fetchedAt: number;
   /** Listenin ait olduğu nöbet günü (YYYY-AA-GG). */
   dutyDay: string;
+  /** İnternete ulaşılamadı, telefonda kayıtlı son liste gösteriliyor. */
+  offline?: boolean;
 };

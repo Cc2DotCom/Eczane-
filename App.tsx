@@ -3,7 +3,8 @@ import * as Haptics from 'expo-haptics';
 import { LinearGradient } from 'expo-linear-gradient';
 import { StatusBar } from 'expo-status-bar';
 import { useEffect, useMemo, useRef, useState } from 'react';
-import { LayoutAnimation, RefreshControl, ScrollView, StyleSheet, Text, View, useColorScheme } from 'react-native';
+import { LayoutAnimation, RefreshControl, ScrollView, StyleSheet, View, useColorScheme } from 'react-native';
+import { Text } from './src/components/Text';
 import { SafeAreaProvider, useSafeAreaInsets } from 'react-native-safe-area-context';
 import { CityPicker } from './src/components/CityPicker';
 import { HeroCard } from './src/components/HeroCard';
@@ -15,7 +16,9 @@ import { MapPanel } from './src/components/MapPanel';
 import { LoadingSkeleton, Message } from './src/components/States';
 import { ViewToggle } from './src/components/ViewToggle';
 import { Welcome } from './src/components/Welcome';
+import { getHospitals } from './src/data/hospitals';
 import { usingDemoData } from './src/data/repository';
+import { setLargeText, useLargeText } from './src/state/settings';
 import { useDutyPharmacies } from './src/hooks/useDutyPharmacies';
 import { usePreferences } from './src/hooks/usePreferences';
 import { useUserLocation } from './src/hooks/useUserLocation';
@@ -42,7 +45,7 @@ function Home() {
   const coords = location.status === 'ready' ? location.coords : null;
   const area = prefs.manualArea ?? (location.status === 'ready' ? location.area : null);
 
-  const { pharmacies, source, fetchedAt, stale, notCovered, loading, refreshing, error, refresh } = useDutyPharmacies(
+  const { pharmacies, source, fetchedAt, stale, offline, notCovered, loading, refreshing, error, refresh } = useDutyPharmacies(
     prefs.ready ? area : null,
     coords,
   );
@@ -51,6 +54,13 @@ function Home() {
   const [pickerOpen, setPickerOpen] = useState(false);
   const [tab, setTab] = useState<'eczane' | 'hastane'>('eczane');
   const [view, setView] = useState<'liste' | 'harita'>('liste');
+  const largeText = useLargeText();
+
+  // Hastane listesini arkada bir kez indirip saklayalım; internet kesilse de Hastaneler sekmesi çalışsın.
+  useEffect(() => {
+    const id = setTimeout(() => getHospitals().catch(() => {}), 4000);
+    return () => clearTimeout(id);
+  }, []);
   const [, forceTick] = useState(0);
 
   // "x dk önce" yazısı canlı kalsın.
@@ -156,7 +166,7 @@ function Home() {
 
         <FadeIn delay={160}>
           <View style={styles.sectionRow}>
-            <Text style={[styles.section, { color: t.textMuted, flex: 1, marginTop: 0 }]}>Bugün nöbetçi olanlar · {pharmacies.length}</Text>
+            <Text style={[styles.section, { color: t.textMuted, flex: 1, marginTop: 0 }]}>Bugün nöbetçi · {pharmacies.length}</Text>
             <ViewToggle value={view} onChange={setView} />
           </View>
         </FadeIn>
@@ -218,6 +228,21 @@ function Home() {
               <Text style={[styles.title, { color: t.text }]}>{greeting()}</Text>
             </View>
             <PressableScale
+              onPress={() => {
+                Haptics.selectionAsync().catch(() => {});
+                setLargeText(!largeText);
+              }}
+              accessibilityRole="switch"
+              accessibilityState={{ checked: largeText }}
+              accessibilityLabel="Büyük yazı"
+              style={[
+                styles.aaBtn,
+                { backgroundColor: largeText ? t.primary : t.card, borderColor: largeText ? t.primary : t.border },
+              ]}
+            >
+              <Text style={[styles.aaText, { color: largeText ? t.onPrimary : t.text }]}>Aa</Text>
+            </PressableScale>
+            <PressableScale
               onPress={() => setPickerOpen(true)}
               style={[styles.areaChip, { backgroundColor: t.card, borderColor: t.border }]}
             >
@@ -278,6 +303,16 @@ function Home() {
           </View>
         </FadeIn>
 
+        {!isHospital && offline && (
+          <View style={[styles.demo, { backgroundColor: t.warmSoft }]}>
+            <Ionicons name="cloud-offline-outline" size={18} color={t.warm} />
+            <Text style={[styles.demoText, { color: t.text }]}>
+              İnternete şu an ulaşamıyoruz. Telefonunda kayıtlı son liste gösteriliyor
+              {fetchedAt ? ` (${relativeTime(fetchedAt)} indirildi)` : ''}.
+            </Text>
+          </View>
+        )}
+
         {!isHospital && stale && (
           <View style={[styles.demo, { backgroundColor: t.warmSoft }]}>
             <Ionicons name="time-outline" size={18} color={t.warm} />
@@ -333,7 +368,7 @@ function Home() {
 const styles = StyleSheet.create({
   root: { flex: 1 },
   scroll: { paddingHorizontal: 20 },
-  header: { flexDirection: 'row', alignItems: 'flex-end', gap: 12 },
+  header: { flexDirection: 'row', alignItems: 'flex-end', gap: 8 },
   date: { fontSize: 14, textTransform: 'capitalize' },
   title: { fontSize: 30, fontWeight: '800', letterSpacing: -0.6, marginTop: 2 },
   subtitle: { fontSize: 17, lineHeight: 24, marginTop: 10 },
@@ -348,6 +383,8 @@ const styles = StyleSheet.create({
     borderRadius: 99,
     borderWidth: 1,
   },
+  aaBtn: { width: 36, height: 36, borderRadius: 18, borderWidth: 1, alignItems: 'center', justifyContent: 'center' },
+  aaText: { fontSize: 14, fontWeight: '800' },
   areaText: { fontSize: 13, fontWeight: '600', flexShrink: 1 },
   liveRow: { flexDirection: 'row', alignItems: 'center', gap: 8, marginTop: 8, marginBottom: 16 },
   tabs: { flexDirection: 'row', padding: 4, borderRadius: 99, marginBottom: 18 },

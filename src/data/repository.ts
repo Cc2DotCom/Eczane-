@@ -172,7 +172,7 @@ export async function getDutyPharmacies(
     return build(entry);
   } catch (e) {
     // İnternet yoksa elimizdeki son listeyi gösteririz; eskiyse arayüz uyarır.
-    if (cached && !(e instanceof CityNotCoveredError)) return build(cached);
+    if (cached && !(e instanceof CityNotCoveredError)) return { ...build(cached), offline: true };
     throw e;
   }
 }

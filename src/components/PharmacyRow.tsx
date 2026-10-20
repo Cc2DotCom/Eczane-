@@ -1,5 +1,6 @@
 import { Ionicons } from '@expo/vector-icons';
-import { StyleSheet, Text, View } from 'react-native';
+import { StyleSheet, View } from 'react-native';
+import { Text } from './Text';
 import { radius, useTheme } from '../theme';
 import type { PharmacyWithDistance } from '../types';
 import { formatDistance } from '../utils/geo';

@@ -2,13 +2,15 @@ import { Ionicons } from '@expo/vector-icons';
 import * as Haptics from 'expo-haptics';
 import { LinearGradient } from 'expo-linear-gradient';
 import { useState } from 'react';
-import { Linking, StyleSheet, Text, View } from 'react-native';
+import { Linking, StyleSheet, View } from 'react-native';
+import { Text } from './Text';
 import { type HospitalWithDistance, useHospitals } from '../hooks/useHospitals';
 import { radius, useTheme } from '../theme';
 import type { Coords, Pharmacy } from '../types';
 import { callPharmacy, openDirections, sharePlace } from '../utils/actions';
 import { formatDistance, travelHint } from '../utils/geo';
 import { FadeIn, PressableScale } from './motion';
+import { EmergencyCardButton } from './EmergencyCard';
 import { MapPanel } from './MapPanel';
 import { LoadingSkeleton, Message } from './States';
 import { ViewToggle } from './ViewToggle';
@@ -263,6 +265,7 @@ export function HospitalsView({ coords, locating, onPicked }: { coords: Coords |
   return (
     <View style={{ gap: 14 }}>
       <EmergencyButton />
+      <EmergencyCardButton />
       {body}
     </View>
   );
