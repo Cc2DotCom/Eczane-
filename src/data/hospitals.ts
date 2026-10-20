@@ -1,5 +1,5 @@
 import AsyncStorage from '@react-native-async-storage/async-storage';
-import { DATA_URL, fetchJson, MIRROR_URL } from './repository';
+import { fetchFromSources } from './repository';
 
 /**
  * Hastaneler, repodaki haftalık görev (scripts/update-hospitals.mjs) tarafından
@@ -26,15 +26,12 @@ export async function getHospitals(): Promise<Hospital[]> {
     .catch(() => null);
   if (cached && Date.now() - cached.fetchedAt < FRESH_MS) return cached.hospitals;
 
-  for (const base of [DATA_URL, MIRROR_URL]) {
-    try {
-      const r = await fetchJson(`${base}/hospitals.json`);
-      const list = (r.json as { hospitals?: Hospital[] } | undefined)?.hospitals;
-      if (list?.length) {
-        AsyncStorage.setItem(KEY, JSON.stringify({ hospitals: list, fetchedAt: Date.now() })).catch(() => {});
-        return list;
-      }
-    } catch {}
+  const list = await fetchFromSources('/hospitals.json', (j) => !!(j as { hospitals?: Hospital[] })?.hospitals?.length)
+    .then((r) => (r.json as { hospitals?: Hospital[] } | undefined)?.hospitals)
+    .catch(() => undefined);
+  if (list?.length) {
+    AsyncStorage.setItem(KEY, JSON.stringify({ hospitals: list, fetchedAt: Date.now() })).catch(() => {});
+    return list;
   }
   if (cached) return cached.hospitals;
   throw new Error('Hastane listesine şu an ulaşılamıyor. İnternet bağlantını kontrol edip tekrar dene.');

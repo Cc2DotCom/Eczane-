@@ -9,10 +9,20 @@ import { demoPharmacies } from './demo';
  * e-Devlet'teki TİTCK hizmetinden okunup api/duty/<il>.json dosyalarına yazılır; uygulama yalnızca bu dosyaları okur.
  */
 export const DATA_URL = process.env.EXPO_PUBLIC_DATA_URL ?? 'https://raw.githubusercontent.com/Cc2DotCom/Eczane-/main/api';
-/** raw.githubusercontent.com bazı ağlarda yavaş ya da erişilemez; aynı dosyalar jsDelivr CDN'inden de sunulur. */
-export const MIRROR_URL = 'https://cdn.jsdelivr.net/gh/Cc2DotCom/Eczane-@main/api';
-/** Bir kaynak bu sürede yanıt vermezse diğerine geçilir; kullanıcı asla sonsuza kadar beklemez. */
-const TIMEOUT_MS = 7000;
+const REPO = 'Cc2DotCom/Eczane-';
+/**
+ * Aynı dosyalar birkaç farklı adresten sunulur. Bazı internet sağlayıcıları ya da ağlar bunlardan
+ * birine ulaşamayabiliyor; hepsine aynı anda sorulur, ilk gelen güncel yanıt kullanılır.
+ */
+const SOURCES: { base: string; headers?: Record<string, string> }[] = [
+  { base: DATA_URL },
+  { base: `https://cdn.jsdelivr.net/gh/${REPO}@main/api` },
+  { base: `https://api.github.com/repos/${REPO}/contents/api`, headers: { Accept: 'application/vnd.github.raw+json' } },
+  { base: `https://cdn.statically.io/gh/${REPO}/main/api` },
+  { base: `https://raw.githack.com/${REPO}/main/api` },
+];
+/** Hiçbir kaynak bu sürede yanıt vermezse kullanıcıya hata gösterilir; asla sonsuza kadar beklenmez. */
+const TIMEOUT_MS = 15000;
 const DEMO = process.env.EXPO_PUBLIC_DEMO === '1';
 /** Aynı nöbet günü içinde bu süreden yeni önbellek tekrar indirilmez. */
 const FRESH_MS = 10 * 60 * 1000;
@@ -63,33 +73,68 @@ function byDistrict(list: Pharmacy[], district?: string) {
   return hit.length ? hit : list;
 }
 
-export async function fetchJson(url: string): Promise<{ status: number; json?: unknown }> {
-  const ctrl = new AbortController();
-  const timer = setTimeout(() => ctrl.abort(), TIMEOUT_MS);
-  try {
-    const res = await fetch(url, { signal: ctrl.signal });
-    if (!res.ok) return { status: res.status };
-    return { status: res.status, json: await res.json() };
-  } finally {
-    clearTimeout(timer);
-  }
+async function fetchJson(url: string, headers: Record<string, string> | undefined, signal: AbortSignal) {
+  const res = await fetch(url, { headers, signal });
+  if (!res.ok) return { status: res.status };
+  return { status: res.status, json: (await res.json()) as unknown };
+}
+
+/**
+ * Dosyayı tüm kaynaklardan aynı anda ister. `isFresh` doğru dönen ilk yanıt hemen kullanılır;
+ * hiçbiri güncel değilse eldeki en iyi yanıt döner. Hiçbiri yoksa 404 (dosya yok) ya da hata.
+ */
+export function fetchFromSources(path: string, isFresh: (json: unknown) => boolean = () => true) {
+  return new Promise<{ status: number; json?: unknown }>((resolve, reject) => {
+    const ctrl = new AbortController();
+    let pending = SOURCES.length;
+    let fallback: unknown;
+    let notFound = false;
+    let done = false;
+    const finish = (r: { status: number; json?: unknown } | Error) => {
+      if (done) return;
+      done = true;
+      clearTimeout(timer);
+      ctrl.abort();
+      if (r instanceof Error) reject(r);
+      else resolve(r);
+    };
+    const settle = () => {
+      if (--pending > 0) return;
+      if (fallback !== undefined) finish({ status: 200, json: fallback });
+      else if (notFound) finish({ status: 404 });
+      else finish(new Error('Hiçbir kaynağa ulaşılamadı'));
+    };
+    const timer = setTimeout(() => {
+      if (fallback !== undefined) finish({ status: 200, json: fallback });
+      else finish(new Error('Kaynaklar zamanında yanıt vermedi'));
+    }, TIMEOUT_MS);
+
+    for (const src of SOURCES) {
+      fetchJson(`${src.base}${path}`, src.headers, ctrl.signal)
+        .then((r) => {
+          if (r.json !== undefined) {
+            if (isFresh(r.json)) return finish({ status: 200, json: r.json });
+            fallback ??= r.json;
+          } else if (r.status === 404 && src.base === DATA_URL) {
+            notFound = true;
+          }
+        })
+        .catch(() => {})
+        .finally(settle);
+    }
+  });
 }
 
 async function downloadCityFile(slug: string, city: string, today: string): Promise<RemoteFile> {
-  let lastError: unknown;
-  for (const base of [DATA_URL, MIRROR_URL]) {
-    try {
-      const r = await fetchJson(`${base}/duty/${slug}.json?d=${today}`);
-      if (r.status === 404) throw new CityNotCoveredError(city);
-      if (r.json) return r.json as RemoteFile;
-      lastError = new Error(`Liste alınamadı (${r.status})`);
-    } catch (e) {
-      if (e instanceof CityNotCoveredError) throw e;
-      lastError = e;
-    }
+  try {
+    const r = await fetchFromSources(`/duty/${slug}.json`, (j) => (j as RemoteFile)?.dutyDay === today);
+    if (r.status === 404) throw new CityNotCoveredError(city);
+    return r.json as RemoteFile;
+  } catch (e) {
+    if (e instanceof CityNotCoveredError) throw e;
+    console.warn('Nöbet listesi indirilemedi', e);
+    throw new Error('Listeye şu an ulaşılamıyor. İnternet bağlantını kontrol edip tekrar dene.');
   }
-  console.warn('Nöbet listesi indirilemedi', lastError);
-  throw new Error('Listeye şu an ulaşılamıyor. İnternet bağlantını kontrol edip tekrar dene.');
 }
 
 export async function getDutyPharmacies(
