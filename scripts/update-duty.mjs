@@ -174,6 +174,8 @@ async function fetchCity(code, cityName, coords) {
  * Oda sitesi konum vermiyorsa eczaneyi adıyla OpenStreetMap'te ararız (yalnızca "eczane" türündeki sonuç kabul).
  * Bulunan konumlar coords.json'da saklanır; Nominatim kuralı gereği saniyede en fazla bir istek.
  */
+const STOP = new Set(['mahallesi', 'caddesi', 'cadde', 'sokak', 'sokagi', 'karsisi', 'yani', 'bitisigi', 'devlet', 'hastanesi', 'hastane', 'merkez', 'bulvari', 'eczanesi']);
+
 async function geocodeMissing(code, city, rows, coords) {
   let n = 0;
   for (const r of rows) {
@@ -186,7 +188,15 @@ async function geocodeMissing(code, city, rows, coords) {
         const res = await fetch(`https://nominatim.openstreetmap.org/search?${q}`, {
           headers: { 'user-agent': 'NobetciEczane/1.0 (+https://github.com/Cc2DotCom/Eczane-)' },
         });
-        const hit = (await res.json()).find((x) => x.type === 'pharmacy');
+        // Aynı adlı birden çok eczane çıkarsa hangisi olduğunu bilemeyiz; yanlış yere yönlendirmektense konumsuz bırakırız.
+        // Ayrıca bulunan yerin adresinde, kaynaktaki adresten en az bir ayırt edici kelime (mahalle, cadde…) geçmeli.
+        const words = r.address
+          .toLocaleLowerCase('tr-TR')
+          .split(/[^a-zçğıöşü]+/)
+          .map(slug)
+          .filter((w) => w.length >= 5 && !STOP.has(w) && w !== slug(city) && w !== slug(r.district));
+        const hits = (await res.json()).filter((x) => x.type === 'pharmacy' && words.some((w) => slug(x.display_name).includes(w)));
+        const hit = hits.length === 1 ? hits[0] : null;
         // Bulunamayanı da (null) kaydederiz ki her çalışmada yeniden sorulmasın.
         coords[key] = hit ? { lat: Number(hit.lat), lng: Number(hit.lon) } : null;
         n++;
