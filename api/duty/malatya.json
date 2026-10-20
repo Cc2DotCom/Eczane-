@@ -2,7 +2,7 @@
  "city": "Malatya",
  "code": 44,
  "dutyDay": "2026-10-20",
- "updatedAt": "2026-10-20T20:29:33.029Z",
+ "updatedAt": "2026-10-20T20:35:36.560Z",
  "source": "Malatya Eczacı Odası",
  "pharmacies": [
   {
@@ -24,8 +24,8 @@
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": null,
-   "lng": null
+   "lat": 38.3418652,
+   "lng": 38.3111
   },
   {
    "district": "Merkez",
@@ -35,8 +35,8 @@
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": null,
-   "lng": null
+   "lat": 38.349238,
+   "lng": 38.3218274
   },
   {
    "district": "Merkez",
@@ -46,8 +46,8 @@
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": null,
-   "lng": null
+   "lat": 38.3677204,
+   "lng": 38.2518942
   },
   {
    "district": "Battalgazi",
@@ -57,8 +57,8 @@
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": null,
-   "lng": null
+   "lat": 38.4251199,
+   "lng": 38.3668399
   }
  ],
  "sourceUrl": "https://www.malatyaeczaciodasi.org.tr/nobetci-eczaneler"

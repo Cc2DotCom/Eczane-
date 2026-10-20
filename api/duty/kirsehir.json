@@ -2,9 +2,53 @@
  "city": "Kırşehir",
  "code": 40,
  "dutyDay": "2026-10-20",
- "updatedAt": "2026-10-20T20:03:20.404Z",
- "source": "e-Devlet TİTCK",
- "pharmacies": [],
- "unavailable": true,
- "note": "class=\"warningContainer\">Seçilen zaman aralığı için nöbetçi eczane bulunamadı. Sayfa Sonu Bağlantıları e-Devlet Kapısı English Hak"
+ "updatedAt": "2026-10-20T20:35:31.625Z",
+ "source": "Aksaray-Kırşehir Eczacı Odası",
+ "pharmacies": [
+  {
+   "district": "Merkez",
+   "name": "Safir Eczanesi",
+   "address": "yurt içi kargo karşısı MEDRESE MAH.METİN ÇOBANOĞLU CAD.ADALI APT.NO:21/9",
+   "phone": "03862130003",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 39.142408,
+   "lng": 34.164773
+  },
+  {
+   "district": "Merkez",
+   "name": "Melisa Eczanesi",
+   "address": "işkurun bir alt sokağı Medrese Mah. 61 Sokak NO:7/6",
+   "phone": "03862144140",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 39.146085,
+   "lng": 34.168697
+  },
+  {
+   "district": "Kaman",
+   "name": "Defne Eczanesi",
+   "address": "Sarıuşağı Mah. Turgut Aslan Cad. 233.Sokak No:28",
+   "phone": "03867128208",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 39.356283,
+   "lng": 33.726513
+  },
+  {
+   "district": "Mucur",
+   "name": "Hendek Eczanesi",
+   "address": "YENİCE MAH.ENVERPAŞA CAD.NO:29",
+   "phone": "03868122223",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 39.064625,
+   "lng": 34.376816
+  }
+ ],
+ "sourceUrl": "https://www.aksarayeo.org.tr/nobetci-eczaneler"
 }
