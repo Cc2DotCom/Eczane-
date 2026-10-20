@@ -13,7 +13,8 @@ Uygulama nöbet listesini bu reponun `api/duty/<il>.json` dosyalarından okur. L
 
 ## Nöbet listesi nereden geliyor (ücretsiz, anahtarsız)
 
-Veri, Sağlık Bakanlığı'nın resmi hizmetinden gelir: e-Devlet'teki **TİTCK Nöbetçi Eczane Sorgulama** (giriş gerektirmez). `.github/workflows/update-duty.yml` her sabah Türkiye saatiyle 09:15'te çalışır ve `scripts/update-duty.mjs` ile 81 ilin o günkü nöbetçi eczanelerini adres, telefon, nöbet saatleri ve konumlarıyla birlikte `api/duty/<il>.json` dosyalarına yazar. 12:15'teki ikinci çalışma yalnızca alınamayan illeri tekrar dener.
+Veri, Sağlık Bakanlığı'nın resmi hizmetinden gelir: e-Devlet'teki **TİTCK Nöbetçi Eczane Sorgulama** (giriş gerektirmez). `.github/workflows/update-duty.yml` her sabah Türkiye saatiyle 09:15'te çalışır ve `scripts/update-duty.mjs` ile 81 ilin o günkü nöbetçi eczanelerini adres, telefon, nöbet saatleri ve konumlarıyla birlikte `api/duty/<il>.json` dosyalarına yazar. Gün içinde 12:15, 16:15 ve 19:15'te yalnızca alınamayan ya da listesi henüz girilmemiş iller tekrar denenir.
+- Bazı illerin listesi resmi kaynağa geç giriliyor ya da hiç girilmiyor; bu iller `unavailable: true` olarak işaretlenir ve uygulama "liste yok" ekranı gösterir.
 
 - Eczane konumları hizmetin "Haritada Göster" sayfasından alınır ve `data/coords.json`'da saklanır; her eczanenin konumu yalnızca ilk görüldüğünde çekilir, böylece resmi sunucuya her gün binlerce istek atılmaz.
 - Elle çalıştırmak için: **Actions → Nöbet listesini güncelle → Run workflow**.

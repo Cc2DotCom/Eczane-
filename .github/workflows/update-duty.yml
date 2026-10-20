@@ -2,10 +2,12 @@ name: Nöbet listesini güncelle
 
 on:
   schedule:
-    # Türkiye saatiyle 09:15 (nöbet günü 09:00'da değişir). 12:15'teki ikinci çalışma
-    # yalnızca ilkinde alınamayan illeri dener; güncel iller atlanır.
+    # Türkiye saatiyle 09:15'te (nöbet günü 09:00'da değişir) tüm iller çekilir.
+    # Sonraki çalışmalar yalnızca alınamayan ya da listesi henüz girilmemiş illeri dener.
     - cron: '15 6 * * *'
     - cron: '15 9 * * *'
+    - cron: '15 13 * * *'
+    - cron: '15 16 * * *'
   workflow_dispatch:
     inputs:
       force:
