@@ -1,0 +1,39 @@
+name: Hastane listesini güncelle
+
+on:
+  schedule:
+    # Hastaneler sık değişmez; her pazartesi Türkiye saatiyle 05:00.
+    - cron: '0 2 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-duty
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Hastaneleri OpenStreetMap'ten çek
+        run: node scripts/update-hospitals.mjs
+      - name: Değişiklikleri kaydet
+        run: |
+          git config user.name "nobet-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add api/hospitals.json
+          if git diff --cached --quiet; then
+            echo "Değişiklik yok"
+          else
+            git commit -m "Hastane listesi: $(date -u +%F)"
+            git pull --rebase -q origin main
+            git push
+            curl -s -o /dev/null "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/api/hospitals.json" || true
+          fi
