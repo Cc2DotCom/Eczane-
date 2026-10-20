@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "Nöbetçi",
+    "slug": "nobetci",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.nobetci.app",
+      "infoPlist": {
+        "NSLocationWhenInUseUsageDescription": "Sana en yakın nöbetçi eczaneyi gösterebilmek için konumunu kullanıyoruz."
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false,
+      "package": "com.nobetci.app",
+      "permissions": [
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_FINE_LOCATION"
+      ]
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "scheme": "nobetci",
+    "plugins": [
+      [
+        "expo-location",
+        {
+          "locationWhenInUsePermission": "Sana en yakın nöbetçi eczaneyi gösterebilmek için konumunu kullanıyoruz."
+        }
+      ]
+    ]
+  }
+}

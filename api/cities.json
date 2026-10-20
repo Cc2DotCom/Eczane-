@@ -1,0 +1,4 @@
+{
+  "_aciklama": "Nöbet listesi çekilecek iller. CollectAPI ücretsiz paketinde il başına ayda ~30 istek harcanır.",
+  "cities": ["İstanbul"]
+}
