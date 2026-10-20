@@ -204,7 +204,7 @@ for (const [codeStr, city] of Object.entries(CITIES)) {
   const existing = await readJson(file);
   const entry = (d) => ({ city, slug: slug(city), code, dutyDay: d.dutyDay, updatedAt: d.updatedAt, count: d.pharmacies.length });
 
-  if (existing?.dutyDay === today && !FORCE) {
+  if (existing?.dutyDay === today && Array.isArray(existing.pharmacies) && !FORCE) {
     index.push(entry(existing));
     skipped++;
     continue;
