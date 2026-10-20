@@ -144,20 +144,42 @@ async function fetchCity(code, cityName, coords) {
   const dates = [...page.matchAll(/name="nobetTarihi" value="([^"]+)"/g)].map((m) => m[1]);
   if (!token || !dates.length) throw new Error('Form bulunamadı (sayfa yapısı değişmiş olabilir)');
 
-  const result = await s.request(`${SERVICE}?submit`, {
-    'ilkod-address-il': String(code),
-    'ilkod-address-il-text': cityName.toLocaleUpperCase('tr-TR'),
-    'ilkod-full': '',
-    ilkod: '',
-    nobetTarihi: dates[0], // "Bugün nöbetçi olan eczaneler"
-    token,
-    btn: 'Sorgula',
-  });
-  const rows = parseRows(result);
+  let first = true;
+  const query = async (nobetTarihi) => {
+    // Form belirteci tek kullanımlık olabilir; ikinci denemeden itibaren sayfayı yeniden açarız.
+    const tok = first ? token : (await s.request(SERVICE)).match(/name="token" value="([^"]+)"/)?.[1];
+    first = false;
+    return s.request(`${SERVICE}?submit`, {
+      'ilkod-address-il': String(code),
+      'ilkod-address-il-text': cityName.toLocaleUpperCase('tr-TR'),
+      'ilkod-full': '',
+      ilkod: '',
+      nobetTarihi,
+      token: tok,
+      btn: 'Sorgula',
+    });
+  };
+
+  // İlk seçenek "bugün nöbetçi olanlar". Bazı iller listeyi farklı tarih aralığıyla giriyor;
+  // ilk seçenekte sonuç yoksa diğer seçenekleri de deneriz.
+  let rows = null;
+  let msg = '';
+  for (const date of dates) {
+    const result = await query(date);
+    rows = parseRows(result);
+    if (rows) {
+      if (date !== dates[0]) console.log(`  ${cityName}: liste "${date}" seçeneğinde bulundu`);
+      break;
+    }
+    msg = decode(result.match(/class="[^"]*(?:errorContainer|warningContainer)[^"]*"[\s\S]{0,600}/)?.[0] ?? '');
+    if (!/bulunamad/i.test(msg)) break;
+  }
   if (!rows) {
-    const msg = decode(result.match(/class="[^"]*(?:errorContainer|warningContainer)[^"]*"[\s\S]{0,600}/)?.[0] ?? '');
     // Bazı illerin listesi resmi kaynakta yayınlanmıyor; bunu hata değil "veri yok" olarak kaydederiz.
-    if (/bulunamad/i.test(msg)) return { rows: [], fetched: 0, note: msg.slice(0, 200) };
+    if (/bulunamad/i.test(msg)) {
+      console.log(`  ${cityName}: hiçbir tarih seçeneğinde liste yok (${dates.join(', ')})`);
+      return { rows: [], fetched: 0, note: msg.slice(0, 200) };
+    }
     throw new Error('Sonuç tablosu bulunamadı' + (msg ? `: ${msg.slice(0, 160)}` : ''));
   }
 

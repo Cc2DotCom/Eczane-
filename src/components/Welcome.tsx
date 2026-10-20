@@ -1,7 +1,7 @@
 import { Ionicons } from '@expo/vector-icons';
 import * as Haptics from 'expo-haptics';
 import { LinearGradient } from 'expo-linear-gradient';
-import { useRef, useState } from 'react';
+import { useRef } from 'react';
 import { Animated, Easing, ScrollView, StyleSheet, View } from 'react-native';
 import { Text } from './Text';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
@@ -11,29 +11,6 @@ import { FadeIn, PressableScale } from './motion';
 import { ThemePicker } from './ThemePicker';
 
 
-/** Herkese hitap etsin diye birkaç farklı karşılama; açılışta biri rastgele seçilir. */
-const GREETINGS = [
-  {
-    lead: 'Derdine derman, gönlüne ferahlık dileriz. Rabbim sana ve sevdiklerine acil şifalar versin.',
-    button: 'Başlayalım',
-  },
-  {
-    lead: 'Geçmiş olsun. Sana ve sevdiklerine en kısa yoldan yardım bulalım.',
-    button: 'Başlayalım',
-  },
-  {
-    lead: 'Gönlün ferah, yolun açık olsun. Sağlıkla kal, sevdiklerinle kal.',
-    button: 'Başlayalım',
-  },
-  {
-    lead: 'Allah\'a emanet ol. Sen merak etme, en yakın yardımı birlikte bulalım.',
-    button: 'Başlayalım',
-  },
-  {
-    lead: 'Kendin ya da bir yakının için buradaysan, doğru yerdesin.',
-    button: 'Başlayalım',
-  },
-];
 
 /**
  * İlk açılışta bir kez görünen karşılama. Ana ekran arkada yüklenmeye devam eder,
@@ -44,8 +21,6 @@ export function Welcome() {
   const insets = useSafeAreaInsets();
   const visible = useWelcomeVisible();
   const fade = useRef(new Animated.Value(1)).current;
-  const [g] = useState(() => GREETINGS[Math.floor(Math.random() * GREETINGS.length)]);
-
   const start = () => {
     Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Light).catch(() => {});
     Animated.timing(fade, { toValue: 0, duration: 380, easing: Easing.out(Easing.quad), useNativeDriver: true }).start(
@@ -68,7 +43,7 @@ export function Welcome() {
               <Ionicons name="heart" size={28} color={t.primary} />
             </View>
             <Text style={[styles.title, { color: t.text }]}>Hoş geldin</Text>
-            <Text style={[styles.lead, { color: t.text }]}>{g.lead}</Text>
+            <Text style={[styles.lead, { color: t.text }]}>Acil şifalar dileriz.</Text>
             <Text style={[styles.about, { color: t.textMuted }]}>
               Bu uygulama sana en yakın nöbetçi eczaneyi ve hastaneleri saniyeler içinde gösterir.
             </Text>
@@ -87,7 +62,7 @@ export function Welcome() {
             <ThemePicker />
           </View>
           <PressableScale onPress={start} accessibilityRole="button" style={[styles.button, { backgroundColor: t.primary }]}>
-            <Text style={[styles.buttonText, { color: t.onPrimary }]}>{g.button}</Text>
+            <Text style={[styles.buttonText, { color: t.onPrimary }]}>Başlayalım</Text>
             <Ionicons name="arrow-forward" size={18} color={t.onPrimary} />
           </PressableScale>
           <Text style={[styles.small, { color: t.textMuted }]}>Rengi daha sonra Ayarlar'dan değiştirebilirsin.</Text>
