@@ -2,9 +2,97 @@
  "city": "Batman",
  "code": 72,
  "dutyDay": "2026-10-20",
- "updatedAt": "2026-10-20T20:03:31.324Z",
- "source": "e-Devlet TİTCK",
- "pharmacies": [],
- "unavailable": true,
- "note": "class=\"warningContainer\">Seçilen zaman aralığı için nöbetçi eczane bulunamadı. Sayfa Sonu Bağlantıları e-Devlet Kapısı English Hak"
+ "updatedAt": "2026-10-20T20:29:41.926Z",
+ "source": "Batman Eczacı Odası",
+ "pharmacies": [
+  {
+   "district": "Merkez",
+   "name": "Yunus Eczanesi",
+   "address": "BATMAN BÖLGE DEVLET HASTANESİ KARŞISI",
+   "phone": "04882211737",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 37.911977,
+   "lng": 41.140256
+  },
+  {
+   "district": "Merkez",
+   "name": "Barış Eczanesi",
+   "address": "BELDE MAH. 3215 SOK. MÜFTÜLÜK AŞAĞISI GAP İLKÖĞRETİM KAVŞAĞI MİGROS KARŞISI",
+   "phone": "05535376545",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 37.899789,
+   "lng": 41.139505
+  },
+  {
+   "district": "Merkez",
+   "name": "Dinç Eczanesi",
+   "address": "ÖZEL BATMAN YAŞAM HASTANESİ ACİL KARŞISI",
+   "phone": "04882210905",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 37.894162,
+   "lng": 41.128665
+  },
+  {
+   "district": "Merkez",
+   "name": "Asya Eczanesi",
+   "address": "ATATÜRK HEYKELİ ZİRAAT BANKASI YANI",
+   "phone": "04882124772",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 37.879862,
+   "lng": 41.123928
+  },
+  {
+   "district": "Kozluk",
+   "name": "Tek Eczanesi",
+   "address": "SAĞLIK MAH. 2404 SOK. NO:22/Z2",
+   "phone": "04884112072",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 38.163449,
+   "lng": 41.498763
+  },
+  {
+   "district": "Gerçüş",
+   "name": "Gercüş Eczanesi",
+   "address": "GERCÜŞ DEVLET HASTANESİ YANI",
+   "phone": "04883412172",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 37.567064,
+   "lng": 41.385911
+  },
+  {
+   "district": "Beşiri",
+   "name": "Soylu Eczanesi",
+   "address": "BAĞDU MAH. YAŞAR KEMAL BUL. NO:13/A BEŞİRİ BATMAN",
+   "phone": "04883113303",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 37.922365,
+   "lng": 41.29001
+  },
+  {
+   "district": "Sason",
+   "name": "Hasan Eczanesi",
+   "address": "AŞAĞI MAH. HASTANE SOK NO:10/B",
+   "phone": "05519531563",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 38.3394,
+   "lng": 41.411962
+  }
+ ],
+ "sourceUrl": "https://www.batmaneczaciodasi.org.tr/nobetci-eczaneler"
 }

@@ -2,9 +2,64 @@
  "city": "Malatya",
  "code": 44,
  "dutyDay": "2026-10-20",
- "updatedAt": "2026-10-20T20:03:24.053Z",
- "source": "e-Devlet TİTCK",
- "pharmacies": [],
- "unavailable": true,
- "note": "class=\"warningContainer\">Seçilen zaman aralığı için nöbetçi eczane bulunamadı. Sayfa Sonu Bağlantıları e-Devlet Kapısı English Hak"
+ "updatedAt": "2026-10-20T20:29:33.029Z",
+ "source": "Malatya Eczacı Odası",
+ "pharmacies": [
+  {
+   "district": "Merkez",
+   "name": "Cerrahpaşa Eczanesi",
+   "address": "FIRAT MH. HASTANE CD.BATTALGAZİ DEVLET HASTANESİ KARŞISI (ESKİ DEVLET HASTANESİ KARŞISI )",
+   "phone": "04228414545",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": null,
+   "lng": null
+  },
+  {
+   "district": "Merkez",
+   "name": "Yaşam Eczanesi",
+   "address": "YEŞİLYURT CAD BAŞI EMEKSİZ SAAT KULESİ KARŞISI. NO:4",
+   "phone": "04223243872",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": null,
+   "lng": null
+  },
+  {
+   "district": "Merkez",
+   "name": "Şükrü Şireci Eczanesi",
+   "address": "ÖZALPER MAH YÜZÜK CAD NO :28/D (RABİA PARK ALTI ,MARAŞAL FEVZİ ÇAKMAK LİSE KARŞISI)",
+   "phone": "05558902579",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": null,
+   "lng": null
+  },
+  {
+   "district": "Merkez",
+   "name": "Topsöğüt Eczanesi",
+   "address": "Topsöğüt mah. Malatya cd. DSİ 92. Bölge Müd. yolu üzeri no:1/1",
+   "phone": "04223992424",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": null,
+   "lng": null
+  },
+  {
+   "district": "Battalgazi",
+   "name": "Ari Eczanesi",
+   "address": "Alacakapı Mahallesi Kırkgöz Caddesi Eskimalatya semt polikliniği Karşısı",
+   "phone": "05346863703",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": null,
+   "lng": null
+  }
+ ],
+ "sourceUrl": "https://www.malatyaeczaciodasi.org.tr/nobetci-eczaneler"
 }

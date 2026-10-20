@@ -2,9 +2,86 @@
  "city": "Elazığ",
  "code": 23,
  "dutyDay": "2026-10-20",
- "updatedAt": "2026-10-20T20:03:05.747Z",
- "source": "e-Devlet TİTCK",
- "pharmacies": [],
- "unavailable": true,
- "note": "class=\"warningContainer\">Seçilen zaman aralığı için nöbetçi eczane bulunamadı. Sayfa Sonu Bağlantıları e-Devlet Kapısı English Hak"
+ "updatedAt": "2026-10-20T20:29:13.494Z",
+ "source": "Elazığ Eczacı Odası",
+ "pharmacies": [
+  {
+   "district": "Merkez",
+   "name": "Gülenyüz Eczanesi",
+   "address": "SANAYİ MAH. MUHTARLIĞI ALTI,AKDENİZ BALIKÇISI ÜSTÜ SANAYİ MAH. FATİH SULTAN MEHMET BULVARI NO:21/A",
+   "phone": "04242361778",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 38.66818,
+   "lng": 39.23827
+  },
+  {
+   "district": "Merkez",
+   "name": "Tanriverdi Eczanesi",
+   "address": "(HOZAT GARAJI OPET KARŞISI) 1. HARPUT CAD. SARISALTIK SOK NO:7/1",
+   "phone": "04242187274",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 38.675481,
+   "lng": 39.225785
+  },
+  {
+   "district": "Merkez",
+   "name": "Deniz Eczanesi",
+   "address": "FIRAT ÜNİVERSİTESİ HASTANESİ KARŞISI ÜNIVERSITE MAH. YAHYA KEMAL CAD. NO:52/B",
+   "phone": "04242126623",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 38.680641,
+   "lng": 39.20712
+  },
+  {
+   "district": "Merkez",
+   "name": "Çağrı Eczanesi",
+   "address": "OLGUNLAR MAH. SUBAŞI SOK. NO:23/A (MEDİKAL HOSPİTAL HASTANESİNİN ARKA TARAFI)",
+   "phone": "04242416200",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 38.667575,
+   "lng": 39.213397
+  },
+  {
+   "district": "Karakoçan",
+   "name": "Hayat Eczanesi",
+   "address": "KARAKOÇAN SAĞLIK OCAĞI KARŞISI YENİ MAH.KALECİK CAD.NO:9/C",
+   "phone": "04247114742",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 38.955375,
+   "lng": 40.039554
+  },
+  {
+   "district": "Kovancilar",
+   "name": "Özkeser Eczanesi",
+   "address": "Gültepe Mah.Lokman Sok. No:3",
+   "phone": "04246112529",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 38.721908,
+   "lng": 39.856264
+  },
+  {
+   "district": "Palu",
+   "name": "Onur Eczanesi",
+   "address": "NUMUNE MAH CUMHURİYET BULVARI PALU BELEDİYESİ HİZMET BİNASI BLOK NO:4/5",
+   "phone": "04246512310",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 38.693661,
+   "lng": 39.928305
+  }
+ ],
+ "sourceUrl": "https://www.elazigeczaciodasi.org.tr/nobetci-eczaneler/elazig"
 }

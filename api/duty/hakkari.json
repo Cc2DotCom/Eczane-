@@ -2,9 +2,64 @@
  "city": "Hakkari",
  "code": 30,
  "dutyDay": "2026-10-20",
- "updatedAt": "2026-10-20T20:03:13.080Z",
- "source": "e-Devlet TİTCK",
- "pharmacies": [],
- "unavailable": true,
- "note": "class=\"warningContainer\">Seçilen zaman aralığı için nöbetçi eczane bulunamadı. Sayfa Sonu Bağlantıları e-Devlet Kapısı English Hak"
+ "updatedAt": "2026-10-20T20:29:22.614Z",
+ "source": "Van Eczacı Odası",
+ "pharmacies": [
+  {
+   "district": "Merkez",
+   "name": "Günes Eczanesi",
+   "address": "DAGGÖL MAH.HAKKARI VAN BULVAR CAD. 22/AHAKKKARI/MERKEZ",
+   "phone": "04382110040",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 37.573564,
+   "lng": 43.733851
+  },
+  {
+   "district": "Yüksekova",
+   "name": "Hayat Eczanesi",
+   "address": "CENGİZ TOPEL CAD.AMED ÇARŞISI ALTI",
+   "phone": "04383518480",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 37.568678,
+   "lng": 44.285666
+  },
+  {
+   "district": "Yüksekova",
+   "name": "Canan Eczanesi",
+   "address": "İNANLI MAH.İNANLI CAD.YÜKSEKOVA DEVLET HASTANESİ KARŞISI NO:317/A",
+   "phone": "04383512464",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 37.568107,
+   "lng": 44.229767
+  },
+  {
+   "district": "Şemdinli",
+   "name": "Navşar Eczanesi",
+   "address": "CUMHURİYET CAD.ULU CAMİ KARŞISI NO:111",
+   "phone": "04384120098",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 37.307384,
+   "lng": 44.571761
+  },
+  {
+   "district": "Şemdinli",
+   "name": "Bahar Eczanesi",
+   "address": "MERKEZ MAH. VATAN CAD.NO:17/A",
+   "phone": "04384613122",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 37.306194,
+   "lng": 44.573294
+  }
+ ],
+ "sourceUrl": "https://www.vaneczaciodasi.org.tr/nobetci-eczaneler"
 }
