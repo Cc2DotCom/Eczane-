@@ -6,7 +6,7 @@ const fs = require('fs');
   const b = await chromium.launch();
   const p = await b.newPage({ locale: 'tr-TR' });
   const reqs = [];
-  p.on('request', (r) => { if (r.resourceType() === 'xhr' || r.resourceType() === 'fetch') reqs.push(r.method() + ' ' + r.url() + ' ' + (r.postData() || '')); });
+  p.on('request', (r) => { if (r.method() === 'POST' || r.resourceType() === 'xhr' || r.resourceType() === 'fetch') reqs.push(r.method() + ' ' + r.url() + ' ' + (r.postData() || '')); });
   await p.goto('https://www.turkiye.gov.tr/saglik-titck-nobetci-eczane-sorgulama', { waitUntil: 'networkidle' });
   const formHtml = await p.locator('#mainForm').innerHTML();
   fs.writeFileSync('/tmp/probe-files/form.html', formHtml);
@@ -28,5 +28,11 @@ const fs = require('fs');
   console.log('TABLES', tables.length);
   console.log(tables.join('\n\n').slice(0, 8000));
   console.log('XHR\n' + reqs.join('\n'));
+  for (const i of [0, 5]) {
+    await p.goto('https://www.turkiye.gov.tr/saglik-titck-nobetci-eczane-sorgulama?harita=Goster&index=' + i, { waitUntil: 'networkidle' });
+    const h = await p.content();
+    fs.writeFileSync('/tmp/probe-files/map' + i + '.html', h);
+    console.log('MAP', i, p.url(), (h.match(/.{0,120}(lat|lng|enlem|boylam|koordinat|LatLng|center|maps\.google|google\.com\/maps|openstreetmap|leaflet)[^\n]{0,160}/gi) || []).slice(0, 15).join('\n'));
+  }
   await b.close();
 })().catch((e) => { console.error(e); process.exit(1); });
