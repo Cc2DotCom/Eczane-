@@ -27,6 +27,15 @@ export function dutyWindow(start?: string | null, end?: string | null): string |
   return `${time(start)} – ${sameDay ? '' : 'ertesi gün '}${time(end)}`;
 }
 
+/** Günün saatine göre sıcak bir selam. */
+export function greeting(now = new Date()): string {
+  const h = now.getHours();
+  if (h >= 5 && h < 11) return 'Günaydın';
+  if (h >= 11 && h < 17) return 'İyi günler';
+  if (h >= 17 && h < 22) return 'İyi akşamlar';
+  return 'İyi geceler';
+}
+
 export function relativeTime(ts: number, now = Date.now()): string {
   const min = Math.round((now - ts) / 60000);
   if (min < 1) return 'az önce';
