@@ -7,9 +7,11 @@ import { LayoutAnimation, RefreshControl, ScrollView, StyleSheet, Text, View, us
 import { SafeAreaProvider, useSafeAreaInsets } from 'react-native-safe-area-context';
 import { CityPicker } from './src/components/CityPicker';
 import { HeroCard } from './src/components/HeroCard';
+import { EmergencyButton, HospitalsView } from './src/components/HospitalsView';
 import { FadeIn, PressableScale, Pulse } from './src/components/motion';
 import { PharmacyRow } from './src/components/PharmacyRow';
 import { LoadingSkeleton, Message } from './src/components/States';
+import { Welcome } from './src/components/Welcome';
 import { usingDemoData } from './src/data/repository';
 import { useDutyPharmacies } from './src/hooks/useDutyPharmacies';
 import { usePreferences } from './src/hooks/usePreferences';
@@ -21,6 +23,7 @@ export default function App() {
   return (
     <SafeAreaProvider>
       <Home />
+      <Welcome />
     </SafeAreaProvider>
   );
 }
@@ -43,6 +46,7 @@ function Home() {
 
   const [selectedId, setSelectedId] = useState<string | null>(null);
   const [pickerOpen, setPickerOpen] = useState(false);
+  const [tab, setTab] = useState<'eczane' | 'hastane'>('eczane');
   const [, forceTick] = useState(0);
 
   // "x dk önce" yazısı canlı kalsın.
@@ -172,6 +176,16 @@ function Home() {
     );
   }
 
+  const switchTab = (next: 'eczane' | 'hastane') => {
+    if (next === tab) return;
+    Haptics.selectionAsync().catch(() => {});
+    LayoutAnimation.configureNext(LayoutAnimation.create(260, 'easeInEaseOut', 'opacity'));
+    setTab(next);
+    scrollRef.current?.scrollTo({ y: 0, animated: false });
+  };
+
+  const isHospital = tab === 'hastane';
+
   return (
     <View style={[styles.root, { backgroundColor: t.bg }]}>
       <StatusBar style={scheme === 'dark' ? 'light' : 'dark'} />
@@ -201,15 +215,19 @@ function Home() {
           </View>
 
           <Text style={[styles.subtitle, { color: t.text }]}>
-            {hero
-              ? 'Endişelenme, yakınında açık bir eczane var.'
-              : 'Sana en yakın açık eczaneyi buluyoruz.'}
+            {isHospital
+              ? 'Sakin ol, yardım yakında. En yakın hastaneler burada.'
+              : hero
+                ? 'Endişelenme, yakınında açık bir eczane var.'
+                : 'Sana en yakın açık eczaneyi buluyoruz.'}
           </Text>
 
           <View style={styles.liveRow}>
             <Pulse color={t.primary} />
             <Text style={[styles.liveText, { color: t.textMuted }]}>
-              {fetchedAt
+              {isHospital
+                ? 'Mesafeye göre sıralı, acil servisler işaretli'
+                : fetchedAt
                 ? `Güncellendi ${relativeTime(fetchedAt)}`
                 : !area && location.status === 'loading'
                   ? 'Konumun bulunuyor'
@@ -219,9 +237,34 @@ function Home() {
               {source === 'demo' || usingDemoData ? ' · demo veri' : ''}
             </Text>
           </View>
+
+          <View style={[styles.tabs, { backgroundColor: t.bgAccent }]}>
+            {(['eczane', 'hastane'] as const).map((k) => {
+              const active = tab === k;
+              return (
+                <PressableScale
+                  key={k}
+                  onPress={() => switchTab(k)}
+                  accessibilityRole="tab"
+                  accessibilityState={{ selected: active }}
+                  containerStyle={{ flex: 1 }}
+                  style={[styles.tab, active && { backgroundColor: t.card, shadowColor: t.shadow }, active && styles.tabActive]}
+                >
+                  <Ionicons
+                    name={k === 'eczane' ? (active ? 'medkit' : 'medkit-outline') : active ? 'business' : 'business-outline'}
+                    size={16}
+                    color={active ? t.primary : t.textMuted}
+                  />
+                  <Text style={[styles.tabText, { color: active ? t.text : t.textMuted }]}>
+                    {k === 'eczane' ? 'Nöbetçi eczane' : 'Hastaneler'}
+                  </Text>
+                </PressableScale>
+              );
+            })}
+          </View>
         </FadeIn>
 
-        {stale && (
+        {!isHospital && stale && (
           <View style={[styles.demo, { backgroundColor: t.warmSoft }]}>
             <Ionicons name="time-outline" size={18} color={t.warm} />
             <Text style={[styles.demoText, { color: t.text }]}>
@@ -230,7 +273,7 @@ function Home() {
           </View>
         )}
 
-        {(source === 'demo' || usingDemoData) && (
+        {!isHospital && (source === 'demo' || usingDemoData) && (
           <View style={[styles.demo, { backgroundColor: t.warmSoft }]}>
             <Ionicons name="information-circle-outline" size={18} color={t.warm} />
             <Text style={[styles.demoText, { color: t.text }]}>
@@ -239,7 +282,14 @@ function Home() {
           </View>
         )}
 
-        <View style={{ gap: 14 }}>{content}</View>
+        {isHospital ? (
+          <HospitalsView coords={coords} locating={location.status === 'loading'} />
+        ) : (
+          <View style={{ gap: 14 }}>
+            {content}
+            {notCovered && <EmergencyButton />}
+          </View>
+        )}
       </ScrollView>
 
       <CityPicker
@@ -281,7 +331,11 @@ const styles = StyleSheet.create({
     borderWidth: 1,
   },
   areaText: { fontSize: 13, fontWeight: '600', flexShrink: 1 },
-  liveRow: { flexDirection: 'row', alignItems: 'center', gap: 8, marginTop: 8, marginBottom: 18 },
+  liveRow: { flexDirection: 'row', alignItems: 'center', gap: 8, marginTop: 8, marginBottom: 16 },
+  tabs: { flexDirection: 'row', padding: 4, borderRadius: 99, marginBottom: 18 },
+  tab: { flexDirection: 'row', alignItems: 'center', justifyContent: 'center', gap: 6, height: 40, borderRadius: 99 },
+  tabActive: { shadowOpacity: 0.12, shadowRadius: 8, shadowOffset: { width: 0, height: 2 }, elevation: 2 },
+  tabText: { fontSize: 14, fontWeight: '700' },
   liveText: { fontSize: 13 },
   demo: { flexDirection: 'row', gap: 8, alignItems: 'center', padding: 12, borderRadius: radius.sm, marginBottom: 14 },
   demoText: { flex: 1, fontSize: 13, lineHeight: 18 },

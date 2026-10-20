@@ -15,6 +15,8 @@ const light = {
   border: '#EFE5D9',
   shadow: '#8A5A3C',
   glow: '#F6DCCB',
+  danger: '#C8553D',
+  dangerSoft: '#FBE4DD',
 };
 
 const dark: typeof light = {
@@ -32,6 +34,8 @@ const dark: typeof light = {
   border: '#352C25',
   shadow: '#000000',
   glow: '#3A2820',
+  danger: '#D9664E',
+  dangerSoft: '#3E241E',
 };
 
 export type Theme = typeof light;

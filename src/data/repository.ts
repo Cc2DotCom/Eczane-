@@ -8,9 +8,9 @@ import { demoPharmacies } from './demo';
  * Nöbet listeleri, repodaki GitHub Actions görevi (scripts/update-duty.mjs) tarafından her sabah
  * e-Devlet'teki TİTCK hizmetinden okunup api/duty/<il>.json dosyalarına yazılır; uygulama yalnızca bu dosyaları okur.
  */
-const DATA_URL = process.env.EXPO_PUBLIC_DATA_URL ?? 'https://raw.githubusercontent.com/Cc2DotCom/Eczane-/main/api';
+export const DATA_URL = process.env.EXPO_PUBLIC_DATA_URL ?? 'https://raw.githubusercontent.com/Cc2DotCom/Eczane-/main/api';
 /** raw.githubusercontent.com bazı ağlarda yavaş ya da erişilemez; aynı dosyalar jsDelivr CDN'inden de sunulur. */
-const MIRROR_URL = 'https://cdn.jsdelivr.net/gh/Cc2DotCom/Eczane-@main/api';
+export const MIRROR_URL = 'https://cdn.jsdelivr.net/gh/Cc2DotCom/Eczane-@main/api';
 /** Bir kaynak bu sürede yanıt vermezse diğerine geçilir; kullanıcı asla sonsuza kadar beklemez. */
 const TIMEOUT_MS = 7000;
 const DEMO = process.env.EXPO_PUBLIC_DEMO === '1';
@@ -63,7 +63,7 @@ function byDistrict(list: Pharmacy[], district?: string) {
   return hit.length ? hit : list;
 }
 
-async function fetchJson(url: string): Promise<{ status: number; json?: unknown }> {
+export async function fetchJson(url: string): Promise<{ status: number; json?: unknown }> {
   const ctrl = new AbortController();
   const timer = setTimeout(() => ctrl.abort(), TIMEOUT_MS);
   try {
