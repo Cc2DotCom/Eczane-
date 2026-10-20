@@ -9,6 +9,8 @@
 
 import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
+import { CHAMBER_CITIES, fetchChamber } from './chambers.mjs';
+import { decode, inTurkey, pharmacyName, slug, titleCase } from './text.mjs';
 
 const ROOT = path.resolve(path.dirname(new URL(import.meta.url).pathname), '..');
 const API_DIR = path.join(ROOT, 'api');
@@ -42,40 +44,6 @@ function dutyDay(now = new Date()) {
   if (tr.getUTCHours() < 9) tr.setUTCDate(tr.getUTCDate() - 1);
   return tr.toISOString().slice(0, 10);
 }
-
-export function slug(s) {
-  return s
-    .toLocaleLowerCase('tr-TR')
-    .replace(/ı/g, 'i').replace(/ğ/g, 'g').replace(/ü/g, 'u')
-    .replace(/ş/g, 's').replace(/ö/g, 'o').replace(/ç/g, 'c')
-    .replace(/[^a-z0-9]/g, '');
-}
-
-/**
- * Kaynakta adlar bazen Türkçe karakter olmadan büyük harfle yazılmış ("DENIZ").
- * Türkçe harf içermeyen kelimede I'yı i sayarız ki "Denız" değil "Deniz" olsun.
- */
-export function titleCase(s) {
-  return s
-    .trim()
-    .replace(/\s+/g, ' ')
-    .split(' ')
-    .map((w) => {
-      const lower = /[ŞĞÜÖÇİşğüöçı]/.test(w) ? w.toLocaleLowerCase('tr-TR') : w.replace(/I/g, 'i').toLocaleLowerCase('tr-TR');
-      return lower ? lower[0].toLocaleUpperCase('tr-TR') + lower.slice(1) : lower;
-    })
-    .join(' ');
-}
-
-const decode = (s) =>
-  s
-    .replace(/<[^>]+>/g, ' ')
-    .replace(/&amp;/g, '&').replace(/&quot;/g, '"').replace(/&#0?39;/g, "'").replace(/&lt;/g, '<').replace(/&gt;/g, '>')
-    .replace(/&nbsp;/g, ' ')
-    .replace(/\s+/g, ' ')
-    .trim();
-
-const inTurkey = (lat, lng) => lat > 35.5 && lat < 42.3 && lng > 25.5 && lng < 45;
 
 /** e-Devlet oturumu: çerezleri ve form anahtarını (token) taşır. */
 class Session {
@@ -119,7 +87,7 @@ function parseRows(html) {
     const mapIndex = td[7]?.match(/index=(\d+)/)?.[1];
     return {
       district: titleCase(decode(td[0] ?? '')),
-      name: titleCase(decode(td[1] ?? '')).replace(/\s*eczanes[iı]$/i, '') + ' Eczanesi',
+      name: pharmacyName(decode(td[1] ?? '')),
       address: decode(td[2] ?? ''),
       phone: decode(td[3] ?? '').replace(/\s*-\s*/g, ' ').replace(/^0 \(/, '0(').replace(/[()]/g, '').trim(),
       dutyStart: parseTime(decode(td[4] ?? '')),
@@ -226,14 +194,30 @@ for (const [codeStr, city] of Object.entries(CITIES)) {
   const existing = await readJson(file);
   const entry = (d) => ({ city, slug: slug(city), code, dutyDay: d.dutyDay, updatedAt: d.updatedAt, count: d.pharmacies.length });
 
-  if (existing?.dutyDay === today && Array.isArray(existing.pharmacies) && !existing.unavailable && !FORCE) {
+  // Oda sitelerinden gelen listeler her çalışmada yenilenir; gün içinde değişebiliyorlar.
+  const fromEdevlet = existing?.source === 'e-Devlet TİTCK';
+  if (existing?.dutyDay === today && Array.isArray(existing.pharmacies) && !existing.unavailable && fromEdevlet && !FORCE) {
     index.push(entry(existing));
     skipped++;
     continue;
   }
   try {
-    const { rows, fetched, note } = await fetchCity(code, city, coords);
+    let { rows, fetched, note } = await fetchCity(code, city, coords);
     const data = { city, code, dutyDay: today, updatedAt: new Date().toISOString(), source: 'e-Devlet TİTCK', pharmacies: rows };
+    if (!rows.length && CHAMBER_CITIES.has(code)) {
+      // e-Devlet'te yayınlanmayan illerde eczacı odasının kendi sitesine bakarız.
+      try {
+        const ch = await fetchChamber(code);
+        if (ch?.rows.length) {
+          rows = data.pharmacies = ch.rows;
+          data.source = ch.source;
+          data.sourceUrl = ch.sourceUrl;
+          console.log(`  ${city}: ${ch.source} sitesinden alındı`);
+        }
+      } catch (e) {
+        console.warn(`  ${city}: oda sitesi okunamadı (${e.message})`);
+      }
+    }
     if (!rows.length) {
       data.unavailable = true;
       data.note = note;

@@ -45,7 +45,7 @@ function Home() {
   const coords = location.status === 'ready' ? location.coords : null;
   const area = prefs.manualArea ?? (location.status === 'ready' ? location.area : null);
 
-  const { pharmacies: rawPharmacies, source, fetchedAt, stale, offline, notCovered, loading, refreshing, error, refresh } = useDutyPharmacies(
+  const { pharmacies: rawPharmacies, source, origin, fetchedAt, stale, offline, notCovered, loading, refreshing, error, refresh } = useDutyPharmacies(
     prefs.ready ? area : null,
     // Bölge elle seçildiyse mesafeyi kullanıcının bulunduğu yerden değil, seçilen yerden düşünürüz.
     prefs.manualArea ? null : coords,
@@ -280,7 +280,7 @@ function Home() {
               {isHospital
                 ? 'Mesafeye göre sıralı, acil servisler işaretli'
                 : fetchedAt
-                ? `Güncellendi ${relativeTime(fetchedAt)}`
+                ? `${origin ? `Kaynak: ${origin} · ` : ''}Güncellendi ${relativeTime(fetchedAt)}`
                 : !area && location.status === 'loading'
                   ? 'Konumun bulunuyor'
                   : loading

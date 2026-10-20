@@ -79,6 +79,7 @@ export function useDutyPharmacies(area: Area | null, coords: Coords | null) {
   return {
     pharmacies,
     source: result?.source,
+    origin: result?.origin,
     fetchedAt: result?.fetchedAt,
     /** Liste bugünün nöbet gününe ait değilse (güncelleme gecikmişse) true. */
     stale: !!result && result.dutyDay !== dutyDayKey(),

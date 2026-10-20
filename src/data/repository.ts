@@ -41,6 +41,8 @@ type RemoteFile = {
   updatedAt: string;
   /** İlin listesi resmi kaynakta (e-Devlet) yayınlanmıyorsa true. */
   unavailable?: boolean;
+  /** Listenin alındığı yer: "e-Devlet TİTCK" ya da ilin eczacı odası. */
+  source?: string;
   pharmacies: {
     name: string;
     district: string;
@@ -159,6 +161,7 @@ export async function getDutyPharmacies(
     source: 'remote',
     fetchedAt: c.fetchedAt,
     dutyDay: c.file.dutyDay,
+    origin: c.file.source && !/e-Devlet/i.test(c.file.source) ? c.file.source : undefined,
   });
 
   if (cached && !opts.force && cached.file.dutyDay === today && Date.now() - cached.fetchedAt < FRESH_MS) {

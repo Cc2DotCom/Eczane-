@@ -24,4 +24,6 @@ export type DutyResult = {
   dutyDay: string;
   /** İnternete ulaşılamadı, telefonda kayıtlı son liste gösteriliyor. */
   offline?: boolean;
+  /** Liste e-Devlet yerine başka bir resmi kaynaktan (ilin eczacı odası) geldiyse onun adı. */
+  origin?: string;
 };
