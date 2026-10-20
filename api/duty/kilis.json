@@ -2,7 +2,7 @@
  "city": "Kilis",
  "code": 79,
  "dutyDay": "2026-10-20",
- "updatedAt": "2026-10-20T20:35:55.877Z",
+ "updatedAt": "2026-10-20T20:39:38.327Z",
  "source": "Gaziantep Eczacı Odası",
  "pharmacies": [
   {
@@ -13,8 +13,8 @@
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 36.7208428,
-   "lng": 37.1095875
+   "lat": null,
+   "lng": null
   }
  ],
  "sourceUrl": "https://www.gaziantepeo.org.tr/nobetci-eczaneler"

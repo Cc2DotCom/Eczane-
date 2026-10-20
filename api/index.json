@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-20T20:36:01.303Z",
+ "generatedAt": "2026-10-20T20:39:42.569Z",
  "source": "e-Devlet TİTCK",
  "cities": [
   {
@@ -63,7 +63,7 @@
    "slug": "artvin",
    "code": 8,
    "dutyDay": "2026-10-20",
-   "updatedAt": "2026-10-20T20:34:55.886Z",
+   "updatedAt": "2026-10-20T20:38:39.745Z",
    "count": 9
   },
   {
@@ -71,7 +71,7 @@
    "slug": "aydin",
    "code": 9,
    "dutyDay": "2026-10-20",
-   "updatedAt": "2026-10-20T20:35:01.790Z",
+   "updatedAt": "2026-10-20T20:38:44.718Z",
    "count": 33
   },
   {
@@ -183,7 +183,7 @@
    "slug": "elazig",
    "code": 23,
    "dutyDay": "2026-10-20",
-   "updatedAt": "2026-10-20T20:35:14.789Z",
+   "updatedAt": "2026-10-20T20:38:57.769Z",
    "count": 7
   },
   {
@@ -207,7 +207,7 @@
    "slug": "eskisehir",
    "code": 26,
    "dutyDay": "2026-10-20",
-   "updatedAt": "2026-10-20T20:35:19.581Z",
+   "updatedAt": "2026-10-20T20:39:02.580Z",
    "count": 14
   },
   {
@@ -239,7 +239,7 @@
    "slug": "hakkari",
    "code": 30,
    "dutyDay": "2026-10-20",
-   "updatedAt": "2026-10-20T20:35:24.998Z",
+   "updatedAt": "2026-10-20T20:39:07.799Z",
    "count": 5
   },
   {
@@ -303,7 +303,7 @@
    "slug": "kayseri",
    "code": 38,
    "dutyDay": "2026-10-20",
-   "updatedAt": "2026-10-20T20:29:26.936Z",
+   "updatedAt": "2026-10-20T20:39:12.682Z",
    "count": 14
   },
   {
@@ -319,7 +319,7 @@
    "slug": "kirsehir",
    "code": 40,
    "dutyDay": "2026-10-20",
-   "updatedAt": "2026-10-20T20:35:31.625Z",
+   "updatedAt": "2026-10-20T20:39:17.487Z",
    "count": 4
   },
   {
@@ -351,7 +351,7 @@
    "slug": "malatya",
    "code": 44,
    "dutyDay": "2026-10-20",
-   "updatedAt": "2026-10-20T20:35:36.560Z",
+   "updatedAt": "2026-10-20T20:39:22.289Z",
    "count": 5
   },
   {
@@ -575,7 +575,7 @@
    "slug": "batman",
    "code": 72,
    "dutyDay": "2026-10-20",
-   "updatedAt": "2026-10-20T20:29:41.926Z",
+   "updatedAt": "2026-10-20T20:39:33.644Z",
    "count": 8
   },
   {
@@ -631,7 +631,7 @@
    "slug": "kilis",
    "code": 79,
    "dutyDay": "2026-10-20",
-   "updatedAt": "2026-10-20T20:35:55.877Z",
+   "updatedAt": "2026-10-20T20:39:38.327Z",
    "count": 1
   },
   {

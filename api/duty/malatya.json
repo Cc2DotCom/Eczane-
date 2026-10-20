@@ -2,7 +2,7 @@
  "city": "Malatya",
  "code": 44,
  "dutyDay": "2026-10-20",
- "updatedAt": "2026-10-20T20:35:36.560Z",
+ "updatedAt": "2026-10-20T20:39:22.289Z",
  "source": "Malatya Eczacı Odası",
  "pharmacies": [
   {
@@ -24,8 +24,8 @@
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.3418652,
-   "lng": 38.3111
+   "lat": null,
+   "lng": null
   },
   {
    "district": "Merkez",
@@ -35,8 +35,8 @@
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.349238,
-   "lng": 38.3218274
+   "lat": null,
+   "lng": null
   },
   {
    "district": "Merkez",
