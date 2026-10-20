@@ -108,7 +108,8 @@ function parseRows(html) {
   const tbody = html.match(/<table[^>]*id="searchTable"[\s\S]*?<tbody>([\s\S]*?)<\/tbody>/);
   if (!tbody) return null;
   return [...tbody[1].matchAll(/<tr[^>]*>([\s\S]*?)<\/tr>/g)].map((tr) => {
-    const td = [...tr[1].matchAll(/<td[^>]*>([\s\S]*?)<\/td>/g)].map((m) => m[1]);
+    // Kaynak HTML'de bazı </td> etiketleri eksik; hücreleri açılış etiketinden bölüyoruz.
+    const td = tr[1].split(/<td[^>]*>/i).slice(1).map((c) => c.replace(/<\/td>\s*$/i, ''));
     const mapIndex = td[7]?.match(/index=(\d+)/)?.[1];
     return {
       district: titleCase(decode(td[0] ?? '')),
