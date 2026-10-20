@@ -1,0 +1,86 @@
+{
+ "city": "Kars",
+ "code": 36,
+ "dutyDay": "2026-10-20",
+ "updatedAt": "2026-10-20T17:41:23.499Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [
+  {
+   "district": "Akyaka",
+   "name": "Akyaka Eczanesi",
+   "address": "İstasyon Mahalle Ahmet Arslan No:89/1",
+   "phone": "0474 261 2050",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.741318,
+   "lng": 43.621708
+  },
+  {
+   "district": "Arpaçay",
+   "name": "Rumeysa Eczanesi",
+   "address": "ORTA MAH.DR. İBRAHİM GÖKÇE CAD. NO:18/D ARPAÇAY/KARS",
+   "phone": "0506 994 8716",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.848354,
+   "lng": 43.329117
+  },
+  {
+   "district": "Kağızman",
+   "name": "Mehtap Eczanesi",
+   "address": "Şahindere Mahallesi Milli Egemenlik Caddesi No: 30/A",
+   "phone": "0474 351 8138",
+   "dutyStart": "2026-10-20T17:00:00+03:00",
+   "dutyEnd": "2026-10-21T07:30:00+03:00",
+   "approved": true,
+   "lat": 40.141716,
+   "lng": 43.120594
+  },
+  {
+   "district": "Merkez",
+   "name": "Yetimoğlu Eczanesi",
+   "address": "Ortakapı Mah. G.A.M.P. Cad. No:112/C",
+   "phone": "0545 347 9991",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.603481,
+   "lng": 43.096893
+  },
+  {
+   "district": "Sarıkamış",
+   "name": "Sarıkamış Eczanesi",
+   "address": "İNÖNÜ MAH.HALK CAD.NO.153-1 SARIKAMIŞ KARS",
+   "phone": "0474 413 4906",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.332359,
+   "lng": 42.596348
+  },
+  {
+   "district": "Selim",
+   "name": "Sema Eczanesi",
+   "address": "Çarşı Mahallesi Halitpaşa Caddesi No:67/B",
+   "phone": "0536 499 3162",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.467079,
+   "lng": 42.788391
+  },
+  {
+   "district": "Susuz",
+   "name": "Can Eczanesi",
+   "address": "KAZİM KARABEKİR MAHALLE NO 116",
+   "phone": "0474 511 5722",
+   "dutyStart": "2026-10-20T00:00:00+03:00",
+   "dutyEnd": "2026-10-21T00:00:00+03:00",
+   "approved": true,
+   "lat": 40.78159,
+   "lng": 43.127258
+  }
+ ]
+}

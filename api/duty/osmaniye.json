@@ -1,0 +1,86 @@
+{
+ "city": "Osmaniye",
+ "code": 80,
+ "dutyDay": "2026-10-20",
+ "updatedAt": "2026-10-20T17:47:34.888Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [
+  {
+   "district": "Bahçe",
+   "name": "Bahçe Eczanesi",
+   "address": "Bahçelievler Mahallesi Devlet Bahçeli Bulvarı No: 13/B",
+   "phone": "0328 861 2111",
+   "dutyStart": "2026-10-20T12:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.20039,
+   "lng": 36.577251
+  },
+  {
+   "district": "Düziçi",
+   "name": "Hayat Eczanesi",
+   "address": "Cumhuriyet Mahallesi Şehit Komiser Mustafa Sarı Cad. No: 42/A",
+   "phone": "0328 876 6878",
+   "dutyStart": "2026-10-20T17:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.240398,
+   "lng": 36.452572
+  },
+  {
+   "district": "Kadirli",
+   "name": "Dolgun Eczanesi",
+   "address": "Ş. İbrahim Kundakçı Mah. Kahramanmaraş Cad. No: 3/1",
+   "phone": "0328 718 0033",
+   "dutyStart": "2026-10-20T12:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.364956,
+   "lng": 36.104469
+  },
+  {
+   "district": "Merkez",
+   "name": "Bayrak Eczanesi",
+   "address": "Ulaşlı Mah. 11507 Sok. No:6",
+   "phone": "0328 825 0825",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.055569,
+   "lng": 36.265678
+  },
+  {
+   "district": "Merkez",
+   "name": "Çağlar Eczanesi",
+   "address": "Mehmet Akif Ersoy Mah. Atatürk Cad. No: 475/E",
+   "phone": "0328 825 0055",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.062153,
+   "lng": 36.238747
+  },
+  {
+   "district": "Merkez",
+   "name": "Ertan Eczanesi",
+   "address": "ESENEVLER MH. KAYALAR SK. NO:13/E",
+   "phone": "0328 814 5516",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.076344,
+   "lng": 36.245968
+  },
+  {
+   "district": "Toprakkale",
+   "name": "Arslantaş Eczanesi",
+   "address": "Fatih Sultan Mehmet Mah. Çamlıbel Sok. No:19/D",
+   "phone": "0545 628 6033",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.070683,
+   "lng": 36.144207
+  }
+ ]
+}

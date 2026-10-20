@@ -1,0 +1,86 @@
+{
+ "city": "Niğde",
+ "code": 51,
+ "dutyDay": "2026-10-20",
+ "updatedAt": "2026-10-20T17:43:57.910Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [
+  {
+   "district": "Altunhisar",
+   "name": "Nazli Eczanesi",
+   "address": "İstiklal Mah. Şehit Abdulkadir Tanık Cad. No:13/1",
+   "phone": "0388 611 2121",
+   "dutyStart": "2026-10-20T17:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.984203,
+   "lng": 34.373482
+  },
+  {
+   "district": "Bor",
+   "name": "Sihhat Eczanesi",
+   "address": "Selçuk Mah. İstasyon Cad. No:6E",
+   "phone": "0388 311 4707",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.891415,
+   "lng": 34.5597
+  },
+  {
+   "district": "Çamardı",
+   "name": "Uygun Eczanesi",
+   "address": "Bereketli Mah. 100. Yıl Cad. No:21",
+   "phone": "0388 279 4251",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.833641,
+   "lng": 34.986618
+  },
+  {
+   "district": "Çiftlik",
+   "name": "Ateş Eczanesi",
+   "address": "Çarşı Mahallesi Niğde Caddesi No:4/A",
+   "phone": "0388 411 2323",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.174427,
+   "lng": 34.485828
+  },
+  {
+   "district": "Merkez",
+   "name": "Aytekin Eczanesi",
+   "address": "Kumluca Mah. Hastaneler Cad. No:19/13",
+   "phone": "0388 221 2021",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.969875,
+   "lng": 34.644188
+  },
+  {
+   "district": "Merkez",
+   "name": "Birincioğlu Eczanesi",
+   "address": "İlhanlı Mah.8.Sok.No:3/B",
+   "phone": "0388 221 0906",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-20T23:59:00+03:00",
+   "approved": true,
+   "lat": 37.967232,
+   "lng": 34.693619
+  },
+  {
+   "district": "Ulukışla",
+   "name": "Sinem Eczanesi",
+   "address": "Kemalpaşa Mah. İsmet İnönü Cad. No:56A",
+   "phone": "0388 511 3131",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.546455,
+   "lng": 34.484184
+  }
+ ]
+}

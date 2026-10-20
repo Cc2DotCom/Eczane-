@@ -1,0 +1,86 @@
+{
+ "city": "Erzincan",
+ "code": 24,
+ "dutyDay": "2026-10-20",
+ "updatedAt": "2026-10-20T17:38:08.935Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [
+  {
+   "district": "Çayırlı",
+   "name": "Çayırlı Eczanesi",
+   "address": "ATATÜRK MAHALLESİ HÜKÜMET CADDESİ NO:19 ÇAYIRLI/ ERZİNCAN",
+   "phone": "0446 311 3257",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 39.807289,
+   "lng": 40.037506
+  },
+  {
+   "district": "İliç",
+   "name": "Altinkent Eczanesi",
+   "address": "ABDULLAHPAŞA MAH. HÜKÜMET CAD. AK PLAZA ZEMİN KAT NO: 1 İLİÇ/ERZİNCAN",
+   "phone": "0446 711 2400",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 39.456501,
+   "lng": 38.564213
+  },
+  {
+   "district": "Merkez",
+   "name": "Erhan Eczanesi",
+   "address": "KIZILAY MAH. 13 ŞUBAT CAD. NO:12/A ERZİNCAN",
+   "phone": "0446 224 2727",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 39.744579,
+   "lng": 39.49062
+  },
+  {
+   "district": "Merkez",
+   "name": "Öner Eczanesi",
+   "address": "13 ŞUBAT CADDESİ NO:8 ERZİNCAN",
+   "phone": "0446 223 3741",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T00:00:00+03:00",
+   "approved": true,
+   "lat": 39.745193,
+   "lng": 39.490654
+  },
+  {
+   "district": "Refahiye",
+   "name": "Lokman Hekim Eczanesi",
+   "address": "KEMALİYE MAH. ERZİNCAN CAD. NO:8 REFAHİYE / ERZİNCAN",
+   "phone": "0446 611 2201",
+   "dutyStart": "2026-10-20T17:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 39.899727,
+   "lng": 38.768826
+  },
+  {
+   "district": "Tercan",
+   "name": "Emrah Eczanesi",
+   "address": "KAZIM KARABEKİR MAH. KERVANSARAY CAD. NO:41/B TERCAN/ERZİNCAN",
+   "phone": "0446 441 2425",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 39.778683,
+   "lng": 40.380032
+  },
+  {
+   "district": "Üzümlü",
+   "name": "Nur Eczanesi",
+   "address": "FATİH MAHALLESİ ERZİNCAN BULVARI 114/C ÜZÜMLÜ/ERZİNCAN",
+   "phone": "0446 502 4445",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 39.697678,
+   "lng": 39.683681
+  }
+ ]
+}

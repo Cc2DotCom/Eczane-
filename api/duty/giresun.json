@@ -1,0 +1,174 @@
+{
+ "city": "Giresun",
+ "code": 28,
+ "dutyDay": "2026-10-20",
+ "updatedAt": "2026-10-20T17:38:39.455Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [
+  {
+   "district": "Alucra",
+   "name": "Furkan Eczanesi",
+   "address": "YUNUS EMRE MAH. KASIM YAĞCIOĞLU SOK.NO:4/A",
+   "phone": "0531 469 2846",
+   "dutyStart": "2026-10-20T19:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.320065,
+   "lng": 38.764671
+  },
+  {
+   "district": "Bulancak",
+   "name": "Şahin Eczanesi",
+   "address": "Bulancak Mah. Osman Gedikali Cad. No:36/C",
+   "phone": "0454 333 1919",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.937866,
+   "lng": 38.235016
+  },
+  {
+   "district": "Dereli",
+   "name": "Derman Eczanesi",
+   "address": "DERELİ MAH. CEMAL MÜDÜR CAD. A2 BLOK NO:17/B DERELİ/GİRESUN",
+   "phone": "0454 381 3145",
+   "dutyStart": "2026-10-20T17:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.737572,
+   "lng": 38.44939
+  },
+  {
+   "district": "Espiye",
+   "name": "Karadeniz Eczanesi",
+   "address": "MERKEZ MAH. GAZİ MUSTAFA KEMAL CAD. NO:13",
+   "phone": "0454 611 4099",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": null,
+   "lng": null
+  },
+  {
+   "district": "Eynesil",
+   "name": "Evren Eczanesi",
+   "address": "GÜMÜŞÇAY MAH. AV.BİLAL GÜDÜK CAD. NO:20/A EYNESİL/GİRESUN",
+   "phone": "0454 581 3136",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.064735,
+   "lng": 39.142899
+  },
+  {
+   "district": "Görele",
+   "name": "Selin Eczanesi",
+   "address": "Hendekbaşı Mah. Salih Sinirlioğlu Cad. No:50/AGörele/GİRESUN",
+   "phone": "0454 513 1155",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.031433,
+   "lng": 39.005096
+  },
+  {
+   "district": "Güce",
+   "name": "Güce Eczanesi",
+   "address": "MARAŞAL FEVZİ ÇAKMAK ÇAD.NO:3/A GÜCE GİRESUN",
+   "phone": "0454 451 6666",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.893631,
+   "lng": 38.807613
+  },
+  {
+   "district": "Keşap",
+   "name": "Ece Eczanesi",
+   "address": "BOZKURT MAH.İSMAİL TURAN CAD.NO:3/C KEŞAP/GİRESUN",
+   "phone": "0454 641 3363",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.916214,
+   "lng": 38.512943
+  },
+  {
+   "district": "Merkez",
+   "name": "İnci Eczanesi",
+   "address": "ÇINARLAR MAH. DR.BAKİ GÜRKAN SOK. NO:38/A GİRESUN",
+   "phone": "0540 046 0028",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.917725,
+   "lng": 38.389702
+  },
+  {
+   "district": "Merkez",
+   "name": "İrem Eczanesi",
+   "address": "Teyyaredüzü Mah. Atatürk Bulvarı No:373/C",
+   "phone": "0454 215 1520",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.912434,
+   "lng": 38.344479
+  },
+  {
+   "district": "Merkez",
+   "name": "Tuğçe Eczanesi",
+   "address": "Fevzi Çakmak Mah. Cinahmet Sok. No:3 GİRESUN",
+   "phone": "0454 240 4040",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.91333,
+   "lng": 38.384453
+  },
+  {
+   "district": "Piraziz",
+   "name": "Çağın Eczanesi",
+   "address": "YENİ MAH.ŞEHİT BAYTİYAR AYDIN PAŞA BULVARI NO:54 PİRAZİZ/GİRESUN",
+   "phone": "0454 361 4529",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.952457,
+   "lng": 38.126675
+  },
+  {
+   "district": "Şebinkarahisar",
+   "name": "Hisar Eczanesi",
+   "address": "KONUK CAD.NO:1 Ş.KARAHİSAR/GİRESUN",
+   "phone": "0454 711 4085",
+   "dutyStart": "2026-10-20T19:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.288609,
+   "lng": 38.423901
+  },
+  {
+   "district": "Tirebolu",
+   "name": "Pelin Eczanesi",
+   "address": "KÖRLİMAN MAH.AMİRAL ŞÜKRÜ OKAN CAD.NO356/A TİREBOLU GİRESUN",
+   "phone": "0454 429 2686",
+   "dutyStart": "2026-10-20T17:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 41.005333,
+   "lng": 38.846432
+  },
+  {
+   "district": "Yağlıdere",
+   "name": "Şahin Eczanesi",
+   "address": "DR.SELÇUK KAYAALP CAD. NO:29",
+   "phone": "0454 671 4343",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.859547,
+   "lng": 38.62587
+  }
+ ]
+}

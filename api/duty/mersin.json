@@ -1,0 +1,273 @@
+{
+ "city": "Mersin",
+ "code": 33,
+ "dutyDay": "2026-10-20",
+ "updatedAt": "2026-10-20T17:39:22.425Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [
+  {
+   "district": "Akdeniz",
+   "name": "Gülfidan Eczanesi",
+   "address": "Hal Mahallesi 163. Cadde No:33/B",
+   "phone": "0324 234 1454",
+   "dutyStart": "2026-10-20T08:00:00+03:00",
+   "dutyEnd": "2026-10-20T23:59:00+03:00",
+   "approved": true,
+   "lat": 36.824482,
+   "lng": 34.650658
+  },
+  {
+   "district": "Akdeniz",
+   "name": "Buket Eczanesi",
+   "address": "Yeni Mah. 5314 Sok. No:4",
+   "phone": "0324 336 6620",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 36.80653,
+   "lng": 34.635761
+  },
+  {
+   "district": "Akdeniz",
+   "name": "Karataş Eczanesi",
+   "address": "İhsaniye Mah. Kuvai Milliye Cad. No:159/A",
+   "phone": "0324 336 1952",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 36.808178,
+   "lng": 34.621517
+  },
+  {
+   "district": "Anamur",
+   "name": "Sinanoğlu Eczanesi",
+   "address": "Saray Mah. Bankalar Cad. No:2/C",
+   "phone": "0324 814 1256",
+   "dutyStart": "2026-10-20T08:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 36.079185,
+   "lng": 32.830055
+  },
+  {
+   "district": "Aydıncık",
+   "name": "Ünal Eczanesi",
+   "address": "CUMHURİYET MAH. KENAN EVREN CAD. NO: 3/B",
+   "phone": "0324 841 3997",
+   "dutyStart": "2026-10-20T17:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 36.152855,
+   "lng": 33.339096
+  },
+  {
+   "district": "Bozyazı",
+   "name": "Atalay Eczanesi",
+   "address": "Merkez Mahallesi Sağlık Sokak No:10B",
+   "phone": "0324 851 3399",
+   "dutyStart": "2026-10-20T08:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 36.106186,
+   "lng": 32.970493
+  },
+  {
+   "district": "Erdemli",
+   "name": "Murat Eczanesi",
+   "address": "Merkez Mah. Kazım Karabekir_1 Cad. No:72B",
+   "phone": "0544 558 2822",
+   "dutyStart": "2026-10-20T08:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 36.609741,
+   "lng": 34.303402
+  },
+  {
+   "district": "Erdemli",
+   "name": "Ümit Eczanesi",
+   "address": "Akdeniz Mah. Kazım Karabekir Cad. No:49/B",
+   "phone": "0324 515 3233",
+   "dutyStart": "2026-10-20T08:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 36.60891,
+   "lng": 34.303623
+  },
+  {
+   "district": "Erdemli",
+   "name": "Meyra Eczanesi",
+   "address": "Akdeniz Mah. Yunus Emre Cad. No: 43/A",
+   "phone": "0505 873 2125",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T00:00:00+03:00",
+   "approved": true,
+   "lat": 36.602116,
+   "lng": 34.301735
+  },
+  {
+   "district": "Gülnar",
+   "name": "Arikan Eczanesi",
+   "address": "Saray Mah. Demiroluk Cad. No:4-5",
+   "phone": "0324 751 7282",
+   "dutyStart": "2026-10-20T08:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 36.338383,
+   "lng": 33.40337
+  },
+  {
+   "district": "Mezitli",
+   "name": "Faruk Eczanesi",
+   "address": "Atatürk Mahallesi Hal Caddesi Dış Kapı No:3B",
+   "phone": "0535 256 7312",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 36.759216,
+   "lng": 34.543362
+  },
+  {
+   "district": "Mezitli",
+   "name": "Gündoğdu Eczanesi",
+   "address": "Merkez Mah. Vatan Cad. Siyena 21 Şehri Yıldız Sitesi D Blok Altı No:21G",
+   "phone": "0555 962 3333",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 36.745579,
+   "lng": 34.517902
+  },
+  {
+   "district": "Mut",
+   "name": "Sağlık Eczanesi",
+   "address": "KALE MAH. İNÖNÜ CAD. NO:20/A",
+   "phone": "0324 774 1372",
+   "dutyStart": "2026-10-20T08:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 36.643703,
+   "lng": 33.436771
+  },
+  {
+   "district": "Silifke",
+   "name": "Taşucu Eczanesi",
+   "address": "Taşucu Mah. İsmet İnönü Cad. No:16/I",
+   "phone": "0324 741 4986",
+   "dutyStart": "2026-10-20T08:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 36.319313,
+   "lng": 33.879848
+  },
+  {
+   "district": "Silifke",
+   "name": "Tol Eczanesi",
+   "address": "Göksu Mah. Özcan Seyhan Cad. No:9/B",
+   "phone": "0324 714 1547",
+   "dutyStart": "2026-10-20T08:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 36.381248,
+   "lng": 33.93005
+  },
+  {
+   "district": "Tarsus",
+   "name": "Eroğlu Eczanesi",
+   "address": "YENİ MAH. ATATÜRK BUL. NO:174/B",
+   "phone": "0324 625 1777",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T00:00:00+03:00",
+   "approved": true,
+   "lat": 36.927105,
+   "lng": 34.872204
+  },
+  {
+   "district": "Tarsus",
+   "name": "Gannemoğlu Eczanesi",
+   "address": "Öğretmenler Mah. Dumlupınar Bul. No:2/1F",
+   "phone": "0324 614 0036",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 36.909222,
+   "lng": 34.883156
+  },
+  {
+   "district": "Tarsus",
+   "name": "Kesen Eczanesi",
+   "address": "Barbaros Mah. 609 Sok. No:25/A",
+   "phone": "0555 752 0353",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T00:00:00+03:00",
+   "approved": true,
+   "lat": 36.904495,
+   "lng": 34.885677
+  },
+  {
+   "district": "Tarsus",
+   "name": "Ünal Eczanesi",
+   "address": "Tekke Mahallesi Türkmenistan Caddesi No:56D",
+   "phone": "0324 624 4070",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 36.914494,
+   "lng": 34.912113
+  },
+  {
+   "district": "Toroslar",
+   "name": "Dicle Eczanesi",
+   "address": "Çağdaşkent Mah. 93060 Sok. No:23/2",
+   "phone": "0324 223 5252",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 36.841328,
+   "lng": 34.617638
+  },
+  {
+   "district": "Toroslar",
+   "name": "Şengül Eczanesi",
+   "address": "Zeki Ayan Mah. Hüseyin Okan Merzeci Bulvarı No:351/ 1C (21)",
+   "phone": "0324 321 3879",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 36.818462,
+   "lng": 34.608551
+  },
+  {
+   "district": "Yenişehir",
+   "name": "Burcu Eczanesi",
+   "address": "Cumhuriyet Mah.1650 Sok.Sekizler Apt. A Blok No:5A Yenişehir",
+   "phone": "0324 326 7378",
+   "dutyStart": "2026-10-20T08:00:00+03:00",
+   "dutyEnd": "2026-10-20T23:59:00+03:00",
+   "approved": true,
+   "lat": 36.785984,
+   "lng": 34.601585
+  },
+  {
+   "district": "Yenişehir",
+   "name": "Ömer Eczanesi",
+   "address": "Çiftlikköy Mah. Mimar Sinan Cad. Paradise Homes Sitesi D-Blok No:24/DE",
+   "phone": "0324 502 1516",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 36.785469,
+   "lng": 34.540131
+  },
+  {
+   "district": "Yenişehir",
+   "name": "Rüzgar Eczanesi",
+   "address": "50. Yıl Mah. 20. Cad. Zigana Plus B Blok No:53BA",
+   "phone": "0505 696 4440",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 36.794724,
+   "lng": 34.580387
+  }
+ ]
+}

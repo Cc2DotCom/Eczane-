@@ -1,0 +1,130 @@
+{
+ "city": "Mardin",
+ "code": 47,
+ "dutyDay": "2026-10-20",
+ "updatedAt": "2026-10-20T17:43:21.741Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [
+  {
+   "district": "Artuklu",
+   "name": "Dünya Eczanesi",
+   "address": "13 Mart Mah. 46.Cadde 5.Sokak No:3C Artuklu/MARDİN",
+   "phone": "0482 213 1991",
+   "dutyStart": "2026-10-20T17:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.334755,
+   "lng": 40.713169
+  },
+  {
+   "district": "Dargeçit",
+   "name": "Büşra Eczanesi",
+   "address": "Bahçebaşı Mah. 1 Mayıs Bulvarı No:21",
+   "phone": "0482 381 2379",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.551426,
+   "lng": 41.70335
+  },
+  {
+   "district": "Derik",
+   "name": "Bilben Eczanesi",
+   "address": "Kale Mahallesi Ahmet Arif Caddesi No:5/D",
+   "phone": "0482 251 3316",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.364895,
+   "lng": 40.267208
+  },
+  {
+   "district": "Kızıltepe",
+   "name": "Dündar Eczanesi",
+   "address": "MEZOPOTAMYA MAH. TANDOĞAN CAD. NO: 81/A KIZILTEPE- MARDİN",
+   "phone": "0482 312 511_",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.201378,
+   "lng": 40.5844
+  },
+  {
+   "district": "Kızıltepe",
+   "name": "Kartal Eczanesi",
+   "address": "Yenikent Mah. Şehit Polis Memuru Nurettin TEKİN Cad. Huzurkent Sitesi No:4B",
+   "phone": "0543 911 7004",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.228165,
+   "lng": 40.62611
+  },
+  {
+   "district": "Mazıdağı",
+   "name": "Parlak Eczanesi",
+   "address": "Gündoğan Mah. Stad Cad. No:26/A",
+   "phone": "0482 502 8393",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.476547,
+   "lng": 40.491375
+  },
+  {
+   "district": "Midyat",
+   "name": "Ayaz Eczanesi",
+   "address": "Bahçelievler Mah. 749. Sok. No:6CC",
+   "phone": "0482 462 4044",
+   "dutyStart": "2026-10-20T08:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.410946,
+   "lng": 41.350437
+  },
+  {
+   "district": "Nusaybin",
+   "name": "Özgen Eczanesi",
+   "address": "Selahaddin Eyyubi Mah. Cumhuriyet Cad. No:12B",
+   "phone": "0545 876 0514",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.07061,
+   "lng": 41.212791
+  },
+  {
+   "district": "Ömerli",
+   "name": "Özdemir Eczanesi",
+   "address": "Yeni Mah. 3086. Sokak No:4/3 Ömerli/ MARDİN",
+   "phone": "0482 212 2627",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.398865,
+   "lng": 40.944206
+  },
+  {
+   "district": "Savur",
+   "name": "Şahin Eczanesi",
+   "address": "Kaplan Mahallesi Mardin Caddesi No:25",
+   "phone": "0543 891 9743",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.545681,
+   "lng": 40.879135
+  },
+  {
+   "district": "Yeşilli",
+   "name": "Çınarbaş Eczanesi",
+   "address": "BAHÇEBAŞI MAH. HANSEHATUN CAD. NO:120/C YEŞİLLİ/MARDİN",
+   "phone": "0482 591 1015",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.352306,
+   "lng": 40.835182
+  }
+ ]
+}

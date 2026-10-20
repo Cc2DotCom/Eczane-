@@ -1,0 +1,163 @@
+{
+ "city": "Afyonkarahisar",
+ "code": 3,
+ "dutyDay": "2026-10-20",
+ "updatedAt": "2026-10-20T17:34:43.227Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [
+  {
+   "district": "Bolvadin",
+   "name": "Yağmur Eczanesi",
+   "address": "BADEMLİ MAHALLESİ EMİRDAĞ CADDESİ NO:234/A BOLVADİN/AFYONKARAHİSAR",
+   "phone": "0272 611 2123",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.73064,
+   "lng": 31.04775
+  },
+  {
+   "district": "Çay",
+   "name": "Çağlayan Eczanesi",
+   "address": "CUMHURİYET CADDESİ NO:9 ÇAY/AFYONKARAHİSAR",
+   "phone": "0272 631 2865",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.591961,
+   "lng": 31.025267
+  },
+  {
+   "district": "Çobanlar",
+   "name": "Hilal Eczanesi",
+   "address": "IŞIK MAHALLESİ İSTASYON CADDESİ NO:51/A ÇOBANLAR/AFYONKARAHİSAR",
+   "phone": "0272 261 3373",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.699471,
+   "lng": 30.776836
+  },
+  {
+   "district": "Dazkırı",
+   "name": "Özdemir Eczanesi",
+   "address": "YENİYOL MAHALLESİ LÜTFİ SÖNMEZ CADDESİ NO:1/A DAZKIRI/AFYONKARAHİSAR",
+   "phone": "0272 421 4605",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.919662,
+   "lng": 29.860712
+  },
+  {
+   "district": "Dinar",
+   "name": "Sevinç Eczanesi",
+   "address": "PANCAR MAHALLESİ HÖYÜK CADDESİ NO:9/1 DİNAR/AFYONKARAHİSAR",
+   "phone": "0272 353 3035",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.064487,
+   "lng": 30.15807
+  },
+  {
+   "district": "Emirdağ",
+   "name": "Avrupali Eczanesi",
+   "address": "İncili Mah. Eskişehir Cad. No:1H",
+   "phone": "0539 614 9919",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 39.020115,
+   "lng": 31.150406
+  },
+  {
+   "district": "İhsaniye",
+   "name": "Pinar Eczanesi",
+   "address": "ZAFER MAHALLESİ BELCEMEŞE CADDESİ NO:22 İHSANİYE/AFYONKARAHİSAR",
+   "phone": "0272 271 5606",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 39.024048,
+   "lng": 30.412251
+  },
+  {
+   "district": "İscehisar",
+   "name": "Kevser Eczanesi",
+   "address": "Tepecik Mahallesi Ankara Caddesi No:97/1 İscehisar / Afyonkarahisar",
+   "phone": "0272 341 2063",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.856167,
+   "lng": 30.75824
+  },
+  {
+   "district": "Merkez",
+   "name": "Erdem Eczanesi",
+   "address": "ORHANGAZİ MAHALLESİ NEDİM HELVACIOĞLU CADDESİ NO:45/I",
+   "phone": "0272 255 5788",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.783932,
+   "lng": 30.515371
+  },
+  {
+   "district": "Merkez",
+   "name": "Güven Eczanesi",
+   "address": "DUMLUPINAR MAHALLESİ ALİ İHSAN SABİŞ CADDESİ NO:4/A AFYONKARAHİSAR",
+   "phone": "0272 213 1488",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.756638,
+   "lng": 30.542965
+  },
+  {
+   "district": "Merkez",
+   "name": "Sezgin Eczanesi",
+   "address": "Sahipata Mahallesi Seyhan Caddesi No:53/B",
+   "phone": "0272 214 4550",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.759701,
+   "lng": 30.576782
+  },
+  {
+   "district": "Sandıklı",
+   "name": "Cihan Eczanesi",
+   "address": "ECE MAHALLESİ İSTASYON CADDESİ NO:69/C",
+   "phone": "0272 512 6102",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.461239,
+   "lng": 30.268549
+  },
+  {
+   "district": "Sinanpaşa",
+   "name": "Ege Eczanesi",
+   "address": "ÖĞRETMENLER MAHALLESİ CUMHURİYET CADDESİ NO:12/Z01 SİNANPAŞA/AFYONKARAHİSAR",
+   "phone": "0272 311 7121",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.748055,
+   "lng": 30.246685
+  },
+  {
+   "district": "Şuhut",
+   "name": "Kale Eczanesi",
+   "address": "ALTIGÖZ MAHALLESİ AFYON CADDESİ NO:96/B ŞUHUT/AFYONKARAHİSAR",
+   "phone": "0272 718 3500",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.536266,
+   "lng": 30.55019
+  }
+ ]
+}

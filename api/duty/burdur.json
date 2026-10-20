@@ -1,0 +1,75 @@
+{
+ "city": "Burdur",
+ "code": 15,
+ "dutyDay": "2026-10-20",
+ "updatedAt": "2026-10-20T17:36:38.076Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [
+  {
+   "district": "Bucak",
+   "name": "Sarilar Eczanesi",
+   "address": "Yetmişevler Mahallesi Orhangazi Caddesi No:5/Z-12",
+   "phone": "0248 325 6800",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.471348,
+   "lng": 30.564369
+  },
+  {
+   "district": "Gölhisar",
+   "name": "Asri Eczanesi",
+   "address": "Pazar Mahallesi Cumhuriyet Caddesi No:79/1",
+   "phone": "0248 411 3141",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.144218,
+   "lng": 29.508635
+  },
+  {
+   "district": "Karamanlı",
+   "name": "Deva Eczanesi",
+   "address": "BARBAROS MAHALLESİ HASTANE CADDESİ NO:21/A KARAMANLI/BURDUR",
+   "phone": "0248 531 2424",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.368031,
+   "lng": 29.818331
+  },
+  {
+   "district": "Merkez",
+   "name": "Özgüner Eczanesi",
+   "address": "Atatürk Mahallesi Zeynel Abidin Tonguç Caddesi No:13/6 Merkez/BURDUR",
+   "phone": "0248 233 8000",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.713234,
+   "lng": 30.231709
+  },
+  {
+   "district": "Tefenni",
+   "name": "Demirol Eczanesi",
+   "address": "YOKUŞ MAHALLESİ BURDUR CADDESİ NO:18/A",
+   "phone": "0248 491 2135",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.309364,
+   "lng": 29.774769
+  },
+  {
+   "district": "Yeşilova",
+   "name": "Yeni Tekin Eczanesi",
+   "address": "MERKEZ MAHALLESİ ATATÜRK CADDESİ NO:23/B",
+   "phone": "0248 618 1616",
+   "dutyStart": "2026-10-20T17:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.505325,
+   "lng": 29.754328
+  }
+ ]
+}

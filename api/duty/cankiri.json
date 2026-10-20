@@ -1,0 +1,141 @@
+{
+ "city": "Çankırı",
+ "code": 18,
+ "dutyDay": "2026-10-20",
+ "updatedAt": "2026-10-20T17:37:18.636Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [
+  {
+   "district": "Atkaracalar",
+   "name": "Akif Eczanesi",
+   "address": "Gazi Bey Mahallesi Nevzat Ayaz Caddesi No:66/A",
+   "phone": "0376 712 1048",
+   "dutyStart": "2026-10-20T19:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.807678,
+   "lng": 33.077576
+  },
+  {
+   "district": "Bayramören",
+   "name": "Mehmet Eczanesi",
+   "address": "Merkez Mahallesi İbrahim Başar Caddesi No:1/C",
+   "phone": "0376 735 8005",
+   "dutyStart": "2026-10-20T08:00:00+03:00",
+   "dutyEnd": "2026-10-21T18:00:00+03:00",
+   "approved": true,
+   "lat": 40.943047,
+   "lng": 33.203648
+  },
+  {
+   "district": "Çerkeş",
+   "name": "Tuğçe Boz Eczanesi",
+   "address": "CUMHURİYET MAHALLESİ İSMAİL YENİGÜN CADDESİ 7/A",
+   "phone": "0533 668 4418",
+   "dutyStart": "2026-10-20T19:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.818394,
+   "lng": 32.899021
+  },
+  {
+   "district": "Eldivan",
+   "name": "Eldivan Eczanesi",
+   "address": "CAMİ MAH. ŞEHİT İTFAİYE ERİ ALİ AKBIYIK CAD. NO:32/A ELDİVAN/ÇANKIRI",
+   "phone": "0376 311 2150",
+   "dutyStart": "2026-10-20T19:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.530636,
+   "lng": 33.499233
+  },
+  {
+   "district": "İlgaz",
+   "name": "Beste Eczanesi",
+   "address": "Şentepe Mahallesi Naili Baba Caddesi No:65/A",
+   "phone": "0376 416 2010",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.92947,
+   "lng": 33.622772
+  },
+  {
+   "district": "Kızılırmak",
+   "name": "Kizilirmak Eczanesi",
+   "address": "YENİMAH. CUMHURİYET CAD. NO:17/A KIZILIRMAK/ÇANKIRI",
+   "phone": "0376 324 1030",
+   "dutyStart": "2026-10-20T19:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.346951,
+   "lng": 33.987267
+  },
+  {
+   "district": "Korgun",
+   "name": "Kaymakçı Eczanesi",
+   "address": "BÜYÜK MAHALLE SANAYİİ CADDESİ NO:8/1 KORGUN/ÇANKIRI",
+   "phone": "0376 343 1237",
+   "dutyStart": "2026-10-20T08:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.73362,
+   "lng": 33.513908
+  },
+  {
+   "district": "Kurşunlu",
+   "name": "Karaağaç Eczanesi",
+   "address": "CÖMERTLER MAH. HASAN CEYLAN CAD. NO:6/B KURŞUNLU/ÇANKIRI",
+   "phone": "0376 465 1079",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.840054,
+   "lng": 33.261559
+  },
+  {
+   "district": "Merkez",
+   "name": "Kent Eczanesi",
+   "address": "Cumhuriyet Mahallesi Belediye Caddesi Paşabeyoğlu İş Merkezi No:8/A Merkez/ÇANKIRI",
+   "phone": "0541 520 8590",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.600498,
+   "lng": 33.617889
+  },
+  {
+   "district": "Orta",
+   "name": "Öztürk Eczanesi",
+   "address": "Sultan Beyazıt Mahallesi Cumhuriyet Caddesi No:5/B Orta/ÇANKIRI",
+   "phone": "0376 615 1015",
+   "dutyStart": "2026-10-20T19:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.628822,
+   "lng": 33.107208
+  },
+  {
+   "district": "Şabanözü",
+   "name": "Hülya Eczanesi",
+   "address": "CUMHURİYET MAH. SAHİL SOK. NO:23 ŞABANÖZÜ/ÇANKIRI",
+   "phone": "0376 518 1520",
+   "dutyStart": "2026-10-20T19:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.483265,
+   "lng": 33.281597
+  },
+  {
+   "district": "Yapraklı",
+   "name": "Eda Eczanesi",
+   "address": "AŞAĞI MAH.CUMHURİYET MEYDANI NO :5/B YAPRAKLI",
+   "phone": "0376 361 2049",
+   "dutyStart": "2026-10-20T19:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.75729,
+   "lng": 33.778797
+  }
+ ]
+}

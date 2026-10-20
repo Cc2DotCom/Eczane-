@@ -1,0 +1,262 @@
+{
+ "city": "Denizli",
+ "code": 20,
+ "dutyDay": "2026-10-20",
+ "updatedAt": "2026-10-20T17:37:44.858Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [
+  {
+   "district": "Acıpayam",
+   "name": "Acipayam İlkay Eczanesi",
+   "address": "AŞAĞI MAH. ESKİ HASTANE CAD. NO:3",
+   "phone": "0258 518 3393",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.428047,
+   "lng": 29.351027
+  },
+  {
+   "district": "Bekilli",
+   "name": "Gülcan Eczanesi",
+   "address": "YENİ MAH. ÇARŞI CAD. NO:12",
+   "phone": "0258 791 1212",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.229469,
+   "lng": 29.419123
+  },
+  {
+   "district": "Bozkurt",
+   "name": "Hambat Eczanesi",
+   "address": "Mahmudiye Mahallesi Atatürk Bulvarı No:99/21",
+   "phone": "0258 831 5062",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.821098,
+   "lng": 29.606848
+  },
+  {
+   "district": "Buldan",
+   "name": "Özyurt Eczanesi",
+   "address": "CUMHURİYET MAH. PAZAR CAD. NO:9",
+   "phone": "0258 431 3030",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.045883,
+   "lng": 28.831766
+  },
+  {
+   "district": "Çal",
+   "name": "Koca Eczanesi",
+   "address": "İSMAİLLER MAH.SAĞLIK CAD.NO:44/A",
+   "phone": "0258 751 2996",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.082085,
+   "lng": 29.392519
+  },
+  {
+   "district": "Çameli",
+   "name": "Yilmaz Eczanesi",
+   "address": "Yunuspınarı Mahallesi 210 Sokak No:17A",
+   "phone": "0258 571 5044",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.072502,
+   "lng": 29.341179
+  },
+  {
+   "district": "Çardak",
+   "name": "Damla Eczanesi",
+   "address": "HÜRRİYET MAH. ÇERKEZOĞLU SOK. NO:1/A",
+   "phone": "0258 851 1111",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.823662,
+   "lng": 29.666735
+  },
+  {
+   "district": "Çivril",
+   "name": "Gökçe Eczanesi",
+   "address": "HAMAM MAH. CUMHURİYET_6 CAD. NO: 384/B",
+   "phone": "0532 177 1803",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.30793,
+   "lng": 29.741228
+  },
+  {
+   "district": "Güney",
+   "name": "Sağlık Eczanesi",
+   "address": "YENİMAHALLE 88.SOKAK NO:1/6",
+   "phone": "0258 451 2137",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.15976,
+   "lng": 29.063826
+  },
+  {
+   "district": "Honaz",
+   "name": "Yeni Kaftan Eczanesi",
+   "address": "CUMHURİYET MAH. KAZIM KARABEKİR SOK. NO:3/C",
+   "phone": "0258 811 3161",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.760002,
+   "lng": 29.267958
+  },
+  {
+   "district": "Kale",
+   "name": "Özdel Eczanesi",
+   "address": "CEVHERPAŞA MAH. HASTANE CAD. NO:5/Z-1",
+   "phone": "0258 671 3788",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.439934,
+   "lng": 28.847315
+  },
+  {
+   "district": "Merkezefendi",
+   "name": "Büke Eczanesi",
+   "address": "KARAHASANLI MAHALLESİ 2094 SOKAK NO:35A",
+   "phone": "0258 261 5050",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.80772,
+   "lng": 29.018684
+  },
+  {
+   "district": "Merkezefendi",
+   "name": "Çiftçi Eczanesi",
+   "address": "ÇAKMAK MAH. 134/1 SOKAK NO: 6 A",
+   "phone": "0258 371 2060",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.791191,
+   "lng": 29.014124
+  },
+  {
+   "district": "Merkezefendi",
+   "name": "Güleç Eczanesi",
+   "address": "SIRAKAPILAR MAH. ŞEHİT ALBAY KARAOĞLANOĞLU CAD. NO:42",
+   "phone": "0258 265 5567",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.782875,
+   "lng": 29.07963
+  },
+  {
+   "district": "Merkezefendi",
+   "name": "İlke Eczanesi",
+   "address": "MERKEZEFENDİ MAH. 29 EKİM BULVARI NO:19/A",
+   "phone": "0258 377 6669",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.779629,
+   "lng": 29.070135
+  },
+  {
+   "district": "Merkezefendi",
+   "name": "Moralıoğlu Eczanesi",
+   "address": "SIRAKAPILAR MAH. 495 SOK. NO:18/A",
+   "phone": "0258 264 5522",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.781593,
+   "lng": 29.081554
+  },
+  {
+   "district": "Pamukkale",
+   "name": "Forum Çamlık Eczanesi",
+   "address": "Mehmetçik Mahallesi Doğan Demircioğlu Caddesi No:2",
+   "phone": "0530 544 1319",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.75404,
+   "lng": 29.090647
+  },
+  {
+   "district": "Pamukkale",
+   "name": "Nazan Eczanesi",
+   "address": "Fesleğen Mahallesi Emek Caddesi No:35/A",
+   "phone": "0258 741 3988",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.768555,
+   "lng": 29.089659
+  },
+  {
+   "district": "Pamukkale",
+   "name": "Pelitlibağ Eczanesi",
+   "address": "PELİTLİBAĞ MAH. 1112 SOK. NO: 38",
+   "phone": "0258 241 6545",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.770546,
+   "lng": 29.097126
+  },
+  {
+   "district": "Pamukkale",
+   "name": "Candeniz Eczanesi",
+   "address": "Hürriyet Mahallesi 3. Cadde No: 14/A",
+   "phone": "0258 211 2846",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.752594,
+   "lng": 29.11627
+  },
+  {
+   "district": "Sarayköy",
+   "name": "Akman Eczanesi",
+   "address": "TURAN MAH. ATATÜRK CAD. NO:58",
+   "phone": "0258 415 1999",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.924549,
+   "lng": 28.922832
+  },
+  {
+   "district": "Serinhisar",
+   "name": "Kızılhisar Eczanesi",
+   "address": "ORTA MAH. GÜNEYLİLER SOK. NO:3",
+   "phone": "0258 591 3094",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.580109,
+   "lng": 29.262997
+  },
+  {
+   "district": "Tavas",
+   "name": "Sağlam Eczanesi",
+   "address": "SAMANLIK MAH. HÜKÜMET CAD. NO:37/B",
+   "phone": "0258 613 1080",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.571522,
+   "lng": 29.069349
+  }
+ ]
+}

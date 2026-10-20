@@ -1,0 +1,251 @@
+{
+ "city": "Manisa",
+ "code": 45,
+ "dutyDay": "2026-10-20",
+ "updatedAt": "2026-10-20T17:43:01.693Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [
+  {
+   "district": "Ahmetli",
+   "name": "Ahmetli Kıvanç Eczanesi",
+   "address": "ALTIEYLÜL MAHALLESİ HÜKÜMET CADDESİ NO:51/A",
+   "phone": "0236 768 2120",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T09:00:00+03:00",
+   "approved": true,
+   "lat": 38.518532,
+   "lng": 27.938307
+  },
+  {
+   "district": "Akhisar",
+   "name": "Akhisar Eczanesi",
+   "address": "REŞATBEY MAH.167 SOKAK NO:42/B",
+   "phone": "0236 412 8478",
+   "dutyStart": "2026-10-20T19:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.922752,
+   "lng": 27.826738
+  },
+  {
+   "district": "Akhisar",
+   "name": "Gülşah Eczanesi",
+   "address": "Kethüda mahallesi 373. sokak no:39/A",
+   "phone": "0533 161 9659",
+   "dutyStart": "2026-10-20T19:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.92857,
+   "lng": 27.835075
+  },
+  {
+   "district": "Alaşehir",
+   "name": "Kırmızıoğlu Eczanesi",
+   "address": "YENİCE MAH. BEŞEYLÜL CAD. NO:24/2",
+   "phone": "0236 653 1358",
+   "dutyStart": "2026-10-20T19:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.354549,
+   "lng": 28.514877
+  },
+  {
+   "district": "Demirci",
+   "name": "Yeni Hayat Eczanesi",
+   "address": "HACIHASAN MAHALLESİ CUMHURİYET MEYDANI NO:29",
+   "phone": "0236 462 1010",
+   "dutyStart": "2026-10-20T19:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 39.045109,
+   "lng": 28.654436
+  },
+  {
+   "district": "Gölmarmara",
+   "name": "Sude Eczanesi",
+   "address": "İHSANİYE MAHALLESİ 529. SOKAK NO11/A",
+   "phone": "0236 515 1397",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T09:00:00+03:00",
+   "approved": true,
+   "lat": 38.717464,
+   "lng": 27.911636
+  },
+  {
+   "district": "Gördes",
+   "name": "Rasimoğlu Eczanesi",
+   "address": "CUMA MAH. ATATÜRK CAD. NO:36/B GÖRDES",
+   "phone": "0236 547 3891",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T09:00:00+03:00",
+   "approved": true,
+   "lat": 38.933556,
+   "lng": 28.289858
+  },
+  {
+   "district": "Kırkağaç",
+   "name": "Varci Eczanesi",
+   "address": "YENİ MAHALLE 53 SOKAK N0:83 KIRKAĞAÇ MANİSA",
+   "phone": "0236 588 1527",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T09:00:00+03:00",
+   "approved": true,
+   "lat": 39.105061,
+   "lng": 27.671856
+  },
+  {
+   "district": "Köprübaşı",
+   "name": "Bal Eczanesi",
+   "address": "Namık Kemal Mahallesi Fevzi Paşa Bulvarı No:2",
+   "phone": "0236 571 2112",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.74815,
+   "lng": 28.403675
+  },
+  {
+   "district": "Kula",
+   "name": "Ege Eczanesi",
+   "address": "4 EYLÜL MAHALLESİ ŞEHİT MEHMET TOPÇUOĞLU CADDESİ NO:98/B",
+   "phone": "0236 816 1230",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.547119,
+   "lng": 28.647505
+  },
+  {
+   "district": "Salihli",
+   "name": "Helin Eczanesi",
+   "address": "Sağlık Mahallesi Ziya Gökalp Caddesi No:31/B",
+   "phone": "0501 595 1799",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.480705,
+   "lng": 28.140432
+  },
+  {
+   "district": "Salihli",
+   "name": "Sarıgedik Eczanesi",
+   "address": "YÖRÜK MAH. AVAR CAD. NO:113",
+   "phone": "0236 714 5060",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.479473,
+   "lng": 28.161846
+  },
+  {
+   "district": "Sarıgöl",
+   "name": "Güneş Eczanesi",
+   "address": "AYAN MAHALLESİ ATATÜRK CADDESİ DEMİRCİLER SOKAK NO:3",
+   "phone": "0236 867 1306",
+   "dutyStart": "2026-10-20T19:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.238533,
+   "lng": 28.696543
+  },
+  {
+   "district": "Saruhanlı",
+   "name": "Hastane Eczanesi",
+   "address": "CUMHURİYET CAD. PARK SOK.NO:23/A /SARUHANLI",
+   "phone": "0236 357 4547",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T09:00:00+03:00",
+   "approved": true,
+   "lat": 38.733498,
+   "lng": 27.567518
+  },
+  {
+   "district": "Selendi",
+   "name": "Hayat Eczanesi",
+   "address": "ZAFER MAH. MEHMET AKİF ERSOY CAD. NO:86/A",
+   "phone": "0236 788 3418",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.745659,
+   "lng": 28.868921
+  },
+  {
+   "district": "Soma",
+   "name": "Saliha Betül Eczanesi",
+   "address": "CUMHURİYET MAHALLESİ AKDOĞAN SOKAK NO:8/1 SOMA/MANİSA",
+   "phone": "0236 612 2855",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 39.186974,
+   "lng": 27.622971
+  },
+  {
+   "district": "Şehzadeler",
+   "name": "Işık Eczanesi",
+   "address": "NURLUPINAR MAH.TURGUTLU CAD.N0.37/C",
+   "phone": "0236 234 0820",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.617477,
+   "lng": 27.455198
+  },
+  {
+   "district": "Şehzadeler",
+   "name": "Öncü Eczanesi",
+   "address": "YARHASANLAR MAH. KUMLUDERE CAD. NO:15/B",
+   "phone": "0236 234 0404",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.618557,
+   "lng": 27.424269
+  },
+  {
+   "district": "Turgutlu",
+   "name": "İkbal Eczanesi",
+   "address": "Yedieylül Mah. Oğuz Sok. No:70 Turgutlu/MANİSA",
+   "phone": "0236 314 0108",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.500916,
+   "lng": 27.696957
+  },
+  {
+   "district": "Turgutlu",
+   "name": "Ünlüer Eczanesi",
+   "address": "SUBAŞI MAH. ÇAMLICA YOLU NO.51 TURGUTLU",
+   "phone": "0236 312 4266",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.492863,
+   "lng": 27.697266
+  },
+  {
+   "district": "Yunusemre",
+   "name": "Kent Eczanesi",
+   "address": "Güzelyurt Mahallesi 19 Mayıs Bulvarı No:9/A",
+   "phone": "0236 503 4014",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.629387,
+   "lng": 27.390236
+  },
+  {
+   "district": "Yunusemre",
+   "name": "Sueda Eczanesi",
+   "address": "Hafsa sultan Mah. Mimar Sinan Bulvarı No:180/A",
+   "phone": "0236 237 0344",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.616581,
+   "lng": 27.406343
+  }
+ ]
+}

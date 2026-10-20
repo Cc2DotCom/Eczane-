@@ -1,0 +1,75 @@
+{
+ "city": "Rize",
+ "code": 53,
+ "dutyDay": "2026-10-20",
+ "updatedAt": "2026-10-20T17:44:15.995Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [
+  {
+   "district": "Ardeşen",
+   "name": "Kibaroğlu Eczanesi",
+   "address": "CUMHURİYET MAHALLESİ ATATÜRK CADDESİ NO:311 B",
+   "phone": "0538 277 2395",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.190849,
+   "lng": 40.9828
+  },
+  {
+   "district": "Çayeli",
+   "name": "Ağaran Eczanesi",
+   "address": "ESKİPAZAR MAH. YUSUF ZİYA KURÇENLİ CAD. NO:21/A",
+   "phone": "0464 550 5153",
+   "dutyStart": "2026-10-20T17:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.083382,
+   "lng": 40.725876
+  },
+  {
+   "district": "Fındıklı",
+   "name": "Deniz Eczanesi",
+   "address": "SAHİL MAHALLESİ 34. CADDE NO:162A",
+   "phone": "0464 511 5305",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.267143,
+   "lng": 41.136467
+  },
+  {
+   "district": "Merkez",
+   "name": "İsmailoğlu Eczanesi",
+   "address": "EMİNETTİN MAH. CUMHURİYET CAD. 114/A MERKEZ RİZE",
+   "phone": "0464 213 1592",
+   "dutyStart": "2026-10-20T08:00:00+03:00",
+   "dutyEnd": "2026-10-21T18:00:00+03:00",
+   "approved": true,
+   "lat": 41.027718,
+   "lng": 40.515369
+  },
+  {
+   "district": "Merkez",
+   "name": "Hayat Eczanesi",
+   "address": "İslampaşa Mahallesi 2 No'lu Şehitler Caddesi No:41J",
+   "phone": "0464 214 4165",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.039001,
+   "lng": 40.573242
+  },
+  {
+   "district": "Pazar",
+   "name": "Merkez Eczanesi",
+   "address": "HAMİDİYE MAHALLESİ KAÇKAR SOKAK NO:40/A",
+   "phone": "0464 715 1261",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.179169,
+   "lng": 40.944286
+  }
+ ]
+}

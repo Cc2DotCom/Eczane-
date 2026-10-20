@@ -1,0 +1,64 @@
+{
+ "city": "Bilecik",
+ "code": 11,
+ "dutyDay": "2026-10-20",
+ "updatedAt": "2026-10-20T17:36:16.134Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [
+  {
+   "district": "Bozüyük",
+   "name": "Derman Eczanesi",
+   "address": "KASIMPAŞA MAH. DR.İSMAİL BEY CAD. NO:18",
+   "phone": "0228 314 8151",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 39.905224,
+   "lng": 30.037964
+  },
+  {
+   "district": "Gölpazarı",
+   "name": "Cebeci Eczanesi",
+   "address": "İSTİKLAL MAH. FEVZİ ÇAKMAK CAD. ÇİĞDEM SOKAK NO:1",
+   "phone": "0228 411 3393",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.282291,
+   "lng": 30.314161
+  },
+  {
+   "district": "Merkez",
+   "name": "Arif Eczanesi",
+   "address": "Pelitözü Mah. Fatih Sultan Mehmet Bulvarı No:25/4 BİLECİK/MERKEZ",
+   "phone": "0228 212 1113",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.183685,
+   "lng": 29.969517
+  },
+  {
+   "district": "Osmaneli",
+   "name": "Arslan Eczanesi",
+   "address": "Haceloğlu Mah. Hürriyet Cad. Karahan Apt. No:12/B",
+   "phone": "0541 380 8399",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.36113,
+   "lng": 30.020252
+  },
+  {
+   "district": "Pazaryeri",
+   "name": "Pazaryeri Çiğdem Eczanesi",
+   "address": "DEREBOĞAZ MAH. ÇARŞI MEYDANI NO:8/A",
+   "phone": "0228 381 2139",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 39.995235,
+   "lng": 29.902828
+  }
+ ]
+}

@@ -1,0 +1,108 @@
+{
+ "city": "Aksaray",
+ "code": 68,
+ "dutyDay": "2026-10-20",
+ "updatedAt": "2026-10-20T17:46:44.740Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [
+  {
+   "district": "Ağaçören",
+   "name": "Yeni Ağaçören Eczanesi",
+   "address": "ZAFER MAH. ANKARA CAD. NO:68/A",
+   "phone": "0382 331 2323",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.870731,
+   "lng": 33.914463
+  },
+  {
+   "district": "Eskil",
+   "name": "Mehmet Sevgi Eczanesi",
+   "address": "MERKEZ MAH. ŞEHİT RECEP BOZDAĞ CAD. NO:2/B-C",
+   "phone": "0382 411 4455",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.401855,
+   "lng": 33.412521
+  },
+  {
+   "district": "Gülağaç",
+   "name": "Toprak Eczanesi",
+   "address": "MEYDAN MAH. HÜRRİYET CAD. NO:11/C",
+   "phone": "0382 431 2155",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.393166,
+   "lng": 34.345863
+  },
+  {
+   "district": "Güzelyurt",
+   "name": "Kara Eczanesi",
+   "address": "Yukarı Mah. Prof. Dr. Necdet Sağlam Cad. No:28/B",
+   "phone": "0552 812 0973",
+   "dutyStart": "2026-10-20T17:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.27792,
+   "lng": 34.369583
+  },
+  {
+   "district": "Merkez",
+   "name": "Ata Eczanesi",
+   "address": "BAHÇELİ MAH. 79/KURTULUŞ CAD.NO:124/C",
+   "phone": "0543 859 0016",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.366543,
+   "lng": 34.043327
+  },
+  {
+   "district": "Merkez",
+   "name": "Perek Eczanesi",
+   "address": "MEYDAN MAH 45/NECİP FAZIL KISAKÜREK CAD. GÜR ŞELALE APT NO:7/A AKSARAY",
+   "phone": "0382 213 1665",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.376171,
+   "lng": 34.026287
+  },
+  {
+   "district": "Merkez",
+   "name": "Yasemin Eczanesi",
+   "address": "MİNARECİK MAH. 43/ANKARA CAD. SARAY İŞHANI NO:4/C",
+   "phone": "0382 213 5263",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.370483,
+   "lng": 34.026646
+  },
+  {
+   "district": "Ortaköy",
+   "name": "İnceli Eczanesi",
+   "address": "Zafer Mahallesi Hastane Sokak No:1/5",
+   "phone": "0382 351 2423",
+   "dutyStart": "2026-10-20T17:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.754837,
+   "lng": 34.070419
+  },
+  {
+   "district": "Sultanhanı",
+   "name": "Umut Eczanesi",
+   "address": "İSTİKAMET MAH. REİS FAHRİ SOLAK CAD. NO:61/A",
+   "phone": "0382 242 3343",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.245155,
+   "lng": 33.542992
+  }
+ ]
+}

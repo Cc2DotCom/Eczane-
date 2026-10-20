@@ -1,0 +1,108 @@
+{
+ "city": "Adıyaman",
+ "code": 2,
+ "dutyDay": "2026-10-20",
+ "updatedAt": "2026-10-20T17:34:33.191Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [
+  {
+   "district": "Besni",
+   "name": "Güner Eczanesi",
+   "address": "KORUPINAR MAH.ORHAN ACAR BUL.ÖZBOZMAZ APT.B BLOK NO:3 BESNİ/ADIYAMAN",
+   "phone": "0416 318 3536",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.683643,
+   "lng": 37.885719
+  },
+  {
+   "district": "Çelikhan",
+   "name": "Çelikhan Eczanesi",
+   "address": "YUNUS EMRE MAH. HÜKÜMET CAD. NO:53/E ÇELİKHAN / ADIYAMAN",
+   "phone": "0416 451 2840",
+   "dutyStart": "2026-10-20T08:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.032627,
+   "lng": 38.237736
+  },
+  {
+   "district": "Gölbaşı",
+   "name": "Önder Eczanesi",
+   "address": "Mimar Sinan Mahallesi Elçibey Caddesi No:28/A",
+   "phone": "0416 267 3076",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.786079,
+   "lng": 37.650169
+  },
+  {
+   "district": "Kahta",
+   "name": "Çare Eczanesi",
+   "address": "YAVUZ SELİM MAHALLESİ DİVANE MEJO CAD.NO:50/C KAHTA / ADIYAMAN",
+   "phone": "0416 725 5178",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.798367,
+   "lng": 38.606644
+  },
+  {
+   "district": "Kahta",
+   "name": "Gültekin Eczanesi",
+   "address": "YAVUZ SELİM MAH. DİVANE MEJO CAD.NO:50/B KAHTA/ADIYAMAN",
+   "phone": "0416 725 7155",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.798378,
+   "lng": 38.606598
+  },
+  {
+   "district": "Merkez",
+   "name": "Derman Eczanesi",
+   "address": "Turgut Reis Mahallesi 153 Sokak No: 31/A",
+   "phone": "0416 216 1900",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.767086,
+   "lng": 38.270847
+  },
+  {
+   "district": "Merkez",
+   "name": "Mehmet Remzi Baybatmaz Eczanesi",
+   "address": "Yunus Emre Mah. 29139. Sk. No:20 Merkez/Adıyaman",
+   "phone": "0536 798 0716",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.768456,
+   "lng": 38.32045
+  },
+  {
+   "district": "Merkez",
+   "name": "Nova City Eczanesi",
+   "address": "ALTINŞEHİR MAH. GÖKKUŞAĞI CAD. NO:12/C",
+   "phone": "0416 216 3858",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.738285,
+   "lng": 38.227154
+  },
+  {
+   "district": "Sincik",
+   "name": "Sibel Eczanesi",
+   "address": "Merkez Mahallesi Halil Peker Bulvarı No:37/1A",
+   "phone": "0543 169 0947",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.025402,
+   "lng": 38.619102
+  }
+ ]
+}

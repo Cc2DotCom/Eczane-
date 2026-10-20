@@ -1,0 +1,64 @@
+{
+ "city": "Kırıkkale",
+ "code": 71,
+ "dutyDay": "2026-10-20",
+ "updatedAt": "2026-10-20T17:46:57.937Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [
+  {
+   "district": "Delice",
+   "name": "Delice Eczanesi",
+   "address": "CUMHURİYET MAH. ATATÜRK BULVARI NO:6/C DELİCE/KIRIKKALE",
+   "phone": "0318 618 5609",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-20T22:00:00+03:00",
+   "approved": true,
+   "lat": 39.94426,
+   "lng": 34.032265
+  },
+  {
+   "district": "Karakeçili",
+   "name": "Metin Eczanesi",
+   "address": "KURTULUŞ MAH.İNÖNÜ CAD. NO:1/C KARAKEÇİLİ/KIRIKKALE",
+   "phone": "0318 474 3033",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 39.59354,
+   "lng": 33.378311
+  },
+  {
+   "district": "Keskin",
+   "name": "Rana Eczanesi",
+   "address": "BOZKURT MAH.MERT SOK:NO:36 KESKİN/KIRIKKALE",
+   "phone": "3 185 153 257_",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 39.67366,
+   "lng": 33.615814
+  },
+  {
+   "district": "Merkez",
+   "name": "Tuba Eczanesi",
+   "address": "YAYLACIK MAHALLESİ 368. SOK. NO: 3 - A/B KIRIKKALE",
+   "phone": "0318 500 1000",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 39.842297,
+   "lng": 33.497906
+  },
+  {
+   "district": "Merkez",
+   "name": "Umut Eczanesi",
+   "address": "ZAFER CADDESİ NO:46/C MERKEZ/KIRIKKALE",
+   "phone": "3 182 252 550_",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 39.842442,
+   "lng": 33.505863
+  }
+ ]
+}

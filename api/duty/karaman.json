@@ -1,0 +1,86 @@
+{
+ "city": "Karaman",
+ "code": 70,
+ "dutyDay": "2026-10-20",
+ "updatedAt": "2026-10-20T17:46:53.364Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [
+  {
+   "district": "Ayrancı",
+   "name": "Başak Eczanesi",
+   "address": "Dede Mah. Atatürk Cad. No:42",
+   "phone": "0338 411 2838",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.362217,
+   "lng": 33.689968
+  },
+  {
+   "district": "Başyayla",
+   "name": "Kiraz Eczanesi",
+   "address": "Şirindere Mah. Cumhuriyet Cad. No:149/B",
+   "phone": "0338 351 6180",
+   "dutyStart": "2026-10-20T08:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 36.751221,
+   "lng": 32.68243
+  },
+  {
+   "district": "Ermenek",
+   "name": "Eşme Eczanesi",
+   "address": "Seyran Mah. Müst. Yrd. Lütfi Elvan Cad. No:27/B",
+   "phone": "0338 716 4240",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 36.632153,
+   "lng": 32.904911
+  },
+  {
+   "district": "Kazımkarabekir",
+   "name": "Kasaba Eczanesi",
+   "address": "Pazar Mah. Kazım Karabekir Cad. No:3",
+   "phone": "0338 311 2500",
+   "dutyStart": "2026-10-20T08:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.226868,
+   "lng": 32.959778
+  },
+  {
+   "district": "Merkez",
+   "name": "Bilge Eczanesi",
+   "address": "Tahsin Ünal Mah.Şamkapı Cad. No:73/A-B",
+   "phone": "0338 214 7400",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-20T23:59:00+03:00",
+   "approved": true,
+   "lat": 37.181492,
+   "lng": 33.220444
+  },
+  {
+   "district": "Merkez",
+   "name": "Demir Eczanesi",
+   "address": "Osmangazi Mah. Yavuz Sultan Selim Bulv. No:74/A",
+   "phone": "0506 629 1898",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.172375,
+   "lng": 33.241684
+  },
+  {
+   "district": "Sarıveliler",
+   "name": "Talay Eczanesi",
+   "address": "Küçükkarapınar Mah. İmamhatip Sk. No:5/Z4",
+   "phone": "0338 441 2513",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 36.692032,
+   "lng": 32.621677
+  }
+ ]
+}

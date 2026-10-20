@@ -1,0 +1,240 @@
+{
+ "city": "Samsun",
+ "code": 55,
+ "dutyDay": "2026-10-20",
+ "updatedAt": "2026-10-20T17:44:41.811Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [
+  {
+   "district": "19 Mayıs",
+   "name": "Şifa Eczanesi",
+   "address": "PAZAR MAHALLESİ FATİH CADDESİ NO:36",
+   "phone": "0362 511 3278",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 41.492863,
+   "lng": 36.074509
+  },
+  {
+   "district": "Alaçam",
+   "name": "Gamze Eczanesi",
+   "address": "YENİCAMİ MAHALLESİ LİSE CADDESİ NO:68/A",
+   "phone": "0362 622 2619",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.611034,
+   "lng": 35.600513
+  },
+  {
+   "district": "Asarcık",
+   "name": "Cedit Eczanesi",
+   "address": "BİÇİNCİK MAHALLESİ ESEN SOKAK NO:11",
+   "phone": "0362 791 3256",
+   "dutyStart": "2026-10-20T17:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 41.036201,
+   "lng": 36.225281
+  },
+  {
+   "district": "Atakum",
+   "name": "Çatalçam Eczanesi",
+   "address": "GÜZELYURT MAHALLESİ ATATÜRK 7. KISIM BULVARI NO:64/A",
+   "phone": "0362 467 2296",
+   "dutyStart": "2026-10-20T08:30:00+03:00",
+   "dutyEnd": "2026-10-20T22:00:00+03:00",
+   "approved": true,
+   "lat": 41.420033,
+   "lng": 36.167515
+  },
+  {
+   "district": "Atakum",
+   "name": "Sila Eczanesi",
+   "address": "YENİMAHALLE MAHALLESİ ATAKENT BULVARI NO:54/C",
+   "phone": "0532 546 6946",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 41.338715,
+   "lng": 36.246834
+  },
+  {
+   "district": "Atakum",
+   "name": "Zehra Eczanesi",
+   "address": "ESENEVLER MAHALLESİ İSMET İNÖNÜ BULVARI NO:23/A",
+   "phone": "0362 502 9955",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 41.323944,
+   "lng": 36.295643
+  },
+  {
+   "district": "Ayvacık",
+   "name": "Umut Eczanesi",
+   "address": "ORHANGAZİ MAHALLESİ ATATÜRK BULVARI NO:23/A",
+   "phone": "0362 811 4010",
+   "dutyStart": "2026-10-20T17:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.988262,
+   "lng": 36.630623
+  },
+  {
+   "district": "Bafra",
+   "name": "Erdem Eczanesi",
+   "address": "ÇİLHANE MAH. ALAÇAM CAD. NO:116/C",
+   "phone": "0362 543 4974",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 41.566746,
+   "lng": 35.89666
+  },
+  {
+   "district": "Canik",
+   "name": "Soğuksu Eczanesi",
+   "address": "SOĞUKSU MAHALLESİ GÜNYÜZÜ SOKAK NO:6",
+   "phone": "0362 238 1588",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 41.263592,
+   "lng": 36.352058
+  },
+  {
+   "district": "Çarşamba",
+   "name": "Akbulut Eczanesi",
+   "address": "SARICALI MAHALLESİ DEĞİRMENBAŞI CADDESİ NO:39B",
+   "phone": "0362 833 7296",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 41.19762,
+   "lng": 36.720081
+  },
+  {
+   "district": "Havza",
+   "name": "Merkez Eczanesi",
+   "address": "İCADİYE MAHALLESİ Ş.HASAN AKTAR CADDESİ 1/A",
+   "phone": "0362 714 1782",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.968369,
+   "lng": 35.664974
+  },
+  {
+   "district": "İlkadım",
+   "name": "Kamer Eczanesi",
+   "address": "BAHÇELİEVLER MAHALLESİ İSTİKLAL CADDESİ NO:162/A/8",
+   "phone": "0362 230 0718",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 41.280125,
+   "lng": 36.341816
+  },
+  {
+   "district": "İlkadım",
+   "name": "Liva Eczanesi",
+   "address": "HANÇERLİ MAHALLESİ DERVİŞZADE SOKAK NO:6/16",
+   "phone": "0362 446 4447",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 41.300999,
+   "lng": 36.330948
+  },
+  {
+   "district": "İlkadım",
+   "name": "Sirim Eczanesi",
+   "address": "Ulugazi Mahallesi 100. Yıl Bulvarı 153/C",
+   "phone": "0538 507 0918",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 41.286488,
+   "lng": 36.330326
+  },
+  {
+   "district": "Kavak",
+   "name": "Kavak Eczanesi",
+   "address": "19 MAYIS MAHALLESİ ADNAN MENDERES CADDESİ NO:73",
+   "phone": "0362 741 2412",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 41.073875,
+   "lng": 36.036423
+  },
+  {
+   "district": "Ladik",
+   "name": "Ladik Elif Eczanesi",
+   "address": "BAHŞİ MAHALLESİ GAZİLER CADDESİ NO:56/A",
+   "phone": "0362 771 3091",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.911072,
+   "lng": 35.894905
+  },
+  {
+   "district": "Salıpazarı",
+   "name": "Seda Eczanesi",
+   "address": "ORTA MAHALLESİ MUSA KÜÇÜKKURT CADDESİ 2A",
+   "phone": "0545 835 4837",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.081211,
+   "lng": 36.825703
+  },
+  {
+   "district": "Tekkeköy",
+   "name": "Tekkeköy Eczanesi",
+   "address": "19 MAYIS MAHALLESİ HACI ALİ EKİNCİ BULVARI NO:30/1A",
+   "phone": "0538 332 1424",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.220398,
+   "lng": 36.458927
+  },
+  {
+   "district": "Terme",
+   "name": "Elmas Eczanesi",
+   "address": "Cumhuriyet Mahallesi Kemer Caddesi No: 5/2",
+   "phone": "0543 578 6793",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.213272,
+   "lng": 36.9552
+  },
+  {
+   "district": "Vezirköprü",
+   "name": "Ergin Eczanesi",
+   "address": "FAZIL AHMET PAŞA MAHALLESİ 121 SOKAK NO:2",
+   "phone": "0362 647 3699",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.142014,
+   "lng": 35.459042
+  },
+  {
+   "district": "Yakakent",
+   "name": "Gümenez Eczanesi",
+   "address": "MERKEZ MAHALLESİ CUMHURİYET SOKAK NO:37D",
+   "phone": "0362 611 3509",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 41.633438,
+   "lng": 35.527733
+  }
+ ]
+}

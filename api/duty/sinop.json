@@ -1,0 +1,86 @@
+{
+ "city": "Sinop",
+ "code": 57,
+ "dutyDay": "2026-10-20",
+ "updatedAt": "2026-10-20T17:44:54.094Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [
+  {
+   "district": "Ayancık",
+   "name": "Yüksel Eczanesi",
+   "address": "YALI MAH. ATATÜRK CAD. NO:32/A",
+   "phone": "0368 613 1631",
+   "dutyStart": "2026-10-20T17:00:00+03:00",
+   "dutyEnd": "2026-10-21T09:00:00+03:00",
+   "approved": true,
+   "lat": 41.943409,
+   "lng": 34.588257
+  },
+  {
+   "district": "Boyabat",
+   "name": "Yeni Eczanesi",
+   "address": "CAMİKEBİR MAH. ADNAN MENDERES BUL. NO:39/E",
+   "phone": "0368 315 2044",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.465927,
+   "lng": 34.771824
+  },
+  {
+   "district": "Durağan",
+   "name": "Nazlı Eczanesi",
+   "address": "Merkez mah. Plevne Cad. No:47/B Durağan / SİNOP",
+   "phone": "0368 416 1057",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 41.416367,
+   "lng": 35.058456
+  },
+  {
+   "district": "Erfelek",
+   "name": "Erfelek Eczanesi",
+   "address": "MERKEZ MAH. CUMHURİYET CAD. NO:26",
+   "phone": "0368 511 2039",
+   "dutyStart": "2026-10-20T19:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.87989,
+   "lng": 34.906693
+  },
+  {
+   "district": "Gerze",
+   "name": "Yenice Eczanesi",
+   "address": "HAMİDİYE MAH. RECAİ KURUOĞLU BUL. NO:2/A",
+   "phone": "0368 718 4885",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 41.80407,
+   "lng": 35.195072
+  },
+  {
+   "district": "Merkez",
+   "name": "Elif Eczanesi",
+   "address": "KALEYAZISI MAH. SAKARYA CAD. NO:77/B",
+   "phone": "0368 261 7236",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 42.025753,
+   "lng": 35.145798
+  },
+  {
+   "district": "Türkeli",
+   "name": "Türkeli Eczanesi",
+   "address": "GÜZELYURT MAH. OZMANGAZİ SOK. NO: 9/B TÜRKELİ/SİNOP",
+   "phone": "0368 671 2420",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.946136,
+   "lng": 34.337509
+  }
+ ]
+}

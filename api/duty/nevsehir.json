@@ -1,0 +1,108 @@
+{
+ "city": "Nevşehir",
+ "code": 50,
+ "dutyDay": "2026-10-20",
+ "updatedAt": "2026-10-20T17:43:52.210Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [
+  {
+   "district": "Acıgöl",
+   "name": "Papatya Eczanesi",
+   "address": "ÇAYIRLIK MAH. HASTANE CAD. NO:35/A ACIGÖL",
+   "phone": "0384 311 2726",
+   "dutyStart": "2026-10-20T17:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.547001,
+   "lng": 34.500378
+  },
+  {
+   "district": "Avanos",
+   "name": "Orkun Eczanesi",
+   "address": "CUMHURİYET MAH. ZELVE CADDESİ NO:20/4 AVANOS",
+   "phone": "0384 511 5933",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.712376,
+   "lng": 34.844517
+  },
+  {
+   "district": "Derinkuyu",
+   "name": "Haliloğlu Eczanesi",
+   "address": "FATİH MAH. ŞEHİT ERHAN KARATAŞ CAD. NO:15/B DERİNKUYU",
+   "phone": "0384 381 3091",
+   "dutyStart": "2026-10-20T17:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.374485,
+   "lng": 34.732372
+  },
+  {
+   "district": "Gülşehir",
+   "name": "Gülşehir Eczanesi",
+   "address": "KARAVEZİR MAH.ŞEHİT ER DURAN CAD. NO:3/2/3 GÜLŞEHİR",
+   "phone": "0384 411 3110",
+   "dutyStart": "2026-10-20T17:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.747387,
+   "lng": 34.622559
+  },
+  {
+   "district": "Hacıbektaş",
+   "name": "Bektaş Eczanesi",
+   "address": "BALA MAH.ATATÜRK BULVARI NO:61 İÇ KAPI NO:1/B HACIBEKTAŞ",
+   "phone": "0384 441 3139",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.939358,
+   "lng": 34.556679
+  },
+  {
+   "district": "Kozaklı",
+   "name": "Çağlar Eczanesi",
+   "address": "ALTUNSU MAH. Dr.DOĞAN BİRGÜL CAD. NO:18/A KOZAKLI",
+   "phone": "0384 471 4276",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 39.217686,
+   "lng": 34.8517
+  },
+  {
+   "district": "Merkez",
+   "name": "Çınar Eczanesi",
+   "address": "Kıratlıoğlu Mah. Yunus Emre Cad.No:29/1C",
+   "phone": "0384 212 4555",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-20T23:59:00+03:00",
+   "approved": true,
+   "lat": 38.626396,
+   "lng": 34.706921
+  },
+  {
+   "district": "Merkez",
+   "name": "Defne Eczanesi",
+   "address": "GÜZELYURT MAH.SÜMBÜL SOK. NO:18/A",
+   "phone": "0507 742 0650",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.632896,
+   "lng": 34.737839
+  },
+  {
+   "district": "Ürgüp",
+   "name": "Aydan Eczanesi",
+   "address": "CUMHURİYET MAH. ESKİ SANAYİ CAD. NO:12 ÜRGÜP",
+   "phone": "0384 341 2378",
+   "dutyStart": "2026-10-20T17:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.630131,
+   "lng": 34.913078
+  }
+ ]
+}

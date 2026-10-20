@@ -1,0 +1,42 @@
+{
+ "city": "Ardahan",
+ "code": 75,
+ "dutyDay": "2026-10-20",
+ "updatedAt": "2026-10-20T17:47:13.646Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [
+  {
+   "district": "Göle",
+   "name": "Emek Eczanesi",
+   "address": "Kubilay bey Mah. Kars Cad. No:10 Göle/ARDAHAN",
+   "phone": "0478 411 3019",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.793171,
+   "lng": 42.610214
+  },
+  {
+   "district": "Hanak",
+   "name": "Hanak Eczanesi",
+   "address": "Hürriyet Mahallesi, Atatürk Caddesi No:82 Hanak/Ardahan",
+   "phone": "0531 694 9725",
+   "dutyStart": "2026-10-20T17:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.236973,
+   "lng": 42.844879
+  },
+  {
+   "district": "Merkez",
+   "name": "Pamuk Eczanesi",
+   "address": "KARAGÖL MAH. KONGRE CADDESİ NO: 68",
+   "phone": "0478 211 2999",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 41.112362,
+   "lng": 42.700321
+  }
+ ]
+}

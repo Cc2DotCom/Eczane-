@@ -1,0 +1,42 @@
+{
+ "city": "Isparta",
+ "code": 32,
+ "dutyDay": "2026-10-20",
+ "updatedAt": "2026-10-20T17:39:06.953Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [
+  {
+   "district": "Merkez",
+   "name": "Ece Eczanesi",
+   "address": "AYAZMANA MAH. 124.CADDE NO:93",
+   "phone": "0246 242 0572",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.752888,
+   "lng": 30.577868
+  },
+  {
+   "district": "Merkez",
+   "name": "Köklü Eczanesi",
+   "address": "DAVRAZ MAHALLESİ 104.CADDE NO:40F/1",
+   "phone": "0246 223 7280",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.774807,
+   "lng": 30.560829
+  },
+  {
+   "district": "Merkez",
+   "name": "Rabia Ay Eczanesi",
+   "address": "Bahçelievler Mahallesi 156.Cadde No:3-13 IYAŞ AVM Girişi",
+   "phone": "0555 007 1995",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.781864,
+   "lng": 30.545179
+  }
+ ]
+}

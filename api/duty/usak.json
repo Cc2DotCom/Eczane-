@@ -1,0 +1,97 @@
+{
+ "city": "Uşak",
+ "code": 64,
+ "dutyDay": "2026-10-20",
+ "updatedAt": "2026-10-20T17:46:03.063Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [
+  {
+   "district": "Banaz",
+   "name": "Okyay Eczanesi",
+   "address": "Cumhuriyet Mah.Başaran Cd. No:47/A",
+   "phone": "0276 315 3418",
+   "dutyStart": "2026-10-20T08:30:00+03:00",
+   "dutyEnd": "2026-10-21T18:00:00+03:00",
+   "approved": true,
+   "lat": 38.737465,
+   "lng": 29.754185
+  },
+  {
+   "district": "Eşme",
+   "name": "Yilmaz Eczanesi",
+   "address": "Şehit Alibey Mahallesi Kemer Caddesi No: 8",
+   "phone": "0276 414 1786",
+   "dutyStart": "2026-10-20T08:30:00+03:00",
+   "dutyEnd": "2026-10-21T18:30:00+03:00",
+   "approved": true,
+   "lat": 38.399483,
+   "lng": 28.969156
+  },
+  {
+   "district": "Karahallı",
+   "name": "Barış Eczanesi",
+   "address": "KONAK MH. AÇIK PAZAR MEYDANI NO:33",
+   "phone": "0276 517 1770",
+   "dutyStart": "2026-10-20T08:30:00+03:00",
+   "dutyEnd": "2026-10-21T18:30:00+03:00",
+   "approved": true,
+   "lat": 38.320847,
+   "lng": 29.531631
+  },
+  {
+   "district": "Merkez",
+   "name": "Çavuşoğlu Eczanesi",
+   "address": "BOZKURT MAH.ŞEHİT ALİ RIZA HORASAN CAD.NO:101/B UŞAK",
+   "phone": "0276 223 5555",
+   "dutyStart": "2026-10-20T08:30:00+03:00",
+   "dutyEnd": "2026-10-21T18:30:00+03:00",
+   "approved": true,
+   "lat": 38.684544,
+   "lng": 29.404219
+  },
+  {
+   "district": "Merkez",
+   "name": "Samanci Eczanesi",
+   "address": "Atatürk Mah. Suna Sok. No:4/A",
+   "phone": "0276 231 1414",
+   "dutyStart": "2026-10-20T08:30:00+03:00",
+   "dutyEnd": "2026-10-21T18:30:00+03:00",
+   "approved": true,
+   "lat": 38.667278,
+   "lng": 29.419334
+  },
+  {
+   "district": "Merkez",
+   "name": "Su Eczanesi",
+   "address": "DİKİLİTAŞ MH. 1. CAMİ SK.NO:16/A",
+   "phone": "0276 227 6062",
+   "dutyStart": "2026-10-20T08:30:00+03:00",
+   "dutyEnd": "2026-10-21T18:30:00+03:00",
+   "approved": true,
+   "lat": 38.67828,
+   "lng": 29.383345
+  },
+  {
+   "district": "Sivaslı",
+   "name": "Şükran Eczanesi",
+   "address": "KONAK MAH. GAZİ BULVARI NO:125",
+   "phone": "_ 276 618 1177",
+   "dutyStart": "2026-10-20T08:30:00+03:00",
+   "dutyEnd": "2026-10-21T18:30:00+03:00",
+   "approved": true,
+   "lat": 38.498489,
+   "lng": 29.678995
+  },
+  {
+   "district": "Ulubey",
+   "name": "Buket Eczanesi",
+   "address": "AŞAĞI MH. ARIKAN BEDÜK CD. NO:71/A",
+   "phone": "0276 502 3648",
+   "dutyStart": "2026-10-20T08:30:00+03:00",
+   "dutyEnd": "2026-10-21T18:30:00+03:00",
+   "approved": true,
+   "lat": 38.41777,
+   "lng": 29.282158
+  }
+ ]
+}

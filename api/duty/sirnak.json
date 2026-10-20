@@ -1,0 +1,75 @@
+{
+ "city": "Şırnak",
+ "code": 73,
+ "dutyDay": "2026-10-20",
+ "updatedAt": "2026-10-20T17:47:04.894Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [
+  {
+   "district": "Beytüşşebap",
+   "name": "Foria Eczanesi",
+   "address": "ELKİ MAHALLE, 5.CADDE NO:11/B",
+   "phone": "0539 430 9956",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.570683,
+   "lng": 43.164711
+  },
+  {
+   "district": "Cizre",
+   "name": "Gökalp Eczanesi",
+   "address": "YAFES MAHALLESİ AMİNE YAŞIN CADDESİ NO:27",
+   "phone": "0546 736 7306",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.315933,
+   "lng": 42.193863
+  },
+  {
+   "district": "İdil",
+   "name": "Sağlık Eczanesi",
+   "address": "Aşağı Mahalle Hastane Caddesi No:7/J",
+   "phone": "0542 686 2617",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.340515,
+   "lng": 41.901657
+  },
+  {
+   "district": "Merkez",
+   "name": "Dilşad Eczanesi",
+   "address": "Bahçelievler Mahallesi Nujin Caddesi No:32",
+   "phone": "0486 502 0202",
+   "dutyStart": "2026-10-20T17:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.516907,
+   "lng": 42.44352
+  },
+  {
+   "district": "Silopi",
+   "name": "Barış Eczanesi",
+   "address": "NUH MAHALLE 342. SOKAK NO: 36/B",
+   "phone": "0486 518 1817",
+   "dutyStart": "2026-10-20T17:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.258827,
+   "lng": 42.458294
+  },
+  {
+   "district": "Uludere",
+   "name": "Deniz Eczanesi",
+   "address": "Yeşilyuva Mah. Vatan Cad. No:13/A",
+   "phone": "0486 351 2122",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.446743,
+   "lng": 42.844856
+  }
+ ]
+}

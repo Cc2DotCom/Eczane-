@@ -1,0 +1,273 @@
+{
+ "city": "Kocaeli",
+ "code": 41,
+ "dutyDay": "2026-10-20",
+ "updatedAt": "2026-10-20T17:42:06.577Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [
+  {
+   "district": "Başiskele",
+   "name": "Botanik Eczanesi",
+   "address": "SEYMEN MAH. HASAN GAZİ CAD. NO:2/1",
+   "phone": "0262 343 5440",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.702885,
+   "lng": 29.90332
+  },
+  {
+   "district": "Çayırova",
+   "name": "Emek Eczanesi",
+   "address": "EMEK MAHALLESİ 30. SOKAK NO:3/A",
+   "phone": "0530 914 8463",
+   "dutyStart": "2026-10-20T08:30:00+03:00",
+   "dutyEnd": "2026-10-21T18:30:00+03:00",
+   "approved": true,
+   "lat": 40.818398,
+   "lng": 29.406935
+  },
+  {
+   "district": "Çayırova",
+   "name": "Zambak Eczanesi",
+   "address": "YENİMAHALLE MAH. FATİH CAD. NO:23/B",
+   "phone": "0262 743 9176",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.817745,
+   "lng": 29.369602
+  },
+  {
+   "district": "Darıca",
+   "name": "İrmak Eczanesi",
+   "address": "FEVZİ ÇAKMAK MAH. DR. ZEKİ ACAR CAD. NO:60/C",
+   "phone": "0262 656 0555",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.771252,
+   "lng": 29.404127
+  },
+  {
+   "district": "Darıca",
+   "name": "Şebnem Enise Eczanesi",
+   "address": "BAĞLARBAŞI MAH. İSTASYON CAD. NO:204",
+   "phone": "0262 745 3464",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.761982,
+   "lng": 29.388882
+  },
+  {
+   "district": "Derince",
+   "name": "Ceren Eczanesi",
+   "address": "SIRRIPAŞA MAH. ÇAVDAR CAD. NO:36/B",
+   "phone": "0552 841 9303",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.760574,
+   "lng": 29.81501
+  },
+  {
+   "district": "Dilovası",
+   "name": "Uğur Eczanesi",
+   "address": "ORHANGAZİ MAH. 231. SOK. NO:1/B",
+   "phone": "0262 754 1754",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.789547,
+   "lng": 29.539413
+  },
+  {
+   "district": "Gebze",
+   "name": "Esra Eczanesi",
+   "address": "MİMARSİNAN MAHALLESİ MİMAR SİNAN CAD. NO:63/A GEBZE KOCAELİ",
+   "phone": "0262 743 9030",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.811413,
+   "lng": 29.385185
+  },
+  {
+   "district": "Gebze",
+   "name": "Melis Eczanesi",
+   "address": "ARAPÇEŞME MAH. N.KEMAL CAD. 1025 SOK. NO: 4/A",
+   "phone": "0262 646 5584",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.808582,
+   "lng": 29.44092
+  },
+  {
+   "district": "Gebze",
+   "name": "Nane Limon Eczanesi",
+   "address": "OSMAN YILMAZ MAH. ŞEHİT NUMAN DEDE CAD. NO:35 GEBZE",
+   "phone": "0262 641 9966",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.796925,
+   "lng": 29.427298
+  },
+  {
+   "district": "Gebze",
+   "name": "Ülker Eczanesi",
+   "address": "BARIŞ MAH. DR. ZEKİ ACAR CAD. NO:64/B GEBZE",
+   "phone": "0262 644 1429",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.783928,
+   "lng": 29.433514
+  },
+  {
+   "district": "Gölcük",
+   "name": "Alcan Eczanesi",
+   "address": "MERKEZ MAH. CUMHURİYET CAD. NO:17/B",
+   "phone": "0262 427 2549",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.720963,
+   "lng": 29.785168
+  },
+  {
+   "district": "Gölcük",
+   "name": "İhsaniye Eczanesi",
+   "address": "İHSANİYE MERKEZ MAH. BEYOĞLU CAD. NO: 36/A GÖLCÜK",
+   "phone": "0262 435 7570",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.690475,
+   "lng": 29.831367
+  },
+  {
+   "district": "Gölcük",
+   "name": "Turan Eczanesi",
+   "address": "YENİMAHALLE 288.SOK NO:6/A GÖLCÜK",
+   "phone": "0262 435 5365",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.714584,
+   "lng": 29.815783
+  },
+  {
+   "district": "İzmit",
+   "name": "Gümüş Eczanesi",
+   "address": "YENİŞEHİR MAH. ÖZDEN SOK. NO: 32/A-B",
+   "phone": "0262 311 7829",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.770039,
+   "lng": 29.960636
+  },
+  {
+   "district": "İzmit",
+   "name": "Marmara Eczanesi",
+   "address": "ÖMERAĞA MAH. ALEMDAR CAD. NO:32/B",
+   "phone": "0262 322 3875",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.764191,
+   "lng": 29.928471
+  },
+  {
+   "district": "İzmit",
+   "name": "Özer Eczanesi",
+   "address": "CEDİT MAH. DEVLET HASTANESİ SOK. NO:32/A İZMİT KOCAELİ",
+   "phone": "0262 332 0836",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.766468,
+   "lng": 29.937662
+  },
+  {
+   "district": "İzmit",
+   "name": "Üniversite Eczanesi",
+   "address": "Kabaoğlu Mah. Prof.Baki Komsuoğlu Bulvarı No: 501/E",
+   "phone": "0262 329 5050",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.823132,
+   "lng": 29.926727
+  },
+  {
+   "district": "İzmit",
+   "name": "Yenidoğan Eczanesi",
+   "address": "YENİDOĞAN MAH. KAYIN SOK. NO:16/A",
+   "phone": "0262 321 7959",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.768471,
+   "lng": 29.902473
+  },
+  {
+   "district": "Kandıra",
+   "name": "Merve Eczanesi",
+   "address": "ÇARŞI MAH. İZMİT CAD. A BLOK NO:16/E",
+   "phone": "0262 551 6448",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 41.067734,
+   "lng": 30.152143
+  },
+  {
+   "district": "Karamürsel",
+   "name": "Cihan Eczanesi",
+   "address": "KAYACIK MAH. RAUF DENKTAŞ BULVARI NO:23/C",
+   "phone": "0262 452 1011",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.689445,
+   "lng": 29.606726
+  },
+  {
+   "district": "Kartepe",
+   "name": "Erhan Eczanesi",
+   "address": "DUMLUPINAR MAH. NUR CAD. NO:13B",
+   "phone": "0501 343 4141",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.754807,
+   "lng": 30.02326
+  },
+  {
+   "district": "Körfez",
+   "name": "Banu Eczanesi",
+   "address": "ATALAR MAH. MEHMET AKİF ERSOY CAD. 10/B",
+   "phone": "0262 528 7017",
+   "dutyStart": "2026-10-20T08:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.773438,
+   "lng": 29.734423
+  },
+  {
+   "district": "Körfez",
+   "name": "Deniz Eczanesi",
+   "address": "YAVUZ SULTAN SELİM MAH. MEVLANA CAD. NO:23/A",
+   "phone": "0262 527 7786",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.774998,
+   "lng": 29.781404
+  }
+ ]
+}

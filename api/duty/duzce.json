@@ -1,0 +1,130 @@
+{
+ "city": "Düzce",
+ "code": 81,
+ "dutyDay": "2026-10-20",
+ "updatedAt": "2026-10-20T17:47:42.953Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [
+  {
+   "district": "Akçakoca",
+   "name": "Güneş Eczanesi",
+   "address": "AYAZLI MAHALLESİ SANAYİ 3 SOKAK NO:1A",
+   "phone": "0530 278 0181",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 41.084599,
+   "lng": 31.173038
+  },
+  {
+   "district": "Cumayeri",
+   "name": "Cumayeri Eczanesi",
+   "address": "Çevrik Mahallesi İstiklal Caddesi No:19B Cumayeri / Düzce",
+   "phone": "0380 735 3081",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.871246,
+   "lng": 30.951546
+  },
+  {
+   "district": "Çilimli",
+   "name": "Doğan Eczanesi",
+   "address": "ULUCAMİ MAHALLESİ DÜZCE CADDESİ NO:49/3",
+   "phone": "0380 681 5578",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.884048,
+   "lng": 31.046684
+  },
+  {
+   "district": "Gölyaka",
+   "name": "Ülker Eczanesi",
+   "address": "KÜLTÜR MAHALLESİ HASTANE SOKAK NO:11A",
+   "phone": "0380 711 4526",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.77943,
+   "lng": 30.993835
+  },
+  {
+   "district": "Gümüşova",
+   "name": "Ozan Eczanesi",
+   "address": "FATİH MAHALLESİ BAĞDAT CADDESİ NO: 43/1A",
+   "phone": "0380 731 3411",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.857029,
+   "lng": 30.955183
+  },
+  {
+   "district": "Kaynaşlı",
+   "name": "Anil Aydin Eczanesi",
+   "address": "MERKEZ MAHALLESİ KÜLTÜR CADDESİ BELEDİYE İŞ MERKEZİ SİTESİ NO:36/Z02",
+   "phone": "0380 544 3001",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.772919,
+   "lng": 31.315632
+  },
+  {
+   "district": "Merkez",
+   "name": "Bahçelievler Eczanesi",
+   "address": "NALBANTOĞLU MAHALLESİ 2.DÜZCE BULVARI NO:17/5B",
+   "phone": "0380 411 6348",
+   "dutyStart": "2026-10-20T08:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.867897,
+   "lng": 31.226463
+  },
+  {
+   "district": "Merkez",
+   "name": "Fatih Eczanesi",
+   "address": "ORHANGAZİ MAHALLESİ PROF. DR. FUNDA SİVRİKAYA ŞERİFOĞLU BULVARI NO:29E",
+   "phone": "0380 562 1010",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.906292,
+   "lng": 31.171709
+  },
+  {
+   "district": "Merkez",
+   "name": "Fidan Eczanesi",
+   "address": "KOÇYAZI MAHALLESİ 2399. SOKAK NO:2M",
+   "phone": "0380 512 3048",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.849777,
+   "lng": 31.182531
+  },
+  {
+   "district": "Merkez",
+   "name": "Yağmur Eczanesi",
+   "address": "AZİZİYE MAHALLESİ ŞEHİT RAMAZAN GEL CADDESİ NO:20B",
+   "phone": "0380 525 0049",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.843899,
+   "lng": 31.138731
+  },
+  {
+   "district": "Yığılca",
+   "name": "Recep Eczanesi",
+   "address": "ORHANGAZİ MAHALLESİ RECEP TAYYİP ERDOĞAN CADDESİ NO:1H",
+   "phone": "0380 651 5267",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.958767,
+   "lng": 31.444162
+  }
+ ]
+}

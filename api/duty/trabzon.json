@@ -1,0 +1,251 @@
+{
+ "city": "Trabzon",
+ "code": 61,
+ "dutyDay": "2026-10-20",
+ "updatedAt": "2026-10-20T17:45:40.136Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [
+  {
+   "district": "Akçaabat",
+   "name": "Güner Eczanesi",
+   "address": "DÜRBİNAR MAH. İNÖNÜ CAD. NO:103A",
+   "phone": "0462 228 1328",
+   "dutyStart": "2026-10-20T17:00:00+03:00",
+   "dutyEnd": "2026-10-21T09:00:00+03:00",
+   "approved": true,
+   "lat": 41.022148,
+   "lng": 39.569042
+  },
+  {
+   "district": "Akçaabat",
+   "name": "Gökhan Eczanesi",
+   "address": "SÖĞÜTLÜ MAHALLESİ SAĞLIK SOKAK NO:6A",
+   "phone": "0462 248 8464",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.008682,
+   "lng": 39.613979
+  },
+  {
+   "district": "Araklı",
+   "name": "Doğa Eczanesi",
+   "address": "MERKEZ MAH. YILMAZ CEBİ CAD.NO:72",
+   "phone": "0462 721 4442",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.938519,
+   "lng": 40.05846
+  },
+  {
+   "district": "Arsin",
+   "name": "Yildirimhan Eczanesi",
+   "address": "Yeşilce Mah. Şehit Ast. Halil Albayrak Cad. No:64A",
+   "phone": "0462 711 0711",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.954124,
+   "lng": 39.935017
+  },
+  {
+   "district": "Beşikdüzü",
+   "name": "Başkan Ecz. Eczanesi",
+   "address": "Cumhuriyet Mah. Badem Sokak Demirel Apt. No:5A",
+   "phone": "0462 871 6229",
+   "dutyStart": "2026-10-20T17:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.052578,
+   "lng": 39.231129
+  },
+  {
+   "district": "Çarşıbaşı",
+   "name": "Çağlar Eczanesi",
+   "address": "Burunbaşı Mah. Burunbaşı Yalı Sok. No:7A",
+   "phone": "0462 821 3122",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 41.080715,
+   "lng": 39.374069
+  },
+  {
+   "district": "Çarşıbaşı",
+   "name": "Gökçe Eczanesi",
+   "address": "Merkez Mah. Avni Akkan Cad. No:68A",
+   "phone": "0462 821 3115",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 41.081989,
+   "lng": 39.379028
+  },
+  {
+   "district": "Çarşıbaşı",
+   "name": "Gökçe Eczanesi",
+   "address": "Merkez Mah. Avni Akkan Cad. No:68A",
+   "phone": "0462 821 3115",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 41.081989,
+   "lng": 39.379028
+  },
+  {
+   "district": "Çarşıbaşı",
+   "name": "Gökçe Eczanesi",
+   "address": "Merkez Mah. Avni Akkan Cad. No:68A",
+   "phone": "0462 821 3115",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 41.081989,
+   "lng": 39.379028
+  },
+  {
+   "district": "Çaykara",
+   "name": "Sağlık Eczanesi",
+   "address": "Işıklı Mah. Uzun Sok. No:14/A",
+   "phone": "0553 525 8608",
+   "dutyStart": "2026-10-20T17:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.748608,
+   "lng": 40.242142
+  },
+  {
+   "district": "Maçka",
+   "name": "Maçka Eczanesi",
+   "address": "Merkez Mah. Atatürk Cad. Eyüp Efendi İş Merkezi No:37D",
+   "phone": "0462 737 6061",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.811466,
+   "lng": 39.612934
+  },
+  {
+   "district": "Of",
+   "name": "Hayat Ecz. Eczanesi",
+   "address": "BÜYÜK CAMİ CD.NO.4",
+   "phone": "0462 771 2885",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.944923,
+   "lng": 40.267956
+  },
+  {
+   "district": "Ortahisar",
+   "name": "Beşirli Eczanesi",
+   "address": "1 NOLU BEŞİRLİ MAH. ADATEPE SOK. KALYON APT. NO:10B",
+   "phone": "0462 222 1515",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.992348,
+   "lng": 39.665047
+  },
+  {
+   "district": "Ortahisar",
+   "name": "Burçin Eczanesi",
+   "address": "Kemerkaya Mah. Kunduracılar Cad. No:41A",
+   "phone": "0462 321 1006",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.00592,
+   "lng": 39.729805
+  },
+  {
+   "district": "Ortahisar",
+   "name": "Numune Eczanesi",
+   "address": "Gülbaharhatun Mah. K.Maraş cad. Anıt Sok.No:1/A",
+   "phone": "0462 411 0444",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.005962,
+   "lng": 39.708424
+  },
+  {
+   "district": "Ortahisar",
+   "name": "Şeyma Eczanesi",
+   "address": "3 NOLU ERDOĞDU MAH. ŞEHİT MUSTAFA ALİYAZICIOĞLU CAD. NO:8A",
+   "phone": "0462 273 2210",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.994701,
+   "lng": 39.706593
+  },
+  {
+   "district": "Ortahisar",
+   "name": "Yağız Eczanesi",
+   "address": "ÜNİVERSİTE MAHALLESİ KONUT SOKAK NO:18A",
+   "phone": "0462 223 3322",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.993725,
+   "lng": 39.760067
+  },
+  {
+   "district": "Sürmene",
+   "name": "Yeni Ecz. Eczanesi",
+   "address": "ÇAMLICA MAH. ÇAMLICA CAD. NO: 10A",
+   "phone": "0462 746 2866",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.910282,
+   "lng": 40.11924
+  },
+  {
+   "district": "Şalpazarı",
+   "name": "Hayat Eczanesi",
+   "address": "DEREKÖY MAHALLESİ TEPEBAŞI CADDESİ NO:2/A",
+   "phone": "0462 891 3108",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.94146,
+   "lng": 39.192638
+  },
+  {
+   "district": "Tonya",
+   "name": "Çiğdem Eczanesi",
+   "address": "DR.DİLAVER YILDIRIM CAD.NO.13/A TONYA/TRB.",
+   "phone": "0462 881 1370",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.887321,
+   "lng": 39.291096
+  },
+  {
+   "district": "Vakfıkebir",
+   "name": "Cengizhan Ecz. Eczanesi",
+   "address": "KEMALİYE MAH. GÜLBAHARHATUN CAD. NO:208C",
+   "phone": "0462 841 5550",
+   "dutyStart": "2026-10-20T17:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.048363,
+   "lng": 39.279385
+  },
+  {
+   "district": "Yomra",
+   "name": "Merkez Eczanesi",
+   "address": "SANCAK MAHALLESİ TRABZON CADDESİ NO:74",
+   "phone": "0462 341 5002",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.955879,
+   "lng": 39.858894
+  }
+ ]
+}

@@ -1,0 +1,229 @@
+{
+ "city": "Erzurum",
+ "code": 25,
+ "dutyDay": "2026-10-20",
+ "updatedAt": "2026-10-20T17:38:22.129Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [
+  {
+   "district": "Aşkale",
+   "name": "Fatoş Eczanesi",
+   "address": "Yeni Mahalle İstanbul Caddesi No: 81AG",
+   "phone": "0442 502 2526",
+   "dutyStart": "2026-10-20T17:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 39.920887,
+   "lng": 40.693176
+  },
+  {
+   "district": "Aziziye",
+   "name": "Nil Eczanesi",
+   "address": "Saltuklu Mahallesi Prof. Dr. Necmettin Erbakan Bulvarı No: 72A",
+   "phone": "0442 631 2222",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 39.9114,
+   "lng": 41.193447
+  },
+  {
+   "district": "Aziziye",
+   "name": "Öznur Eczanesi",
+   "address": "ILICA MAHALLESİ HOCA AHMET YESEVİ CADDESİ NO: 1/C-C",
+   "phone": "0442 631 3554",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T00:00:00+03:00",
+   "approved": true,
+   "lat": 39.946327,
+   "lng": 41.103737
+  },
+  {
+   "district": "Çat",
+   "name": "Çat Eczanesi",
+   "address": "Oyuklu Mahallesi Fatih Caddesi No: 2",
+   "phone": "0442 611 2500",
+   "dutyStart": "2026-10-20T17:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 39.611691,
+   "lng": 40.977501
+  },
+  {
+   "district": "Hınıs",
+   "name": "Beyoğlu Eczanesi",
+   "address": "Yukarı Kayabaşı Mahallesi Cumhuriyet Caddesi No: 1",
+   "phone": "0554 010 0130",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T07:00:00+03:00",
+   "approved": true,
+   "lat": 39.358765,
+   "lng": 41.699451
+  },
+  {
+   "district": "Horasan",
+   "name": "Türkan Eczanesi",
+   "address": "Recep Tayyip Erdoğan Mahallesi Yavuz Selim Caddesi No: 9",
+   "phone": "0442 711 2332",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.040157,
+   "lng": 42.168495
+  },
+  {
+   "district": "İspir",
+   "name": "Fatih Eczanesi",
+   "address": "Karşıyaka Mahallesi 25 Şubat Caddesi No: 24/B",
+   "phone": "0442 451 2233",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.484051,
+   "lng": 41.001705
+  },
+  {
+   "district": "Karaçoban",
+   "name": "Merkez Resuloğulları Eczanesi",
+   "address": "Hacılar Mahallesi 29. Sokak No: 11",
+   "phone": "0442 591 3030",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 39.350567,
+   "lng": 42.092999
+  },
+  {
+   "district": "Karayazı",
+   "name": "Eftelya Eczanesi",
+   "address": "Yeni Mahalle Sıhhiye Caddesi No: 11/B",
+   "phone": "0442 541 2707",
+   "dutyStart": "2026-10-20T19:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 39.702599,
+   "lng": 42.142818
+  },
+  {
+   "district": "Köprüköy",
+   "name": "Yeni Köprüköy Eczanesi",
+   "address": "Şehitler Mahallesi Erzurum-Kars Karayolu Caddesi No:11 AB",
+   "phone": "0545 307 3112",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 39.966377,
+   "lng": 41.866322
+  },
+  {
+   "district": "Oltu",
+   "name": "Can Eczanesi",
+   "address": "Yasin Haşimoğlu Mahallesi Nazlı Sokak No: 2A/3",
+   "phone": "0506 997 5421",
+   "dutyStart": "2026-10-20T17:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.54285,
+   "lng": 41.988068
+  },
+  {
+   "district": "Palandöken",
+   "name": "Emre Eczanesi",
+   "address": "Müftü Solakzade Mahallesi 87. Sokak No: 2",
+   "phone": "0442 342 7027",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 39.873528,
+   "lng": 41.250332
+  },
+  {
+   "district": "Palandöken",
+   "name": "Serpil Eczanesi",
+   "address": "Abdurrahmangazi Mahallesi 100. Yıl Caddesi No: 74/A",
+   "phone": "0442 315 9369",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 39.892979,
+   "lng": 41.285927
+  },
+  {
+   "district": "Pasinler",
+   "name": "Yildiz Eczanesi",
+   "address": "Kethüda Mahallesi Cumhuriyet Caddesi No: 86",
+   "phone": "0442 661 3945",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 39.978283,
+   "lng": 41.676849
+  },
+  {
+   "district": "Şenkaya",
+   "name": "Şenkaya Eczanesi",
+   "address": "Aşağı Mahalle Vatan Caddesi No:15A",
+   "phone": "0538 364 2838",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.561478,
+   "lng": 42.344398
+  },
+  {
+   "district": "Tekman",
+   "name": "Özlem Eczanesi",
+   "address": "İsmet Paşa Mahallesi İnönü Caddesi No: 1",
+   "phone": "0442 561 2073",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 39.645351,
+   "lng": 41.505371
+  },
+  {
+   "district": "Tortum",
+   "name": "Tortum Eczanesi",
+   "address": "Yavuz Sultan Selim Mahallesi Mebus Abubekir Akay Caddesi No:8A",
+   "phone": "0442 761 2053",
+   "dutyStart": "2026-10-20T17:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.299736,
+   "lng": 41.543652
+  },
+  {
+   "district": "Uzundere",
+   "name": "Karahan Eczanesi",
+   "address": "Merkez Mahallesi Orgeneral Siyami Taştan Caddesi No: 8/A",
+   "phone": "0442 791 2590",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.532482,
+   "lng": 41.54467
+  },
+  {
+   "district": "Yakutiye",
+   "name": "Ada Eczanesi",
+   "address": "Lalapaşa Mahallesi Çaykara Caddesi No: 30/A",
+   "phone": "0442 234 1616",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 39.909714,
+   "lng": 41.267563
+  },
+  {
+   "district": "Yakutiye",
+   "name": "Göknur Eczanesi",
+   "address": "Rabia Ana Mahallesi Deli Ömer Sokak NO:10/A",
+   "phone": "0442 235 8747",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 39.903103,
+   "lng": 41.284943
+  }
+ ]
+}

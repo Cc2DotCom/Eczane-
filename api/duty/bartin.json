@@ -1,0 +1,75 @@
+{
+ "city": "Bartın",
+ "code": 74,
+ "dutyDay": "2026-10-20",
+ "updatedAt": "2026-10-20T17:47:10.191Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [
+  {
+   "district": "Amasra",
+   "name": "Egemen Eczanesi",
+   "address": "KUM MAH. CUMHURİYET CAD. KUMSAL APT. NO: 42/A AMASRA",
+   "phone": "0378 315 2323",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 41.746635,
+   "lng": 32.385426
+  },
+  {
+   "district": "Merkez",
+   "name": "Şifa Eczanesi",
+   "address": "KOZCAĞIZ BELDESİ MERKEZ MAH.CUMHURİYET CAD.NO:41B",
+   "phone": "0378 233 1132",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.477127,
+   "lng": 32.340225
+  },
+  {
+   "district": "Merkez",
+   "name": "Kutlar Eczanesi",
+   "address": "TUNA MAH.HENDEKYANI CAD.NO:126/B",
+   "phone": "0378 227 6053",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 41.629398,
+   "lng": 32.348984
+  },
+  {
+   "district": "Merkez",
+   "name": "Özbakan Eczanesi",
+   "address": "KEMERKÖPRÜ MAH. ŞADIRVAN CAD. NO: 4B",
+   "phone": "0378 227 9222",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 41.632156,
+   "lng": 32.337673
+  },
+  {
+   "district": "Ulus",
+   "name": "Soner Eczanesi",
+   "address": "ABDİPAŞA BELDESİ YEŞİLPAZAR MAH.AHMET ÖZSOY 1 SOK. NO:1/B",
+   "phone": "0545 258 9193",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.516563,
+   "lng": 32.559868
+  },
+  {
+   "district": "Ulus",
+   "name": "Umut Eczanesi",
+   "address": "UĞUR MUMCU SOKAK NO:6/A",
+   "phone": "0533 656 0478",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 41.583595,
+   "lng": 32.6404
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "city": "Yalova",
+ "code": 77,
+ "dutyDay": "2026-10-20",
+ "updatedAt": "2026-10-20T17:47:22.268Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [
+  {
+   "district": "Altınova",
+   "name": "Defne Eczanesi",
+   "address": "MERKEZ MAH. DEVLET KARAYOLU CAD. NO:134/C",
+   "phone": "0226 462 9230",
+   "dutyStart": "2026-10-20T19:00:00+03:00",
+   "dutyEnd": "2026-10-21T09:00:00+03:00",
+   "approved": true,
+   "lat": 40.696075,
+   "lng": 29.527868
+  },
+  {
+   "district": "Armutlu",
+   "name": "Arda Eczanesi",
+   "address": "KARŞIYAKA MAH. OKUL CAD. NO:3/A",
+   "phone": "0226 531 2896",
+   "dutyStart": "2026-10-20T19:00:00+03:00",
+   "dutyEnd": "2026-10-21T09:00:00+03:00",
+   "approved": true,
+   "lat": 40.519695,
+   "lng": 28.827698
+  },
+  {
+   "district": "Çınarcık",
+   "name": "Banu Eczanesi",
+   "address": "HARMANLAR MAH. VALİ AKI CAD.. NO:3/A",
+   "phone": "0226 246 0889",
+   "dutyStart": "2026-10-20T19:00:00+03:00",
+   "dutyEnd": "2026-10-21T09:00:00+03:00",
+   "approved": true,
+   "lat": 40.645473,
+   "lng": 29.118547
+  },
+  {
+   "district": "Çiftlikköy",
+   "name": "Özbek Eczanesi",
+   "address": "ÇİFTLİK MAH. SAKARYA CAD. NO:44/10",
+   "phone": "0531 774 2777",
+   "dutyStart": "2026-10-20T19:00:00+03:00",
+   "dutyEnd": "2026-10-21T09:00:00+03:00",
+   "approved": true,
+   "lat": 40.660984,
+   "lng": 29.328669
+  },
+  {
+   "district": "Merkez",
+   "name": "İrem Eczanesi",
+   "address": "BAĞLARBAŞI MAH. KINALI SOK. NO: 1/14",
+   "phone": "0226 813 4010",
+   "dutyStart": "2026-10-20T19:00:00+03:00",
+   "dutyEnd": "2026-10-21T09:00:00+03:00",
+   "approved": true,
+   "lat": 40.634361,
+   "lng": 29.268393
+  },
+  {
+   "district": "Merkez",
+   "name": "Kent Eczanesi",
+   "address": "FEVZİ ÇAKMAK MAH. FIRIN SOK. NO:23/A",
+   "phone": "0226 812 7556",
+   "dutyStart": "2026-10-20T19:00:00+03:00",
+   "dutyEnd": "2026-10-21T09:00:00+03:00",
+   "approved": true,
+   "lat": 40.654675,
+   "lng": 29.27486
+  }
+ ]
+}

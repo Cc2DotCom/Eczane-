@@ -1,0 +1,108 @@
+{
+ "city": "Ağrı",
+ "code": 4,
+ "dutyDay": "2026-10-20",
+ "updatedAt": "2026-10-20T17:34:50.201Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [
+  {
+   "district": "Diyadin",
+   "name": "Melik Eczanesi",
+   "address": "Murat Mahallesi Şehit Kaymakam Muhammed Fatih Safitürk Caddesi No:27A",
+   "phone": "0545 361 6248",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 39.541786,
+   "lng": 43.67083
+  },
+  {
+   "district": "Doğubayazıt",
+   "name": "Akan Eczanesi",
+   "address": "Ahmedihani Mahallesi Abdurrezak Aladağ Caddesi No:112C",
+   "phone": "0472 502 0135",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 39.552052,
+   "lng": 44.079163
+  },
+  {
+   "district": "Eleşkirt",
+   "name": "Şifa Eczanesi",
+   "address": "Müftü Selim Mah. Cumhuriyet Cad. No:13",
+   "phone": "0472 711 2140",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 39.798195,
+   "lng": 42.677685
+  },
+  {
+   "district": "Hamur",
+   "name": "Ahmet Eczanesi",
+   "address": "Kümbet Mahallesi Van Caddesi No:49C",
+   "phone": "0544 564 5748",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 39.609436,
+   "lng": 42.988575
+  },
+  {
+   "district": "Merkez",
+   "name": "Arda Eczanesi",
+   "address": "Leylek Pınar Mahallesi Vali Konağı Caddesi No:33/A",
+   "phone": "0472 215 7200",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 39.721889,
+   "lng": 43.054077
+  },
+  {
+   "district": "Merkez",
+   "name": "Nadir Eczanesi",
+   "address": "Fırat Mahallesi 1018/3 Sokak No:8/A",
+   "phone": "0542 188 5504",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 39.716339,
+   "lng": 43.005451
+  },
+  {
+   "district": "Patnos",
+   "name": "Yusuf Eczanesi",
+   "address": "Atatürk Mahallesi Malazgirt Caddesi Cadde Kapı No:6A",
+   "phone": "0472 616 8935",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 39.233505,
+   "lng": 42.863094
+  },
+  {
+   "district": "Taşlıçay",
+   "name": "Beyza Eczanesi",
+   "address": "15 Temmuz Şehitler Mah. Mareşal Fevzi Çakmak Cad. No:1/1",
+   "phone": "0553 671 4819",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 39.636158,
+   "lng": 43.374813
+  },
+  {
+   "district": "Tutak",
+   "name": "Berfin Eczanesi",
+   "address": "Murat Mahallesi Dr Cihan ÖKTEM Caddesi No:5A ve 5B",
+   "phone": "0552 636 0004",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 39.539585,
+   "lng": 42.773209
+  }
+ ]
+}

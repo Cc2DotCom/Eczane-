@@ -1,0 +1,207 @@
+{
+ "city": "Kahramanmaraş",
+ "code": 46,
+ "dutyDay": "2026-10-20",
+ "updatedAt": "2026-10-20T17:43:13.724Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [
+  {
+   "district": "Afşin",
+   "name": "Tuğrul Eczanesi",
+   "address": "BEYCEĞİZ MAHALLESİ ATATÜRK CADDESİ NO:33/A",
+   "phone": "0542 583 0257",
+   "dutyStart": "2026-10-20T08:00:00+03:00",
+   "dutyEnd": "2026-10-20T17:00:00+03:00",
+   "approved": true,
+   "lat": 38.245987,
+   "lng": 36.914413
+  },
+  {
+   "district": "Andırın",
+   "name": "Kayiran Eczanesi",
+   "address": "Tufanpaşa Mahallesi Şehit İsa Tahta 1.Sokak F Blok No:2",
+   "phone": "0344 561 3556",
+   "dutyStart": "2026-10-20T08:00:00+03:00",
+   "dutyEnd": "2026-10-20T18:00:00+03:00",
+   "approved": true,
+   "lat": 37.568504,
+   "lng": 36.347294
+  },
+  {
+   "district": "Çağlayancerit",
+   "name": "İğde Eczanesi",
+   "address": "İstiklal Mahallesi Nur Sokak No:2/A",
+   "phone": "0551 399 6814",
+   "dutyStart": "2026-10-20T08:00:00+03:00",
+   "dutyEnd": "2026-10-20T17:30:00+03:00",
+   "approved": true,
+   "lat": 37.748421,
+   "lng": 37.295422
+  },
+  {
+   "district": "Dulkadiroğlu",
+   "name": "Kazanci Eczanesi",
+   "address": "FEVZİPAŞA MAHALLESİ UZUNOLUK CADDESİ NO:8/B DULKADİROĞLU İLÇESİ-K.MARAŞ",
+   "phone": "0344 223 1753",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.587349,
+   "lng": 36.927143
+  },
+  {
+   "district": "Dulkadiroğlu",
+   "name": "Sümen Eczanesi",
+   "address": "ŞEYH ŞAMİL MAHALLESİ ŞEHİT CUMA MERK SOKAK NO:8/A-DULKADİROĞLU-K.MARAŞ",
+   "phone": "0344 353 2727",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.580814,
+   "lng": 36.950142
+  },
+  {
+   "district": "Dulkadiroğlu",
+   "name": "Şifa Eczanesi",
+   "address": "Menderes Mahallesi Girne Caddesi 46027. Sokak No:108/B Dulkadiroğlu/Kahramanmaraş",
+   "phone": "0344 214 2584",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.573669,
+   "lng": 36.938396
+  },
+  {
+   "district": "Ekinözü",
+   "name": "Eczane Elif Eczanesi",
+   "address": "İçmeler Mahallesi İbni Sina Caddesi 25/A",
+   "phone": "0344 418 2035",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.056206,
+   "lng": 37.187428
+  },
+  {
+   "district": "Elbistan",
+   "name": "Emek Eczanesi",
+   "address": "Karaelbistan Mahallesi 21016.Sokak No:46C",
+   "phone": "0344 413 2646",
+   "dutyStart": "2026-10-20T08:30:00+03:00",
+   "dutyEnd": "2026-10-20T18:00:00+03:00",
+   "approved": true,
+   "lat": 38.203991,
+   "lng": 37.152184
+  },
+  {
+   "district": "Elbistan",
+   "name": "Özcan Eczanesi",
+   "address": "Güneşli Mahallesi Terminal Caddesi No:5/A",
+   "phone": "0544 802 0299",
+   "dutyStart": "2026-10-20T08:30:00+03:00",
+   "dutyEnd": "2026-10-20T18:00:00+03:00",
+   "approved": true,
+   "lat": 38.202805,
+   "lng": 37.19072
+  },
+  {
+   "district": "Göksun",
+   "name": "İdil Eczanesi",
+   "address": "Kayabaşı Mahallesi İsa Yusuf Alptekin Caddesi No:13A",
+   "phone": "0541 349 6056",
+   "dutyStart": "2026-10-20T08:00:00+03:00",
+   "dutyEnd": "2026-10-20T18:00:00+03:00",
+   "approved": true,
+   "lat": 38.018909,
+   "lng": 36.493565
+  },
+  {
+   "district": "Nurhak",
+   "name": "Deva Eczanesi",
+   "address": "Karaçar Mahallesi Atatürk Bulvarı No:165D",
+   "phone": "0545 493 4947",
+   "dutyStart": "2026-10-20T08:30:00+03:00",
+   "dutyEnd": "2026-10-20T18:00:00+03:00",
+   "approved": true,
+   "lat": 37.966541,
+   "lng": 37.455139
+  },
+  {
+   "district": "Onikişubat",
+   "name": "Bilge Eczanesi",
+   "address": "12 ŞUBAT İLÇESİ 12 ŞUBAT MH.1001.SK.NO:3/1-ONİKİŞUBAT-K.MARAŞ",
+   "phone": "0344 215 4009",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.59787,
+   "lng": 36.863422
+  },
+  {
+   "district": "Onikişubat",
+   "name": "Dilşad Eczanesi",
+   "address": "MİMAR SİNAN MAHALLESİ 48035. SOKAK NO:12/A",
+   "phone": "0552 147 3600",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.593277,
+   "lng": 36.881008
+  },
+  {
+   "district": "Onikişubat",
+   "name": "Farah Hatipoğlu Eczanesi",
+   "address": "22.GÜN MAHALLESİ GENÇ OSMAN CADDESİ NO:38/3- Onikişubat-K.MARAŞ",
+   "phone": "0344 216 0127",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.586689,
+   "lng": 36.861313
+  },
+  {
+   "district": "Onikişubat",
+   "name": "Gazi Eczanesi",
+   "address": "Üngüt Mahallesi 71066. Sokak No:9 A",
+   "phone": "0531 718 0046",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.597816,
+   "lng": 36.837196
+  },
+  {
+   "district": "Pazarcık",
+   "name": "Kiziler Eczanesi",
+   "address": "BAĞDIN-I SAĞIR MAHALLESİ 1058 SOKAK NO:20/A",
+   "phone": "0344 311 4372",
+   "dutyStart": "2026-10-20T08:00:00+03:00",
+   "dutyEnd": "2026-10-20T17:00:00+03:00",
+   "approved": true,
+   "lat": 37.502308,
+   "lng": 37.321178
+  },
+  {
+   "district": "Pazarcık",
+   "name": "Sağlık Eczanesi",
+   "address": "Narlı Cumhuriyet Mahallesi Atatürk Cumhuriyet Bulvarı 15/A Pazarcık-K.MARAŞ",
+   "phone": "0344 331 2098",
+   "dutyStart": "2026-10-20T08:00:00+03:00",
+   "dutyEnd": "2026-10-20T18:00:00+03:00",
+   "approved": true,
+   "lat": 37.393574,
+   "lng": 37.140209
+  },
+  {
+   "district": "Türkoğlu",
+   "name": "Damla Eczanesi",
+   "address": "Cumhuriyet Mahallesi Orçan Caddesi No:106 E",
+   "phone": "0344 503 3313",
+   "dutyStart": "2026-10-20T08:00:00+03:00",
+   "dutyEnd": "2026-10-20T18:00:00+03:00",
+   "approved": true,
+   "lat": 37.394348,
+   "lng": 36.835999
+  }
+ ]
+}

@@ -1,0 +1,119 @@
+{
+ "city": "Tokat",
+ "code": 60,
+ "dutyDay": "2026-10-20",
+ "updatedAt": "2026-10-20T17:45:26.880Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [
+  {
+   "district": "Almus",
+   "name": "Ceritoğlu Eczanesi",
+   "address": "KURTULUŞ MAH. İMAMOĞLU CAD. NO:.7/B",
+   "phone": "0356 411 3376",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.374447,
+   "lng": 36.903366
+  },
+  {
+   "district": "Erbaa",
+   "name": "Hakan Eczanesi",
+   "address": "YAVUZ SULTAN SELİM MAH.EREK CAD.NO:238A ERBAA",
+   "phone": "0356 715 8000",
+   "dutyStart": "2026-10-20T17:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.680389,
+   "lng": 36.55336
+  },
+  {
+   "district": "Merkez",
+   "name": "Büşra Bulut Eczanesi",
+   "address": "Yeşilırmak Mah. Bosna 2. Sok. No : 19/A",
+   "phone": "0356 214 7576",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.335041,
+   "lng": 36.546944
+  },
+  {
+   "district": "Merkez",
+   "name": "Çınar Eczanesi",
+   "address": "Bahçelievler Mah. Vali Recep Yazıcıoğlu Cad. 59/A Merkez/TOKAT",
+   "phone": "0356 228 5860",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.337078,
+   "lng": 36.558395
+  },
+  {
+   "district": "Niksar",
+   "name": "Deva Eczanesi",
+   "address": "BENGİLER MAH.CUMHURİYET CAD.NO:88/B NİKSAR/TOKAT",
+   "phone": "0356 517 2727",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.589539,
+   "lng": 36.950195
+  },
+  {
+   "district": "Pazar",
+   "name": "Burak Eczanesi",
+   "address": "MERKEZ MAH.ATATÜRK CAD. NO:81/C PAZAR",
+   "phone": "0356 261 3066",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.279663,
+   "lng": 36.288208
+  },
+  {
+   "district": "Reşadiye",
+   "name": "Reşadiye Eczanesi",
+   "address": "KURTULUŞ MAH. SAĞLIK CAD.NO:43/B",
+   "phone": "0356 461 4102",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.390816,
+   "lng": 37.340065
+  },
+  {
+   "district": "Turhal",
+   "name": "Seçil Eczanesi",
+   "address": "CUMHURİYET MAH. ŞEHİT EMRAH TAŞDEMİR CAD. NO: 30/A TURHAL",
+   "phone": "0356 275 5400",
+   "dutyStart": "2026-10-20T17:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.385834,
+   "lng": 36.060097
+  },
+  {
+   "district": "Yeşilyurt",
+   "name": "Yöre Eczanesi",
+   "address": "100.YIL MAH. ATATÜRK BULVARI N0:13/A",
+   "phone": "0356 631 3131",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.007313,
+   "lng": 36.219242
+  },
+  {
+   "district": "Zile",
+   "name": "Yenigün Eczanesi",
+   "address": "DUTLUPINAR MAH. CUMHURİYET CAD. NO.45/C",
+   "phone": "0356 317 3385",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.300968,
+   "lng": 35.88356
+  }
+ ]
+}

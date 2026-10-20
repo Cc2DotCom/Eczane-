@@ -1,0 +1,218 @@
+{
+ "city": "Ordu",
+ "code": 52,
+ "dutyDay": "2026-10-20",
+ "updatedAt": "2026-10-20T17:44:10.856Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [
+  {
+   "district": "Akkuş",
+   "name": "Defne Eczanesi",
+   "address": "Merkez Mah. İstiklal Cad. No:58/A",
+   "phone": "0506 220 2890",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.793434,
+   "lng": 37.016983
+  },
+  {
+   "district": "Altınordu",
+   "name": "Ahsen Eczanesi",
+   "address": "Yeni Mahalle zübeyde Hanım Cad. No:141/B",
+   "phone": "0534 824 3656",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.976528,
+   "lng": 37.88942
+  },
+  {
+   "district": "Altınordu",
+   "name": "Defne Eczanesi",
+   "address": "Selimiye Mahallesi Buharalı Şeyh Şakir Efendi Caddesi No:10 A",
+   "phone": "0452 223 4820",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.983883,
+   "lng": 37.878323
+  },
+  {
+   "district": "Altınordu",
+   "name": "Onur Eczanesi",
+   "address": "Akyazı Mahallesi 844 Sokak No:17",
+   "phone": "0452 234 5987",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.979408,
+   "lng": 37.913403
+  },
+  {
+   "district": "Aybastı",
+   "name": "Sağlık Eczanesi",
+   "address": "Esenli Mahallesi Fatsa Caddesi No:2/A",
+   "phone": "0452 714 2602",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.683895,
+   "lng": 37.39835
+  },
+  {
+   "district": "Çatalpınar",
+   "name": "Nur Eczanesi",
+   "address": "MERKEZ MAHALLESİ İSTİKLAL CADDESİ NO:30/A ÇATALPINAR",
+   "phone": "0452 491 3230",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.881119,
+   "lng": 37.452415
+  },
+  {
+   "district": "Fatsa",
+   "name": "Büşra Eczanesi",
+   "address": "Evkaf Mah. Arslan Aydınlık Cad. No:77/B",
+   "phone": "0539 649 0189",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.037991,
+   "lng": 37.480629
+  },
+  {
+   "district": "Fatsa",
+   "name": "Derman Eczanesi",
+   "address": "Mustafa Kemal Paşa Mah. Reşadiye cad No:38/A",
+   "phone": "0530 294 1270",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.029957,
+   "lng": 37.501308
+  },
+  {
+   "district": "Gölköy",
+   "name": "Sağlık Eczanesi",
+   "address": "M.KEMAL PAŞA CAD. NO:242/B GÖLKÖY/ORDU",
+   "phone": "0452 741 4709",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.68655,
+   "lng": 37.615185
+  },
+  {
+   "district": "Gürgentepe",
+   "name": "Şan Eczanesi",
+   "address": "SİVAS MAHALLESİ AĞIZLAR CAD. NO:45/A GÜRGENTEPE ORDU",
+   "phone": "0452 821 2496",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.787998,
+   "lng": 37.60347
+  },
+  {
+   "district": "İkizce",
+   "name": "Hande Eczanesi",
+   "address": "Merkez Mahallesi Hasan Kalyoncu Cad. No:24/A",
+   "phone": "0530 258 4803",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.054146,
+   "lng": 37.079716
+  },
+  {
+   "district": "Kabataş",
+   "name": "Cömert Eczanesi",
+   "address": "FATSA CAD. NO:30/A KABATAŞ/ORDU",
+   "phone": "0452 841 2015",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.752113,
+   "lng": 37.449589
+  },
+  {
+   "district": "Korgan",
+   "name": "Şifa Eczanesi",
+   "address": "DİP MAH. FİZME SOK. NO:3/A KORGAN/ORDU",
+   "phone": "0452 671 2841",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.82933,
+   "lng": 37.34343
+  },
+  {
+   "district": "Kumru",
+   "name": "Boğaziçi Eczanesi",
+   "address": "KARACALI MAHALLESİ TURGUT ÖZAL CADDESİ NO:6/A",
+   "phone": "0452 641 2324",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.872326,
+   "lng": 37.260208
+  },
+  {
+   "district": "Mesudiye",
+   "name": "Lotus Eczanesi",
+   "address": "Merkez Mahallesi Cumhuriyet Meydanı No:31/B",
+   "phone": "0452 761 2323",
+   "dutyStart": "2026-10-20T08:30:00+03:00",
+   "dutyEnd": "2026-10-21T06:00:00+03:00",
+   "approved": true,
+   "lat": 40.463165,
+   "lng": 37.773643
+  },
+  {
+   "district": "Perşembe",
+   "name": "Vona Eczanesi",
+   "address": "Kozağzı Mahallesi Cumhuriyet Caddesi No:82/A",
+   "phone": "0506 283 5516",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.065933,
+   "lng": 37.7729
+  },
+  {
+   "district": "Ulubey",
+   "name": "Nimet Eczanesi",
+   "address": "Çatallı Mah. 1 Nisan Cad. NO:30/A ULUBEY/ORDU",
+   "phone": "0452 861 2000",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.874149,
+   "lng": 37.75853
+  },
+  {
+   "district": "Ünye",
+   "name": "Davut Durak Eczanesi",
+   "address": "Liseler Mahallesi Niksar Caddesi No:49/A",
+   "phone": "0532 716 3754",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.125946,
+   "lng": 37.286068
+  },
+  {
+   "district": "Ünye",
+   "name": "Derman Eczanesi",
+   "address": "Kaledere Mahallesi Hükümet Caddesi No:28",
+   "phone": "0555 182 6052",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": null,
+   "lng": null
+  }
+ ]
+}

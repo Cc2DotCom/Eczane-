@@ -1,0 +1,97 @@
+{
+ "city": "Siirt",
+ "code": 56,
+ "dutyDay": "2026-10-20",
+ "updatedAt": "2026-10-20T17:44:48.189Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [
+  {
+   "district": "Baykan",
+   "name": "Dilan Eczanesi",
+   "address": "İnönü Mahallesi 106. Sokak 4/4A",
+   "phone": "0543 498 7513",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.161961,
+   "lng": 41.782089
+  },
+  {
+   "district": "Baykan",
+   "name": "Ezgi Eczanesi",
+   "address": "Veysel Karani Beldesi Atatürk Mahallesi 102 Sokak No:8/A",
+   "phone": "0530 032 3385",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.130787,
+   "lng": 41.716488
+  },
+  {
+   "district": "Eruh",
+   "name": "Çelik Eczanesi",
+   "address": "Fatih Mah. 105. Sokak. No: 9",
+   "phone": "0534 929 7416",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.747822,
+   "lng": 42.178753
+  },
+  {
+   "district": "Kurtalan",
+   "name": "Benek Eczanesi",
+   "address": "Kültür Mahallesi Çobanoğlu Caddesi Bayrak İnşaat No:9/E",
+   "phone": "0545 911 6678",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.926548,
+   "lng": 41.699081
+  },
+  {
+   "district": "Merkez",
+   "name": "Cezlan Eczanesi",
+   "address": "BAHÇELİEVLER MAH HZ. FAKİRULLAH CAD. NO: 79/B",
+   "phone": "0484 224 8585",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.933311,
+   "lng": 41.940739
+  },
+  {
+   "district": "Merkez",
+   "name": "Ekinci Eczanesi",
+   "address": "Afetevler Mahallesi 1801 Sokak No:22/B",
+   "phone": "0545 454 4756",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.940327,
+   "lng": 41.913898
+  },
+  {
+   "district": "Pervari",
+   "name": "Emre Eczanesi",
+   "address": "Aydın Mahallesi Beyazıt Caddesi No:20/A",
+   "phone": "0545 402 4389",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.933094,
+   "lng": 42.546547
+  },
+  {
+   "district": "Şirvan",
+   "name": "Sena Eczanesi",
+   "address": "Küfre Mahallesi PTT Caddesi No:8/B",
+   "phone": "0541 264 6298",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.060928,
+   "lng": 42.029327
+  }
+ ]
+}

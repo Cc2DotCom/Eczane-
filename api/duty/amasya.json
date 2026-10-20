@@ -1,0 +1,86 @@
+{
+ "city": "Amasya",
+ "code": 5,
+ "dutyDay": "2026-10-20",
+ "updatedAt": "2026-10-20T17:34:55.950Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [
+  {
+   "district": "Göynücek",
+   "name": "Kılıç Eczanesi",
+   "address": "YENİ MAH. YOZGAT CAD. NO:166",
+   "phone": "0358 615 2601",
+   "dutyStart": "2026-10-20T08:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.396675,
+   "lng": 35.524639
+  },
+  {
+   "district": "Gümüşhacıköy",
+   "name": "Şifa Eczanesi",
+   "address": "CUMARA MAH. MEHMET PAŞA CADDESİ NO:29",
+   "phone": "0358 717 1222",
+   "dutyStart": "2026-10-20T08:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.873543,
+   "lng": 35.216553
+  },
+  {
+   "district": "Hamamözü",
+   "name": "Ömür Eczanesi",
+   "address": "ARTUKBEY MAH. ÇORUM CAD. NO:9/1",
+   "phone": "0358 787 6202",
+   "dutyStart": "2026-10-20T08:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.781593,
+   "lng": 35.022079
+  },
+  {
+   "district": "Merkez",
+   "name": "Eczane Kübra Eczanesi",
+   "address": "HACILAR MEYDANI MAH. HOCA AHMET YESEVİ CAD. NO:18/C",
+   "phone": "0358 213 1211",
+   "dutyStart": "2026-10-20T08:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.650047,
+   "lng": 35.812904
+  },
+  {
+   "district": "Merkez",
+   "name": "Güngör Eczanesi",
+   "address": "BEYAZITPAŞA MAHALLESİ SAKMAN SOKAK NO:2A-B-C",
+   "phone": "0358 212 6556",
+   "dutyStart": "2026-10-20T08:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.65799,
+   "lng": 35.838387
+  },
+  {
+   "district": "Merzifon",
+   "name": "Civek Eczanesi",
+   "address": "HARMANLAR MAH. MEHMETÇİK BULVARI NO:25/2",
+   "phone": "0358 513 0003",
+   "dutyStart": "2026-10-20T08:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.871891,
+   "lng": 35.454762
+  },
+  {
+   "district": "Taşova",
+   "name": "Tiryakioğlu Eczanesi",
+   "address": "YEŞİLIRMAK MAH. ÇAĞPAR CAD. NO:11",
+   "phone": "0358 312 1855",
+   "dutyStart": "2026-10-20T08:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.760387,
+   "lng": 36.32288
+  }
+ ]
+}

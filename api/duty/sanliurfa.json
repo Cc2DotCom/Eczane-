@@ -1,0 +1,218 @@
+{
+ "city": "Şanlıurfa",
+ "code": 63,
+ "dutyDay": "2026-10-20",
+ "updatedAt": "2026-10-20T17:45:56.380Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [
+  {
+   "district": "Akçakale",
+   "name": "Gök Eczanesi",
+   "address": "CEYLANLI MAH. ABDULLAH GÜL BULVARI 225/A",
+   "phone": "0530 230 5992",
+   "dutyStart": "2026-10-20T17:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 36.747894,
+   "lng": 38.946453
+  },
+  {
+   "district": "Birecik",
+   "name": "Munis Eczanesi",
+   "address": "Mezra Mah. Güneş Cad. No: 19/B-1",
+   "phone": "0542 231 7237",
+   "dutyStart": "2026-10-20T17:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.012012,
+   "lng": 37.972939
+  },
+  {
+   "district": "Bozova",
+   "name": "Erdal Eczanesi",
+   "address": "YEŞİL OVA MAH. 1018 SOK. NO:28/4",
+   "phone": "4 14  711 6668",
+   "dutyStart": "2026-10-20T17:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.360546,
+   "lng": 38.515446
+  },
+  {
+   "district": "Ceylanpınar",
+   "name": "Şifa Eczanesi",
+   "address": "Fatih Sultan Mehmet Mah. Viranşehir Cad. No:315F",
+   "phone": "0544 453 0090",
+   "dutyStart": "2026-10-20T17:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 36.871796,
+   "lng": 40.039757
+  },
+  {
+   "district": "Eyyübiye",
+   "name": "Çeçan Eczanesi",
+   "address": "Asya Mah. Hastane Cad. No:10A",
+   "phone": "0542 557 0195",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.114574,
+   "lng": 38.823502
+  },
+  {
+   "district": "Eyyübiye",
+   "name": "Öz Güneş Eczanesi",
+   "address": "Yardımcı Mah. Yardımcı B.M. Sok.No:315A",
+   "phone": "0535 516 1455",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.021,
+   "lng": 39.005184
+  },
+  {
+   "district": "Eyyübiye",
+   "name": "Yeni Yardimci Eczanesi",
+   "address": "Yardımcı Mah. Yardımcı B.M Sok. No.314B",
+   "phone": "0542 410 7056",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.020882,
+   "lng": 39.005131
+  },
+  {
+   "district": "Halfeti",
+   "name": "Karagül Eczanesi",
+   "address": "Siyahgül Mah. 3102. Sok. No:2C",
+   "phone": "0545 673 2991",
+   "dutyStart": "2026-10-20T17:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.228661,
+   "lng": 37.945042
+  },
+  {
+   "district": "Haliliye",
+   "name": "Huzur Eczanesi",
+   "address": "Atatürk Mah. Meteroloji Cad. No:33/D",
+   "phone": "0414 313 7900",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.158947,
+   "lng": 38.786896
+  },
+  {
+   "district": "Haliliye",
+   "name": "İbrahim Hakan Eczanesi",
+   "address": "DEVTEŞTİ MAH. 9615 SOKAK DIŞ KAPI NO:22/C İÇ KAPI NO:1",
+   "phone": "0542 273 1378",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.168728,
+   "lng": 38.772015
+  },
+  {
+   "district": "Haliliye",
+   "name": "Kumuk Eczanesi",
+   "address": "Ertuğrul Gazi Mah. Millet Cad. C Blok No:16J",
+   "phone": "4 14  316 8838",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.182045,
+   "lng": 38.811504
+  },
+  {
+   "district": "Haliliye",
+   "name": "Öztürk Eczanesi",
+   "address": "İmam Bakır Mah. Veteriner Cad. No:9A",
+   "phone": "0543 522 0544",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.162457,
+   "lng": 38.816521
+  },
+  {
+   "district": "Harran",
+   "name": "Demirkol Eczanesi",
+   "address": "Süleyman Demirel Mah. Fatih Cad. No:9B",
+   "phone": "0544 447 1889",
+   "dutyStart": "2026-10-20T17:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 36.868076,
+   "lng": 39.018414
+  },
+  {
+   "district": "Hilvan",
+   "name": "Murat Eczanesi",
+   "address": "BAHÇELİEVLER MAH. 398. SOK. NO:3/A",
+   "phone": "0541 682 4388",
+   "dutyStart": "2026-10-20T17:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.598686,
+   "lng": 38.977764
+  },
+  {
+   "district": "Siverek",
+   "name": "Bedir Eczanesi",
+   "address": "ŞAİR İBRAHİM RAFET MAH. ŞAİR İBRAHİM RAFET 26. SOK. NO:1/A",
+   "phone": "0532 052 6044",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.756737,
+   "lng": 39.312618
+  },
+  {
+   "district": "Siverek",
+   "name": "Leyla Eczanesi",
+   "address": "Ayvanat Mah. Bediüzzaman Saidi Nursi Bul. No:36A",
+   "phone": "0544 918 4219",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.746239,
+   "lng": 39.315701
+  },
+  {
+   "district": "Suruç",
+   "name": "Hocaoğlu Eczanesi",
+   "address": "Aligör Mah. Cumhuriyet Cad. No:21B",
+   "phone": "0541 959 1541",
+   "dutyStart": "2026-10-20T17:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.027767,
+   "lng": 38.440758
+  },
+  {
+   "district": "Viranşehir",
+   "name": "Bulut Eczanesi",
+   "address": "Yenişehir Mah. Cezaevi Cad. No:57B",
+   "phone": "0542 664 8337",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.220963,
+   "lng": 39.763927
+  },
+  {
+   "district": "Viranşehir",
+   "name": "Öznur Eczanesi",
+   "address": "YENİŞEHİR MAH. CEZAEVİ CAD. 49/2-B",
+   "phone": "4 14  512 1287",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.228447,
+   "lng": 39.765381
+  }
+ ]
+}

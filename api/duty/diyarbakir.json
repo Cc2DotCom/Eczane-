@@ -1,0 +1,262 @@
+{
+ "city": "Diyarbakır",
+ "code": 21,
+ "dutyDay": "2026-10-20",
+ "updatedAt": "2026-10-20T17:37:59.834Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [
+  {
+   "district": "Bağlar",
+   "name": "Doğumevi Eczanesi",
+   "address": "BAĞCILAR MAH. URFA BULVARI SÜLEYMAN BİN HALİD YURDU ALTI NO:193/A",
+   "phone": "0532 688 9721",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.92244,
+   "lng": 40.154152
+  },
+  {
+   "district": "Bağlar",
+   "name": "Evin Eczanesi",
+   "address": "ŞEYH ŞAMİL MAH. 586. SOK. KAYA-5 APT. NO:8/B",
+   "phone": "0412 234 5918",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.925858,
+   "lng": 40.197197
+  },
+  {
+   "district": "Bağlar",
+   "name": "Latifoğlu Alipınar Eczanesi",
+   "address": "ALİPINAR MAH. YENİ MARDİN BLV. NO:1/B",
+   "phone": "0533 093 6907",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.908672,
+   "lng": 40.210037
+  },
+  {
+   "district": "Bismil",
+   "name": "Sümer Eczanesi",
+   "address": "TEPE MAH. MERKEZ CAD. NO:18/1A",
+   "phone": "0533 659 8340",
+   "dutyStart": "2026-10-20T08:00:00+03:00",
+   "dutyEnd": "2026-10-21T17:00:00+03:00",
+   "approved": true,
+   "lat": 37.79258,
+   "lng": 40.772732
+  },
+  {
+   "district": "Bismil",
+   "name": "Şifa Eczanesi",
+   "address": "KURTULUŞ MAH. AHMET ARİF BULVARI NO:3A",
+   "phone": "0534 306 3949",
+   "dutyStart": "2026-10-20T08:00:00+03:00",
+   "dutyEnd": "2026-10-21T17:00:00+03:00",
+   "approved": true,
+   "lat": 37.84996,
+   "lng": 40.662731
+  },
+  {
+   "district": "Çermik",
+   "name": "Bahar Eczanesi",
+   "address": "TEPE MAH. DİYARBAKIR CAD. NO.232A",
+   "phone": "0553 443 2303",
+   "dutyStart": "2026-10-20T08:00:00+03:00",
+   "dutyEnd": "2026-10-21T17:00:00+03:00",
+   "approved": true,
+   "lat": 38.1376,
+   "lng": 39.468021
+  },
+  {
+   "district": "Çınar",
+   "name": "Zerzevan Eczanesi",
+   "address": "CUMHURİYET MAH. SADLIK CAD. NO:5/1",
+   "phone": "0545 626 4801",
+   "dutyStart": "2026-10-20T17:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.729923,
+   "lng": 40.405411
+  },
+  {
+   "district": "Çüngüş",
+   "name": "Çüngüş Eczanesi",
+   "address": "KARŞIYAKA MAH. BARAJ CAD. NO:67/Z1",
+   "phone": "0536 709 9986",
+   "dutyStart": "2026-10-20T17:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.212006,
+   "lng": 39.287628
+  },
+  {
+   "district": "Dicle",
+   "name": "Hastane Eczanesi",
+   "address": "15 TEMMUZ MAHALLESİ ERGANİ CADDESİ NO:103/A",
+   "phone": "0554 196 6524",
+   "dutyStart": "2026-10-20T08:00:00+03:00",
+   "dutyEnd": "2026-10-20T17:00:00+03:00",
+   "approved": true,
+   "lat": 38.36137,
+   "lng": 40.072361
+  },
+  {
+   "district": "Eğil",
+   "name": "Kan Eczanesi",
+   "address": "KALE MAH. BEY SOK. NO:8/B",
+   "phone": "0531 316 8726",
+   "dutyStart": "2026-10-20T17:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.257835,
+   "lng": 40.085522
+  },
+  {
+   "district": "Ergani",
+   "name": "Neşe Eczanesi",
+   "address": "AZİZİYE MAH. ZİYA GÖKALP CAD. NO: 116",
+   "phone": "0412 611 7681",
+   "dutyStart": "2026-10-20T08:00:00+03:00",
+   "dutyEnd": "2026-10-21T17:00:00+03:00",
+   "approved": true,
+   "lat": 38.269047,
+   "lng": 39.760609
+  },
+  {
+   "district": "Hani",
+   "name": "Selamet Eczanesi",
+   "address": "MERKEZ MAH. NERGİZ 2 SOK. NO:14/B",
+   "phone": "0539 622 0097",
+   "dutyStart": "2026-10-20T17:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.406818,
+   "lng": 40.401474
+  },
+  {
+   "district": "Hazro",
+   "name": "Emir Eczanesi",
+   "address": "HÜRRİYET MAH. YENİŞEHİR 2. SOK. NO:10/A",
+   "phone": "0507 249 1022",
+   "dutyStart": "2026-10-20T17:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.248665,
+   "lng": 40.782421
+  },
+  {
+   "district": "Kayapınar",
+   "name": "Akdemir Eczanesi",
+   "address": "MEDYA MAH. MASTFIROŞ CAD. SOLİN LİFE SİT. A/ BLOK 18/AC",
+   "phone": "0553 643 8303",
+   "dutyStart": "2026-10-20T06:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.958061,
+   "lng": 40.162052
+  },
+  {
+   "district": "Kayapınar",
+   "name": "Değer Eczanesi",
+   "address": "FIRAT MAHALLESİ MEZOPOTAMYA BULVARI 596. SOK DIŞ KAPI NO:1GC",
+   "phone": "0543 710 9954",
+   "dutyStart": "2026-10-20T06:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.937149,
+   "lng": 40.135559
+  },
+  {
+   "district": "Kayapınar",
+   "name": "Ece Eczanesi",
+   "address": "HUZUREVLERİ MAH. 68. SOK. SİMGE SİTESİ NO:4/A",
+   "phone": "0538 402 0824",
+   "dutyStart": "2026-10-20T06:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.94022,
+   "lng": 40.192196
+  },
+  {
+   "district": "Kayapınar",
+   "name": "Mecnun Eczanesi",
+   "address": "FIRAT MAH. 507. SOK. NO:8/CB",
+   "phone": "0506 836 1149",
+   "dutyStart": "2026-10-20T06:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.926357,
+   "lng": 40.162434
+  },
+  {
+   "district": "Kocaköy",
+   "name": "Mizgin Eczanesi",
+   "address": "YENİŞEHİR MAH. HASTANE CAD. 33 B",
+   "phone": "0538 878 2675",
+   "dutyStart": "2026-10-20T17:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.286209,
+   "lng": 40.502689
+  },
+  {
+   "district": "Kulp",
+   "name": "Ronayi Eczanesi",
+   "address": "MERKEZ YENİ MAHALLE DİYARBAKIR CADDESİ NO:123A",
+   "phone": "0541 576 3892",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.494305,
+   "lng": 41.007202
+  },
+  {
+   "district": "Lice",
+   "name": "Kadir Eczanesi",
+   "address": "DİYARBAKIR CADDESİ KARAHASAN MAHALLESİ NO:204/C",
+   "phone": "0554 154 4710",
+   "dutyStart": "2026-10-20T17:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.454262,
+   "lng": 40.642124
+  },
+  {
+   "district": "Silvan",
+   "name": "Nergiz Eczanesi",
+   "address": "YENİŞEHİR MAHALLESİ ESENLİK CADDESİ NO:10/E",
+   "phone": "0505 853 6974",
+   "dutyStart": "2026-10-20T08:30:00+03:00",
+   "dutyEnd": "2026-10-21T18:00:00+03:00",
+   "approved": true,
+   "lat": 38.154804,
+   "lng": 40.968819
+  },
+  {
+   "district": "Sur",
+   "name": "Gülan Eczanesi",
+   "address": "CAMİ NEBİ MAH. KIBRIS CAD. NO:5/B",
+   "phone": "0507 632 2502",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.915928,
+   "lng": 40.235893
+  },
+  {
+   "district": "Yenişehir",
+   "name": "Forum Beritan Eczanesi",
+   "address": "FABRİKA MAH. ELAZIĞ BULVARI FORUM AVM NO:155/23",
+   "phone": "0533 635 7518",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.957111,
+   "lng": 40.1838
+  }
+ ]
+}

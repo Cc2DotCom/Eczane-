@@ -1,0 +1,42 @@
+{
+ "city": "Van",
+ "code": 65,
+ "dutyDay": "2026-10-20",
+ "updatedAt": "2026-10-20T17:46:06.467Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [
+  {
+   "district": "Çatak",
+   "name": "Selçuk Eczanesi",
+   "address": "Çatak Cumhuriyet Mah. Atatürk Cad. No:9/1A",
+   "phone": "0545 563 7063",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.008499,
+   "lng": 43.061993
+  },
+  {
+   "district": "Erciş",
+   "name": "Öz Tunç Eczanesi",
+   "address": "Çınarlı Mah. Şehitler Cad. Dış Kapı No:91C",
+   "phone": "0546 602 6339",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 39.017143,
+   "lng": 43.352245
+  },
+  {
+   "district": "Muradiye",
+   "name": "Muradiye Eczanesi",
+   "address": "HASTANE CAD. NO:51/A",
+   "phone": "0432 451 2798",
+   "dutyStart": "2026-10-20T17:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.989254,
+   "lng": 43.759796
+  }
+ ]
+}

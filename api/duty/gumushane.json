@@ -1,0 +1,75 @@
+{
+ "city": "Gümüşhane",
+ "code": 29,
+ "dutyDay": "2026-10-20",
+ "updatedAt": "2026-10-20T17:38:44.759Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [
+  {
+   "district": "Kelkit",
+   "name": "Eylül Eczanesi",
+   "address": "Büyük Cami Mahallesi, Aydın Doğan Caddesi NO:31 KELKİT GÜMÜŞHANE KELKİT/GÜMÜŞHANE",
+   "phone": "0505 957 8889",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T07:30:00+03:00",
+   "approved": true,
+   "lat": 40.129543,
+   "lng": 39.436485
+  },
+  {
+   "district": "Köse",
+   "name": "Nur Eczanesi",
+   "address": "Yeni Mahalle, Hilal Sokak, No: 6/A",
+   "phone": "0545 403 5180",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.20871,
+   "lng": 39.657932
+  },
+  {
+   "district": "Kürtün",
+   "name": "Soylu Eczanesi",
+   "address": "Aşağı Uluköy Mahallesi, Uluköy Caddesi, No:14A-14B KÜRTÜN/ GÜMÜŞHANE",
+   "phone": "0554 626 5387",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.703049,
+   "lng": 39.085773
+  },
+  {
+   "district": "Merkez",
+   "name": "Şeker Eczanesi",
+   "address": "Bağlarbaşı Mahallesi, Recep Tayyip Erdoğan Bulvarı, No:28/C GÜMÜŞHANE",
+   "phone": "0537 911 4134",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.436333,
+   "lng": 39.512753
+  },
+  {
+   "district": "Şiran",
+   "name": "Şiran Eczanesi",
+   "address": "Tekke Mah. Şehit Teğmen Tuna Kara Cad. 29/A Şiran/GÜMÜŞHANE",
+   "phone": "0539 469 2958",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.188389,
+   "lng": 39.123692
+  },
+  {
+   "district": "Torul",
+   "name": "Yaren Eczanesi",
+   "address": "Tugrulbey mah. Atatürk cad. No:109 Torul/Gümüşhane",
+   "phone": "0538 943 9172",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.560089,
+   "lng": 39.29538
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "city": "Bitlis",
+ "code": 13,
+ "dutyDay": "2026-10-20",
+ "updatedAt": "2026-10-20T17:36:27.067Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [
+  {
+   "district": "Adilcevaz",
+   "name": "Bulvar Eczanesi",
+   "address": "ÇAYIR MAH. CUMHURİYET CAD. NO:276E",
+   "phone": "0533 468 4210",
+   "dutyStart": "2026-10-20T17:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.804829,
+   "lng": 42.736679
+  },
+  {
+   "district": "Ahlat",
+   "name": "Halk Eczanesi",
+   "address": "SELÇUKLU MAH. SELÇUKLU CAD. NO:94",
+   "phone": "0434 412 4930",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.750927,
+   "lng": 42.477245
+  },
+  {
+   "district": "Güroymak",
+   "name": "Melih Eczanesi",
+   "address": "Şirintepe Mah.124.Sokak Dış Kapı No: 24 İç Kapı No:3 GÜROYMAK",
+   "phone": "0552 631 0811",
+   "dutyStart": "2026-10-20T17:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.567848,
+   "lng": 42.051788
+  },
+  {
+   "district": "Hizan",
+   "name": "Eylül Eczanesi",
+   "address": "KÜLTÜR MAH. FARUK BEKARLAR CAD. NO:26/D Hizan/ BİTLİS",
+   "phone": "0434 611 1248",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.225346,
+   "lng": 42.426582
+  },
+  {
+   "district": "Merkez",
+   "name": "Umut Eczanesi",
+   "address": "GAZİ BEY MAHALLESİ.KALE ALTI CADDESİ NO:54/A MERKEZ /BİTLİS",
+   "phone": "0434 226 7575",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.401924,
+   "lng": 42.107845
+  },
+  {
+   "district": "Mutki",
+   "name": "Barış Eczanesi",
+   "address": "Yeni Mah. Kiler Cad. 1 No:2/A",
+   "phone": "0434 711 2625",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.407814,
+   "lng": 41.928959
+  },
+  {
+   "district": "Tatvan",
+   "name": "Deniz Eczanesi",
+   "address": "FATİH MAH. CUMHURİYET CAD. NO:6/1",
+   "phone": "0434 826 1098",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.521275,
+   "lng": 42.275532
+  },
+  {
+   "district": "Tatvan",
+   "name": "Mutlu Eczanesi",
+   "address": "KARŞIYA MAH. HASTANE CAD. SAĞLIK İŞ MERKEZİ NO:G/20",
+   "phone": "0434 829 1111",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.491199,
+   "lng": 42.18642
+  }
+ ]
+}

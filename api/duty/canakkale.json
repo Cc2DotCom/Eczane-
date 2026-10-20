@@ -1,0 +1,185 @@
+{
+ "city": "Çanakkale",
+ "code": 17,
+ "dutyDay": "2026-10-20",
+ "updatedAt": "2026-10-20T17:37:09.996Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [
+  {
+   "district": "Ayvacık",
+   "name": "Ayvacik Gözde Eczanesi",
+   "address": "Fatih Mahallesi Edremit Caddesi No:5/B Ayvacık/Çanakkale",
+   "phone": "0286 712 4130",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 39.600689,
+   "lng": 26.405027
+  },
+  {
+   "district": "Ayvacık",
+   "name": "Didem Eczanesi",
+   "address": "Küçükkuyu Beldesi Sahil Mahallesi Kazım Karabekir 1. Cadde No:17/B Ayvacık/ Çanakkale",
+   "phone": "0286 752 1972",
+   "dutyStart": "2026-10-20T19:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 39.547356,
+   "lng": 26.606754
+  },
+  {
+   "district": "Bayramiç",
+   "name": "Türker Eczanesi",
+   "address": "Camikebir Mahallesi İnönü Caddesi No:16 Bayramiç/Çanakkale",
+   "phone": "0286 773 4747",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 39.810478,
+   "lng": 26.611843
+  },
+  {
+   "district": "Biga",
+   "name": "Merkez Eczanesi",
+   "address": "Şirintepe Mahallesi Kıbrıs Şehitleri Caddesi No:134 Biga/Çanakkale",
+   "phone": "0286 316 4420",
+   "dutyStart": "2026-10-20T19:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.238285,
+   "lng": 27.265488
+  },
+  {
+   "district": "Çan",
+   "name": "Çevre Eczanesi",
+   "address": "Cumhuriyet Mahallesi Atatürk Caddesi No:24/A Çan/Çanakkale",
+   "phone": "0286 416 7103",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.028603,
+   "lng": 27.049414
+  },
+  {
+   "district": "Eceabat",
+   "name": "Eylül Eczanesi",
+   "address": "İsmetpaşa Mahallesi Atatürk Caddesi No:4/4 Eceabat/Çanakkale",
+   "phone": "0286 814 2860",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.181129,
+   "lng": 26.360106
+  },
+  {
+   "district": "Ezine",
+   "name": "Derman Eczanesi",
+   "address": "Seferşah Mahallesi Atatürk Caddesi No:3 Ezine/Çanakkale",
+   "phone": "0286 618 2473",
+   "dutyStart": "2026-10-20T19:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 39.786621,
+   "lng": 26.337177
+  },
+  {
+   "district": "Ezine",
+   "name": "Gülhan Eczanesi",
+   "address": "Geyikli Beldesi Hürriyet Mahallesi İskele Caddesi No:13/5 Ezine/Çanakkale",
+   "phone": "0286 638 5152",
+   "dutyStart": "2026-10-20T19:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 39.802902,
+   "lng": 26.206093
+  },
+  {
+   "district": "Gelibolu",
+   "name": "Deniz Eczanesi",
+   "address": "Camikebir Mahallesi Atatürk Caddesi No:27 Gelibolu/Çanakkale",
+   "phone": "0286 566 0125",
+   "dutyStart": "2026-10-20T19:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.406292,
+   "lng": 26.672398
+  },
+  {
+   "district": "Gökçeada",
+   "name": "Utku Eczanesi",
+   "address": "Fatih Mahallesi İnönü Caddesi No:18 Gökçeada/Çanakkale",
+   "phone": "0286 887 4235",
+   "dutyStart": "2026-10-20T18:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.1954,
+   "lng": 25.903767
+  },
+  {
+   "district": "Lapseki",
+   "name": "Çağrı Eczanesi",
+   "address": "Cumhuriyet Mahallesi Atatürk Caddesi No:38/Z01 Lapseki/Çanakkale",
+   "phone": "0286 512 5016",
+   "dutyStart": "2026-10-20T19:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.344212,
+   "lng": 26.683216
+  },
+  {
+   "district": "Lapseki",
+   "name": "Öztürk Eczanesi",
+   "address": "Çardak Beldesi Tekke Mahallesi Kumluyol Caddesi No:9/1 Lapseki/Çanakkale",
+   "phone": "0286 214 0436",
+   "dutyStart": "2026-10-20T19:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.375107,
+   "lng": 26.717129
+  },
+  {
+   "district": "Merkez",
+   "name": "17 Burda Eczanesi",
+   "address": "Barbaros Mahallesi Atatürk Caddesi no:207 17 Burda AVM Zemin kat GFL 044 Merkez Çanakkale",
+   "phone": "0286 212 4001",
+   "dutyStart": "2026-10-20T19:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.123554,
+   "lng": 26.411753
+  },
+  {
+   "district": "Merkez",
+   "name": "Boğaz Eczanesi",
+   "address": "Cumhuriyet Mahallesi Meydan Sokak No:15/A Kepez Beldesi Merkez/Çanakkale",
+   "phone": "0286 263 6563",
+   "dutyStart": "2026-10-20T19:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.095158,
+   "lng": 26.393784
+  },
+  {
+   "district": "Merkez",
+   "name": "İskele Eczanesi",
+   "address": "Kemalpaşa Mahallesi Cumhuriyet Bulvarı No:34 Merkez/ Çanakkale",
+   "phone": "0532 613 3214",
+   "dutyStart": "2026-10-20T19:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.149811,
+   "lng": 26.403374
+  },
+  {
+   "district": "Yenice",
+   "name": "Dost Eczanesi",
+   "address": "Yeni Mahalle Biga Caddesi No: 19/Z07 Yenice/Çanakkale",
+   "phone": "0286 474 4252",
+   "dutyStart": "2026-10-20T19:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 39.929752,
+   "lng": 27.256681
+  }
+ ]
+}

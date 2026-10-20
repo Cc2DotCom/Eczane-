@@ -1,0 +1,75 @@
+{
+ "city": "Karabük",
+ "code": 78,
+ "dutyDay": "2026-10-20",
+ "updatedAt": "2026-10-20T17:47:27.442Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [
+  {
+   "district": "Eflani",
+   "name": "Tuğba Eczanesi",
+   "address": "CANDAROĞULLARI MAH. HÜKÜMET CAD. NO: 71/B",
+   "phone": "0370 461 2427",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 41.423122,
+   "lng": 32.956795
+  },
+  {
+   "district": "Eskipazar",
+   "name": "Alperen Eczanesi",
+   "address": "MERKEZ MAH. İNÖNÜ CAD. NO:7A",
+   "phone": "0370 818 1018",
+   "dutyStart": "2026-10-20T19:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.943905,
+   "lng": 32.529636
+  },
+  {
+   "district": "Merkez",
+   "name": "Salih Ayan Eczanesi",
+   "address": "Şirinevler Mahallesi Şahinbey Caddesi No:2B",
+   "phone": "0541 504 2212",
+   "dutyStart": "2026-10-20T19:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 41.208321,
+   "lng": 32.620838
+  },
+  {
+   "district": "Merkez",
+   "name": "Yeni Eczanesi",
+   "address": "BEŞBİNEVLER CUMHURİYET MAH.63.CAD. NO:10/C",
+   "phone": "0370 433 3444",
+   "dutyStart": "2026-10-20T19:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 41.234375,
+   "lng": 32.65303
+  },
+  {
+   "district": "Safranbolu",
+   "name": "Ateş Eczanesi",
+   "address": "Atatürk Mahallesi Kaya Erdem Caddesi No:33/B",
+   "phone": "0370 725 1113",
+   "dutyStart": "2026-10-20T19:00:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 41.249367,
+   "lng": 32.68375
+  },
+  {
+   "district": "Yenice",
+   "name": "Betül Eczanesi",
+   "address": "Merkez Mah. İnönü Cad. No:11A",
+   "phone": "0370 766 3737",
+   "dutyStart": "2026-10-20T18:30:00+03:00",
+   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 41.199841,
+   "lng": 32.330284
+  }
+ ]
+}
