@@ -2,6 +2,9 @@
  "city": "Aydın",
  "code": 9,
  "dutyDay": "2026-10-20",
- "updatedAt": "2026-10-20T17:35:52.310Z",
- "source": "e-Devlet TİTCK"
+ "updatedAt": "2026-10-20T17:49:46.459Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [],
+ "unavailable": true,
+ "note": "class=\"warningContainer\">Seçilen zaman aralığı için nöbetçi eczane bulunamadı. Sayfa Sonu Bağlantıları e-Devlet Kapısı English Hakk"
 }
