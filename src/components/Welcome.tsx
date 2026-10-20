@@ -10,6 +10,40 @@ import { FadeIn, PressableScale } from './motion';
 
 const SEEN_KEY = 'welcome:v1';
 
+/** Herkese hitap etsin diye birkaç farklı karşılama; açılışta biri rastgele seçilir. */
+const GREETINGS = [
+  {
+    lead: 'Derdine derman, gönlüne ferahlık dileriz. Rabbim sana ve sevdiklerine acil şifalar versin.',
+    quote: 'Her derdin bir dermanı vardır.',
+    note: 'Sabırla, umutla. Yalnız değilsin.',
+    button: 'Bismillah, başlayalım',
+  },
+  {
+    lead: 'Geçmiş olsun. Sana ve sevdiklerine en kısa yoldan yardım bulalım.',
+    quote: 'Umut, en karanlık gecede bile yanan bir ışıktır.',
+    note: 'Sakin ol, buradayız.',
+    button: 'Haydi, başlayalım',
+  },
+  {
+    lead: 'Hoş geldin. Gönlün ferah, yolun açık olsun.',
+    quote: 'Gelin tanış olalım, işi kolay kılalım.',
+    note: 'Yunus Emre',
+    button: 'Hayırlısıyla başlayalım',
+  },
+  {
+    lead: 'Acil şifalar dileriz. İhtiyacın olan yardım sandığından daha yakın.',
+    quote: 'Her şey geçer, bu da geçecek.',
+    note: 'Biz de bu yolda yanındayız.',
+    button: 'Kolay gelsin, başlayalım',
+  },
+  {
+    lead: 'Sevdiklerinin yanında olman ne güzel. Gerisini bize bırak.',
+    quote: 'Ne olursan ol, yine gel.',
+    note: 'Mevlânâ',
+    button: 'Başlayalım',
+  },
+];
+
 /**
  * İlk açılışta bir kez görünen karşılama. Ana ekran arkada yüklenmeye devam eder,
  * böylece "Başlayalım"a basıldığında liste çoğu zaman hazır olur.
@@ -19,6 +53,7 @@ export function Welcome() {
   const insets = useSafeAreaInsets();
   const [visible, setVisible] = useState(false);
   const fade = useRef(new Animated.Value(1)).current;
+  const [g] = useState(() => GREETINGS[Math.floor(Math.random() * GREETINGS.length)]);
 
   useEffect(() => {
     AsyncStorage.getItem(SEEN_KEY)
@@ -53,13 +88,13 @@ export function Welcome() {
           </FadeIn>
           <FadeIn delay={300}>
             <Text style={[styles.lead, { color: t.text }]}>
-              Derdine derman, gönlüne ferahlık dileriz. Rabbim sana ve sevdiklerine acil şifalar versin.
+              {g.lead}
             </Text>
           </FadeIn>
           <FadeIn delay={450}>
             <View style={[styles.quote, { backgroundColor: t.card, borderColor: t.border }]}>
-              <Text style={[styles.quoteText, { color: t.text }]}>“Her derdin bir dermanı vardır.”</Text>
-              <Text style={[styles.quoteNote, { color: t.textMuted }]}>Sabırla, umutla. Yalnız değilsin.</Text>
+              <Text style={[styles.quoteText, { color: t.text }]}>“{g.quote}”</Text>
+              <Text style={[styles.quoteNote, { color: t.textMuted }]}>{g.note}</Text>
             </View>
           </FadeIn>
           <FadeIn delay={600}>
@@ -73,7 +108,7 @@ export function Welcome() {
 
         <FadeIn delay={750}>
           <PressableScale onPress={start} accessibilityRole="button" style={[styles.button, { backgroundColor: t.primary }]}>
-            <Text style={[styles.buttonText, { color: t.onPrimary }]}>Bismillah, başlayalım</Text>
+            <Text style={[styles.buttonText, { color: t.onPrimary }]}>{g.button}</Text>
             <Ionicons name="arrow-forward" size={18} color={t.onPrimary} />
           </PressableScale>
           <Text style={[styles.small, { color: t.textMuted }]}>
