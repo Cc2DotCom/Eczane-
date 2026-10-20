@@ -103,8 +103,8 @@ function Home() {
     content = (
       <Message
         icon="map-outline"
-        title={`${area.city} yakında`}
-        body="Bu ilin nöbet listesini henüz eklemedik. Şimdilik başka bir il seçebilirsin."
+        title={`${area.city} için liste yok`}
+        body="Bu ilin nöbet listesi şu an resmi kaynakta yayınlanmıyor. Acil bir durumda 112'yi arayabilir ya da il eczacı odasının sitesine bakabilirsin."
         action="İl seç"
         onAction={() => setPickerOpen(true)}
       />

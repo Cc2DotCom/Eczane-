@@ -156,7 +156,8 @@ async function fetchCity(code, cityName, coords) {
   const rows = parseRows(result);
   if (!rows) {
     const msg = decode(result.match(/class="[^"]*(?:errorContainer|warningContainer)[^"]*"[\s\S]{0,600}/)?.[0] ?? '');
-    if (/bulunamad/i.test(msg)) return [];
+    // Bazı illerin listesi resmi kaynakta yayınlanmıyor; bunu hata değil "veri yok" olarak kaydederiz.
+    if (/bulunamad/i.test(msg)) return { rows: [], fetched: 0, note: msg.slice(0, 200) };
     throw new Error('Sonuç tablosu bulunamadı' + (msg ? `: ${msg.slice(0, 160)}` : ''));
   }
 
@@ -209,8 +210,13 @@ for (const [codeStr, city] of Object.entries(CITIES)) {
     continue;
   }
   try {
-    const { rows, fetched } = await fetchCity(code, city, coords);
+    const { rows, fetched, note } = await fetchCity(code, city, coords);
     const data = { city, code, dutyDay: today, updatedAt: new Date().toISOString(), source: 'e-Devlet TİTCK', pharmacies: rows };
+    if (!rows.length) {
+      data.unavailable = true;
+      data.note = note;
+      console.log(`${city}: resmi kaynakta liste yok (${note})`);
+    }
     await writeFile(file, JSON.stringify(data, null, 1) + '\n');
     index.push(entry(data));
     updated++;

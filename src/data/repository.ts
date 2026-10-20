@@ -25,6 +25,8 @@ type RemoteFile = {
   city: string;
   dutyDay: string;
   updatedAt: string;
+  /** İlin listesi resmi kaynakta (e-Devlet) yayınlanmıyorsa true. */
+  unavailable?: boolean;
   pharmacies: {
     name: string;
     district: string;
@@ -38,7 +40,7 @@ type RemoteFile = {
 };
 
 function toPharmacies(file: RemoteFile): Pharmacy[] {
-  return file.pharmacies.map((p, i) => ({
+  return (file.pharmacies ?? []).map((p, i) => ({
     id: `${file.dutyDay}-${i}-${p.name}`,
     name: p.name,
     district: p.district || file.city,
@@ -90,6 +92,7 @@ export async function getDutyPharmacies(
     if (res.status === 404) throw new CityNotCoveredError(area.city);
     if (!res.ok) throw new Error(`Liste alınamadı (${res.status})`);
     const entry = { file: (await res.json()) as RemoteFile, fetchedAt: Date.now() };
+    if (entry.file.unavailable) throw new CityNotCoveredError(area.city);
     AsyncStorage.setItem(key, JSON.stringify(entry)).catch(() => {});
     return build(entry);
   } catch (e) {
