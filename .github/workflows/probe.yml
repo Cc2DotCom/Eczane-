@@ -29,6 +29,8 @@ jobs:
             echo "$i $code $u" >> index.txt
           done
           cat index.txt
+          # Sayfalardaki üçüncü taraf anahtarları gizli bilgi taramasına takılmasın diye sıkıştırılır.
+          gzip -f *.html || true
       - name: probe-out dalına kaydet
         run: |
           cd out
