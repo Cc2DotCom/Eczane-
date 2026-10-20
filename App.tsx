@@ -1,5 +1,6 @@
 import { Ionicons } from '@expo/vector-icons';
 import * as Haptics from 'expo-haptics';
+import { LinearGradient } from 'expo-linear-gradient';
 import { StatusBar } from 'expo-status-bar';
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { LayoutAnimation, RefreshControl, ScrollView, StyleSheet, Text, View, useColorScheme } from 'react-native';
@@ -14,7 +15,7 @@ import { useDutyPharmacies } from './src/hooks/useDutyPharmacies';
 import { usePreferences } from './src/hooks/usePreferences';
 import { useUserLocation } from './src/hooks/useUserLocation';
 import { radius, useTheme } from './src/theme';
-import { dutyDayLabel, relativeTime } from './src/utils/duty';
+import { dutyDayLabel, greeting, relativeTime } from './src/utils/duty';
 
 export default function App() {
   return (
@@ -174,6 +175,8 @@ function Home() {
   return (
     <View style={[styles.root, { backgroundColor: t.bg }]}>
       <StatusBar style={scheme === 'dark' ? 'light' : 'dark'} />
+      {/* Üstte yumuşak, sıcak bir ışık halesi */}
+      <LinearGradient pointerEvents="none" colors={[t.glow, t.bg]} style={styles.glow} />
       <ScrollView
         ref={scrollRef}
         contentContainerStyle={[styles.scroll, { paddingTop: insets.top + 12, paddingBottom: insets.bottom + 32 }]}
@@ -184,7 +187,7 @@ function Home() {
           <View style={styles.header}>
             <View style={{ flex: 1 }}>
               <Text style={[styles.date, { color: t.textMuted }]}>{dutyDayLabel()}</Text>
-              <Text style={[styles.title, { color: t.text }]}>Nöbetçi Eczane</Text>
+              <Text style={[styles.title, { color: t.text }]}>{greeting()}</Text>
             </View>
             <PressableScale
               onPress={() => setPickerOpen(true)}
@@ -196,6 +199,12 @@ function Home() {
               </Text>
             </PressableScale>
           </View>
+
+          <Text style={[styles.subtitle, { color: t.text }]}>
+            {hero
+              ? 'Endişelenme, yakınında açık bir eczane var.'
+              : 'Sana en yakın açık eczaneyi buluyoruz.'}
+          </Text>
 
           <View style={styles.liveRow}>
             <Pulse color={t.primary} />
@@ -259,6 +268,8 @@ const styles = StyleSheet.create({
   header: { flexDirection: 'row', alignItems: 'flex-end', gap: 12 },
   date: { fontSize: 14, textTransform: 'capitalize' },
   title: { fontSize: 30, fontWeight: '800', letterSpacing: -0.6, marginTop: 2 },
+  subtitle: { fontSize: 17, lineHeight: 24, marginTop: 10 },
+  glow: { position: 'absolute', top: 0, left: 0, right: 0, height: 420 },
   areaChip: {
     flexDirection: 'row',
     alignItems: 'center',
@@ -270,7 +281,7 @@ const styles = StyleSheet.create({
     borderWidth: 1,
   },
   areaText: { fontSize: 13, fontWeight: '600', flexShrink: 1 },
-  liveRow: { flexDirection: 'row', alignItems: 'center', gap: 8, marginTop: 10, marginBottom: 18 },
+  liveRow: { flexDirection: 'row', alignItems: 'center', gap: 8, marginTop: 8, marginBottom: 18 },
   liveText: { fontSize: 13 },
   demo: { flexDirection: 'row', gap: 8, alignItems: 'center', padding: 12, borderRadius: radius.sm, marginBottom: 14 },
   demoText: { flex: 1, fontSize: 13, lineHeight: 18 },
