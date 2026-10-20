@@ -5,6 +5,8 @@ on:
       cmd:
         description: 'Çalıştırılacak komut'
         required: true
+permissions:
+  contents: write
 jobs:
   probe:
     runs-on: ubuntu-latest
@@ -13,4 +15,15 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - run: ${{ inputs.cmd }}
+      - run: ( ${{ inputs.cmd }} ) > /tmp/out.txt 2>&1 || true
+      - name: Çıktıyı probe-out dalına yaz
+        run: |
+          git config user.name probe-bot
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan probe-out
+          git rm -rfq .
+          cp /tmp/out.txt out.txt
+          [ -d /tmp/probe-files ] && cp -r /tmp/probe-files files || true
+          git add -A
+          git commit -qm "probe ${{ github.run_id }}"
+          git push -f origin probe-out
