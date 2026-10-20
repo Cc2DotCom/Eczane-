@@ -4,6 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 import { radius, useTheme } from '../theme';
 import type { PharmacyWithDistance } from '../types';
 import { callPharmacy, openDirections } from '../utils/actions';
+import { dutyWindow } from '../utils/duty';
 import { formatDistance, travelHint } from '../utils/geo';
 import { FadeIn, PressableScale } from './motion';
 
@@ -47,6 +48,13 @@ export function HeroCard({ pharmacy: p, isNearest, isFavorite, onToggleFavorite,
           <View style={styles.distanceRow}>
             <Text style={[styles.distance, { color: t.primary }]}>{formatDistance(p.distanceKm)}</Text>
             <Text style={[styles.hint, { color: t.textMuted }]}>{travelHint(p.distanceKm)}</Text>
+          </View>
+        )}
+
+        {!!dutyWindow(p.dutyStart, p.dutyEnd) && (
+          <View style={styles.addressRow}>
+            <Ionicons name="time-outline" size={16} color={t.textMuted} />
+            <Text style={[styles.address, { color: t.text }]}>Nöbet saatleri: {dutyWindow(p.dutyStart, p.dutyEnd)}</Text>
           </View>
         )}
 

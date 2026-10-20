@@ -1,9 +1,9 @@
 /**
- * Nöbet günü sabah ~08:30'da değişir. Gece 03:00'te bakan biri hâlâ
+ * Nöbet günü sabah 09:00'da değişir (e-Devlet listelerinde nöbet 09:00'da biter). Gece 03:00'te bakan biri hâlâ
  * önceki günün nöbetçisini görmeli. Biçim YYYY-AA-GG; scripts/update-duty.mjs ile aynı kural.
  */
-const SHIFT_HOUR = 8;
-const SHIFT_MINUTE = 30;
+const SHIFT_HOUR = 9;
+const SHIFT_MINUTE = 0;
 
 export function dutyDayKey(now = new Date()): string {
   const d = new Date(now);
@@ -17,6 +17,14 @@ export function dutyDayKey(now = new Date()): string {
 export function dutyDayLabel(now = new Date()): string {
   const fmt = new Intl.DateTimeFormat('tr-TR', { day: 'numeric', month: 'long', weekday: 'long' });
   return fmt.format(now);
+}
+
+/** "2026-10-20T19:00:00+03:00", "2026-10-21T09:00:00+03:00" → "19:00 – yarın 09:00" */
+export function dutyWindow(start?: string | null, end?: string | null): string | null {
+  if (!start || !end) return null;
+  const time = (iso: string) => iso.slice(11, 16);
+  const sameDay = start.slice(0, 10) === end.slice(0, 10);
+  return `${time(start)} – ${sameDay ? '' : 'ertesi gün '}${time(end)}`;
 }
 
 export function relativeTime(ts: number, now = Date.now()): string {

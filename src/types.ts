@@ -7,6 +7,9 @@ export type Pharmacy = {
   address: string;
   phone: string;
   coords: Coords | null;
+  /** Nöbet başlangıç/bitiş zamanı, ISO biçiminde (ör. 2026-10-20T19:00:00+03:00). */
+  dutyStart?: string | null;
+  dutyEnd?: string | null;
 };
 
 export type PharmacyWithDistance = Pharmacy & { distanceKm: number | null };

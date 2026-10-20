@@ -5,8 +5,8 @@ import { normalizeTr } from '../utils/text';
 import { demoPharmacies } from './demo';
 
 /**
- * Nöbet listeleri, repodaki GitHub Actions görevi (scripts/update-duty.mjs) tarafından
- * her sabah api/duty/<il>.json dosyalarına yazılır; uygulama yalnızca bu dosyaları okur.
+ * Nöbet listeleri, repodaki GitHub Actions görevi (scripts/update-duty.mjs) tarafından her sabah
+ * e-Devlet'teki TİTCK hizmetinden okunup api/duty/<il>.json dosyalarına yazılır; uygulama yalnızca bu dosyaları okur.
  */
 const DATA_URL = process.env.EXPO_PUBLIC_DATA_URL ?? 'https://raw.githubusercontent.com/Cc2DotCom/Eczane-/main/api';
 const DEMO = process.env.EXPO_PUBLIC_DEMO === '1';
@@ -25,7 +25,16 @@ type RemoteFile = {
   city: string;
   dutyDay: string;
   updatedAt: string;
-  pharmacies: { name: string; district: string; address: string; phone: string; lat: number | null; lng: number | null }[];
+  pharmacies: {
+    name: string;
+    district: string;
+    address: string;
+    phone: string;
+    lat: number | null;
+    lng: number | null;
+    dutyStart?: string | null;
+    dutyEnd?: string | null;
+  }[];
 };
 
 function toPharmacies(file: RemoteFile): Pharmacy[] {
@@ -36,6 +45,8 @@ function toPharmacies(file: RemoteFile): Pharmacy[] {
     address: p.address,
     phone: p.phone,
     coords: p.lat != null && p.lng != null ? { latitude: p.lat, longitude: p.lng } : null,
+    dutyStart: p.dutyStart,
+    dutyEnd: p.dutyEnd,
   }));
 }
 
