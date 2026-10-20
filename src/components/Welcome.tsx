@@ -15,23 +15,23 @@ import { ThemePicker } from './ThemePicker';
 const GREETINGS = [
   {
     lead: 'Derdine derman, gönlüne ferahlık dileriz. Rabbim sana ve sevdiklerine acil şifalar versin.',
-    button: 'Bismillah, başlayalım',
+    button: 'Başlayalım',
   },
   {
     lead: 'Geçmiş olsun. Sana ve sevdiklerine en kısa yoldan yardım bulalım.',
-    button: 'Haydi, başlayalım',
+    button: 'Başlayalım',
   },
   {
     lead: 'Gönlün ferah, yolun açık olsun. Sağlıkla kal, sevdiklerinle kal.',
-    button: 'Hayırlısıyla başlayalım',
+    button: 'Başlayalım',
   },
   {
     lead: 'Allah\'a emanet ol. Sen merak etme, en yakın yardımı birlikte bulalım.',
-    button: 'Allah\'ın izniyle başlayalım',
+    button: 'Başlayalım',
   },
   {
     lead: 'Kendin ya da bir yakının için buradaysan, doğru yerdesin.',
-    button: 'İyilikle başlayalım',
+    button: 'Başlayalım',
   },
 ];
 
@@ -70,9 +70,14 @@ export function Welcome() {
             <Text style={[styles.title, { color: t.text }]}>Hoş geldin</Text>
             <Text style={[styles.lead, { color: t.text }]}>{g.lead}</Text>
             <Text style={[styles.about, { color: t.textMuted }]}>
-              Bu uygulama sana en yakın nöbetçi eczaneyi ve hastaneleri saniyeler içinde gösterir. Liste her gün resmi
-              kaynaktan yenilenir.
+              Bu uygulama sana en yakın nöbetçi eczaneyi ve hastaneleri saniyeler içinde gösterir.
             </Text>
+            <View style={[styles.source, { backgroundColor: t.card, borderColor: t.border }]}>
+              <Ionicons name="shield-checkmark-outline" size={18} color={t.primary} />
+              <Text style={[styles.sourceText, { color: t.text }]}>
+                Nöbet listesi her gün e-Devlet'teki resmi kaynaktan (TİTCK) alınır.
+              </Text>
+            </View>
           </FadeIn>
         </View>
 
@@ -97,6 +102,8 @@ const styles = StyleSheet.create({
   icon: { width: 56, height: 56, borderRadius: 28, alignItems: 'center', justifyContent: 'center', marginBottom: 14 },
   pickLabel: { fontSize: 15, fontWeight: '700', marginBottom: 12 },
   pickBox: { padding: 16, borderRadius: radius.lg, borderWidth: 1, marginTop: 28, marginBottom: 16 },
+  source: { flexDirection: 'row', alignItems: 'center', gap: 10, marginTop: 16, padding: 12, borderRadius: radius.md, borderWidth: 1 },
+  sourceText: { flex: 1, fontSize: 14, lineHeight: 20 },
   about: { fontSize: 15, lineHeight: 22, marginTop: 14 },
   title: { fontSize: 34, fontWeight: '800', letterSpacing: -0.6 },
   lead: { fontSize: 18, lineHeight: 27, marginTop: 10 },
