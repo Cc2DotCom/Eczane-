@@ -3,7 +3,7 @@ import * as Haptics from 'expo-haptics';
 import { LinearGradient } from 'expo-linear-gradient';
 import { StatusBar } from 'expo-status-bar';
 import { useEffect, useMemo, useRef, useState } from 'react';
-import { LayoutAnimation, RefreshControl, ScrollView, StyleSheet, View, useColorScheme } from 'react-native';
+import { LayoutAnimation, RefreshControl, ScrollView, StyleSheet, View } from 'react-native';
 import { Text } from './src/components/Text';
 import { SafeAreaProvider, useSafeAreaInsets } from 'react-native-safe-area-context';
 import { CityPicker } from './src/components/CityPicker';
@@ -13,17 +13,18 @@ import { EmergencyButton, HospitalsView } from './src/components/HospitalsView';
 import { FadeIn, PressableScale, Pulse } from './src/components/motion';
 import { PharmacyRow } from './src/components/PharmacyRow';
 import { MapPanel } from './src/components/MapPanel';
+import { SettingsSheet } from './src/components/SettingsSheet';
 import { LoadingSkeleton, Message } from './src/components/States';
 import { ViewToggle } from './src/components/ViewToggle';
 import { Welcome } from './src/components/Welcome';
 import { getHospitals } from './src/data/hospitals';
 import { usingDemoData } from './src/data/repository';
-import { setLargeText, useLargeText } from './src/state/settings';
 import { useDutyPharmacies } from './src/hooks/useDutyPharmacies';
 import { usePreferences } from './src/hooks/usePreferences';
 import { useUserLocation } from './src/hooks/useUserLocation';
 import { radius, useTheme } from './src/theme';
 import { dutyDayLabel, greeting, relativeTime } from './src/utils/duty';
+import { distanceKm } from './src/utils/geo';
 
 export default function App() {
   return (
@@ -36,7 +37,6 @@ export default function App() {
 
 function Home() {
   const t = useTheme();
-  const scheme = useColorScheme();
   const insets = useSafeAreaInsets();
   const scrollRef = useRef<React.ComponentRef<typeof ScrollView>>(null);
 
@@ -45,16 +45,35 @@ function Home() {
   const coords = location.status === 'ready' ? location.coords : null;
   const area = prefs.manualArea ?? (location.status === 'ready' ? location.area : null);
 
-  const { pharmacies, source, fetchedAt, stale, offline, notCovered, loading, refreshing, error, refresh } = useDutyPharmacies(
+  const { pharmacies: rawPharmacies, source, fetchedAt, stale, offline, notCovered, loading, refreshing, error, refresh } = useDutyPharmacies(
     prefs.ready ? area : null,
-    coords,
+    // Bölge elle seçildiyse mesafeyi kullanıcının bulunduğu yerden değil, seçilen yerden düşünürüz.
+    prefs.manualArea ? null : coords,
   );
+
+  // Bölge elle seçildiyse o bölgedeki nöbetçi eczanelerin ortası "merkez" sayılır:
+  // liste merkeze yakınlığa göre sıralanır, hastaneler de buradan aranır.
+  const areaCenter = useMemo(() => {
+    if (!prefs.manualArea) return null;
+    const pts = rawPharmacies.flatMap((p) => (p.coords ? [p.coords] : []));
+    if (!pts.length) return null;
+    return {
+      latitude: pts.reduce((a, c) => a + c.latitude, 0) / pts.length,
+      longitude: pts.reduce((a, c) => a + c.longitude, 0) / pts.length,
+    };
+  }, [prefs.manualArea, rawPharmacies]);
+  const pharmacies = useMemo(() => {
+    if (!areaCenter) return rawPharmacies;
+    const d = (p: (typeof rawPharmacies)[number]) => (p.coords ? distanceKm(areaCenter, p.coords) : Infinity);
+    return [...rawPharmacies].sort((a, b) => d(a) - d(b));
+  }, [rawPharmacies, areaCenter]);
+  const hospitalCenter = prefs.manualArea ? areaCenter : coords;
 
   const [selectedId, setSelectedId] = useState<string | null>(null);
   const [pickerOpen, setPickerOpen] = useState(false);
   const [tab, setTab] = useState<'eczane' | 'hastane'>('eczane');
   const [view, setView] = useState<'liste' | 'harita'>('liste');
-  const largeText = useLargeText();
+  const [settingsOpen, setSettingsOpen] = useState(false);
 
   // Hastane listesini arkada bir kez indirip saklayalım; internet kesilse de Hastaneler sekmesi çalışsın.
   useEffect(() => {
@@ -149,6 +168,7 @@ function Home() {
         <HeroCard
           pharmacy={hero}
           isNearest={hero.id === nearest?.id}
+          nearestLabel={prefs.manualArea ? 'Bu bölgede nöbetçi' : undefined}
           isFavorite={prefs.favorites.includes(hero.name)}
           onToggleFavorite={() => toggleFav(hero.name)}
           onBackToNearest={() => select(null)}
@@ -176,7 +196,7 @@ function Home() {
               points={pharmacies
                 .filter((p) => p.coords)
                 .map((p) => ({ id: p.id, lat: p.coords!.latitude, lng: p.coords!.longitude, label: p.name, kind: 'pharmacy' as const }))}
-              user={coords}
+              user={prefs.manualArea ? null : coords}
               selectedId={hero.id}
               onSelect={select}
             />
@@ -212,7 +232,7 @@ function Home() {
 
   return (
     <View style={[styles.root, { backgroundColor: t.bg }]}>
-      <StatusBar style={scheme === 'dark' ? 'light' : 'dark'} />
+      <StatusBar style={t.dark ? 'light' : 'dark'} />
       {/* Üstte yumuşak, sıcak bir ışık halesi */}
       <LinearGradient pointerEvents="none" colors={[t.glow, t.bg]} style={styles.glow} />
       <ScrollView
@@ -228,19 +248,12 @@ function Home() {
               <Text style={[styles.title, { color: t.text }]}>{greeting()}</Text>
             </View>
             <PressableScale
-              onPress={() => {
-                Haptics.selectionAsync().catch(() => {});
-                setLargeText(!largeText);
-              }}
-              accessibilityRole="switch"
-              accessibilityState={{ checked: largeText }}
-              accessibilityLabel="Büyük yazı"
-              style={[
-                styles.aaBtn,
-                { backgroundColor: largeText ? t.primary : t.card, borderColor: largeText ? t.primary : t.border },
-              ]}
+              onPress={() => setSettingsOpen(true)}
+              accessibilityRole="button"
+              accessibilityLabel="Ayarlar"
+              style={[styles.aaBtn, { backgroundColor: t.card, borderColor: t.border }]}
             >
-              <Text style={[styles.aaText, { color: largeText ? t.onPrimary : t.text }]}>Aa</Text>
+              <Ionicons name="options-outline" size={18} color={t.text} />
             </PressableScale>
             <PressableScale
               onPress={() => setPickerOpen(true)}
@@ -333,8 +346,9 @@ function Home() {
 
         {isHospital ? (
           <HospitalsView
-            coords={coords}
-            locating={location.status === 'loading'}
+            coords={hospitalCenter}
+            areaLabel={prefs.manualArea ? areaLabel : undefined}
+            locating={prefs.manualArea ? loading : location.status === 'loading'}
             onPicked={() => scrollRef.current?.scrollTo({ y: 0, animated: true })}
           />
         ) : (
@@ -344,6 +358,8 @@ function Home() {
           </View>
         )}
       </ScrollView>
+
+      <SettingsSheet visible={settingsOpen} onClose={() => setSettingsOpen(false)} />
 
       <CityPicker
         visible={pickerOpen}
@@ -384,7 +400,6 @@ const styles = StyleSheet.create({
     borderWidth: 1,
   },
   aaBtn: { width: 36, height: 36, borderRadius: 18, borderWidth: 1, alignItems: 'center', justifyContent: 'center' },
-  aaText: { fontSize: 14, fontWeight: '800' },
   areaText: { fontSize: 13, fontWeight: '600', flexShrink: 1 },
   liveRow: { flexDirection: 'row', alignItems: 'center', gap: 8, marginTop: 8, marginBottom: 16 },
   tabs: { flexDirection: 'row', padding: 4, borderRadius: 99, marginBottom: 18 },

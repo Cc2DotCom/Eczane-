@@ -51,7 +51,7 @@ export function EmergencyButton() {
   );
 }
 
-function HospitalCard({ h, isNearest }: { h: HospitalWithDistance; isNearest: boolean }) {
+function HospitalCard({ h, isNearest, fromArea }: { h: HospitalWithDistance; isNearest: boolean; fromArea?: string }) {
   const t = useTheme();
   return (
     <FadeIn key={h.id} offset={10}>
@@ -64,7 +64,7 @@ function HospitalCard({ h, isNearest }: { h: HospitalWithDistance; isNearest: bo
         <View style={styles.badges}>
           <View style={[styles.badge, { backgroundColor: t.primary }]}>
             <Ionicons name="navigate" size={12} color={t.onPrimary} />
-            <Text style={[styles.badgeText, { color: t.onPrimary }]}>{isNearest ? 'Sana yakın hastane' : 'Senin seçimin'}</Text>
+            <Text style={[styles.badgeText, { color: t.onPrimary }]}>{!isNearest ? 'Senin seçimin' : fromArea ? 'Bu bölgede en yakın' : 'Sana yakın hastane'}</Text>
           </View>
           {h.emergency && (
             <View style={[styles.badge, { backgroundColor: t.dangerSoft }]}>
@@ -89,7 +89,7 @@ function HospitalCard({ h, isNearest }: { h: HospitalWithDistance; isNearest: bo
         )}
         <View style={styles.distanceRow}>
           <Text style={[styles.distance, { color: t.primary }]}>{formatDistance(h.distanceKm)}</Text>
-          <Text style={[styles.hint, { color: t.textMuted }]}>{travelHint(h.distanceKm)}</Text>
+          <Text style={[styles.hint, { color: t.textMuted }]}>{fromArea ? `${fromArea} merkezine` : travelHint(h.distanceKm)}</Text>
         </View>
         {!!h.address && (
           <View style={styles.row}>
@@ -171,7 +171,18 @@ const FILTERS: { key: Filter; label: string }[] = [
   { key: 'dis', label: 'Ağız ve diş' },
 ];
 
-export function HospitalsView({ coords, locating, onPicked }: { coords: Coords | null; locating: boolean; onPicked?: () => void }) {
+export function HospitalsView({
+  coords,
+  locating,
+  areaLabel,
+  onPicked,
+}: {
+  coords: Coords | null;
+  locating: boolean;
+  /** Bölge elle seçildiyse adı; mesafeler o bölgenin ortasından hesaplanır. */
+  areaLabel?: string;
+  onPicked?: () => void;
+}) {
   const t = useTheme();
   const { general, emergencyOnly, dental, featured, loading, error, retry } = useHospitals(coords, true);
   const [filter, setFilter] = useState<Filter>('tumu');
@@ -192,8 +203,12 @@ export function HospitalsView({ coords, locating, onPicked }: { coords: Coords |
     body = (
       <Message
         icon="location-outline"
-        title="Konumuna ihtiyacımız var"
-        body="Sana en yakın hastaneleri gösterebilmek için konum izni gerekiyor. Ayarlardan konum iznini açabilirsin."
+        title={areaLabel ? 'Bu bölgenin konumu bulunamadı' : 'Konumuna ihtiyacımız var'}
+        body={
+          areaLabel
+            ? `${areaLabel} için hastaneleri gösterebilmek için konum bilgisi gerekiyor. Konumunu kullanmayı ya da başka bir il seçmeyi deneyebilirsin.`
+            : 'Sana en yakın hastaneleri gösterebilmek için konum izni gerekiyor. Ayarlardan konum iznini açabilirsin.'
+        }
       />
     );
   else if (loading) body = <LoadingSkeleton />;
@@ -203,7 +218,7 @@ export function HospitalsView({ coords, locating, onPicked }: { coords: Coords |
   else
     body = (
       <>
-        <HospitalCard h={shown!} isNearest={shown?.id === featured.id} />
+        <HospitalCard h={shown!} isNearest={shown?.id === featured.id} fromArea={areaLabel} />
         <FadeIn delay={160}>
           <View style={styles.sectionRow}>
             <Text style={[styles.section, { color: t.textMuted, flex: 1, marginTop: 0 }]}>Yakındaki hastaneler</Text>

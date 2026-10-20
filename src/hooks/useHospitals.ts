@@ -6,6 +6,8 @@ import { distanceKm } from '../utils/geo';
 export type HospitalWithDistance = Hospital & { id: string; distanceKm: number; dental: boolean };
 
 /** Ağız ve diş sağlığı merkezleri acil durumda işe yaramaz; ayrı bir grupta gösterilir. */
+/** Tek dala bakan hastaneler (göz, fizik tedavi vb.) acil durumda ilk öneri olmamalı. */
+const SPECIALTY = /göz|fizik tedavi|onkoloji|psikiyatri|ruh sağlığı|ruh ve sinir|diyaliz|tüp bebek|estetik|kulak burun|ftr|rehabilitasyon|kemik iliği|cilt|dermatoloji/;
 const DENTAL = /diş hastane|diş hekim|diş sağlı|diş poliklini|diş merkez|ağız ve diş|ağız-diş|dental|\bdent/i;
 
 /** Bu yarıçapın dışındaki hastaneler listelenmez. */
@@ -52,8 +54,9 @@ export function useHospitals(coords: Coords | null, enabled: boolean) {
 
   // Acil serviste işaretli en yakın hastane öne çıkar; çok uzaktaysa en yakın hastane.
   const featured = useMemo(() => {
-    const nearest = general[0];
-    const er = general.find((h) => h.emergency);
+    const pool = general.filter((h) => !SPECIALTY.test(h.name.toLocaleLowerCase('tr-TR')));
+    const nearest = pool[0] ?? general[0];
+    const er = pool.find((h) => h.emergency);
     if (!nearest) return undefined;
     return er && er.distanceKm <= Math.max(nearest.distanceKm * 2, nearest.distanceKm + 3) ? er : nearest;
   }, [general]);

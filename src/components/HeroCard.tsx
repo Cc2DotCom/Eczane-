@@ -15,9 +15,11 @@ type Props = {
   isFavorite: boolean;
   onToggleFavorite: () => void;
   onBackToNearest?: () => void;
+  /** "Sana en yakın" yerine gösterilecek rozet (bölge elle seçildiğinde). */
+  nearestLabel?: string;
 };
 
-export function HeroCard({ pharmacy: p, isNearest, isFavorite, onToggleFavorite, onBackToNearest }: Props) {
+export function HeroCard({ pharmacy: p, isNearest, isFavorite, onToggleFavorite, onBackToNearest, nearestLabel }: Props) {
   const t = useTheme();
   return (
     // key ile her seçimde kart yeniden, yumuşakça belirir.
@@ -32,7 +34,7 @@ export function HeroCard({ pharmacy: p, isNearest, isFavorite, onToggleFavorite,
           <View style={[styles.badge, { backgroundColor: isNearest ? t.primary : t.warm }]}>
             <Ionicons name={isNearest ? 'navigate' : 'heart'} size={12} color={t.onPrimary} />
             <Text style={[styles.badgeText, { color: t.onPrimary }]}>
-              {isNearest ? 'Sana en yakın' : 'Senin seçimin'}
+              {isNearest ? (nearestLabel ?? 'Sana en yakın') : 'Senin seçimin'}
             </Text>
           </View>
           <View style={styles.topIcons}>
@@ -111,7 +113,7 @@ export function HeroCard({ pharmacy: p, isNearest, isFavorite, onToggleFavorite,
 
         {!isNearest && onBackToNearest && (
           <PressableScale onPress={onBackToNearest} style={styles.back}>
-            <Text style={[styles.backText, { color: t.textMuted }]}>En yakına dön</Text>
+            <Text style={[styles.backText, { color: t.textMuted }]}>{nearestLabel ? 'Başa dön' : 'En yakına dön'}</Text>
           </PressableScale>
         )}
       </LinearGradient>

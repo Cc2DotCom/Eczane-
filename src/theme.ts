@@ -1,6 +1,7 @@
-import { useColorScheme } from 'react-native';
+import { useThemeName } from './state/settings';
 
 const light = {
+  dark: false as boolean,
   bg: '#FBF6EF',
   bgAccent: '#F5ECE2',
   card: '#FFFDF9',
@@ -19,29 +20,54 @@ const light = {
   dangerSoft: '#FBE4DD',
 };
 
-const dark: typeof light = {
-  bg: '#1C1714',
-  bgAccent: '#241D19',
-  card: '#26201B',
-  cardMuted: '#211B17',
-  text: '#F1E8DF',
-  textMuted: '#A39383',
-  primary: '#E39A7A',
-  primarySoft: '#3A2A22',
-  onPrimary: '#1C1714',
-  warm: '#E8BC62',
-  warmSoft: '#3A3020',
-  border: '#352C25',
-  shadow: '#000000',
-  glow: '#3A2820',
-  danger: '#D9664E',
-  dangerSoft: '#3E241E',
+/** Beyaza yakın, sade ve nötr. */
+const acik: typeof light = {
+  dark: false,
+  bg: '#F7F7F5',
+  bgAccent: '#EDEDEA',
+  card: '#FFFFFF',
+  cardMuted: '#FAFAF8',
+  text: '#2A2A28',
+  textMuted: '#8C8C87',
+  primary: '#C9785A',
+  primarySoft: '#F6EAE4',
+  onPrimary: '#FFFFFF',
+  warm: '#C99A3A',
+  warmSoft: '#F7F0E0',
+  border: '#E6E6E2',
+  shadow: '#555550',
+  glow: '#EFEFEC',
+  danger: '#C8553D',
+  dangerSoft: '#FAE3DD',
 };
+
+/** Siyaha yakın; gece göz yormaz. */
+const koyu: typeof light = {
+  dark: true,
+  bg: '#121212',
+  bgAccent: '#1D1D1D',
+  card: '#1F1F1F',
+  cardMuted: '#1A1A1A',
+  text: '#EDEDEA',
+  textMuted: '#9C9C97',
+  primary: '#E39A7A',
+  primarySoft: '#33251F',
+  onPrimary: '#121212',
+  warm: '#E8BC62',
+  warmSoft: '#2D2719',
+  border: '#2E2E2E',
+  shadow: '#000000',
+  glow: '#1E1A18',
+  danger: '#E0705A',
+  dangerSoft: '#3A221D',
+};
+
+export const THEMES = { sicak: light, acik, koyu };
 
 export type Theme = typeof light;
 
 export function useTheme(): Theme {
-  return useColorScheme() === 'dark' ? dark : light;
+  return THEMES[useThemeName()];
 }
 
 export const radius = { sm: 12, md: 18, lg: 28 };

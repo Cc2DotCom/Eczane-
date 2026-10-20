@@ -1,5 +1,4 @@
 import { Ionicons } from '@expo/vector-icons';
-import AsyncStorage from '@react-native-async-storage/async-storage';
 import * as Haptics from 'expo-haptics';
 import { LinearGradient } from 'expo-linear-gradient';
 import { useEffect, useRef, useState } from 'react';
@@ -7,9 +6,10 @@ import { Animated, Easing, StyleSheet, View } from 'react-native';
 import { Text } from './Text';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { radius, useTheme } from '../theme';
+import { hideWelcome, useWelcomeVisible } from '../state/settings';
 import { FadeIn, PressableScale } from './motion';
+import { ThemePicker } from './ThemePicker';
 
-const SEEN_KEY = 'welcome:v1';
 
 /** Herkese hitap etsin diye birkaç farklı karşılama; açılışta biri rastgele seçilir. */
 const GREETINGS = [
@@ -52,23 +52,24 @@ const GREETINGS = [
 export function Welcome() {
   const t = useTheme();
   const insets = useSafeAreaInsets();
-  const [visible, setVisible] = useState(false);
+  const visible = useWelcomeVisible();
   const fade = useRef(new Animated.Value(1)).current;
-  const [g] = useState(() => GREETINGS[Math.floor(Math.random() * GREETINGS.length)]);
+  const [g, setG] = useState(() => GREETINGS[Math.floor(Math.random() * GREETINGS.length)]);
 
+  // Ayarlardan yeniden açıldığında görünür ol ve başka bir söz seç.
   useEffect(() => {
-    AsyncStorage.getItem(SEEN_KEY)
-      .then((v) => {
-        if (!v) setVisible(true);
-      })
-      .catch(() => {});
-  }, []);
+    if (!visible) return;
+    fade.setValue(1);
+    setG((prev) => {
+      const rest = GREETINGS.filter((x) => x !== prev);
+      return rest[Math.floor(Math.random() * rest.length)];
+    });
+  }, [visible, fade]);
 
   const start = () => {
     Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Light).catch(() => {});
-    AsyncStorage.setItem(SEEN_KEY, '1').catch(() => {});
     Animated.timing(fade, { toValue: 0, duration: 380, easing: Easing.out(Easing.quad), useNativeDriver: true }).start(
-      () => setVisible(false),
+      hideWelcome,
     );
   };
 
@@ -77,11 +78,11 @@ export function Welcome() {
   return (
     <Animated.View style={[StyleSheet.absoluteFill, { opacity: fade }]}>
       <LinearGradient colors={[t.glow, t.bg, t.bg]} style={StyleSheet.absoluteFill} />
-      <View style={[styles.wrap, { paddingTop: insets.top + 48, paddingBottom: insets.bottom + 28 }]}>
+      <View style={[styles.wrap, { paddingTop: insets.top + 24, paddingBottom: insets.bottom + 28 }]}>
         <View style={{ flex: 1, justifyContent: 'center' }}>
           <FadeIn>
             <View style={[styles.icon, { backgroundColor: t.primarySoft }]}>
-              <Ionicons name="heart" size={34} color={t.primary} />
+              <Ionicons name="heart" size={28} color={t.primary} />
             </View>
           </FadeIn>
           <FadeIn delay={150}>
@@ -99,7 +100,7 @@ export function Welcome() {
             </View>
           </FadeIn>
           <FadeIn delay={600}>
-            <View style={{ gap: 12, marginTop: 28 }}>
+            <View style={{ gap: 10, marginTop: 20 }}>
               <Line icon="navigate-outline" text="Konumuna en yakın nöbetçi eczaneyi hemen gösteririz." />
               <Line icon="business-outline" text="Yakınındaki hastanelere ve 112'ye tek dokunuşla ulaşırsın." />
               <Line icon="shield-checkmark-outline" text="Liste her gün resmi kaynaktan (e-Devlet) yenilenir." />
@@ -108,6 +109,9 @@ export function Welcome() {
         </View>
 
         <FadeIn delay={750}>
+          <Text style={[styles.pickLabel, { color: t.textMuted }]}>Sana hangi renk iyi gelir?</Text>
+          <ThemePicker />
+          <View style={{ height: 16 }} />
           <PressableScale onPress={start} accessibilityRole="button" style={[styles.button, { backgroundColor: t.primary }]}>
             <Text style={[styles.buttonText, { color: t.onPrimary }]}>{g.button}</Text>
             <Ionicons name="arrow-forward" size={18} color={t.onPrimary} />
@@ -133,10 +137,11 @@ function Line({ icon, text }: { icon: keyof typeof Ionicons.glyphMap; text: stri
 
 const styles = StyleSheet.create({
   wrap: { flex: 1, paddingHorizontal: 28 },
-  icon: { width: 68, height: 68, borderRadius: 34, alignItems: 'center', justifyContent: 'center', marginBottom: 20 },
+  icon: { width: 56, height: 56, borderRadius: 28, alignItems: 'center', justifyContent: 'center', marginBottom: 14 },
+  pickLabel: { fontSize: 13, fontWeight: '600', marginBottom: 8 },
   title: { fontSize: 34, fontWeight: '800', letterSpacing: -0.6 },
   lead: { fontSize: 18, lineHeight: 27, marginTop: 10 },
-  quote: { marginTop: 22, padding: 18, borderRadius: radius.md, borderWidth: 1 },
+  quote: { marginTop: 16, padding: 16, borderRadius: radius.md, borderWidth: 1 },
   quoteText: { fontSize: 17, fontStyle: 'italic', fontWeight: '600' },
   quoteNote: { fontSize: 14, marginTop: 6 },
   line: { flexDirection: 'row', alignItems: 'center', gap: 12 },
