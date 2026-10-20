@@ -2,8 +2,8 @@ name: Kaynak yoklama (geçici)
 on:
   workflow_dispatch:
     inputs:
-      urls:
-        description: 'Boşlukla ayrılmış adresler'
+      cmd:
+        description: 'Çalıştırılacak komut'
         required: true
 jobs:
   probe:
@@ -13,4 +13,4 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - run: node scripts/probe.mjs ${{ inputs.urls }}
+      - run: ${{ inputs.cmd }}
