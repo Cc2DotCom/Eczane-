@@ -6,10 +6,12 @@ import { Linking, StyleSheet, Text, View } from 'react-native';
 import { type HospitalWithDistance, useHospitals } from '../hooks/useHospitals';
 import { radius, useTheme } from '../theme';
 import type { Coords, Pharmacy } from '../types';
-import { callPharmacy, openDirections } from '../utils/actions';
+import { callPharmacy, openDirections, sharePlace } from '../utils/actions';
 import { formatDistance, travelHint } from '../utils/geo';
 import { FadeIn, PressableScale } from './motion';
+import { MapPanel } from './MapPanel';
 import { LoadingSkeleton, Message } from './States';
+import { ViewToggle } from './ViewToggle';
 
 const KIND_LABEL = { devlet: 'Devlet hastanesi', ozel: 'Özel hastane', universite: 'Üniversite hastanesi' } as const;
 
@@ -47,7 +49,7 @@ export function EmergencyButton() {
   );
 }
 
-function HospitalCard({ h }: { h: HospitalWithDistance }) {
+function HospitalCard({ h, isNearest }: { h: HospitalWithDistance; isNearest: boolean }) {
   const t = useTheme();
   return (
     <FadeIn key={h.id} offset={10}>
@@ -60,7 +62,7 @@ function HospitalCard({ h }: { h: HospitalWithDistance }) {
         <View style={styles.badges}>
           <View style={[styles.badge, { backgroundColor: t.primary }]}>
             <Ionicons name="navigate" size={12} color={t.onPrimary} />
-            <Text style={[styles.badgeText, { color: t.onPrimary }]}>Sana yakın hastane</Text>
+            <Text style={[styles.badgeText, { color: t.onPrimary }]}>{isNearest ? 'Sana yakın hastane' : 'Senin seçimin'}</Text>
           </View>
           {h.emergency && (
             <View style={[styles.badge, { backgroundColor: t.dangerSoft }]}>
@@ -104,6 +106,14 @@ function HospitalCard({ h }: { h: HospitalWithDistance }) {
             <Ionicons name="navigate-outline" size={18} color={t.onPrimary} />
             <Text style={[styles.primaryText, { color: t.onPrimary }]}>Yol tarifi</Text>
           </PressableScale>
+          <PressableScale
+            onPress={() => sharePlace(asPlace(h), h.emergency ? 'Acil servis var' : undefined)}
+            style={[styles.secondaryBtn, { backgroundColor: t.card, borderColor: t.border, paddingHorizontal: 16 }]}
+            accessibilityRole="button"
+            accessibilityLabel="Hastaneyi paylaş"
+          >
+            <Ionicons name="share-social-outline" size={18} color={t.primary} />
+          </PressableScale>
           {!!h.phone && (
             <PressableScale
               onPress={() => callPharmacy(asPlace(h))}
@@ -119,10 +129,14 @@ function HospitalCard({ h }: { h: HospitalWithDistance }) {
   );
 }
 
-function HospitalRow({ h, onPress }: { h: HospitalWithDistance; onPress: () => void }) {
+function HospitalRow({ h, selected, onPress }: { h: HospitalWithDistance; selected: boolean; onPress: () => void }) {
   const t = useTheme();
   return (
-    <PressableScale onPress={onPress} style={[styles.listRow, { backgroundColor: t.card, borderColor: t.border }]}>
+    <PressableScale
+      onPress={onPress}
+      accessibilityState={{ selected }}
+      style={[styles.listRow, { backgroundColor: selected ? t.primarySoft : t.card, borderColor: selected ? t.primary : t.border }]}
+    >
       <View style={[styles.icon, { backgroundColor: h.emergency ? t.dangerSoft : t.bgAccent }]}>
         <Ionicons
           name={h.dental ? 'happy-outline' : h.emergency ? 'medical' : 'business-outline'}
@@ -155,11 +169,20 @@ const FILTERS: { key: Filter; label: string }[] = [
   { key: 'dis', label: 'Ağız ve diş' },
 ];
 
-export function HospitalsView({ coords, locating }: { coords: Coords | null; locating: boolean }) {
+export function HospitalsView({ coords, locating, onPicked }: { coords: Coords | null; locating: boolean; onPicked?: () => void }) {
   const t = useTheme();
   const { general, emergencyOnly, dental, featured, loading, error, retry } = useHospitals(coords, true);
   const [filter, setFilter] = useState<Filter>('tumu');
   const list = filter === 'acil' ? emergencyOnly : filter === 'dis' ? dental : general;
+  const [view, setView] = useState<'liste' | 'harita'>('liste');
+  const [selectedId, setSelectedId] = useState<string | null>(null);
+  const all = [...general, ...dental];
+  const shown = all.find((h) => h.id === selectedId) ?? featured;
+  const pick = (h: HospitalWithDistance) => {
+    Haptics.selectionAsync().catch(() => {});
+    setSelectedId(h.id === featured?.id ? null : h.id);
+    onPicked?.();
+  };
 
   let body: React.ReactNode;
   if (!coords && locating) body = <LoadingSkeleton />;
@@ -178,9 +201,12 @@ export function HospitalsView({ coords, locating }: { coords: Coords | null; loc
   else
     body = (
       <>
-        <HospitalCard h={featured} />
+        <HospitalCard h={shown!} isNearest={shown?.id === featured.id} />
         <FadeIn delay={160}>
-          <Text style={[styles.section, { color: t.textMuted }]}>Yakındaki hastaneler</Text>
+          <View style={styles.sectionRow}>
+            <Text style={[styles.section, { color: t.textMuted, flex: 1, marginTop: 0 }]}>Yakındaki hastaneler</Text>
+            <ViewToggle value={view} onChange={setView} />
+          </View>
           <View style={styles.chips}>
             {FILTERS.map((f) => {
               const active = f.key === filter;
@@ -209,13 +235,25 @@ export function HospitalsView({ coords, locating }: { coords: Coords | null; loc
             {filter === 'dis' ? 'Yakında kayıtlı bir ağız ve diş sağlığı merkezi görünmüyor.' : 'Bu grupta yakında kayıtlı hastane görünmüyor.'}
           </Text>
         )}
-        <View style={{ gap: 10 }}>
-          {list.map((h, i) => (
-            <FadeIn key={`${filter}-${h.id}`} delay={Math.min(i, 8) * 50}>
-              <HospitalRow h={h} onPress={() => openDirections(asPlace(h))} />
-            </FadeIn>
-          ))}
-        </View>
+        {view === 'harita' ? (
+          <MapPanel
+            points={list.map((h) => ({ id: h.id, lat: h.lat, lng: h.lng, label: h.name, kind: h.emergency ? 'emergency' : 'hospital' }))}
+            user={coords}
+            selectedId={shown?.id}
+            onSelect={(id) => {
+              const h = list.find((x) => x.id === id);
+              if (h) pick(h);
+            }}
+          />
+        ) : (
+          <View style={{ gap: 10 }}>
+            {list.map((h, i) => (
+              <FadeIn key={`${filter}-${h.id}`} delay={Math.min(i, 8) * 50}>
+                <HospitalRow h={h} selected={h.id === shown?.id} onPress={() => pick(h)} />
+              </FadeIn>
+            ))}
+          </View>
+        )}
         <Text style={[styles.note, { color: t.textMuted }]}>
           Hastane bilgileri OpenStreetMap gönüllülerinden gelir; acil servis bilgisi her hastane için girilmemiş olabilir.
         </Text>
@@ -255,6 +293,7 @@ const styles = StyleSheet.create({
   chips: { flexDirection: 'row', flexWrap: 'wrap', gap: 8, marginTop: 10 },
   chip: { paddingHorizontal: 14, height: 34, justifyContent: 'center', borderRadius: 99, borderWidth: 1 },
   chipText: { fontSize: 13, fontWeight: '600' },
+  sectionRow: { flexDirection: 'row', alignItems: 'center', gap: 10, marginTop: 10 },
   section: { fontSize: 13, fontWeight: '600', letterSpacing: 0.3, marginTop: 10, textTransform: 'uppercase' },
   listRow: { flexDirection: 'row', alignItems: 'center', gap: 12, padding: 14, borderRadius: radius.md, borderWidth: 1 },
   icon: { width: 40, height: 40, borderRadius: 14, alignItems: 'center', justifyContent: 'center' },

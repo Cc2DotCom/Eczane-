@@ -11,7 +11,9 @@ import { Favorites } from './src/components/Favorites';
 import { EmergencyButton, HospitalsView } from './src/components/HospitalsView';
 import { FadeIn, PressableScale, Pulse } from './src/components/motion';
 import { PharmacyRow } from './src/components/PharmacyRow';
+import { MapPanel } from './src/components/MapPanel';
 import { LoadingSkeleton, Message } from './src/components/States';
+import { ViewToggle } from './src/components/ViewToggle';
 import { Welcome } from './src/components/Welcome';
 import { usingDemoData } from './src/data/repository';
 import { useDutyPharmacies } from './src/hooks/useDutyPharmacies';
@@ -48,6 +50,7 @@ function Home() {
   const [selectedId, setSelectedId] = useState<string | null>(null);
   const [pickerOpen, setPickerOpen] = useState(false);
   const [tab, setTab] = useState<'eczane' | 'hastane'>('eczane');
+  const [view, setView] = useState<'liste' | 'harita'>('liste');
   const [, forceTick] = useState(0);
 
   // "x dk önce" yazısı canlı kalsın.
@@ -152,21 +155,37 @@ function Home() {
         </FadeIn>
 
         <FadeIn delay={160}>
-          <Text style={[styles.section, { color: t.textMuted }]}>Bugün nöbetçi olanlar · {pharmacies.length}</Text>
+          <View style={styles.sectionRow}>
+            <Text style={[styles.section, { color: t.textMuted, flex: 1, marginTop: 0 }]}>Bugün nöbetçi olanlar · {pharmacies.length}</Text>
+            <ViewToggle value={view} onChange={setView} />
+          </View>
         </FadeIn>
-        <View style={{ gap: 10 }}>
-          {pharmacies.map((p, i) => (
-            <FadeIn key={p.id} delay={200 + Math.min(i, 8) * 60}>
-              <PharmacyRow
-                pharmacy={p}
-                selected={p.id === hero.id}
-                favorite={prefs.favorites.includes(p.name)}
-                onPress={() => select(p.id)}
-                onToggleFavorite={() => toggleFav(p.name)}
-              />
-            </FadeIn>
-          ))}
-        </View>
+        {view === 'harita' ? (
+          <FadeIn>
+            <MapPanel
+              points={pharmacies
+                .filter((p) => p.coords)
+                .map((p) => ({ id: p.id, lat: p.coords!.latitude, lng: p.coords!.longitude, label: p.name, kind: 'pharmacy' as const }))}
+              user={coords}
+              selectedId={hero.id}
+              onSelect={select}
+            />
+          </FadeIn>
+        ) : (
+          <View style={{ gap: 10 }}>
+            {pharmacies.map((p, i) => (
+              <FadeIn key={p.id} delay={200 + Math.min(i, 8) * 60}>
+                <PharmacyRow
+                  pharmacy={p}
+                  selected={p.id === hero.id}
+                  favorite={prefs.favorites.includes(p.name)}
+                  onPress={() => select(p.id)}
+                  onToggleFavorite={() => toggleFav(p.name)}
+                />
+              </FadeIn>
+            ))}
+          </View>
+        )}
       </>
     );
   }
@@ -278,7 +297,11 @@ function Home() {
         )}
 
         {isHospital ? (
-          <HospitalsView coords={coords} locating={location.status === 'loading'} />
+          <HospitalsView
+            coords={coords}
+            locating={location.status === 'loading'}
+            onPicked={() => scrollRef.current?.scrollTo({ y: 0, animated: true })}
+          />
         ) : (
           <View style={{ gap: 14 }}>
             {content}
@@ -334,5 +357,6 @@ const styles = StyleSheet.create({
   liveText: { fontSize: 13 },
   demo: { flexDirection: 'row', gap: 8, alignItems: 'center', padding: 12, borderRadius: radius.sm, marginBottom: 14 },
   demoText: { flex: 1, fontSize: 13, lineHeight: 18 },
+  sectionRow: { flexDirection: 'row', alignItems: 'center', gap: 10, marginTop: 10 },
   section: { fontSize: 13, fontWeight: '600', letterSpacing: 0.3, marginTop: 10, marginBottom: 2, textTransform: 'uppercase' },
 });

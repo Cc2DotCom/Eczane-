@@ -3,7 +3,7 @@ import { LinearGradient } from 'expo-linear-gradient';
 import { StyleSheet, Text, View } from 'react-native';
 import { radius, useTheme } from '../theme';
 import type { PharmacyWithDistance } from '../types';
-import { callPharmacy, openDirections } from '../utils/actions';
+import { callPharmacy, openDirections, sharePlace } from '../utils/actions';
 import { dutyWindow } from '../utils/duty';
 import { formatDistance, travelHint } from '../utils/geo';
 import { FadeIn, PressableScale } from './motion';
@@ -34,9 +34,28 @@ export function HeroCard({ pharmacy: p, isNearest, isFavorite, onToggleFavorite,
               {isNearest ? 'Sana en yakın' : 'Senin seçimin'}
             </Text>
           </View>
-          <PressableScale onPress={onToggleFavorite} hitSlop={12} scaleTo={0.85}>
-            <Ionicons name={isFavorite ? 'star' : 'star-outline'} size={22} color={isFavorite ? t.warm : t.textMuted} />
-          </PressableScale>
+          <View style={styles.topIcons}>
+            <PressableScale
+              onPress={() =>
+                sharePlace(p, ['Bugün nöbetçi eczane', dutyWindow(p.dutyStart, p.dutyEnd)].filter(Boolean).join(' · '))
+              }
+              hitSlop={12}
+              scaleTo={0.85}
+              accessibilityRole="button"
+              accessibilityLabel="Eczaneyi paylaş"
+            >
+              <Ionicons name="share-social-outline" size={22} color={t.textMuted} />
+            </PressableScale>
+            <PressableScale
+              onPress={onToggleFavorite}
+              hitSlop={12}
+              scaleTo={0.85}
+              accessibilityRole="button"
+              accessibilityLabel={isFavorite ? 'Favorilerden çıkar' : 'Favorilere ekle'}
+            >
+              <Ionicons name={isFavorite ? 'star' : 'star-outline'} size={22} color={isFavorite ? t.warm : t.textMuted} />
+            </PressableScale>
+          </View>
         </View>
 
         <Text style={[styles.name, { color: t.text }]} numberOfLines={2}>
@@ -109,6 +128,7 @@ const styles = StyleSheet.create({
     shadowOffset: { width: 0, height: 10 },
     elevation: 3,
   },
+  topIcons: { flexDirection: 'row', gap: 18, alignItems: 'center' },
   topRow: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center' },
   badge: { flexDirection: 'row', alignItems: 'center', gap: 6, paddingHorizontal: 10, paddingVertical: 5, borderRadius: 99 },
   badgeText: { fontSize: 12, fontWeight: '600', letterSpacing: 0.2 },
