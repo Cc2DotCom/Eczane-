@@ -2,7 +2,7 @@
  "city": "Elazığ",
  "code": 23,
  "dutyDay": "2026-10-21",
- "updatedAt": "2026-10-21T11:45:16.944Z",
+ "updatedAt": "2026-10-21T14:29:22.250Z",
  "source": "Elazığ Eczacı Odası",
  "pharmacies": [
   {
@@ -18,14 +18,14 @@
   },
   {
    "district": "Merkez",
-   "name": "Safak Eczanesi",
-   "address": "İCADİYE MAH. 1.HARPUT CAD. NO:16/E",
-   "phone": "04242330175",
+   "name": "İhlamur Eczanesi",
+   "address": "İCADİYE MAH.YAKUP ŞEVKİ CAD.NO:32/E",
+   "phone": "04242122000",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.675759,
-   "lng": 39.226077
+   "lat": 38.676651,
+   "lng": 39.228158
   },
   {
    "district": "Merkez",

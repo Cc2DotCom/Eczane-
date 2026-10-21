@@ -1,42 +1,42 @@
 {
  "city": "Van",
  "code": 65,
- "dutyDay": "2026-10-20",
- "updatedAt": "2026-10-20T17:46:06.467Z",
+ "dutyDay": "2026-10-21",
+ "updatedAt": "2026-10-21T14:30:40.584Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Çatak",
-   "name": "Selçuk Eczanesi",
-   "address": "Çatak Cumhuriyet Mah. Atatürk Cad. No:9/1A",
-   "phone": "0545 563 7063",
-   "dutyStart": "2026-10-20T18:00:00+03:00",
-   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "name": "Çatak Eczanesi",
+   "address": "Cumhuriyet Mah. Atatürk Cad. Dış Kapı No:13D",
+   "phone": "0541 585 1006",
+   "dutyStart": "2026-10-21T18:00:00+03:00",
+   "dutyEnd": "2026-10-22T08:30:00+03:00",
    "approved": true,
-   "lat": 38.008499,
-   "lng": 43.061993
+   "lat": 38.008438,
+   "lng": 43.061832
   },
   {
    "district": "Erciş",
-   "name": "Öz Tunç Eczanesi",
-   "address": "Çınarlı Mah. Şehitler Cad. Dış Kapı No:91C",
-   "phone": "0546 602 6339",
-   "dutyStart": "2026-10-20T18:00:00+03:00",
-   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "name": "Öz Yaşam Eczanesi",
+   "address": "LATİFİYE MAHALLESİ BİLİCİLER CADDESİ EBUBEKİR ÇİFTÇİ BULVARI NO:2",
+   "phone": "0432 351 9092",
+   "dutyStart": "2026-10-21T18:00:00+03:00",
+   "dutyEnd": "2026-10-22T08:30:00+03:00",
    "approved": true,
-   "lat": 39.017143,
-   "lng": 43.352245
+   "lat": 39.029751,
+   "lng": 43.357983
   },
   {
    "district": "Muradiye",
-   "name": "Muradiye Eczanesi",
-   "address": "HASTANE CAD. NO:51/A",
-   "phone": "0432 451 2798",
-   "dutyStart": "2026-10-20T17:00:00+03:00",
-   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "name": "Şelale Eczanesi",
+   "address": "Yenişehir Mah. Vanyolu Cad. Dış Kapı No:80A",
+   "phone": "0505 091 2640",
+   "dutyStart": "2026-10-21T17:00:00+03:00",
+   "dutyEnd": "2026-10-22T08:30:00+03:00",
    "approved": true,
-   "lat": 38.989254,
-   "lng": 43.759796
+   "lat": 38.988628,
+   "lng": 43.763264
   }
  ]
 }

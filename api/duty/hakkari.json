@@ -2,7 +2,7 @@
  "city": "Hakkari",
  "code": 30,
  "dutyDay": "2026-10-21",
- "updatedAt": "2026-10-21T11:46:07.028Z",
+ "updatedAt": "2026-10-21T14:29:33.030Z",
  "source": "Van Eczacı Odası",
  "pharmacies": [
   {
@@ -18,17 +18,6 @@
   },
   {
    "district": "Yüksekova",
-   "name": "Lokman Hekim Eczanesi",
-   "address": "GÜNGÖR MAH.CENGİZ TOPEL CAD.OTEL OSLO KARŞISI,ÇARŞI MERKEZİ NO:36/C",
-   "phone": "05325729122",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 37.571096,
-   "lng": 44.282759
-  },
-  {
-   "district": "Yüksekova",
    "name": "Gever Eczanesi",
    "address": "YÜKSEKOVA DEVLET HASTANESİ KARŞISI NO:3",
    "phone": "04383510004",
@@ -37,6 +26,17 @@
    "approved": true,
    "lat": 37.567838,
    "lng": 44.229582
+  },
+  {
+   "district": "Yüksekova",
+   "name": "Lokman Hekim Eczanesi",
+   "address": "GÜNGÖR MAH.CENGİZ TOPEL CAD.OTEL OSLO KARŞISI,ÇARŞI MERKEZİ NO:36/C",
+   "phone": "05325729122",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 37.571096,
+   "lng": 44.282759
   },
   {
    "district": "Şemdinli",

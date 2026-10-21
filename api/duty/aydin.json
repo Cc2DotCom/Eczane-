@@ -2,20 +2,9 @@
  "city": "Aydın",
  "code": 9,
  "dutyDay": "2026-10-21",
- "updatedAt": "2026-10-21T11:42:57.544Z",
+ "updatedAt": "2026-10-21T14:28:59.793Z",
  "source": "Aydın Eczacı Odası",
  "pharmacies": [
-  {
-   "district": "Merkez",
-   "name": "Güler Eczanesi",
-   "address": "YEDİEYLÜL MAH. BATI AYDIN BULV. NO:17 ( İMAM HATİP YOLU ÜZERİ - 7 EYLÜL MUHTARLIĞI KARŞISI )",
-   "phone": "02562261992",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 37.834861,
-   "lng": 27.840726
-  },
   {
    "district": "Merkez",
    "name": "Yeni Eczanesi",
@@ -50,15 +39,15 @@
    "lng": 27.847013
   },
   {
-   "district": "Kuşadası",
-   "name": "Yüce Eczanesi",
-   "address": "CAMIKEBIR MAH INÖNÜ CAD.NO.38/6 (DENİZBANK KAVŞAĞI)",
-   "phone": "02566124169",
+   "district": "Merkez",
+   "name": "Güler Eczanesi",
+   "address": "YEDİEYLÜL MAH. BATI AYDIN BULV. NO:17 ( İMAM HATİP YOLU ÜZERİ - 7 EYLÜL MUHTARLIĞI KARŞISI )",
+   "phone": "02562261992",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.860367,
-   "lng": 27.260557
+   "lat": 37.834861,
+   "lng": 27.840726
   },
   {
    "district": "Kuşadası",
@@ -72,15 +61,15 @@
    "lng": 27.25832
   },
   {
-   "district": "Nazilli",
-   "name": "Sağlık Eczanesi",
-   "address": "ŞİRİNEVLER MAH. BEŞEYLÜL CAD. NO:79/1A (2 NOLU ASM ÜSTÜ)",
-   "phone": "02563131092",
+   "district": "Kuşadası",
+   "name": "Yüce Eczanesi",
+   "address": "CAMIKEBIR MAH INÖNÜ CAD.NO.38/6 (DENİZBANK KAVŞAĞI)",
+   "phone": "02566124169",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.905656,
-   "lng": 28.327141
+   "lat": 37.860367,
+   "lng": 27.260557
   },
   {
    "district": "Nazilli",
@@ -92,6 +81,17 @@
    "approved": true,
    "lat": 37.919253,
    "lng": 28.343502
+  },
+  {
+   "district": "Nazilli",
+   "name": "Sağlık Eczanesi",
+   "address": "ŞİRİNEVLER MAH. BEŞEYLÜL CAD. NO:79/1A (2 NOLU ASM ÜSTÜ)",
+   "phone": "02563131092",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 37.905656,
+   "lng": 28.327141
   },
   {
    "district": "Söke",
