@@ -1,53 +1,53 @@
 {
  "city": "Kırşehir",
  "code": 40,
- "dutyDay": "2026-10-20",
- "updatedAt": "2026-10-20T20:39:17.487Z",
+ "dutyDay": "2026-10-21",
+ "updatedAt": "2026-10-21T11:49:25.842Z",
  "source": "Aksaray-Kırşehir Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Safir Eczanesi",
-   "address": "yurt içi kargo karşısı MEDRESE MAH.METİN ÇOBANOĞLU CAD.ADALI APT.NO:21/9",
-   "phone": "03862130003",
+   "name": "Onur Eczanesi",
+   "address": "ankara cad ahi evran camii karşısı ANKARA CAD.KAKER APT. NO:26",
+   "phone": "3862135490",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.142408,
-   "lng": 34.164773
+   "lat": 39.148124,
+   "lng": 34.16051
   },
   {
    "district": "Merkez",
-   "name": "Melisa Eczanesi",
-   "address": "işkurun bir alt sokağı Medrese Mah. 61 Sokak NO:7/6",
-   "phone": "03862144140",
+   "name": "Hayat Eczanesi",
+   "address": "ankara cad.ahi evran camii arkası ANKARA CAD. ÜMIT APT. 15/D MERKEZ/KIRSEHIR",
+   "phone": "03862143341",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.146085,
-   "lng": 34.168697
+   "lat": 39.148437,
+   "lng": 34.160027
   },
   {
    "district": "Kaman",
-   "name": "Defne Eczanesi",
-   "address": "Sarıuşağı Mah. Turgut Aslan Cad. 233.Sokak No:28",
-   "phone": "03867128208",
+   "name": "Aran Eczanesi",
+   "address": "ISTIKLAL CAD. NO:1",
+   "phone": "3867128191",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.356283,
-   "lng": 33.726513
+   "lat": 39.357669,
+   "lng": 33.724608
   },
   {
    "district": "Mucur",
-   "name": "Hendek Eczanesi",
-   "address": "YENİCE MAH.ENVERPAŞA CAD.NO:29",
-   "phone": "03868122223",
+   "name": "Emin Eczanesi",
+   "address": "Hamidiye Mah.İnönü Cad. No:16",
+   "phone": "03868126027",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.064625,
-   "lng": 34.376816
+   "lat": 39.062735,
+   "lng": 34.376231
   }
  ],
  "sourceUrl": "https://www.aksarayeo.org.tr/nobetci-eczaneler"

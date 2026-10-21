@@ -1,15 +1,15 @@
 {
  "city": "Kilis",
  "code": 79,
- "dutyDay": "2026-10-20",
- "updatedAt": "2026-10-20T20:39:38.327Z",
+ "dutyDay": "2026-10-21",
+ "updatedAt": "2026-10-21T11:54:20.237Z",
  "source": "Gaziantep Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Şifa Eczanesi",
-   "address": "Nedim Ökmen Mahallesi Ali Metin DirimTekin Caddesi No:31/A (KIZ YETİŞTİRME YURDU KARŞISI)",
-   "phone": "03488147079",
+   "name": "Şiltelioğlu Eczanesi",
+   "address": "NEDIM ÖKMEN MAHALLESI İSLAHİYE CADDESI NO:23/B (1 NOLU SAĞLIK OCAĞI YANI)",
+   "phone": "03488223855",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,

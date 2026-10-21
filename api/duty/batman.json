@@ -1,97 +1,97 @@
 {
  "city": "Batman",
  "code": 72,
- "dutyDay": "2026-10-20",
- "updatedAt": "2026-10-20T20:39:33.644Z",
+ "dutyDay": "2026-10-21",
+ "updatedAt": "2026-10-21T11:53:56.419Z",
  "source": "Batman Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Yunus Eczanesi",
+   "name": "Emin Eczanesi",
    "address": "BATMAN BÖLGE DEVLET HASTANESİ KARŞISI",
-   "phone": "04882211737",
+   "phone": "04882212972",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.911977,
-   "lng": 41.140256
+   "lat": 37.911936,
+   "lng": 41.14025
   },
   {
    "district": "Merkez",
-   "name": "Barış Eczanesi",
-   "address": "BELDE MAH. 3215 SOK. MÜFTÜLÜK AŞAĞISI GAP İLKÖĞRETİM KAVŞAĞI MİGROS KARŞISI",
-   "phone": "05535376545",
+   "name": "Gazioğlu Eczanesi",
+   "address": "FATİH MAH. BARIŞ BULVARI FATİH LİSESİ YANI, FATİH AİLE SAĞLIĞI MERKEZİ KARŞISI",
+   "phone": "04882150025",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.899789,
-   "lng": 41.139505
+   "lat": 37.893818,
+   "lng": 41.142233
   },
   {
    "district": "Merkez",
-   "name": "Dinç Eczanesi",
-   "address": "ÖZEL BATMAN YAŞAM HASTANESİ ACİL KARŞISI",
-   "phone": "04882210905",
+   "name": "Akinci Eczanesi",
+   "address": "YAŞAM HASTANESİ YANI YENİ ACİL GİRİŞİ (OTOPARK) KARŞISI",
+   "phone": "04882143700",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.894162,
-   "lng": 41.128665
+   "lat": 37.894218,
+   "lng": 41.128374
   },
   {
    "district": "Merkez",
-   "name": "Asya Eczanesi",
-   "address": "ATATÜRK HEYKELİ ZİRAAT BANKASI YANI",
-   "phone": "04882124772",
+   "name": "Batman Eczanesi",
+   "address": "D. BAKIR CAD. MEDİCAL PARK HAST. YANI",
+   "phone": "04882151852",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.879862,
-   "lng": 41.123928
+   "lat": 37.887952,
+   "lng": 41.128398
   },
   {
    "district": "Kozluk",
-   "name": "Tek Eczanesi",
-   "address": "SAĞLIK MAH. 2404 SOK. NO:22/Z2",
-   "phone": "04884112072",
+   "name": "Şifa Eczanesi",
+   "address": "AŞAĞI GÜNEŞLİ MAHALLESİ İPEK YOLU CADDESİ NO 143/B",
+   "phone": "05301512768",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.163449,
-   "lng": 41.498763
+   "lat": 38.167038,
+   "lng": 41.498927
   },
   {
    "district": "Gerçüş",
-   "name": "Gercüş Eczanesi",
-   "address": "GERCÜŞ DEVLET HASTANESİ YANI",
-   "phone": "04883412172",
+   "name": "Vefa Eczanesi",
+   "address": "BAGLARBASI MAH. M.NURI KAYA CAD.NO:21",
+   "phone": "4883412555",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.567064,
-   "lng": 41.385911
+   "lat": 37.568027,
+   "lng": 41.386114
   },
   {
    "district": "Beşiri",
-   "name": "Soylu Eczanesi",
-   "address": "BAĞDU MAH. YAŞAR KEMAL BUL. NO:13/A BEŞİRİ BATMAN",
-   "phone": "04883113303",
+   "name": "Şifa Eczanesi",
+   "address": "BAĞDU MAH. YAŞAR KEMAL CAD. NO:11/A",
+   "phone": "05318394838",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.922365,
-   "lng": 41.29001
+   "lat": 37.922394,
+   "lng": 41.289979
   },
   {
    "district": "Sason",
-   "name": "Hasan Eczanesi",
-   "address": "AŞAĞI MAH. HASTANE SOK NO:10/B",
-   "phone": "05519531563",
+   "name": "Özen Eczanesi",
+   "address": "HALUK İMGA CAD.NO:55 SASON",
+   "phone": "04884612884",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.3394,
-   "lng": 41.411962
+   "lat": 38.332558,
+   "lng": 41.420038
   }
  ],
  "sourceUrl": "https://www.batmaneczaciodasi.org.tr/nobetci-eczaneler"

@@ -1,64 +1,64 @@
 {
  "city": "Hakkari",
  "code": 30,
- "dutyDay": "2026-10-20",
- "updatedAt": "2026-10-20T20:39:07.799Z",
+ "dutyDay": "2026-10-21",
+ "updatedAt": "2026-10-21T11:46:07.028Z",
  "source": "Van Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Günes Eczanesi",
-   "address": "DAGGÖL MAH.HAKKARI VAN BULVAR CAD. 22/AHAKKKARI/MERKEZ",
-   "phone": "04382110040",
+   "name": "Güven Eczanesi",
+   "address": "Pehlivan mah. Çölemerik cad. No:62/C Hakkari Merkez",
+   "phone": "04382112017",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.573564,
-   "lng": 43.733851
+   "lat": 37.573289,
+   "lng": 43.7317
   },
   {
    "district": "Yüksekova",
-   "name": "Hayat Eczanesi",
-   "address": "CENGİZ TOPEL CAD.AMED ÇARŞISI ALTI",
-   "phone": "04383518480",
+   "name": "Lokman Hekim Eczanesi",
+   "address": "GÜNGÖR MAH.CENGİZ TOPEL CAD.OTEL OSLO KARŞISI,ÇARŞI MERKEZİ NO:36/C",
+   "phone": "05325729122",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.568678,
-   "lng": 44.285666
+   "lat": 37.571096,
+   "lng": 44.282759
   },
   {
    "district": "Yüksekova",
-   "name": "Canan Eczanesi",
-   "address": "İNANLI MAH.İNANLI CAD.YÜKSEKOVA DEVLET HASTANESİ KARŞISI NO:317/A",
-   "phone": "04383512464",
+   "name": "Gever Eczanesi",
+   "address": "YÜKSEKOVA DEVLET HASTANESİ KARŞISI NO:3",
+   "phone": "04383510004",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.568107,
-   "lng": 44.229767
+   "lat": 37.567838,
+   "lng": 44.229582
   },
   {
    "district": "Şemdinli",
-   "name": "Navşar Eczanesi",
-   "address": "CUMHURİYET CAD.ULU CAMİ KARŞISI NO:111",
-   "phone": "04384120098",
+   "name": "Nehr-i Eczanesi",
+   "address": "KARŞIYAKA MAH. CUMHURİYET CADDESİ NO:153/B",
+   "phone": "04384113041",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.307384,
-   "lng": 44.571761
+   "lat": 37.309234,
+   "lng": 44.569724
   },
   {
    "district": "Şemdinli",
-   "name": "Bahar Eczanesi",
-   "address": "MERKEZ MAH. VATAN CAD.NO:17/A",
-   "phone": "04384613122",
+   "name": "Derecik Eczanesi",
+   "address": "MERKEZ MAH.VATAN CAD.NO:19/A",
+   "phone": "05380443717",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.306194,
-   "lng": 44.573294
+   "lat": 37.080721,
+   "lng": 44.310393
   }
  ],
  "sourceUrl": "https://www.vaneczaciodasi.org.tr/nobetci-eczaneler"

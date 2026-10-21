@@ -1,42 +1,42 @@
 {
  "city": "Ardahan",
  "code": 75,
- "dutyDay": "2026-10-20",
- "updatedAt": "2026-10-20T17:47:13.646Z",
+ "dutyDay": "2026-10-21",
+ "updatedAt": "2026-10-21T11:54:07.457Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Göle",
-   "name": "Emek Eczanesi",
-   "address": "Kubilay bey Mah. Kars Cad. No:10 Göle/ARDAHAN",
-   "phone": "0478 411 3019",
-   "dutyStart": "2026-10-20T18:00:00+03:00",
-   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "name": "Yeni Göle Eczanesi",
+   "address": "Salim Bey Mahallesi, Oltu Caddesi No:36 Göle/ Ardahan",
+   "phone": "0554 380 1097",
+   "dutyStart": "2026-10-21T18:00:00+03:00",
+   "dutyEnd": "2026-10-22T08:00:00+03:00",
    "approved": true,
-   "lat": 40.793171,
-   "lng": 42.610214
+   "lat": 40.793003,
+   "lng": 42.607552
   },
   {
    "district": "Hanak",
    "name": "Hanak Eczanesi",
    "address": "Hürriyet Mahallesi, Atatürk Caddesi No:82 Hanak/Ardahan",
    "phone": "0531 694 9725",
-   "dutyStart": "2026-10-20T17:00:00+03:00",
-   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "dutyStart": "2026-10-21T17:00:00+03:00",
+   "dutyEnd": "2026-10-22T08:00:00+03:00",
    "approved": true,
    "lat": 41.236973,
    "lng": 42.844879
   },
   {
    "district": "Merkez",
-   "name": "Pamuk Eczanesi",
-   "address": "KARAGÖL MAH. KONGRE CADDESİ NO: 68",
-   "phone": "0478 211 2999",
-   "dutyStart": "2026-10-20T18:00:00+03:00",
-   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "name": "Büyük Eczanesi",
+   "address": "KARAGÖL MAH. KONGRE CADDESİ NO:103",
+   "phone": "0478 211 5999",
+   "dutyStart": "2026-10-21T18:00:00+03:00",
+   "dutyEnd": "2026-10-22T08:30:00+03:00",
    "approved": true,
-   "lat": 41.112362,
-   "lng": 42.700321
+   "lat": 41.111732,
+   "lng": 42.699398
   }
  ]
 }

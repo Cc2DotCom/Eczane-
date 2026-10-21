@@ -1,97 +1,97 @@
 {
  "city": "Edirne",
  "code": 22,
- "dutyDay": "2026-10-20",
- "updatedAt": "2026-10-20T20:29:09.005Z",
+ "dutyDay": "2026-10-21",
+ "updatedAt": "2026-10-21T11:45:12.371Z",
  "source": "Edirne Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Gülden Eczanesi",
-   "address": "I.MURAT MAH. GÜNGÖR MAZLUM CAD.ZÜBEYDE HANIM SITESI A.BLOK NO:11 (AĞIZ VE DİŞ HASTANESİ YANI)",
-   "phone": "02842352800",
+   "name": "Mercan Eczanesi",
+   "address": "MITHATPASA MAH.LONDRA ASFALTI NO:25/B",
+   "phone": "02842147292",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 41.663505,
-   "lng": 26.585282
+   "lat": 41.67678,
+   "lng": 26.550072
   },
   {
    "district": "Merkez",
-   "name": "Balkan Eczanesi",
-   "address": "KOCASİNAN MAH.T.Ü.BALKAN YERLEŞKESİ YAŞAM MERKEZİ NO:76/13",
-   "phone": "02842350672",
+   "name": "Baraj Eczanesi",
+   "address": "BIRINCI MURAT MAH.ZÜBEYDE HANIM CAD.36 SOK.ELBIKO 84 APT.D-11",
+   "phone": "2842364017",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 41.638359,
-   "lng": 26.612379
+   "lat": 41.663985,
+   "lng": 26.585526
   },
   {
    "district": "Merkez",
-   "name": "Taşkıran Eczanesi",
-   "address": "SABUNİ MAH. ÇİLİNGİRLER CAD.NO:40",
-   "phone": "02842120039",
+   "name": "Tekin Eczanesi",
+   "address": "YANCIKÇI SAHIN MAH. ATATÜRK CAD. NO:1 ESKİ SSK HASTANESİ KARŞISI",
+   "phone": "02842251064",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 41.674803,
-   "lng": 26.553815
+   "lat": 41.670419,
+   "lng": 26.568491
   },
   {
    "district": "Enez",
-   "name": "Saygin Eczanesi",
-   "address": "GAZI ÖMERBEY MAH. KALE CAD. NO:11",
-   "phone": "2848116147",
+   "name": "Hayat Eczanesi",
+   "address": "YENI MAH.MILLI EGEMENLIK CAD. NO:9/A",
+   "phone": "2848116564",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 40.724814,
-   "lng": 26.084344
+   "lat": 40.724876,
+   "lng": 26.086899
   },
   {
    "district": "Havsa",
-   "name": "Havsa Eczanesi",
-   "address": "FATIH CAD.NO:14",
-   "phone": "2843361045",
+   "name": "Yavuz Eczanesi",
+   "address": "UZUNKÖPRÜ CAD. NO:5/B",
+   "phone": "2843362473",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 41.549564,
-   "lng": 26.820855
+   "lat": 41.548864,
+   "lng": 26.821615
   },
   {
    "district": "İpsala",
-   "name": "Çınar Eczanesi",
-   "address": "BAYRAMBEY MAH. DR. SADIK AHMET CAD. İPSALA DEVLET HASTANESİ KARŞISI",
-   "phone": "02846163375",
+   "name": "Uysal Eczanesi",
+   "address": "BAYRAMBEY MAH.HASTANE CAD. NO:5",
+   "phone": "2846161604",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 40.917157,
-   "lng": 26.380669
+   "lat": 40.922008,
+   "lng": 26.38486
   },
   {
    "district": "Keşan",
-   "name": "Birgül Eczanesi",
-   "address": "DEMIRCILER CAD. NO:23",
-   "phone": "02847148420",
+   "name": "Erkan Eczanesi",
+   "address": "BÜYÜK CAMİ,GÜVEN SOK. NO:9",
+   "phone": "02847149790",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 40.853136,
-   "lng": 26.632379
+   "lat": 40.854408,
+   "lng": 26.63277
   },
   {
    "district": "Lalapaşa",
-   "name": "Yaren Eczanesi",
-   "address": "MERKEZ MAH. ŞEHİT ER AHMET BİNGÖL SOK. NO:1/D LALAPAŞA",
-   "phone": "02843214082",
+   "name": "Sevil Eczanesi",
+   "address": "CUMHURIYET CAD.NO:36/B",
+   "phone": "2843214032",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 41.839159,
-   "lng": 26.735825
+   "lat": 41.839311,
+   "lng": 26.732826
   },
   {
    "district": "Meriç",
@@ -106,14 +106,14 @@
   },
   {
    "district": "Uzunköprü",
-   "name": "Sözer Eczanesi",
-   "address": "GAZI CAD.NO:48",
-   "phone": "2845137833",
+   "name": "Günes Eczanesi",
+   "address": "GAZI CAD.TELLİ ÇESME MEYDANI NO:50",
+   "phone": "02845136750",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 41.268454,
-   "lng": 26.685268
+   "lat": 41.268416,
+   "lng": 26.685299
   },
   {
    "district": "Süloğlu",

@@ -1,86 +1,86 @@
 {
  "city": "Bolu",
  "code": 14,
- "dutyDay": "2026-10-20",
- "updatedAt": "2026-10-20T17:36:32.898Z",
+ "dutyDay": "2026-10-21",
+ "updatedAt": "2026-10-21T11:43:44.295Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Gerede",
-   "name": "Derman Eczanesi",
-   "address": "SEVİLLER MAH. SAKARYA CAD. NO:53/B",
-   "phone": "0374 311 3003",
-   "dutyStart": "2026-10-20T18:00:00+03:00",
-   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "name": "Ayperi Eczanesi",
+   "address": "Dayıoğlu Mh. Cihangir Sk. No: 6/A",
+   "phone": "0507 033 7314",
+   "dutyStart": "2026-10-21T18:00:00+03:00",
+   "dutyEnd": "2026-10-22T08:00:00+03:00",
    "approved": true,
-   "lat": 40.798916,
-   "lng": 32.192093
+   "lat": 40.795017,
+   "lng": 32.188721
   },
   {
    "district": "Göynük",
-   "name": "Göynük Eczanesi",
-   "address": "YENİCE MH. PROF.DR.NECMETTİN ERBAKAN CAD. NO:36/A",
-   "phone": "0374 451 6181",
-   "dutyStart": "2026-10-20T18:30:00+03:00",
-   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "name": "Şifa Eczanesi",
+   "address": "YENİCE MAH.SELİM ÇAPAR CAD.NO:8/B",
+   "phone": "0374 451 2340",
+   "dutyStart": "2026-10-21T18:30:00+03:00",
+   "dutyEnd": "2026-10-22T08:30:00+03:00",
    "approved": true,
-   "lat": 40.398647,
-   "lng": 30.78463
+   "lat": 40.398346,
+   "lng": 30.783699
   },
   {
    "district": "Mengen",
-   "name": "Emir Eczanesi",
-   "address": "TÜRKBEYLİ MAHALLESİ, MUSTAFA KÖRPEOĞLU CADDESİ NO:29-MENGEN",
-   "phone": "0374 356 3536",
-   "dutyStart": "2026-10-20T18:00:00+03:00",
-   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "name": "Mengen Eczanesi",
+   "address": "TÜRKBEYLİ MAH.ATATÜRK CAD.NO:24/A",
+   "phone": "0374 356 1205",
+   "dutyStart": "2026-10-21T18:00:00+03:00",
+   "dutyEnd": "2026-10-22T08:00:00+03:00",
    "approved": true,
-   "lat": 40.946377,
-   "lng": 32.075371
+   "lat": 40.938965,
+   "lng": 32.075443
   },
   {
    "district": "Merkez",
-   "name": "Arda Eczanesi",
-   "address": "Sağlık Mh. Sigorta Sk. No:15/B-7",
-   "phone": "0530 308 1742",
-   "dutyStart": "2026-10-20T18:00:00+03:00",
-   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "name": "Kökez Eczanesi",
+   "address": "GÖLYÜZÜ MAH.ŞEHİT MEHMET KAYA SOK..NO:8/30-31BOLU",
+   "phone": "0374 215 4449",
+   "dutyStart": "2026-10-21T18:00:00+03:00",
+   "dutyEnd": "2026-10-22T08:00:00+03:00",
    "approved": true,
-   "lat": 40.741997,
-   "lng": 31.609495
+   "lat": 40.738132,
+   "lng": 31.612741
   },
   {
    "district": "Merkez",
-   "name": "Ensar Eczanesi",
-   "address": "GÖLYÜZÜ MAH.BAHAR SOK.A.BLOKNO:25/E",
-   "phone": "0374 217 7010",
-   "dutyStart": "2026-10-20T18:00:00+03:00",
-   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "name": "Sis Eczanesi",
+   "address": "Kültür Mah. Şehitler Caddesi No:23/1A-10",
+   "phone": "0542 506 2176",
+   "dutyStart": "2026-10-21T18:00:00+03:00",
+   "dutyEnd": "2026-10-22T08:00:00+03:00",
    "approved": true,
-   "lat": 40.737644,
-   "lng": 31.612852
+   "lat": 40.742115,
+   "lng": 31.608042
   },
   {
    "district": "Mudurnu",
-   "name": "Beyza Eczanesi",
-   "address": "Seyrancık Mah. Belediye Cd. No:1/C",
-   "phone": "0374 421 3270",
-   "dutyStart": "2026-10-20T18:00:00+03:00",
-   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "name": "Mudurnu Eczanesi",
+   "address": "SEYRANCIK MAH. BOLU CAD. NO:8",
+   "phone": "0374 421 3145",
+   "dutyStart": "2026-10-21T18:00:00+03:00",
+   "dutyEnd": "2026-10-22T08:00:00+03:00",
    "approved": true,
-   "lat": 40.465969,
-   "lng": 31.212126
+   "lat": 40.466221,
+   "lng": 31.211475
   },
   {
    "district": "Yeniçağa",
-   "name": "Ebrar Eczanesi",
-   "address": "ASİLBEY MAH.SULTAN REŞAT CAD.NO.90",
-   "phone": "0374 356 3536",
-   "dutyStart": "2026-10-20T18:00:00+03:00",
-   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "name": "Ayçiçeği Eczanesi",
+   "address": "ASİLBEY MAH.SULTAN REŞAT CAD.NO:82/D",
+   "phone": "0374 341 3341",
+   "dutyStart": "2026-10-21T18:00:00+03:00",
+   "dutyEnd": "2026-10-22T08:00:00+03:00",
    "approved": true,
-   "lat": 40.770836,
-   "lng": 32.032257
+   "lat": 40.770962,
+   "lng": 32.032867
   }
  ]
 }

@@ -1,8 +1,8 @@
 {
  "city": "Erzincan",
  "code": 24,
- "dutyDay": "2026-10-20",
- "updatedAt": "2026-10-20T17:38:08.935Z",
+ "dutyDay": "2026-10-21",
+ "updatedAt": "2026-10-21T11:45:23.603Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
@@ -10,77 +10,77 @@
    "name": "Çayırlı Eczanesi",
    "address": "ATATÜRK MAHALLESİ HÜKÜMET CADDESİ NO:19 ÇAYIRLI/ ERZİNCAN",
    "phone": "0446 311 3257",
-   "dutyStart": "2026-10-20T18:00:00+03:00",
-   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "dutyStart": "2026-10-21T18:00:00+03:00",
+   "dutyEnd": "2026-10-22T08:00:00+03:00",
    "approved": true,
    "lat": 39.807289,
    "lng": 40.037506
   },
   {
    "district": "İliç",
-   "name": "Altinkent Eczanesi",
-   "address": "ABDULLAHPAŞA MAH. HÜKÜMET CAD. AK PLAZA ZEMİN KAT NO: 1 İLİÇ/ERZİNCAN",
-   "phone": "0446 711 2400",
-   "dutyStart": "2026-10-20T18:00:00+03:00",
-   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "name": "Fatma Eczanesi",
+   "address": "ABDULLAH PAŞA MAH. HÜKÜMET CAD. NO:17/B",
+   "phone": "0446 711 2844",
+   "dutyStart": "2026-10-21T18:00:00+03:00",
+   "dutyEnd": "2026-10-22T08:30:00+03:00",
    "approved": true,
-   "lat": 39.456501,
-   "lng": 38.564213
+   "lat": 39.455162,
+   "lng": 38.562801
   },
   {
    "district": "Merkez",
-   "name": "Erhan Eczanesi",
-   "address": "KIZILAY MAH. 13 ŞUBAT CAD. NO:12/A ERZİNCAN",
-   "phone": "0446 224 2727",
-   "dutyStart": "2026-10-20T18:00:00+03:00",
-   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "name": "Mengüceli Eczanesi",
+   "address": "KARAAĞAÇ MAHALLESİ FEVZİPAŞA CAD. NO:60/A",
+   "phone": "0446 226 6626",
+   "dutyStart": "2026-10-21T18:00:00+03:00",
+   "dutyEnd": "2026-10-22T00:00:00+03:00",
    "approved": true,
-   "lat": 39.744579,
-   "lng": 39.49062
+   "lat": 39.746094,
+   "lng": 39.498375
   },
   {
    "district": "Merkez",
-   "name": "Öner Eczanesi",
-   "address": "13 ŞUBAT CADDESİ NO:8 ERZİNCAN",
-   "phone": "0446 223 3741",
-   "dutyStart": "2026-10-20T18:00:00+03:00",
-   "dutyEnd": "2026-10-21T00:00:00+03:00",
+   "name": "Şebnem Eczanesi",
+   "address": "ATATÜRK MAHALLESİ FEVZİPAŞA CADDESİ NO:41/A",
+   "phone": "0446 223 2051",
+   "dutyStart": "2026-10-21T18:00:00+03:00",
+   "dutyEnd": "2026-10-22T08:30:00+03:00",
    "approved": true,
-   "lat": 39.745193,
-   "lng": 39.490654
+   "lat": 39.746487,
+   "lng": 39.497921
   },
   {
    "district": "Refahiye",
-   "name": "Lokman Hekim Eczanesi",
-   "address": "KEMALİYE MAH. ERZİNCAN CAD. NO:8 REFAHİYE / ERZİNCAN",
-   "phone": "0446 611 2201",
-   "dutyStart": "2026-10-20T17:00:00+03:00",
-   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "name": "Refahiye Eczanesi",
+   "address": "Yenidoğan Mahallesi 500. sokak No:5-A",
+   "phone": "0446 611 2322",
+   "dutyStart": "2026-10-21T17:00:00+03:00",
+   "dutyEnd": "2026-10-22T08:00:00+03:00",
    "approved": true,
-   "lat": 39.899727,
-   "lng": 38.768826
+   "lat": 39.90052,
+   "lng": 38.769875
   },
   {
    "district": "Tercan",
-   "name": "Emrah Eczanesi",
-   "address": "KAZIM KARABEKİR MAH. KERVANSARAY CAD. NO:41/B TERCAN/ERZİNCAN",
-   "phone": "0446 441 2425",
-   "dutyStart": "2026-10-20T18:00:00+03:00",
-   "dutyEnd": "2026-10-21T08:00:00+03:00",
+   "name": "Algül Eczanesi",
+   "address": "KAZIM KARABEKİR MAHALLESİ KERVANSARAY CAD. DIŞ KAPI NO:99 İÇ KAPI NO:2 TERCAN/ERZİNCAN",
+   "phone": "0541 319 3117",
+   "dutyStart": "2026-10-21T18:00:00+03:00",
+   "dutyEnd": "2026-10-22T08:00:00+03:00",
    "approved": true,
-   "lat": 39.778683,
-   "lng": 40.380032
+   "lat": 39.778496,
+   "lng": 40.380863
   },
   {
    "district": "Üzümlü",
-   "name": "Nur Eczanesi",
-   "address": "FATİH MAHALLESİ ERZİNCAN BULVARI 114/C ÜZÜMLÜ/ERZİNCAN",
-   "phone": "0446 502 4445",
-   "dutyStart": "2026-10-20T18:00:00+03:00",
-   "dutyEnd": "2026-10-21T08:30:00+03:00",
+   "name": "Güven Eczanesi",
+   "address": "Fatih Mahallesi Erzincan Bulvarı No:114/A Üzümlü Erzincan",
+   "phone": "0505 429 9575",
+   "dutyStart": "2026-10-21T18:00:00+03:00",
+   "dutyEnd": "2026-10-22T08:30:00+03:00",
    "approved": true,
-   "lat": 39.697678,
-   "lng": 39.683681
+   "lat": 39.697781,
+   "lng": 39.683838
   }
  ]
 }
