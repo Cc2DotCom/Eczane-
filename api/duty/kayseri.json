@@ -2,31 +2,9 @@
  "city": "Kayseri",
  "code": 38,
  "dutyDay": "2026-10-21",
- "updatedAt": "2026-10-21T14:29:41.848Z",
+ "updatedAt": "2026-10-21T18:05:10.685Z",
  "source": "Kayseri Eczacı Odası",
  "pharmacies": [
-  {
-   "district": "Kocasinan",
-   "name": "Aydemir Eczanesi",
-   "address": "ÖRNEKEVLER MAH. SALIH AVGUN PASA CAD. NO:26/A",
-   "phone": "03522223634",
-   "dutyStart": "2026-10-21T08:30:00+03:00",
-   "dutyEnd": "2026-10-22T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.727581,
-   "lng": 35.480672
-  },
-  {
-   "district": "Kocasinan",
-   "name": "Korkmaz Eczanesi",
-   "address": "Şeker Mah. Muhsin Yazıcıoğlu Bulvarı No:74/J",
-   "phone": "03523266262",
-   "dutyStart": "2026-10-21T08:30:00+03:00",
-   "dutyEnd": "2026-10-22T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.7707,
-   "lng": 35.413167
-  },
   {
    "district": "Kocasinan",
    "name": "Selam Eczanesi",
@@ -50,6 +28,17 @@
    "lng": 35.586457
   },
   {
+   "district": "Kocasinan",
+   "name": "Aydemir Eczanesi",
+   "address": "ÖRNEKEVLER MAH. SALIH AVGUN PASA CAD. NO:26/A",
+   "phone": "03522223634",
+   "dutyStart": "2026-10-21T08:30:00+03:00",
+   "dutyEnd": "2026-10-22T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.727581,
+   "lng": 35.480672
+  },
+  {
    "district": "Melikgazi",
    "name": "Nalbantoğlu Eczanesi",
    "address": "HUNAT MAH. SEYİD BURHANETTİN BULV. NO:37",
@@ -59,6 +48,28 @@
    "approved": true,
    "lat": 38.718675,
    "lng": 35.492366
+  },
+  {
+   "district": "Kocasinan",
+   "name": "Korkmaz Eczanesi",
+   "address": "Şeker Mah. Muhsin Yazıcıoğlu Bulvarı No:74/J",
+   "phone": "03523266262",
+   "dutyStart": "2026-10-21T08:30:00+03:00",
+   "dutyEnd": "2026-10-22T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.7707,
+   "lng": 35.413167
+  },
+  {
+   "district": "Talas",
+   "name": "Ömer Eczanesi",
+   "address": "MEVLANA MAH. ŞEHİT FATİH DUMAN SOK. MO:36/B TALAS/KAYSERİ",
+   "phone": "03523473800",
+   "dutyStart": "2026-10-21T08:30:00+03:00",
+   "dutyEnd": "2026-10-22T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.716649,
+   "lng": 35.56263
   },
   {
    "district": "Kocasinan",
@@ -83,37 +94,15 @@
    "lng": 35.475777
   },
   {
-   "district": "Kocasinan",
-   "name": "Tuna Eczanesi",
-   "address": "ERCIYESEVLER MH.SIVAS CD.N0:213",
-   "phone": "3522231006",
-   "dutyStart": "2026-10-21T08:30:00+03:00",
-   "dutyEnd": "2026-10-22T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.730751,
-   "lng": 35.518299
-  },
-  {
    "district": "Melikgazi",
-   "name": "Şükran Eczanesi",
-   "address": "CUMHURIYET MH.MILLET CD.N0:172/64",
-   "phone": "03522313573",
+   "name": "Şeker Eczanesi",
+   "address": "KEYKUBAT MH.ANAFARTALAR CD.N0:133/A-B",
+   "phone": "03523316133",
    "dutyStart": "2026-10-21T08:30:00+03:00",
    "dutyEnd": "2026-10-22T01:00:00+03:00",
    "approved": true,
-   "lat": 38.719628,
-   "lng": 35.48972
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Aytaç Eczanesi",
-   "address": "Köşk Mah. Köşk Cad. Palmiye Sitesi 69/A",
-   "phone": "03522370707",
-   "dutyStart": "2026-10-21T08:30:00+03:00",
-   "dutyEnd": "2026-10-22T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.720636,
-   "lng": 35.516998
+   "lat": 38.743018,
+   "lng": 35.410385
   },
   {
    "district": "Talas",
@@ -127,6 +116,17 @@
    "lng": 35.55346
   },
   {
+   "district": "Melikgazi",
+   "name": "Aytaç Eczanesi",
+   "address": "Köşk Mah. Köşk Cad. Palmiye Sitesi 69/A",
+   "phone": "03522370707",
+   "dutyStart": "2026-10-21T08:30:00+03:00",
+   "dutyEnd": "2026-10-22T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.720636,
+   "lng": 35.516998
+  },
+  {
    "district": "Kocasinan",
    "name": "Başak Eczanesi",
    "address": "SERÇEÖNÜ MAH.ÇANKAYA CAD.ERCIYES SITESI NO:21/F",
@@ -138,26 +138,26 @@
    "lng": 35.493706
   },
   {
-   "district": "Talas",
-   "name": "Ömer Eczanesi",
-   "address": "MEVLANA MAH. ŞEHİT FATİH DUMAN SOK. MO:36/B TALAS/KAYSERİ",
-   "phone": "03523473800",
+   "district": "Melikgazi",
+   "name": "Şükran Eczanesi",
+   "address": "CUMHURIYET MH.MILLET CD.N0:172/64",
+   "phone": "03522313573",
    "dutyStart": "2026-10-21T08:30:00+03:00",
    "dutyEnd": "2026-10-22T01:00:00+03:00",
    "approved": true,
-   "lat": 38.716649,
-   "lng": 35.56263
+   "lat": 38.719628,
+   "lng": 35.48972
   },
   {
-   "district": "Melikgazi",
-   "name": "Şeker Eczanesi",
-   "address": "KEYKUBAT MH.ANAFARTALAR CD.N0:133/A-B",
-   "phone": "03523316133",
+   "district": "Kocasinan",
+   "name": "Tuna Eczanesi",
+   "address": "ERCIYESEVLER MH.SIVAS CD.N0:213",
+   "phone": "3522231006",
    "dutyStart": "2026-10-21T08:30:00+03:00",
    "dutyEnd": "2026-10-22T01:00:00+03:00",
    "approved": true,
-   "lat": 38.743018,
-   "lng": 35.410385
+   "lat": 38.730751,
+   "lng": 35.518299
   }
  ],
  "sourceUrl": "https://www.kayserieo.org.tr/nobetci-eczaneler"
