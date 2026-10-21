@@ -2,19 +2,30 @@
  "city": "Kayseri",
  "code": 38,
  "dutyDay": "2026-10-21",
- "updatedAt": "2026-10-21T18:05:10.685Z",
+ "updatedAt": "2026-10-21T20:13:44.309Z",
  "source": "Kayseri Eczacı Odası",
  "pharmacies": [
   {
    "district": "Kocasinan",
-   "name": "Selam Eczanesi",
-   "address": "SANAYİ MAH. ÇİMEN SOKAK NO:42/A",
-   "phone": "03522220083",
+   "name": "Korkmaz Eczanesi",
+   "address": "Şeker Mah. Muhsin Yazıcıoğlu Bulvarı No:74/J",
+   "phone": "03523266262",
    "dutyStart": "2026-10-21T08:30:00+03:00",
    "dutyEnd": "2026-10-22T08:30:00+03:00",
    "approved": true,
-   "lat": 38.726135,
-   "lng": 35.479347
+   "lat": 38.7707,
+   "lng": 35.413167
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Nalbantoğlu Eczanesi",
+   "address": "HUNAT MAH. SEYİD BURHANETTİN BULV. NO:37",
+   "phone": "03522315296",
+   "dutyStart": "2026-10-21T08:30:00+03:00",
+   "dutyEnd": "2026-10-22T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.718675,
+   "lng": 35.492366
   },
   {
    "district": "Kocasinan",
@@ -39,37 +50,37 @@
    "lng": 35.480672
   },
   {
-   "district": "Melikgazi",
-   "name": "Nalbantoğlu Eczanesi",
-   "address": "HUNAT MAH. SEYİD BURHANETTİN BULV. NO:37",
-   "phone": "03522315296",
+   "district": "Kocasinan",
+   "name": "Selam Eczanesi",
+   "address": "SANAYİ MAH. ÇİMEN SOKAK NO:42/A",
+   "phone": "03522220083",
    "dutyStart": "2026-10-21T08:30:00+03:00",
    "dutyEnd": "2026-10-22T08:30:00+03:00",
    "approved": true,
-   "lat": 38.718675,
-   "lng": 35.492366
+   "lat": 38.726135,
+   "lng": 35.479347
   },
   {
    "district": "Kocasinan",
-   "name": "Korkmaz Eczanesi",
-   "address": "Şeker Mah. Muhsin Yazıcıoğlu Bulvarı No:74/J",
-   "phone": "03523266262",
-   "dutyStart": "2026-10-21T08:30:00+03:00",
-   "dutyEnd": "2026-10-22T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.7707,
-   "lng": 35.413167
-  },
-  {
-   "district": "Talas",
-   "name": "Ömer Eczanesi",
-   "address": "MEVLANA MAH. ŞEHİT FATİH DUMAN SOK. MO:36/B TALAS/KAYSERİ",
-   "phone": "03523473800",
+   "name": "Başak Eczanesi",
+   "address": "SERÇEÖNÜ MAH.ÇANKAYA CAD.ERCIYES SITESI NO:21/F",
+   "phone": "03522321385",
    "dutyStart": "2026-10-21T08:30:00+03:00",
    "dutyEnd": "2026-10-22T01:00:00+03:00",
    "approved": true,
-   "lat": 38.716649,
-   "lng": 35.56263
+   "lat": 38.728212,
+   "lng": 35.493706
+  },
+  {
+   "district": "Talas",
+   "name": "Hilal Yildiz Eczanesi",
+   "address": "KİÇİKÖY MAH. KAYABAĞLAR 2. SOKÇ NO :3/A",
+   "phone": "03529991972",
+   "dutyStart": "2026-10-21T08:30:00+03:00",
+   "dutyEnd": "2026-10-22T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.692578,
+   "lng": 35.55346
   },
   {
    "district": "Kocasinan",
@@ -84,14 +95,14 @@
   },
   {
    "district": "Melikgazi",
-   "name": "Yeni Hilal Eczanesi",
-   "address": "OSMANLI MAH. EDIP GEÇIDI 11/B",
-   "phone": "03523470102",
+   "name": "Aytaç Eczanesi",
+   "address": "Köşk Mah. Köşk Cad. Palmiye Sitesi 69/A",
+   "phone": "03522370707",
    "dutyStart": "2026-10-21T08:30:00+03:00",
    "dutyEnd": "2026-10-22T01:00:00+03:00",
    "approved": true,
-   "lat": 38.689571,
-   "lng": 35.475777
+   "lat": 38.720636,
+   "lng": 35.516998
   },
   {
    "district": "Melikgazi",
@@ -105,37 +116,26 @@
    "lng": 35.410385
   },
   {
-   "district": "Talas",
-   "name": "Hilal Yildiz Eczanesi",
-   "address": "KİÇİKÖY MAH. KAYABAĞLAR 2. SOKÇ NO :3/A",
-   "phone": "03529991972",
-   "dutyStart": "2026-10-21T08:30:00+03:00",
-   "dutyEnd": "2026-10-22T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.692578,
-   "lng": 35.55346
-  },
-  {
    "district": "Melikgazi",
-   "name": "Aytaç Eczanesi",
-   "address": "Köşk Mah. Köşk Cad. Palmiye Sitesi 69/A",
-   "phone": "03522370707",
+   "name": "Yeni Hilal Eczanesi",
+   "address": "OSMANLI MAH. EDIP GEÇIDI 11/B",
+   "phone": "03523470102",
    "dutyStart": "2026-10-21T08:30:00+03:00",
    "dutyEnd": "2026-10-22T01:00:00+03:00",
    "approved": true,
-   "lat": 38.720636,
-   "lng": 35.516998
+   "lat": 38.689571,
+   "lng": 35.475777
   },
   {
-   "district": "Kocasinan",
-   "name": "Başak Eczanesi",
-   "address": "SERÇEÖNÜ MAH.ÇANKAYA CAD.ERCIYES SITESI NO:21/F",
-   "phone": "03522321385",
+   "district": "Talas",
+   "name": "Ömer Eczanesi",
+   "address": "MEVLANA MAH. ŞEHİT FATİH DUMAN SOK. MO:36/B TALAS/KAYSERİ",
+   "phone": "03523473800",
    "dutyStart": "2026-10-21T08:30:00+03:00",
    "dutyEnd": "2026-10-22T01:00:00+03:00",
    "approved": true,
-   "lat": 38.728212,
-   "lng": 35.493706
+   "lat": 38.716649,
+   "lng": 35.56263
   },
   {
    "district": "Melikgazi",
