@@ -2,8 +2,8 @@
  "city": "Edirne",
  "code": 22,
  "dutyDay": "2026-10-22",
- "updatedAt": "2026-10-22T11:48:53.509Z",
- "source": "e-Devlet TİTCK",
+ "updatedAt": "2026-10-22T12:50:42.956Z",
+ "source": "e-Devlet TİTCK, Edirne Eczacı Odası",
  "pharmacies": [
   {
    "district": "Havsa",
@@ -26,6 +26,117 @@
    "approved": true,
    "lat": 41.548862,
    "lng": 26.821615
+  },
+  {
+   "district": "Merkez",
+   "name": "Trakya Eczanesi",
+   "address": "SARICAPAŞA MAH. KADİRHANE CAD.NO:15 ÖZEL TRAKYA HAST. ACİL KARŞISI EDİRNE",
+   "phone": "02842121328",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 41.675618,
+   "lng": 26.558463
+  },
+  {
+   "district": "Merkez",
+   "name": "Begüm Eczanesi",
+   "address": "FATİH MAH. ÜMRAN AKKAN CAD. NO:28B/A",
+   "phone": "02842250730",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 41.660652,
+   "lng": 26.596115
+  },
+  {
+   "district": "Merkez",
+   "name": "Edirne Hayat Eczanesi",
+   "address": "İSTASYON MAH.GELİNCİK SOK. NO:12 EDİRNE",
+   "phone": "02842253175",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 41.653322,
+   "lng": 26.578244
+  },
+  {
+   "district": "Enez",
+   "name": "Saglik Eczanesi",
+   "address": "KALE CAD. NO:9/A",
+   "phone": "2848116090",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 40.724737,
+   "lng": 26.084178
+  },
+  {
+   "district": "İpsala",
+   "name": "Çitil Eczanesi",
+   "address": "KAPUCU MAH. KURTULUŞ CAD. NO:167/B İPSALA",
+   "phone": "02846164040",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 40.928146,
+   "lng": 26.391578
+  },
+  {
+   "district": "Keşan",
+   "name": "Gökhan Eczanesi",
+   "address": "ISPAT CAMI MAH. KURTULUS CAD. NO:103/B",
+   "phone": "02847147964",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 40.864652,
+   "lng": 26.629901
+  },
+  {
+   "district": "Lalapaşa",
+   "name": "Yaren Eczanesi",
+   "address": "MERKEZ MAH. ŞEHİT ER AHMET BİNGÖL SOK. NO:1/D LALAPAŞA",
+   "phone": "02843214082",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 41.839159,
+   "lng": 26.735825
+  },
+  {
+   "district": "Meriç",
+   "name": "Ceyda Yilmaz Eczanesi",
+   "address": "BÜYÜKDOĞANCA MAH. ARTEZYEN CAD. NO:1",
+   "phone": "02844151051",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 41.189905,
+   "lng": 26.418703
+  },
+  {
+   "district": "Uzunköprü",
+   "name": "Basak Eczanesi",
+   "address": "RIZA EFENDI MAH.GAZI CAD.NO:92",
+   "phone": "2845132646",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 41.267644,
+   "lng": 26.686406
+  },
+  {
+   "district": "Süloğlu",
+   "name": "Süloglu Eczanesi",
+   "address": "ŞAFAK MAH. EDİRNE CAD. NO:109/1",
+   "phone": "02843113689",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 41.76645,
+   "lng": 26.910025
   }
- ]
+ ],
+ "sourceUrl": "https://www.edirneeo.org.tr/nobetci-eczaneler"
 }

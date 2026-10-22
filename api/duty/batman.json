@@ -1,97 +1,97 @@
 {
  "city": "Batman",
  "code": 72,
- "dutyDay": "2026-10-21",
- "updatedAt": "2026-10-21T20:14:03.658Z",
+ "dutyDay": "2026-10-22",
+ "updatedAt": "2026-10-22T12:52:34.008Z",
  "source": "Batman Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Emin Eczanesi",
-   "address": "BATMAN BÖLGE DEVLET HASTANESİ KARŞISI",
-   "phone": "04882212972",
+   "name": "Çağlayan Eczanesi",
+   "address": "TILMERÇ MAHALLESİ BAHÇEŞEHİR KOLEJİ YOLU ÜZERİ ŞAHMAR-ÇELEBİ EKMEK FIRINI YANI",
+   "phone": "05055170708",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.911936,
-   "lng": 41.14025
+   "lat": 37.914813,
+   "lng": 41.148952
   },
   {
    "district": "Merkez",
-   "name": "Gazioğlu Eczanesi",
-   "address": "FATİH MAH. BARIŞ BULVARI FATİH LİSESİ YANI, FATİH AİLE SAĞLIĞI MERKEZİ KARŞISI",
-   "phone": "04882150025",
+   "name": "Dünya Eczanesi",
+   "address": "DÜNYA HASTANESİ ACİL SERVİS YANI",
+   "phone": "04885027777",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.893818,
-   "lng": 41.142233
+   "lat": 37.902917,
+   "lng": 41.142804
   },
   {
    "district": "Merkez",
-   "name": "Akinci Eczanesi",
-   "address": "YAŞAM HASTANESİ YANI YENİ ACİL GİRİŞİ (OTOPARK) KARŞISI",
-   "phone": "04882143700",
+   "name": "Botanik Eczanesi",
+   "address": "KÜLTÜR MAH. SAĞLIK İL MÜDÜRLÜĞÜ YANI (YAKININDAKİ YERLER :112 ACİL AHMET GÜNEŞTEKİN K.M BATSO TAZİYE EVİ )",
+   "phone": "04882137777",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.894218,
-   "lng": 41.128374
+   "lat": 37.902203,
+   "lng": 41.125689
   },
   {
    "district": "Merkez",
-   "name": "Batman Eczanesi",
-   "address": "D. BAKIR CAD. MEDİCAL PARK HAST. YANI",
-   "phone": "04882151852",
+   "name": "Gap Eczanesi",
+   "address": "SSK CAD.İLUH DEVLET VE DİŞ HASTA KRŞ 1 NOLU SAĞ OCAĞI YANI",
+   "phone": "04882127662",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.887952,
-   "lng": 41.128398
+   "lat": 37.888619,
+   "lng": 41.125157
   },
   {
    "district": "Kozluk",
-   "name": "Şifa Eczanesi",
-   "address": "AŞAĞI GÜNEŞLİ MAHALLESİ İPEK YOLU CADDESİ NO 143/B",
-   "phone": "05301512768",
+   "name": "Erdem Eczanesi",
+   "address": "İSLAM BEY MAH. CUMHURİYET CAD. NO:5/E",
+   "phone": "04884112572",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.167038,
-   "lng": 41.498927
+   "lat": 38.192775,
+   "lng": 41.488138
   },
   {
    "district": "Gerçüş",
-   "name": "Vefa Eczanesi",
-   "address": "BAGLARBASI MAH. M.NURI KAYA CAD.NO:21",
-   "phone": "4883412555",
+   "name": "Derman Eczanesi",
+   "address": "BAGLAR BASI MAH.ANA CAD.NO:38",
+   "phone": "4883413222",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.568027,
-   "lng": 41.386114
+   "lat": 37.566646,
+   "lng": 41.385212
   },
   {
    "district": "Beşiri",
-   "name": "Şifa Eczanesi",
-   "address": "BAĞDU MAH. YAŞAR KEMAL CAD. NO:11/A",
-   "phone": "05318394838",
+   "name": "Kurhan Eczanesi",
+   "address": "BEŞİRİ ASM (SAĞLIK OCAĞI) KARŞISI",
+   "phone": "05443225779",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.922394,
-   "lng": 41.289979
+   "lat": 37.918629,
+   "lng": 41.29425
   },
   {
    "district": "Sason",
-   "name": "Özen Eczanesi",
-   "address": "HALUK İMGA CAD.NO:55 SASON",
-   "phone": "04884612884",
+   "name": "Şifa Eczanesi",
+   "address": "AŞAĞI MAH. 207 SOK. NO:14/ SASON /BATMAN",
+   "phone": "04884614000",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.332558,
-   "lng": 41.420038
+   "lat": 38.33952,
+   "lng": 41.412127
   }
  ],
  "sourceUrl": "https://www.batmaneczaciodasi.org.tr/nobetci-eczaneler"

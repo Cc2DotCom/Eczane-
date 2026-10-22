@@ -2,8 +2,8 @@
  "city": "Isparta",
  "code": 32,
  "dutyDay": "2026-10-22",
- "updatedAt": "2026-10-22T11:50:02.021Z",
- "source": "e-Devlet TİTCK",
+ "updatedAt": "2026-10-22T12:51:11.087Z",
+ "source": "e-Devlet TİTCK, Isparta Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
@@ -37,6 +37,73 @@
    "approved": true,
    "lat": 37.773819,
    "lng": 30.555193
+  },
+  {
+   "district": "Keçiborlu",
+   "name": "Demir Eczanesi",
+   "address": "YUKARI MAH. ATATÜRK CAD. NO:127/B",
+   "phone": "02465414318",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 37.947071,
+   "lng": 30.303968
+  },
+  {
+   "district": "Eğirdir",
+   "name": "Uzman Eczanesi",
+   "address": "İMARET MAHALLESİ DR. İSA KÖKLÜ CADDESİ GÜLBABA B BLOK 134/A",
+   "phone": "02463113111",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 37.8688,
+   "lng": 30.847282
+  },
+  {
+   "district": "Gelendost",
+   "name": "Doğan Eczanesi",
+   "address": "YENİ MAH. HÜSEYİN AVNİ PAŞA CAD. NO:11",
+   "phone": "02463814240",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 38.120948,
+   "lng": 31.01412
+  },
+  {
+   "district": "Senirkent",
+   "name": "Heybelioğlu Eczanesi",
+   "address": "TAŞMESCİT MAH. DR.TAHSİN TOLA CAD. NO:2/C",
+   "phone": "02465114418",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 38.106912,
+   "lng": 30.549955
+  },
+  {
+   "district": "Yalvaç",
+   "name": "Kocabey Eczanesi",
+   "address": "KAŞYUKARI MAH. GAZİ PAŞA CAD. NO:38",
+   "phone": "02464417866",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 38.2979,
+   "lng": 31.177972
+  },
+  {
+   "district": "Şarkikaraağaç",
+   "name": "Levent Eczanesi",
+   "address": "ULVİKALE MAH. 114 HASTANE CAD. NO:1/8",
+   "phone": "02464113520",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 38.081256,
+   "lng": 31.367001
   }
- ]
+ ],
+ "sourceUrl": "https://www.ispartaeo.org.tr/nobetci-eczaneler"
 }

@@ -2,9 +2,163 @@
  "city": "Eskişehir",
  "code": 26,
  "dutyDay": "2026-10-22",
- "updatedAt": "2026-10-22T11:49:17.097Z",
- "source": "e-Devlet TİTCK",
- "pharmacies": [],
- "unavailable": true,
- "note": "class=\"warningContainer\">Seçilen zaman aralığı için nöbetçi eczane bulunamadı. Sayfa Sonu Bağlantıları e-Devlet Kapısı English Hak"
+ "updatedAt": "2026-10-22T12:50:55.486Z",
+ "source": "Eskişehir Eczacı Odası",
+ "pharmacies": [
+  {
+   "district": "Odunpazari",
+   "name": "Soylu Eczanesi",
+   "address": "GÖZTEPE MAH. ATACAN SOK. NO:2/C Halil Yasin Okulu Karşısı, Yıldıztepe ASM yanı",
+   "phone": "02224086043",
+   "dutyStart": "2026-10-22T18:30:00+03:00",
+   "dutyEnd": "2026-10-23T08:30:00+03:00",
+   "approved": true,
+   "lat": 39.760296,
+   "lng": 30.510017
+  },
+  {
+   "district": "Odunpazari",
+   "name": "Kirmizi Toprak Eczanesi",
+   "address": "KIRMIZI TOPRAK MAH. ERCAN SOK. NO:60/B Eski Hava Hastanesi Poliklinik kapısı sokağı, Alem Cami Yakını",
+   "phone": "02222262232",
+   "dutyStart": "2026-10-22T18:30:00+03:00",
+   "dutyEnd": "2026-10-23T08:30:00+03:00",
+   "approved": true,
+   "lat": 39.773455,
+   "lng": 30.507036
+  },
+  {
+   "district": "Odunpazari",
+   "name": "Onat Eczanesi",
+   "address": "EMEK MAH.ERTAS CD.201/A 7 NOLU SAĞLIK OCAĞI YANI, NEŞELİ EKMEK FIRINI KARŞISI",
+   "phone": "02222379545",
+   "dutyStart": "2026-10-22T18:30:00+03:00",
+   "dutyEnd": "2026-10-23T08:30:00+03:00",
+   "approved": true,
+   "lat": 39.749556,
+   "lng": 30.572422
+  },
+  {
+   "district": "Odunpazari",
+   "name": "Kurtuluş Eczanesi",
+   "address": "KURTULUŞ MAH.VATAN CAD.NO:7/B KURTULUŞ ASM YANI, ALANÖNÜ TRAMVAY DURAĞI ARKA ÇAPRAZI ,DİNAMİK DO SPOR SALONU KARŞISI",
+   "phone": "02222200226",
+   "dutyStart": "2026-10-22T18:30:00+03:00",
+   "dutyEnd": "2026-10-23T08:30:00+03:00",
+   "approved": true,
+   "lat": 39.767269,
+   "lng": 30.530563
+  },
+  {
+   "district": "Tepebaşı",
+   "name": "Bulvar Eczanesi",
+   "address": "ÇAMLICA MAH.ULUSAL EGEMENLİK BULVARI NO:222/A",
+   "phone": "02223402300",
+   "dutyStart": "2026-10-22T18:30:00+03:00",
+   "dutyEnd": "2026-10-23T08:30:00+03:00",
+   "approved": true,
+   "lat": 39.77625,
+   "lng": 30.465618
+  },
+  {
+   "district": "Tepebaşı",
+   "name": "Mayis Eczanesi",
+   "address": "CUMHURİYE MAH. CENGİZ TOPEL CAD. NO:16/A Subay Ordu Evi Yakını, Köprübaşı",
+   "phone": "02222338467",
+   "dutyStart": "2026-10-22T18:30:00+03:00",
+   "dutyEnd": "2026-10-23T08:30:00+03:00",
+   "approved": true,
+   "lat": 39.777547,
+   "lng": 30.517929
+  },
+  {
+   "district": "Tepebaşı",
+   "name": "Öznur Eczanesi",
+   "address": "ESENTEPE MAH. EĞİTİMCİLER CAD. NO:48/B Yanık Kahveden girince 80 metre ilerisinde",
+   "phone": "02222200212",
+   "dutyStart": "2026-10-22T18:30:00+03:00",
+   "dutyEnd": "2026-10-23T08:30:00+03:00",
+   "approved": true,
+   "lat": 39.796066,
+   "lng": 30.512073
+  },
+  {
+   "district": "Alpu",
+   "name": "Keskin Eczanesi",
+   "address": "FATİH MAH. DURAK SOK. NO:24/B ALPU İLÇESİ ESKİŞEHİR",
+   "phone": "02225112121",
+   "dutyStart": "2026-10-22T18:00:00+03:00",
+   "dutyEnd": "2026-10-23T08:30:00+03:00",
+   "approved": true,
+   "lat": 39.773155,
+   "lng": 30.96744
+  },
+  {
+   "district": "Beylikova",
+   "name": "Derman Eczanesi",
+   "address": "YENI MAH.INÖNÜ CAD. NO: 76",
+   "phone": "02225313032",
+   "dutyStart": "2026-10-22T18:30:00+03:00",
+   "dutyEnd": "2026-10-23T08:00:00+03:00",
+   "approved": true,
+   "lat": 39.689915,
+   "lng": 31.205548
+  },
+  {
+   "district": "Çifteler",
+   "name": "Halk Eczanesi",
+   "address": "ADALAR MH.KUYUCAK CD.NO:11",
+   "phone": "02225412221",
+   "dutyStart": "2026-10-22T18:00:00+03:00",
+   "dutyEnd": "2026-10-23T09:00:00+03:00",
+   "approved": true,
+   "lat": 39.375047,
+   "lng": 31.038691
+  },
+  {
+   "district": "Mahmudiye",
+   "name": "Bahar Eczanesi",
+   "address": "IŞIKLAR MAH.ESKİŞEHİR CAD. NO:73/A",
+   "phone": "02226113344",
+   "dutyStart": "2026-10-22T18:00:00+03:00",
+   "dutyEnd": "2026-10-23T09:00:00+03:00",
+   "approved": true,
+   "lat": 39.494925,
+   "lng": 30.985837
+  },
+  {
+   "district": "Mihalıcçık",
+   "name": "Dadak Eczanesi",
+   "address": "MEDRESE MAH. CUMHURİYET MEYDANI NO:27/27A MİHALIÇCIK",
+   "phone": "05544420268",
+   "dutyStart": "2026-10-22T18:30:00+03:00",
+   "dutyEnd": "2026-10-23T08:30:00+03:00",
+   "approved": true,
+   "lat": 39.866733,
+   "lng": 31.495766
+  },
+  {
+   "district": "Seyitgazi",
+   "name": "Derman Eczanesi",
+   "address": "YUNUS MAH. KAZIM SAKARYA CAD. 17/D",
+   "phone": "02226713443",
+   "dutyStart": "2026-10-22T18:30:00+03:00",
+   "dutyEnd": "2026-10-23T08:00:00+03:00",
+   "approved": true,
+   "lat": 39.44562,
+   "lng": 30.696042
+  },
+  {
+   "district": "Sivrihisar",
+   "name": "Sivrihisar Eczanesi",
+   "address": "ORDU CD.58B",
+   "phone": "02227114262",
+   "dutyStart": "2026-10-22T18:30:00+03:00",
+   "dutyEnd": "2026-10-23T08:30:00+03:00",
+   "approved": true,
+   "lat": 39.449232,
+   "lng": 31.538928
+  }
+ ],
+ "sourceUrl": "https://www.eskisehireo.org.tr/eskisehir-nobetci-eczaneler"
 }

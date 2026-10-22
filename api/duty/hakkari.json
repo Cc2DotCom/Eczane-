@@ -2,7 +2,7 @@
  "city": "Hakkari",
  "code": 30,
  "dutyDay": "2026-10-22",
- "updatedAt": "2026-10-22T11:49:40.039Z",
+ "updatedAt": "2026-10-22T12:51:06.592Z",
  "source": "Van Eczacı Odası",
  "pharmacies": [
   {
@@ -18,17 +18,6 @@
   },
   {
    "district": "Yüksekova",
-   "name": "Hekimoğlu Eczanesi",
-   "address": "Yüksekova Devlet Hastanesi Karşısı No:315C",
-   "phone": "04383512998",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 37.567616,
-   "lng": 44.229502
-  },
-  {
-   "district": "Yüksekova",
    "name": "Nefes Eczanesi",
    "address": "Cengiz Topel Caddesi Şehremini Fırını Karşısı No:54",
    "phone": "04385020932",
@@ -37,6 +26,17 @@
    "approved": true,
    "lat": 37.570505,
    "lng": 44.283471
+  },
+  {
+   "district": "Yüksekova",
+   "name": "Hekimoğlu Eczanesi",
+   "address": "Yüksekova Devlet Hastanesi Karşısı No:315C",
+   "phone": "04383512998",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 37.567616,
+   "lng": 44.229502
   },
   {
    "district": "Şemdinli",
