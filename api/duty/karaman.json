@@ -1,8 +1,8 @@
 {
  "city": "Karaman",
  "code": 70,
- "dutyDay": "2026-10-21",
- "updatedAt": "2026-10-21T11:53:48.066Z",
+ "dutyDay": "2026-10-22",
+ "updatedAt": "2026-10-22T11:57:13.271Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
@@ -10,8 +10,8 @@
    "name": "Başak Eczanesi",
    "address": "Dede Mah. Atatürk Cad. No:42",
    "phone": "0338 411 2838",
-   "dutyStart": "2026-10-21T18:00:00+03:00",
-   "dutyEnd": "2026-10-22T08:00:00+03:00",
+   "dutyStart": "2026-10-22T18:00:00+03:00",
+   "dutyEnd": "2026-10-23T08:00:00+03:00",
    "approved": true,
    "lat": 37.362217,
    "lng": 33.689968
@@ -21,66 +21,55 @@
    "name": "Kiraz Eczanesi",
    "address": "Şirindere Mah. Cumhuriyet Cad. No:149/B",
    "phone": "0338 351 6180",
-   "dutyStart": "2026-10-21T08:00:00+03:00",
-   "dutyEnd": "2026-10-22T08:00:00+03:00",
+   "dutyStart": "2026-10-22T08:00:00+03:00",
+   "dutyEnd": "2026-10-23T08:00:00+03:00",
    "approved": true,
    "lat": 36.751221,
    "lng": 32.68243
-  },
-  {
-   "district": "Ermenek",
-   "name": "Çilingir Eczanesi",
-   "address": "Çınarlısu Mah. Cumhuriyet Cad. No:111/B",
-   "phone": "0338 716 1334",
-   "dutyStart": "2026-10-21T18:30:00+03:00",
-   "dutyEnd": "2026-10-22T08:00:00+03:00",
-   "approved": true,
-   "lat": 36.640129,
-   "lng": 32.887669
   },
   {
    "district": "Kazımkarabekir",
    "name": "Kasaba Eczanesi",
    "address": "Pazar Mah. Kazım Karabekir Cad. No:3",
    "phone": "0338 311 2500",
-   "dutyStart": "2026-10-21T08:00:00+03:00",
-   "dutyEnd": "2026-10-22T08:00:00+03:00",
+   "dutyStart": "2026-10-22T08:00:00+03:00",
+   "dutyEnd": "2026-10-23T08:00:00+03:00",
    "approved": true,
    "lat": 37.226868,
    "lng": 32.959778
   },
   {
    "district": "Merkez",
-   "name": "Eke Eczanesi",
-   "address": "Gevher Hatun Mah. Şehit Ömer Halisdemir Cad. No:48/B",
-   "phone": "0338 217 6108",
-   "dutyStart": "2026-10-21T18:00:00+03:00",
-   "dutyEnd": "2026-10-22T08:00:00+03:00",
+   "name": "Bilim Eczanesi",
+   "address": "Gevher Hatun Mah. Şehit Ömer Halisdemir Cad. No:52/A",
+   "phone": "0338 217 2222",
+   "dutyStart": "2026-10-22T18:00:00+03:00",
+   "dutyEnd": "2026-10-23T08:00:00+03:00",
    "approved": true,
-   "lat": 37.165623,
-   "lng": 33.255089
+   "lat": 37.165302,
+   "lng": 33.255184
   },
   {
    "district": "Merkez",
-   "name": "Eylül Eczanesi",
-   "address": "Alişahane Mah. 182 Sk. No:2/A",
-   "phone": "0338 212 9292",
-   "dutyStart": "2026-10-21T18:00:00+03:00",
-   "dutyEnd": "2026-10-21T23:59:00+03:00",
+   "name": "Nur Eczanesi",
+   "address": "Tahsin Ünal Mah. 2.Sk. No:4",
+   "phone": "0338 213 1548",
+   "dutyStart": "2026-10-22T18:00:00+03:00",
+   "dutyEnd": "2026-10-22T23:59:00+03:00",
    "approved": true,
-   "lat": 37.184025,
-   "lng": 33.208611
+   "lat": 37.182236,
+   "lng": 33.218899
   },
   {
    "district": "Sarıveliler",
-   "name": "Cafer Eczanesi",
-   "address": "Küçükkarapınar Mah. İmamhatip Sk. No:6/D",
-   "phone": "0338 441 2795",
-   "dutyStart": "2026-10-21T18:00:00+03:00",
-   "dutyEnd": "2026-10-22T08:30:00+03:00",
+   "name": "Talay Eczanesi",
+   "address": "Küçükkarapınar Mah. İmamhatip Sk. No:5/Z4",
+   "phone": "0338 441 2513",
+   "dutyStart": "2026-10-22T18:00:00+03:00",
+   "dutyEnd": "2026-10-23T08:30:00+03:00",
    "approved": true,
-   "lat": 36.693085,
-   "lng": 32.621941
+   "lat": 36.692032,
+   "lng": 32.621677
   }
  ]
 }

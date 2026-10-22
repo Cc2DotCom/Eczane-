@@ -1,28 +1,28 @@
 {
  "city": "Edirne",
  "code": 22,
- "dutyDay": "2026-10-21",
- "updatedAt": "2026-10-21T14:29:18.533Z",
+ "dutyDay": "2026-10-22",
+ "updatedAt": "2026-10-22T11:48:53.509Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Havsa",
-   "name": "Derman Eczanesi",
-   "address": "23 KASIM CAD. NO:4/D",
-   "phone": "0284 336 1549",
-   "dutyStart": "2026-10-21T18:00:00+03:00",
-   "dutyEnd": "2026-10-22T08:30:00+03:00",
+   "name": "Gün Eczanesi",
+   "address": "HACI İSA MAHALLESİ 23 KASIM CADDESİ NO:22/F",
+   "phone": "0284 336 1325",
+   "dutyStart": "2026-10-22T18:00:00+03:00",
+   "dutyEnd": "2026-10-23T08:30:00+03:00",
    "approved": true,
-   "lat": 41.549706,
-   "lng": 26.822157
+   "lat": 41.549488,
+   "lng": 26.821152
   },
   {
    "district": "Havsa",
    "name": "Yavuz Eczanesi",
    "address": "VAROŞ MAHALLESİ UZUNKÖPRÜ CADDESİ NO:5/B",
    "phone": "0284 336 2473",
-   "dutyStart": "2026-10-21T18:00:00+03:00",
-   "dutyEnd": "2026-10-22T08:30:00+03:00",
+   "dutyStart": "2026-10-22T18:00:00+03:00",
+   "dutyEnd": "2026-10-23T08:30:00+03:00",
    "approved": true,
    "lat": 41.548862,
    "lng": 26.821615

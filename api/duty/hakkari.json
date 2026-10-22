@@ -1,64 +1,64 @@
 {
  "city": "Hakkari",
  "code": 30,
- "dutyDay": "2026-10-21",
- "updatedAt": "2026-10-21T20:13:39.308Z",
+ "dutyDay": "2026-10-22",
+ "updatedAt": "2026-10-22T11:49:40.039Z",
  "source": "Van Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Güven Eczanesi",
-   "address": "Pehlivan mah. Çölemerik cad. No:62/C Hakkari Merkez",
-   "phone": "04382112017",
+   "name": "İkizler Eczanesi",
+   "address": "Pehlivan Mah.Bulvar Cad.Hadi Besi İşhanı No:2",
+   "phone": "04382114976",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.573289,
-   "lng": 43.7317
+   "lat": 37.577897,
+   "lng": 43.734857
   },
   {
    "district": "Yüksekova",
-   "name": "Gever Eczanesi",
-   "address": "YÜKSEKOVA DEVLET HASTANESİ KARŞISI NO:3",
-   "phone": "04383510004",
+   "name": "Hekimoğlu Eczanesi",
+   "address": "Yüksekova Devlet Hastanesi Karşısı No:315C",
+   "phone": "04383512998",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.567838,
-   "lng": 44.229582
+   "lat": 37.567616,
+   "lng": 44.229502
   },
   {
    "district": "Yüksekova",
-   "name": "Lokman Hekim Eczanesi",
-   "address": "GÜNGÖR MAH.CENGİZ TOPEL CAD.OTEL OSLO KARŞISI,ÇARŞI MERKEZİ NO:36/C",
-   "phone": "05325729122",
+   "name": "Nefes Eczanesi",
+   "address": "Cengiz Topel Caddesi Şehremini Fırını Karşısı No:54",
+   "phone": "04385020932",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.571096,
-   "lng": 44.282759
+   "lat": 37.570505,
+   "lng": 44.283471
   },
   {
    "district": "Şemdinli",
-   "name": "Nehr-i Eczanesi",
-   "address": "KARŞIYAKA MAH. CUMHURİYET CADDESİ NO:153/B",
-   "phone": "04384113041",
+   "name": "Şemdinli Eczanesi",
+   "address": "Karşıyaka Mah. Çevreyolu Cad.No:5/C",
+   "phone": "05461501130",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.309234,
-   "lng": 44.569724
+   "lat": 37.308407,
+   "lng": 44.570159
   },
   {
    "district": "Şemdinli",
-   "name": "Derecik Eczanesi",
-   "address": "MERKEZ MAH.VATAN CAD.NO:19/A",
-   "phone": "05380443717",
+   "name": "Aki Eczanesi",
+   "address": "MERKEZ MAH. VATAN CADDESİ NO:12/A",
+   "phone": "04384613320",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.080721,
-   "lng": 44.310393
+   "lat": 37.080915,
+   "lng": 44.310193
   }
  ],
  "sourceUrl": "https://www.vaneczaciodasi.org.tr/nobetci-eczaneler"

@@ -1,64 +1,53 @@
 {
  "city": "Kırıkkale",
  "code": 71,
- "dutyDay": "2026-10-21",
- "updatedAt": "2026-10-21T11:53:52.884Z",
+ "dutyDay": "2026-10-22",
+ "updatedAt": "2026-10-22T11:57:17.052Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
-   "district": "Delice",
-   "name": "Cennet Eczanesi",
-   "address": "CUMHURİYET MAH.ANKARA CAD.NO:34/A DELİCE/KIRIKKALE",
-   "phone": "0318 618 5433",
-   "dutyStart": "2026-10-21T18:30:00+03:00",
-   "dutyEnd": "2026-10-21T22:00:00+03:00",
-   "approved": true,
-   "lat": 39.943676,
-   "lng": 34.032204
-  },
-  {
    "district": "Karakeçili",
-   "name": "Karakeçili Eczanesi",
-   "address": "Fatih Sultan Mehmet Mahallesi Hürriyet Caddesi No:4/A Karakeçili / Kırıkkale",
-   "phone": "0505 681 7381",
-   "dutyStart": "2026-10-21T18:30:00+03:00",
-   "dutyEnd": "2026-10-22T08:30:00+03:00",
+   "name": "Metin Eczanesi",
+   "address": "KURTULUŞ MAH.İNÖNÜ CAD. NO:1/C KARAKEÇİLİ/KIRIKKALE",
+   "phone": "0318 474 3033",
+   "dutyStart": "2026-10-22T18:30:00+03:00",
+   "dutyEnd": "2026-10-23T08:30:00+03:00",
    "approved": true,
-   "lat": 39.593029,
-   "lng": 33.378559
+   "lat": 39.59354,
+   "lng": 33.378311
   },
   {
    "district": "Keskin",
-   "name": "Keskin Merkez Eczanesi",
-   "address": "YENİCE MAH. PROF. DR. BEŞİR ATALAY CADDESİ NO.18/A KESKİN/KIRIKKALE",
-   "phone": "0533 425 0405",
-   "dutyStart": "2026-10-21T18:30:00+03:00",
-   "dutyEnd": "2026-10-22T08:30:00+03:00",
+   "name": "Mert Eczanesi",
+   "address": "BOZKURT MAH.MERT SOK.NO:32 KESKİN/K.KALE",
+   "phone": "0318 515 4760",
+   "dutyStart": "2026-10-22T18:30:00+03:00",
+   "dutyEnd": "2026-10-23T08:30:00+03:00",
    "approved": true,
-   "lat": 39.673607,
-   "lng": 33.615318
+   "lat": 39.673637,
+   "lng": 33.615711
   },
   {
    "district": "Merkez",
-   "name": "Özer Eczanesi",
-   "address": "Bağlarbaşı Mah. 937. Sok. No: 19/A",
-   "phone": "0532 725 6987",
-   "dutyStart": "2026-10-21T18:30:00+03:00",
-   "dutyEnd": "2026-10-22T08:30:00+03:00",
+   "name": "İlden Eczanesi",
+   "address": "BAĞLARBAŞI MAH.DR.AHMET AY CAD. NO:6/C",
+   "phone": "0318 234 1828",
+   "dutyStart": "2026-10-22T18:30:00+03:00",
+   "dutyEnd": "2026-10-23T08:30:00+03:00",
    "approved": true,
-   "lat": 39.854774,
-   "lng": 33.498577
+   "lat": 39.861664,
+   "lng": 33.480385
   },
   {
    "district": "Merkez",
-   "name": "Özkan Eczanesi",
-   "address": "YENİDOĞAN MAH. CUMHURİYET CAD. NO:54/B MERKEZ/KIRIKKALE",
-   "phone": "0318 212 3484",
-   "dutyStart": "2026-10-21T18:30:00+03:00",
-   "dutyEnd": "2026-10-22T08:30:00+03:00",
+   "name": "Yildirim Eczanesi",
+   "address": "YENİDOĞAN MAH. ZAFER CAD. KIZILKANAT İŞ MERKEZİ NO:56/V MERKEZ/KIRIKKALE",
+   "phone": "0318 212 1202",
+   "dutyStart": "2026-10-22T18:30:00+03:00",
+   "dutyEnd": "2026-10-23T08:30:00+03:00",
    "approved": true,
-   "lat": 39.841255,
-   "lng": 33.509155
+   "lat": 39.843937,
+   "lng": 33.505814
   }
  ]
 }

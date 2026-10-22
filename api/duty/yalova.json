@@ -1,86 +1,75 @@
 {
  "city": "Yalova",
  "code": 77,
- "dutyDay": "2026-10-21",
- "updatedAt": "2026-10-21T14:31:23.310Z",
+ "dutyDay": "2026-10-22",
+ "updatedAt": "2026-10-22T11:57:39.866Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Altınova",
-   "name": "Defne Eczanesi",
-   "address": "MERKEZ MAH. DEVLET KARAYOLU CAD. NO:134/C",
-   "phone": "0226 462 9230",
-   "dutyStart": "2026-10-21T19:00:00+03:00",
-   "dutyEnd": "2026-10-22T09:00:00+03:00",
+   "name": "Esra Gül Eczanesi",
+   "address": "HÜRRİYET MAH. BURSA CAD. NO:42/3",
+   "phone": "0226 461 2608",
+   "dutyStart": "2026-10-22T19:00:00+03:00",
+   "dutyEnd": "2026-10-23T09:00:00+03:00",
    "approved": true,
-   "lat": 40.696075,
-   "lng": 29.527868
-  },
-  {
-   "district": "Altınova",
-   "name": "Şeyma Eczanesi",
-   "address": "Hürriyet Mah. Bağdat Cad. No:20A/2/7",
-   "phone": "0226 507 0077",
-   "dutyStart": "2026-10-21T19:00:00+03:00",
-   "dutyEnd": "2026-10-22T09:00:00+03:00",
-   "approved": true,
-   "lat": null,
-   "lng": null
+   "lat": 40.694393,
+   "lng": 29.508457
   },
   {
    "district": "Armutlu",
-   "name": "İskele Eczanesi",
-   "address": "BAYIR MAH. ATATÜRK CAD. NO:123-C/12",
-   "phone": "0554 349 9338",
-   "dutyStart": "2026-10-21T19:00:00+03:00",
-   "dutyEnd": "2026-10-22T09:00:00+03:00",
+   "name": "Arda Eczanesi",
+   "address": "KARŞIYAKA MAH. OKUL CAD. NO:3/A",
+   "phone": "0226 531 2896",
+   "dutyStart": "2026-10-22T19:00:00+03:00",
+   "dutyEnd": "2026-10-23T09:00:00+03:00",
    "approved": true,
-   "lat": 40.509464,
-   "lng": 28.837183
+   "lat": 40.519695,
+   "lng": 28.827698
   },
   {
    "district": "Çınarcık",
-   "name": "Tunç Eczanesi",
-   "address": "HARMANLAR MAH. 254. SOK. NO:2/8",
-   "phone": "0226 245 0700",
-   "dutyStart": "2026-10-21T19:00:00+03:00",
-   "dutyEnd": "2026-10-22T09:00:00+03:00",
+   "name": "Eylül Eczanesi",
+   "address": "TAŞLİMAN MAH. VALİ AKI CAD. AK 1 APT. NO:2/A",
+   "phone": "0226 245 7140",
+   "dutyStart": "2026-10-22T19:00:00+03:00",
+   "dutyEnd": "2026-10-23T09:00:00+03:00",
    "approved": true,
-   "lat": 40.642887,
-   "lng": 29.118397
+   "lat": 40.645329,
+   "lng": 29.119385
   },
   {
    "district": "Çiftlikköy",
-   "name": "Deniz Eczanesi",
-   "address": "SAHİL MAH. YALI CAD. NO:22/7",
-   "phone": "0226 352 8017",
-   "dutyStart": "2026-10-21T19:00:00+03:00",
-   "dutyEnd": "2026-10-22T09:00:00+03:00",
+   "name": "Sembol Eczanesi",
+   "address": "ÇİFTLİK MAH. ATATÜRK CAD. NO:55/8",
+   "phone": "0226 352 0202",
+   "dutyStart": "2026-10-22T19:00:00+03:00",
+   "dutyEnd": "2026-10-23T09:00:00+03:00",
    "approved": true,
-   "lat": 40.664959,
-   "lng": 29.312466
+   "lat": 40.662922,
+   "lng": 29.323799
   },
   {
    "district": "Merkez",
-   "name": "Ayhan Eczanesi",
-   "address": "İSMET PAŞA MAH. ÇAĞATAY SOK. NO:4/1",
-   "phone": "0226 800 0400",
-   "dutyStart": "2026-10-21T19:00:00+03:00",
-   "dutyEnd": "2026-10-22T09:00:00+03:00",
+   "name": "Kovanci Eczanesi",
+   "address": "GAZİ OSMAN PAŞA MAH. GAZİ OSMAN PAŞA CAD. NO:39/A/B",
+   "phone": "0226 812 0976",
+   "dutyStart": "2026-10-22T19:00:00+03:00",
+   "dutyEnd": "2026-10-23T09:00:00+03:00",
    "approved": true,
-   "lat": 40.656815,
-   "lng": 29.301407
+   "lat": 40.656429,
+   "lng": 29.29092
   },
   {
    "district": "Merkez",
-   "name": "Emre Eczanesi",
-   "address": "BAHÇELİEVLER MAH TURHAN KOÇAL CAD. NO:20/A",
-   "phone": "0226 813 5857",
-   "dutyStart": "2026-10-21T19:00:00+03:00",
-   "dutyEnd": "2026-10-22T09:00:00+03:00",
+   "name": "Serhat Eczanesi",
+   "address": "BAHÇELİEVLER MAH. MARMARA CAD. NO:28/B",
+   "phone": "0226 811 0424",
+   "dutyStart": "2026-10-22T19:00:00+03:00",
+   "dutyEnd": "2026-10-23T09:00:00+03:00",
    "approved": true,
-   "lat": 40.654461,
-   "lng": 29.26288
+   "lat": 40.65374,
+   "lng": 29.255692
   }
  ]
 }

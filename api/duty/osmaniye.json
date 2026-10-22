@@ -1,86 +1,86 @@
 {
  "city": "Osmaniye",
  "code": 80,
- "dutyDay": "2026-10-21",
- "updatedAt": "2026-10-21T11:54:30.045Z",
+ "dutyDay": "2026-10-22",
+ "updatedAt": "2026-10-22T11:57:58.254Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Bahçe",
-   "name": "Konuk Eczanesi",
-   "address": "Bahçelievler Mahallesi Dr. Devlet Bahçeli Bulvarı No:15/A",
-   "phone": "0542 233 6663",
-   "dutyStart": "2026-10-21T12:30:00+03:00",
-   "dutyEnd": "2026-10-22T08:00:00+03:00",
+   "name": "Lokman Hekim Eczanesi",
+   "address": "Bahçelievler Mahallesi Dr. Devlet Bahçeli Bulvarı No:57/A",
+   "phone": "0328 861 2066",
+   "dutyStart": "2026-10-22T12:30:00+03:00",
+   "dutyEnd": "2026-10-23T08:00:00+03:00",
    "approved": true,
-   "lat": 37.200317,
-   "lng": 36.577217
+   "lat": 37.197517,
+   "lng": 36.573917
   },
   {
    "district": "Düziçi",
-   "name": "Mart Eczanesi",
-   "address": "İrfanlı Mah. Dr. Selahattin Beyaz Sok. No:4/C",
-   "phone": "0328 876 6880",
-   "dutyStart": "2026-10-21T17:30:00+03:00",
-   "dutyEnd": "2026-10-22T08:00:00+03:00",
+   "name": "Melike Eczanesi",
+   "address": "Uzunbanı Mah. Şehit Komiser Mustafa Sarı Cad. No:174",
+   "phone": "0507 165 4751",
+   "dutyStart": "2026-10-22T17:30:00+03:00",
+   "dutyEnd": "2026-10-23T08:00:00+03:00",
    "approved": true,
-   "lat": 37.255943,
-   "lng": 36.455975
+   "lat": 37.240376,
+   "lng": 36.445431
   },
   {
    "district": "Kadirli",
-   "name": "Tekman Eczanesi",
-   "address": "Savrun Mahallesi 11 Sokak No: 8, Kat: Z, Daire 1",
-   "phone": "0328 718 7552",
-   "dutyStart": "2026-10-21T12:00:00+03:00",
-   "dutyEnd": "2026-10-22T08:30:00+03:00",
+   "name": "Cemalpaşa Eczanesi",
+   "address": "Şehit Kansu Küçükateş Mahallesi 1728 Sokak No:4, Kat: Z, Daire: 2",
+   "phone": "0328 718 2666",
+   "dutyStart": "2026-10-22T12:00:00+03:00",
+   "dutyEnd": "2026-10-23T08:30:00+03:00",
    "approved": true,
-   "lat": 37.370846,
-   "lng": 36.096474
+   "lat": 37.364807,
+   "lng": 36.075466
   },
   {
    "district": "Merkez",
-   "name": "Bedirhan Eczanesi",
-   "address": "Adnan Menderes Mahallesi 19538 Sokak No: 4/A",
-   "phone": "0328 825 7013",
-   "dutyStart": "2026-10-21T18:00:00+03:00",
-   "dutyEnd": "2026-10-22T08:00:00+03:00",
+   "name": "Akgül Eczanesi",
+   "address": "Raufbey Mahallesi Dr. Devlet Bahçeli Bulvarı No:30/A",
+   "phone": "0328 812 6040",
+   "dutyStart": "2026-10-22T18:00:00+03:00",
+   "dutyEnd": "2026-10-23T08:00:00+03:00",
    "approved": true,
-   "lat": 37.063374,
-   "lng": 36.236237
+   "lat": 37.07077,
+   "lng": 36.24474
   },
   {
    "district": "Merkez",
-   "name": "Okyanus Eczanesi",
-   "address": "M. FEVZİ ÇAKMAK MAH. HOCA AHMET YESEVİ CAD. NO: 44/B",
-   "phone": "0328 812 7666",
-   "dutyStart": "2026-10-21T18:00:00+03:00",
-   "dutyEnd": "2026-10-22T08:00:00+03:00",
+   "name": "Bizim Eczanesi",
+   "address": "Kazım Karabekir Mah. 6502 Sok. No: 7/B",
+   "phone": "0328 814 4240",
+   "dutyStart": "2026-10-22T18:00:00+03:00",
+   "dutyEnd": "2026-10-23T08:00:00+03:00",
    "approved": true,
-   "lat": 37.083309,
-   "lng": 36.258377
+   "lat": 37.083572,
+   "lng": 36.265495
   },
   {
    "district": "Merkez",
-   "name": "Özgen Eczanesi",
-   "address": "İSTİKLAL MAH. ATATÜRK CAD. NO:182/B MERKEZ/OSMANİYE",
-   "phone": "0328 814 3601",
-   "dutyStart": "2026-10-21T18:00:00+03:00",
-   "dutyEnd": "2026-10-22T08:00:00+03:00",
+   "name": "Kaya Eczanesi",
+   "address": "Mehmet Akif Ersoy Mah. 8008 Sok. No:11A",
+   "phone": "0328 814 6599",
+   "dutyStart": "2026-10-22T18:00:00+03:00",
+   "dutyEnd": "2026-10-23T08:00:00+03:00",
    "approved": true,
-   "lat": 37.073509,
-   "lng": 36.251026
+   "lat": 37.061188,
+   "lng": 36.239761
   },
   {
    "district": "Toprakkale",
-   "name": "Doruk Eczanesi",
-   "address": "Fatih Sultan Mehmet Mahallesi Atatürk Caddesi No: 142/A",
-   "phone": "0553 350 4339",
-   "dutyStart": "2026-10-21T18:30:00+03:00",
-   "dutyEnd": "2026-10-22T08:00:00+03:00",
+   "name": "Nurten Eczanesi",
+   "address": "Fatih Sultan Mehmet Mahallesi Çamlıbel Sokak No: 11",
+   "phone": "0328 633 3196",
+   "dutyStart": "2026-10-22T18:30:00+03:00",
+   "dutyEnd": "2026-10-23T08:00:00+03:00",
    "approved": true,
-   "lat": 37.068085,
-   "lng": 36.144161
+   "lat": 37.070889,
+   "lng": 36.143784
   }
  ]
 }

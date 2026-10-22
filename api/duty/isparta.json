@@ -1,42 +1,42 @@
 {
  "city": "Isparta",
  "code": 32,
- "dutyDay": "2026-10-21",
- "updatedAt": "2026-10-21T14:29:38.084Z",
+ "dutyDay": "2026-10-22",
+ "updatedAt": "2026-10-22T11:50:02.021Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Akça Eczanesi",
-   "address": "SANAYİ MAHALLESİ 3208 SOKAK NO:4",
-   "phone": "0246 237 1023",
-   "dutyStart": "2026-10-21T18:00:00+03:00",
-   "dutyEnd": "2026-10-22T08:00:00+03:00",
+   "name": "Kalayoğlu Eczanesi",
+   "address": "PİRİMEHMET MAH.1723 SOKAK NO:7/12",
+   "phone": "0246 232 9060",
+   "dutyStart": "2026-10-22T18:00:00+03:00",
+   "dutyEnd": "2026-10-23T08:00:00+03:00",
    "approved": true,
-   "lat": 37.773228,
-   "lng": 30.551044
+   "lat": 37.767796,
+   "lng": 30.551823
   },
   {
    "district": "Merkez",
-   "name": "Hekimoğlu Eczanesi",
-   "address": "Çünür Mahallesi 5419. Sokak No:27/10",
-   "phone": "0246 441 3418",
-   "dutyStart": "2026-10-21T18:00:00+03:00",
-   "dutyEnd": "2026-10-22T08:00:00+03:00",
+   "name": "Ozan Eczanesi",
+   "address": "Fatih Mahallesi 156.Cadde No:10-12C Dükkan No:7",
+   "phone": "0246 228 3015",
+   "dutyStart": "2026-10-22T18:00:00+03:00",
+   "dutyEnd": "2026-10-23T08:00:00+03:00",
    "approved": true,
-   "lat": 37.817917,
-   "lng": 30.536116
+   "lat": 37.782616,
+   "lng": 30.543558
   },
   {
    "district": "Merkez",
-   "name": "Ulusoy Eczanesi",
-   "address": "KUTLUBEY MAH. CENGİZ TOPEL CAD. ATİKAR APT. NO:45/A",
-   "phone": "0246 223 8898",
-   "dutyStart": "2026-10-21T18:00:00+03:00",
-   "dutyEnd": "2026-10-22T08:00:00+03:00",
+   "name": "Sanayi Eczanesi",
+   "address": "YENİ SANAYİ SİTESİ 1.BLOK NO:2/B",
+   "phone": "0246 218 8441",
+   "dutyStart": "2026-10-22T18:00:00+03:00",
+   "dutyEnd": "2026-10-23T08:00:00+03:00",
    "approved": true,
-   "lat": 37.765881,
-   "lng": 30.555973
+   "lat": 37.773819,
+   "lng": 30.555193
   }
  ]
 }

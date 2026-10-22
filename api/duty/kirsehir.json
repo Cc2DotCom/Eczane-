@@ -1,53 +1,53 @@
 {
  "city": "Kırşehir",
  "code": 40,
- "dutyDay": "2026-10-21",
- "updatedAt": "2026-10-21T20:13:48.990Z",
+ "dutyDay": "2026-10-22",
+ "updatedAt": "2026-10-22T11:52:35.294Z",
  "source": "Aksaray-Kırşehir Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Onur Eczanesi",
-   "address": "ankara cad ahi evran camii karşısı ANKARA CAD.KAKER APT. NO:26",
-   "phone": "3862135490",
+   "name": "Hatunoglu Eczanesi",
+   "address": "ankara cad musa gül hastanesi cıvarı ANKARA CAD. BAYHAN APT. NO:19",
+   "phone": "3862133541",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.148124,
-   "lng": 34.16051
+   "lat": 39.148699,
+   "lng": 34.159922
   },
   {
    "district": "Merkez",
-   "name": "Hayat Eczanesi",
-   "address": "ankara cad.ahi evran camii arkası ANKARA CAD. ÜMIT APT. 15/D MERKEZ/KIRSEHIR",
-   "phone": "03862143341",
+   "name": "Dost Eczanesi",
+   "address": "ankara cad.emniyet binası karşısı MEHMET ALI YAPICI BUL. HACI HASAN ÖZDEMİR İŞHANI NO:4",
+   "phone": "03862144343",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.148437,
-   "lng": 34.160027
+   "lat": 39.149045,
+   "lng": 34.160342
   },
   {
    "district": "Kaman",
-   "name": "Aran Eczanesi",
-   "address": "ISTIKLAL CAD. NO:1",
-   "phone": "3867128191",
+   "name": "Emrah Eczanesi",
+   "address": "CUMHURIYET MEYDANI NO:17 KAMAN",
+   "phone": "03867126002",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.357669,
-   "lng": 33.724608
+   "lat": 39.35845,
+   "lng": 33.724499
   },
   {
    "district": "Mucur",
-   "name": "Emin Eczanesi",
-   "address": "Hamidiye Mah.İnönü Cad. No:16",
-   "phone": "03868126027",
+   "name": "Mucur Eczanesi",
+   "address": "Yenice Mah. Enver Paşa Cad. No : 34/A",
+   "phone": "03868124588",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.062735,
-   "lng": 34.376231
+   "lat": 39.064548,
+   "lng": 34.377001
   }
  ],
  "sourceUrl": "https://www.aksarayeo.org.tr/nobetci-eczaneler"

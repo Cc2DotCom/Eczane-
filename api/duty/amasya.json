@@ -1,86 +1,86 @@
 {
  "city": "Amasya",
  "code": 5,
- "dutyDay": "2026-10-21",
- "updatedAt": "2026-10-21T14:28:25.395Z",
+ "dutyDay": "2026-10-22",
+ "updatedAt": "2026-10-22T11:45:48.464Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Göynücek",
-   "name": "Evren Eczanesi",
-   "address": "YENİ MAH. YOZGAT CAD. NO:67/A",
-   "phone": "0358 615 2525",
-   "dutyStart": "2026-10-21T08:00:00+03:00",
-   "dutyEnd": "2026-10-22T08:00:00+03:00",
+   "name": "Kılıç Eczanesi",
+   "address": "YENİ MAH. YOZGAT CAD. NO:166",
+   "phone": "0358 615 2601",
+   "dutyStart": "2026-10-22T08:00:00+03:00",
+   "dutyEnd": "2026-10-23T08:00:00+03:00",
    "approved": true,
-   "lat": 40.391914,
-   "lng": 35.521545
+   "lat": 40.396675,
+   "lng": 35.524639
   },
   {
    "district": "Gümüşhacıköy",
-   "name": "Yarar Eczanesi",
-   "address": "HACIYAHYA MAH. CUMHURİYET MEYDANI NO:2N",
-   "phone": "0358 717 3977",
-   "dutyStart": "2026-10-21T08:00:00+03:00",
-   "dutyEnd": "2026-10-22T08:00:00+03:00",
+   "name": "Hayat Eczanesi",
+   "address": "CUMARA MAH. MEHMET PAŞA CAD. NO:1",
+   "phone": "0358 717 1861",
+   "dutyStart": "2026-10-22T08:00:00+03:00",
+   "dutyEnd": "2026-10-23T08:00:00+03:00",
    "approved": true,
-   "lat": 40.873775,
-   "lng": 35.215054
+   "lat": 40.873634,
+   "lng": 35.216152
   },
   {
    "district": "Hamamözü",
    "name": "Ömür Eczanesi",
    "address": "ARTUKBEY MAH. ÇORUM CAD. NO:9/1",
    "phone": "0358 787 6202",
-   "dutyStart": "2026-10-21T08:00:00+03:00",
-   "dutyEnd": "2026-10-22T08:00:00+03:00",
+   "dutyStart": "2026-10-22T08:00:00+03:00",
+   "dutyEnd": "2026-10-23T08:00:00+03:00",
    "approved": true,
    "lat": 40.781593,
    "lng": 35.022079
   },
   {
    "district": "Merkez",
-   "name": "Maden Eczanesi",
-   "address": "DERE MAH. ŞEYH ZEKERİYA SOK. NO: 10/B",
-   "phone": "0358 218 4097",
-   "dutyStart": "2026-10-21T08:00:00+03:00",
-   "dutyEnd": "2026-10-22T08:00:00+03:00",
+   "name": "Gonca Eczanesi",
+   "address": "HACILAR MEYDANI MAH. SADIK AHMET CAD. NO:55/C",
+   "phone": "0358 212 5730",
+   "dutyStart": "2026-10-22T08:00:00+03:00",
+   "dutyEnd": "2026-10-23T08:00:00+03:00",
    "approved": true,
-   "lat": 40.651394,
-   "lng": 35.832493
+   "lat": 40.644264,
+   "lng": 35.806355
   },
   {
    "district": "Merkez",
-   "name": "Merve Eczanesi",
-   "address": "Şeyhcui Mah. Macit Zeren Cad. 33-A",
-   "phone": "0358 252 3333",
-   "dutyStart": "2026-10-21T08:00:00+03:00",
-   "dutyEnd": "2026-10-22T08:00:00+03:00",
+   "name": "Yasemin Eczanesi",
+   "address": "YÜZEVLER MAHALLESİ MUSTAFA KEMAL PAŞA CADDESİ NO:41/A",
+   "phone": "0358 218 4038",
+   "dutyStart": "2026-10-22T08:00:00+03:00",
+   "dutyEnd": "2026-10-23T08:00:00+03:00",
    "approved": true,
-   "lat": 40.658401,
-   "lng": 35.80621
+   "lat": 40.650074,
+   "lng": 35.829407
   },
   {
    "district": "Merzifon",
-   "name": "Eczane Hakan Eczanesi",
-   "address": "BAHÇELİEVLER MAH. İBN-İ SİNA CAD. NO:17/A",
-   "phone": "0358 514 0041",
-   "dutyStart": "2026-10-21T08:00:00+03:00",
-   "dutyEnd": "2026-10-22T08:00:00+03:00",
+   "name": "Sağlık Eczanesi",
+   "address": "Sofular Mahallesi Abdurrahman Kargı Bulvarı No:7/D",
+   "phone": "0358 514 0168",
+   "dutyStart": "2026-10-22T08:00:00+03:00",
+   "dutyEnd": "2026-10-23T08:00:00+03:00",
    "approved": true,
-   "lat": 40.867432,
-   "lng": 35.438755
+   "lat": 40.876068,
+   "lng": 35.460133
   },
   {
    "district": "Taşova",
-   "name": "Sağlık Eczanesi",
-   "address": "CUMHURİYET MAH.KORKMAZ CAD. NO:9",
-   "phone": "0358 312 0011",
-   "dutyStart": "2026-10-21T08:00:00+03:00",
-   "dutyEnd": "2026-10-22T08:00:00+03:00",
+   "name": "Eczane Alperen Bol Eczanesi",
+   "address": "CUMHURİYET MAH. KORKMAZ CAD. NO:7/B",
+   "phone": "0358 312 1020",
+   "dutyStart": "2026-10-22T08:00:00+03:00",
+   "dutyEnd": "2026-10-23T08:00:00+03:00",
    "approved": true,
-   "lat": 40.758907,
-   "lng": 36.321075
+   "lat": 40.758965,
+   "lng": 36.32127
   }
  ]
 }
