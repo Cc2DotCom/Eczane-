@@ -1,4 +1,53 @@
 {
-  "_aciklama": "Kapandığı halde OpenStreetMap'te hâlâ görünen hastaneler. Adı yazmak yeterli; aynı adda başka hastane varsa ilçe/il de eklenebilir: {\"name\": \"...\", \"city\": \"...\"}.",
-  "closed": []
+ "_aciklama": "Kapandığı halde OpenStreetMap'te hâlâ görünen hastaneler. name zorunlu; aynı adda başka hastane varsa lat/lng (yaklaşık 500 m içinde eşleşir) eklenir.",
+ "closed": [
+  {
+   "name": "Bursa Devlet Hastanesi",
+   "city": "Bursa",
+   "lat": 40.18715,
+   "lng": 29.05215,
+   "neden": "Temmuz 2019'da Bursa Şehir Hastanesi'ne taşındı, bina boş",
+   "kaynak": "https://www.gazetevatan.com/ekonomi/bursanin-164-yillik-tarihi-hastanesi-icin-kritik-gelisme-7-yillik-sessizlik-ozellestirme-karariyla-bozuldu-2387919"
+  },
+  {
+   "name": "Çekirge Devlet Hastanesi",
+   "city": "Bursa",
+   "lat": 40.20229,
+   "lng": 29.01399,
+   "neden": "23 Ekim 2026'dan sonra hasta kabul etmiyor",
+   "kaynak": "https://www.bursadabugun.com/haber/bursa-da-60-yillik-hastane-kapaniyor-son-hasta-kabulu-yarin-1958321.html"
+  },
+  {
+   "name": "Samsun Eğitim Araştırma Hastanesi",
+   "city": "Samsun",
+   "lat": 41.27175,
+   "lng": 36.29782,
+   "neden": "Samsun Şehir Hastanesi'ne taşındı, bina tadilatta",
+   "kaynak": "https://www.samsungazetesi.com/samsun-egitim-ve-arastirma-hastanesi-ne-olacak"
+  },
+  {
+   "name": "Aydın Kadın Doğum ve Çocuk Hastalıkları Hastanesi",
+   "city": "Aydın",
+   "lat": 37.84218,
+   "lng": 27.8322,
+   "neden": "Ocak 2026'da Aydın Şehir Hastanesi'ne taşındı",
+   "kaynak": "https://www.aydindenge.com.tr/aydin/21/04/2026/saglikta-yeni-hamle-aydinda-bos-hastane-binasi-devreye-giriyor"
+  },
+  {
+   "name": "Balıkesir Göğüs Hastalıkları Hastanesi",
+   "city": "Balıkesir",
+   "lat": 39.63045,
+   "lng": 27.87953,
+   "neden": "Yıllar önce kapatıldı, bina terk edilmiş",
+   "kaynak": "https://www.politikam.com/balikesirin-atil-hastanelerinde-son-durum-acaba-onlar-da-satilacak-mi"
+  },
+  {
+   "name": "İskenderun Devlet Hastanesi İnşaat Alanı",
+   "city": "Hatay",
+   "lat": 36.55912,
+   "lng": 36.18992,
+   "neden": "İnşaat alanı",
+   "kaynak": ""
+  }
+ ]
 }

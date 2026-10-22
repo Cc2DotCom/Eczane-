@@ -74,10 +74,11 @@ function isClosed(tags, name) {
 
 const norm = (s) => s.toLocaleLowerCase('tr-TR').replace(/\s+/g, ' ').trim();
 const closedList = JSON.parse(await readFile(CLOSED_FILE, 'utf8').catch(() => '{}')).closed ?? [];
-const manuallyClosed = (name, address) =>
+const near = (a, b) => Math.abs(a.lat - b.lat) < 0.005 && Math.abs(a.lng - b.lng) < 0.006;
+const manuallyClosed = (name, lat, lng) =>
   closedList.some((c) => {
     const entry = typeof c === 'string' ? { name: c } : c;
-    return norm(entry.name) === norm(name) && (!entry.city || norm(address).includes(norm(entry.city)));
+    return norm(entry.name) === norm(name) && (entry.lat == null || near(entry, { lat, lng }));
   });
 
 const data = await overpass();
@@ -90,7 +91,7 @@ for (const el of data.elements ?? []) {
   const lat = el.lat ?? el.center?.lat;
   const lng = el.lon ?? el.center?.lon;
   if (!name || lat == null || lng == null) continue;
-  if (isClosed(tags, name) || manuallyClosed(name, address(tags))) {
+  if (isClosed(tags, name) || manuallyClosed(name, lat, lng)) {
     dropped++;
     continue;
   }
