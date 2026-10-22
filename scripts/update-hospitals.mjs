@@ -68,7 +68,8 @@ function isClosed(tags, name) {
   const end = tags.end_date && Date.parse(tags.end_date);
   if (end && end < Date.now()) return true;
   // "Eski Devlet Hastanesi", "... Eski Bina" (Eskişehir, Babaeski gibi adlar hariç tutulur).
-  return /(^|[\s(])(eski|kapalı|kapatıldı|kapandı)([\s)]|$)/.test(name.toLocaleLowerCase('tr-TR'));
+  // "... İnşaatı" henüz açılmamış hastane.
+  return /(^|[\s(])(eski|kapalı|kapatıldı|kapandı|inşaatı|şantiyesi)([\s)]|$)/.test(name.toLocaleLowerCase('tr-TR'));
 }
 
 const norm = (s) => s.toLocaleLowerCase('tr-TR').replace(/\s+/g, ' ').trim();
