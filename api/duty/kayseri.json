@@ -2,7 +2,7 @@
  "city": "Kayseri",
  "code": 38,
  "dutyDay": "2026-10-22",
- "updatedAt": "2026-10-22T12:51:24.107Z",
+ "updatedAt": "2026-10-22T14:30:12.484Z",
  "source": "Kayseri Eczacı Odası",
  "pharmacies": [
   {
@@ -29,6 +29,17 @@
   },
   {
    "district": "Kocasinan",
+   "name": "Çöl Eczanesi",
+   "address": "HACI SAKI MH.KENARCIK SK.ÖZAL APT.NO:6/E A BLOK",
+   "phone": "03523200919",
+   "dutyStart": "2026-10-22T08:30:00+03:00",
+   "dutyEnd": "2026-10-23T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.722412,
+   "lng": 35.480034
+  },
+  {
+   "district": "Kocasinan",
    "name": "Nur Eczanesi",
    "address": "Örnekevler Mah. Atatürk Bulv. 112/A",
    "phone": "03522020201",
@@ -50,59 +61,26 @@
    "lng": 35.492592
   },
   {
-   "district": "Kocasinan",
-   "name": "Çöl Eczanesi",
-   "address": "HACI SAKI MH.KENARCIK SK.ÖZAL APT.NO:6/E A BLOK",
-   "phone": "03523200919",
-   "dutyStart": "2026-10-22T08:30:00+03:00",
-   "dutyEnd": "2026-10-23T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.722412,
-   "lng": 35.480034
-  },
-  {
-   "district": "Kocasinan",
-   "name": "Gökçe Gürlek Eczanesi",
-   "address": "Uğurevler Mahallesi, 312. Sokak, No:15/A Kocasinan/Kayseri",
-   "phone": "03529992959",
+   "district": "Melikgazi",
+   "name": "Bera Eczanesi",
+   "address": "Mimarsinan Şirintepe Mah. Malazgirt Bulv. Lalecik Sk. 1/18",
+   "phone": "03522713883",
    "dutyStart": "2026-10-22T08:30:00+03:00",
    "dutyEnd": "2026-10-23T01:00:00+03:00",
    "approved": true,
-   "lat": 38.743585,
-   "lng": 35.536863
-  },
-  {
-   "district": "Talas",
-   "name": "Yenidoğan Eczanesi",
-   "address": "YENIDOGAN MH.TIMUÇINLER CAD.17/A",
-   "phone": "03524373388",
-   "dutyStart": "2026-10-22T08:30:00+03:00",
-   "dutyEnd": "2026-10-23T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.697445,
-   "lng": 35.544254
-  },
-  {
-   "district": "Kocasinan",
-   "name": "Arzu Eczanesi",
-   "address": "MIMARSINAN MAH. BILLUR CAD. NO: 77/A",
-   "phone": "3522363773",
-   "dutyStart": "2026-10-22T08:30:00+03:00",
-   "dutyEnd": "2026-10-23T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.733744,
-   "lng": 35.511013
+   "lat": 38.740359,
+   "lng": 35.577178
   },
   {
    "district": "Melikgazi",
-   "name": "Neslihan Eczanesi",
-   "address": "KÖŞK MAH.TUNCA SOK.NO:12/D",
-   "phone": "03522372352",
+   "name": "Akif Eczanesi",
+   "address": "SAKARYA MAH. EREN YILDIRIM BULV. 31/H",
+   "phone": "03523271888",
    "dutyStart": "2026-10-22T08:30:00+03:00",
    "dutyEnd": "2026-10-23T01:00:00+03:00",
    "approved": true,
-   "lat": 38.723527,
-   "lng": 35.517922
+   "lat": 38.74094,
+   "lng": 35.400511
   },
   {
    "district": "Talas",
@@ -114,6 +92,17 @@
    "approved": true,
    "lat": 38.707122,
    "lng": 35.560511
+  },
+  {
+   "district": "Talas",
+   "name": "Yenidoğan Eczanesi",
+   "address": "YENIDOGAN MH.TIMUÇINLER CAD.17/A",
+   "phone": "03524373388",
+   "dutyStart": "2026-10-22T08:30:00+03:00",
+   "dutyEnd": "2026-10-23T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.697445,
+   "lng": 35.544254
   },
   {
    "district": "Melikgazi",
@@ -128,14 +117,14 @@
   },
   {
    "district": "Melikgazi",
-   "name": "Akif Eczanesi",
-   "address": "SAKARYA MAH. EREN YILDIRIM BULV. 31/H",
-   "phone": "03523271888",
+   "name": "Neslihan Eczanesi",
+   "address": "KÖŞK MAH.TUNCA SOK.NO:12/D",
+   "phone": "03522372352",
    "dutyStart": "2026-10-22T08:30:00+03:00",
    "dutyEnd": "2026-10-23T01:00:00+03:00",
    "approved": true,
-   "lat": 38.74094,
-   "lng": 35.400511
+   "lat": 38.723527,
+   "lng": 35.517922
   },
   {
    "district": "Melikgazi",
@@ -149,15 +138,26 @@
    "lng": 35.474662
   },
   {
-   "district": "Melikgazi",
-   "name": "Bera Eczanesi",
-   "address": "Mimarsinan Şirintepe Mah. Malazgirt Bulv. Lalecik Sk. 1/18",
-   "phone": "03522713883",
+   "district": "Kocasinan",
+   "name": "Gökçe Gürlek Eczanesi",
+   "address": "Uğurevler Mahallesi, 312. Sokak, No:15/A Kocasinan/Kayseri",
+   "phone": "03529992959",
    "dutyStart": "2026-10-22T08:30:00+03:00",
    "dutyEnd": "2026-10-23T01:00:00+03:00",
    "approved": true,
-   "lat": 38.740359,
-   "lng": 35.577178
+   "lat": 38.743585,
+   "lng": 35.536863
+  },
+  {
+   "district": "Kocasinan",
+   "name": "Arzu Eczanesi",
+   "address": "MIMARSINAN MAH. BILLUR CAD. NO: 77/A",
+   "phone": "3522363773",
+   "dutyStart": "2026-10-22T08:30:00+03:00",
+   "dutyEnd": "2026-10-23T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.733744,
+   "lng": 35.511013
   }
  ],
  "sourceUrl": "https://www.kayserieo.org.tr/nobetci-eczaneler"
