@@ -80,6 +80,7 @@ export function useDutyPharmacies(area: Area | null, coords: Coords | null) {
     pharmacies,
     source: result?.source,
     origin: result?.origin,
+    districtMissing: !!result?.districtMissing,
     fetchedAt: result?.fetchedAt,
     /** Liste bugünün nöbet gününe ait değilse (güncelleme gecikmişse) true. */
     stale: !!result && result.dutyDay !== dutyDayKey(),

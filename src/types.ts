@@ -26,4 +26,6 @@ export type DutyResult = {
   offline?: boolean;
   /** Liste e-Devlet yerine başka bir resmi kaynaktan (ilin eczacı odası) geldiyse onun adı. */
   origin?: string;
+  /** Seçilen ilçede bugün nöbetçi yok; ilin tüm nöbetçileri gösteriliyor. */
+  districtMissing?: boolean;
 };

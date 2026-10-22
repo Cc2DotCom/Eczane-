@@ -244,16 +244,19 @@ for (const [codeStr, city] of Object.entries(CITIES)) {
   try {
     let { rows, fetched, note } = await fetchCity(code, city, coords);
     const data = { city, code, dutyDay: today, updatedAt: new Date().toISOString(), source: 'e-Devlet TİTCK', pharmacies: rows };
-    if (!rows.length && CHAMBER_CITIES.has(code)) {
-      // e-Devlet'te yayınlanmayan illerde eczacı odasının kendi sitesine bakarız.
+    if (CHAMBER_CITIES.has(code)) {
+      // e-Devlet bazı illeri hiç, bazılarını yalnızca birkaç ilçeyle yayınlıyor (ör. Isparta'da sadece merkez).
+      // Eczacı odasının sitesindeki listeden, e-Devlet'te olmayan ilçeleri ekleriz.
       try {
         const ch = await fetchChamber(code);
-        if (ch?.rows.length) {
-          rows = data.pharmacies = ch.rows;
-          fetched = await geocodeMissing(code, city, rows, coords);
-          data.source = ch.source;
+        const have = new Set(rows.map((r) => slug(r.district)));
+        const extra = (ch?.rows ?? []).filter((r) => !have.has(slug(r.district)));
+        if (extra.length) {
+          fetched += await geocodeMissing(code, city, extra, coords);
+          rows = data.pharmacies = [...rows, ...extra];
+          data.source = have.size ? `e-Devlet TİTCK, ${ch.source}` : ch.source;
           data.sourceUrl = ch.sourceUrl;
-          console.log(`  ${city}: ${ch.source} sitesinden alındı`);
+          console.log(`  ${city}: ${ch.source} sitesinden ${extra.length} eczane eklendi`);
         }
       } catch (e) {
         console.warn(`  ${city}: oda sitesi okunamadı (${e.message})`);

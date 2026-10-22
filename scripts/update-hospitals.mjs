@@ -3,11 +3,12 @@
 //
 // Kullanım: node scripts/update-hospitals.mjs
 
-import { mkdir, writeFile } from 'node:fs/promises';
+import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 
 const ROOT = path.resolve(path.dirname(new URL(import.meta.url).pathname), '..');
 const OUT = path.join(ROOT, 'api', 'hospitals.json');
+const CLOSED_FILE = path.join(ROOT, 'data', 'hospitals-closed.json');
 const ENDPOINTS = ['https://overpass-api.de/api/interpreter', 'https://overpass.kumi.systems/api/interpreter'];
 
 const QUERY = `
@@ -57,7 +58,29 @@ async function overpass() {
   throw lastError;
 }
 
+/**
+ * Kapanmış hastaneler OSM'de çoğu zaman silinmez; ya etiketle işaretlenir ya da adına "eski" eklenir.
+ * Bunları ve data/hospitals-closed.json'a elle yazılanları listeye almayız.
+ */
+function isClosed(tags, name) {
+  if (Object.keys(tags).some((k) => /^(disused|abandoned|was|removed|demolished|razed|closed):/.test(k))) return true;
+  if (['closed', 'off'].includes((tags.opening_hours || '').trim().toLowerCase())) return true;
+  const end = tags.end_date && Date.parse(tags.end_date);
+  if (end && end < Date.now()) return true;
+  // "Eski Devlet Hastanesi", "... Eski Bina" (Eskişehir, Babaeski gibi adlar hariç tutulur).
+  return /(^|[\s(])(eski|kapalı|kapatıldı|kapandı)([\s)]|$)/.test(name.toLocaleLowerCase('tr-TR'));
+}
+
+const norm = (s) => s.toLocaleLowerCase('tr-TR').replace(/\s+/g, ' ').trim();
+const closedList = JSON.parse(await readFile(CLOSED_FILE, 'utf8').catch(() => '{}')).closed ?? [];
+const manuallyClosed = (name, address) =>
+  closedList.some((c) => {
+    const entry = typeof c === 'string' ? { name: c } : c;
+    return norm(entry.name) === norm(name) && (!entry.city || norm(address).includes(norm(entry.city)));
+  });
+
 const data = await overpass();
+let dropped = 0;
 const seen = new Set();
 const hospitals = [];
 for (const el of data.elements ?? []) {
@@ -66,6 +89,10 @@ for (const el of data.elements ?? []) {
   const lat = el.lat ?? el.center?.lat;
   const lng = el.lon ?? el.center?.lon;
   if (!name || lat == null || lng == null) continue;
+  if (isClosed(tags, name) || manuallyClosed(name, address(tags))) {
+    dropped++;
+    continue;
+  }
   // Aynı hastane hem nokta hem alan olarak girilmiş olabilir.
   const key = `${name.toLocaleLowerCase('tr-TR')}|${lat.toFixed(3)}|${lng.toFixed(3)}`;
   if (seen.has(key)) continue;
@@ -88,4 +115,4 @@ await writeFile(
   JSON.stringify({ updatedAt: new Date().toISOString(), source: 'OpenStreetMap katkıcıları (ODbL)', hospitals }) + '\n',
 );
 const em = hospitals.filter((h) => h.emergency).length;
-console.log(`${hospitals.length} hastane yazıldı, ${em} tanesinde acil servis işaretli`);
+console.log(`${hospitals.length} hastane yazıldı, ${em} tanesinde acil servis işaretli, ${dropped} kapalı hastane çıkarıldı`);

@@ -1,4 +1,4 @@
-// e-Devlet'te nöbet listesi yayınlanmayan iller için eczacı odalarının kendi siteleri.
+// e-Devlet'te nöbet listesi yayınlanmayan (ya da eksik yayınlanan) iller için eczacı odalarının kendi siteleri.
 // Bu sitelerin çoğu aynı altyapıyı kullanıyor: her eczane bir <h4><strong>AD</strong></h4> kartı,
 // altında adres (fa-home), telefon (tel:) ve harita bağlantısı (maps?q=enlem,boylam).
 
@@ -28,7 +28,7 @@ export const CHAMBERS = [
   {
     cities: [26],
     name: 'Eskişehir Eczacı Odası',
-    url: 'https://www.eskisehireo.org.tr/',
+    url: 'https://www.eskisehireo.org.tr/eskisehir-nobetci-eczaneler',
     // Oda Bilecik'i de kapsıyor; Eskişehir merkezi "MERKEZ-ODUNPAZARI" gibi yazılıyor.
     route: (r) => (BILECIK.has(slug(r.rawDistrict)) ? 11 : 26),
   },
@@ -56,6 +56,7 @@ export const CHAMBERS = [
     url: 'https://www.aksarayeo.org.tr/nobetci-eczaneler',
     route: (r) => (r.province === 'kirsehir' ? 40 : 68),
   },
+  { cities: [32], name: 'Isparta Eczacı Odası', url: 'https://www.ispartaeo.org.tr/nobetci-eczaneler', parse: parseTitled },
   { cities: [9], name: 'Aydın Eczacı Odası', url: 'https://www.aydineczaciodasi.org.tr/mobil/', fetch: fetchAydin },
 ];
 
@@ -175,6 +176,26 @@ export function parseTable(html) {
       dutyEnd: null,
       approved: true,
       ...coordsOf(tr[0]),
+    });
+  }
+  return rows;
+}
+
+/** Başlık düzeni (Isparta): <h3>AD</h3><h5>İLÇE</h5>, ardından adres (fa-map-marker), telefon, harita. */
+export function parseTitled(html) {
+  const rows = [];
+  for (const m of html.matchAll(/<h3[^>]*>([^<]*eczane[^<]*)<\/h3>\s*<h5>([^<]*)<\/h5>([\s\S]*?)(?=<h3|$)/gi)) {
+    const body = m[3];
+    rows.push({
+      rawDistrict: decode(m[2]),
+      district: cleanDistrict(m[2]) || 'Merkez',
+      name: pharmacyName(decode(m[1])),
+      address: decode(body.match(/fa-map-marker[^>]*><\/i>([\s\S]*?)<\/p>/i)?.[1] ?? ''),
+      phone: body.match(/fa-phone[^>]*><\/i>\s*([\d\s]+)/i)?.[1].replace(/\s/g, '') ?? '',
+      dutyStart: null,
+      dutyEnd: null,
+      approved: true,
+      ...coordsOf(body),
     });
   }
   return rows;

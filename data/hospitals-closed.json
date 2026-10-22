@@ -1,0 +1,4 @@
+{
+  "_aciklama": "Kapandığı halde OpenStreetMap'te hâlâ görünen hastaneler. Adı yazmak yeterli; aynı adda başka hastane varsa ilçe/il de eklenebilir: {\"name\": \"...\", \"city\": \"...\"}.",
+  "closed": []
+}

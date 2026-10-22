@@ -69,10 +69,10 @@ function toPharmacies(file: RemoteFile): Pharmacy[] {
 }
 
 function byDistrict(list: Pharmacy[], district?: string) {
-  if (!district) return list;
+  if (!district) return { list, missing: false };
   const d = normalizeTr(district);
   const hit = list.filter((p) => normalizeTr(p.district) === d);
-  return hit.length ? hit : list;
+  return hit.length ? { list: hit, missing: false } : { list, missing: true };
 }
 
 async function fetchJson(url: string, headers: Record<string, string> | undefined, signal: AbortSignal) {
@@ -155,14 +155,19 @@ export async function getDutyPharmacies(
     .then((v) => (v ? (JSON.parse(v) as { file: RemoteFile; fetchedAt: number }) : null))
     .catch(() => null);
 
-  const build = (c: { file: RemoteFile; fetchedAt: number }): DutyResult => ({
+  const build = (c: { file: RemoteFile; fetchedAt: number }): DutyResult => {
     // Konum yoksa (il elle seçildiyse) ilçeye göre süzeriz; konum varsa tüm il mesafeye göre sıralanır.
-    pharmacies: center ? toPharmacies(c.file) : byDistrict(toPharmacies(c.file), area.district),
-    source: 'remote',
-    fetchedAt: c.fetchedAt,
-    dutyDay: c.file.dutyDay,
-    origin: c.file.source && !/e-Devlet/i.test(c.file.source) ? c.file.source : undefined,
-  });
+    const f = center ? { list: toPharmacies(c.file), missing: false } : byDistrict(toPharmacies(c.file), area.district);
+    return {
+      pharmacies: f.list,
+      districtMissing: f.missing,
+      source: 'remote',
+      fetchedAt: c.fetchedAt,
+      dutyDay: c.file.dutyDay,
+      // "e-Devlet TİTCK, Isparta Eczacı Odası" gibi karma kaynakta yalnızca oda adını gösteririz.
+      origin: c.file.source?.split(', ').filter((s) => !/e-Devlet/i.test(s)).join(', ') || undefined,
+    };
+  };
 
   if (cached && !opts.force && cached.file.dutyDay === today && Date.now() - cached.fetchedAt < FRESH_MS) {
     return build(cached);

@@ -45,7 +45,7 @@ function Home() {
   const coords = location.status === 'ready' ? location.coords : null;
   const area = prefs.manualArea ?? (location.status === 'ready' ? location.area : null);
 
-  const { pharmacies: rawPharmacies, source, origin, fetchedAt, stale, offline, notCovered, loading, refreshing, error, refresh } = useDutyPharmacies(
+  const { pharmacies: rawPharmacies, source, origin, districtMissing, fetchedAt, stale, offline, notCovered, loading, refreshing, error, refresh } = useDutyPharmacies(
     prefs.ready ? area : null,
     // Bölge elle seçildiyse mesafeyi kullanıcının bulunduğu yerden değil, seçilen yerden düşünürüz.
     prefs.manualArea ? null : coords,
@@ -168,7 +168,7 @@ function Home() {
         <HeroCard
           pharmacy={hero}
           isNearest={hero.id === nearest?.id}
-          nearestLabel={prefs.manualArea ? 'Bu bölgede nöbetçi' : undefined}
+          nearestLabel={prefs.manualArea ? (districtMissing ? 'İlde nöbetçi' : 'Bu bölgede nöbetçi') : undefined}
           isFavorite={prefs.favorites.includes(hero.name)}
           onToggleFavorite={() => toggleFav(hero.name)}
           onBackToNearest={() => select(null)}
@@ -322,6 +322,15 @@ function Home() {
             <Text style={[styles.demoText, { color: t.text }]}>
               İnternete şu an ulaşamıyoruz. Telefonunda kayıtlı son liste gösteriliyor
               {fetchedAt ? ` (${relativeTime(fetchedAt)} indirildi)` : ''}.
+            </Text>
+          </View>
+        )}
+
+        {!isHospital && districtMissing && !!area?.district && (
+          <View style={[styles.demo, { backgroundColor: t.warmSoft }]}>
+            <Ionicons name="information-circle-outline" size={18} color={t.warm} />
+            <Text style={[styles.demoText, { color: t.text }]}>
+              {area.district} için bugün nöbetçi eczane kaydı yok. {area.city} genelindeki nöbetçiler gösteriliyor.
             </Text>
           </View>
         )}
