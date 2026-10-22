@@ -242,11 +242,8 @@ function Home() {
         showsVerticalScrollIndicator={false}
       >
         <FadeIn>
+          {/* Selamlama kendi satırında; dar ekranda düğmeler onu sıkıştırıp hecelere bölmesin. */}
           <View style={styles.header}>
-            <View style={{ flex: 1 }}>
-              <Text style={[styles.date, { color: t.textMuted }]}>{dutyDayLabel()}</Text>
-              <Text style={[styles.title, { color: t.text }]}>{greeting()}</Text>
-            </View>
             <PressableScale
               onPress={() => setSettingsOpen(true)}
               accessibilityRole="button"
@@ -265,6 +262,8 @@ function Home() {
               </Text>
             </PressableScale>
           </View>
+          <Text style={[styles.date, { color: t.textMuted, marginTop: 14 }]}>{dutyDayLabel()}</Text>
+          <Text style={[styles.title, { color: t.text }]}>{greeting()}</Text>
 
           <Text style={[styles.subtitle, { color: t.text }]}>
             {isHospital
@@ -275,7 +274,9 @@ function Home() {
           </Text>
 
           <View style={styles.liveRow}>
-            <Pulse color={t.primary} />
+            <View style={{ marginTop: 5 }}>
+              <Pulse color={t.primary} />
+            </View>
             <Text style={[styles.liveText, { color: t.textMuted }]}>
               {isHospital
                 ? 'Mesafeye göre sıralı, acil servisler işaretli'
@@ -393,16 +394,16 @@ function Home() {
 const styles = StyleSheet.create({
   root: { flex: 1 },
   scroll: { paddingHorizontal: 20 },
-  header: { flexDirection: 'row', alignItems: 'flex-end', gap: 8 },
+  header: { flexDirection: 'row', alignItems: 'center', justifyContent: 'flex-end', gap: 8 },
   date: { fontSize: 14, textTransform: 'capitalize' },
-  title: { fontSize: 30, fontWeight: '800', letterSpacing: -0.6, marginTop: 2 },
+  title: { fontSize: 30, fontWeight: '800', letterSpacing: -0.6, marginTop: 6 },
   subtitle: { fontSize: 17, lineHeight: 24, marginTop: 10 },
   glow: { position: 'absolute', top: 0, left: 0, right: 0, height: 420 },
   areaChip: {
     flexDirection: 'row',
     alignItems: 'center',
     gap: 6,
-    maxWidth: 170,
+    flexShrink: 1,
     paddingHorizontal: 12,
     height: 36,
     borderRadius: 99,
@@ -410,12 +411,12 @@ const styles = StyleSheet.create({
   },
   aaBtn: { width: 36, height: 36, borderRadius: 18, borderWidth: 1, alignItems: 'center', justifyContent: 'center' },
   areaText: { fontSize: 13, fontWeight: '600', flexShrink: 1 },
-  liveRow: { flexDirection: 'row', alignItems: 'center', gap: 8, marginTop: 8, marginBottom: 16 },
+  liveRow: { flexDirection: 'row', alignItems: 'flex-start', gap: 8, marginTop: 8, marginBottom: 16 },
   tabs: { flexDirection: 'row', padding: 4, borderRadius: 99, marginBottom: 18 },
   tab: { flexDirection: 'row', alignItems: 'center', justifyContent: 'center', gap: 6, height: 40, borderRadius: 99 },
   tabActive: { shadowOpacity: 0.12, shadowRadius: 8, shadowOffset: { width: 0, height: 2 }, elevation: 2 },
   tabText: { fontSize: 14, fontWeight: '700' },
-  liveText: { fontSize: 13 },
+  liveText: { flex: 1, fontSize: 13, lineHeight: 18 },
   demo: { flexDirection: 'row', gap: 8, alignItems: 'center', padding: 12, borderRadius: radius.sm, marginBottom: 14 },
   demoText: { flex: 1, fontSize: 13, lineHeight: 18 },
   sectionRow: { flexDirection: 'row', alignItems: 'center', gap: 10, marginTop: 10 },

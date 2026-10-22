@@ -50,7 +50,7 @@ export function Welcome() {
             <View style={[styles.source, { backgroundColor: t.card, borderColor: t.border }]}>
               <Ionicons name="shield-checkmark-outline" size={18} color={t.primary} />
               <Text style={[styles.sourceText, { color: t.text }]}>
-                Nöbet listesi her gün e-Devlet'teki resmi kaynaktan (TİTCK) alınır.
+                Nöbet listesi her gün e-Devlet'teki resmi kaynaktan (TİTCK) ve il eczacı odalarından alınır.
               </Text>
             </View>
           </FadeIn>

@@ -88,7 +88,7 @@ function HospitalCard({ h, isNearest, fromArea }: { h: HospitalWithDistance; isN
           </View>
         )}
         <View style={styles.distanceRow}>
-          <Text style={[styles.distance, { color: t.primary }]}>{formatDistance(h.distanceKm)}</Text>
+          <Text style={[styles.distance, { color: t.primary }]} numberOfLines={1}>{formatDistance(h.distanceKm)}</Text>
           <Text style={[styles.hint, { color: t.textMuted }]}>{fromArea ? `${fromArea} merkezine` : travelHint(h.distanceKm)}</Text>
         </View>
         {!!h.address && (
@@ -297,8 +297,8 @@ const styles = StyleSheet.create({
   name: { fontSize: 24, fontWeight: '700', marginTop: 16, letterSpacing: -0.3 },
   sub: { fontSize: 15, marginTop: 2 },
   distanceRow: { flexDirection: 'row', alignItems: 'baseline', gap: 10, marginTop: 14 },
-  distance: { fontSize: 34, fontWeight: '700', letterSpacing: -0.8 },
-  hint: { fontSize: 14 },
+  distance: { fontSize: 34, fontWeight: '700', letterSpacing: -0.8, flexShrink: 0 },
+  hint: { fontSize: 14, flex: 1 },
   row: { flexDirection: 'row', gap: 6, marginTop: 12, alignItems: 'flex-start' },
   address: { flex: 1, fontSize: 14, lineHeight: 20 },
   actions: { flexDirection: 'row', gap: 10, marginTop: 20 },
