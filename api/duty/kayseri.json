@@ -2,7 +2,7 @@
  "city": "Kayseri",
  "code": 38,
  "dutyDay": "2026-10-23",
- "updatedAt": "2026-10-23T11:39:17.171Z",
+ "updatedAt": "2026-10-23T17:53:27.710Z",
  "source": "Kayseri Eczacı Odası",
  "pharmacies": [
   {
@@ -15,6 +15,28 @@
    "approved": true,
    "lat": 38.792754,
    "lng": 35.620991
+  },
+  {
+   "district": "Kocasinan",
+   "name": "Soylu Eczanesi",
+   "address": "GEVHER NESIBE MAH. GÖK GEÇIDI SOK. 13/D",
+   "phone": "03522211137",
+   "dutyStart": "2026-10-23T08:30:00+03:00",
+   "dutyEnd": "2026-10-24T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.725245,
+   "lng": 35.481343
+  },
+  {
+   "district": "Kocasinan",
+   "name": "Ayyildiz Eczanesi",
+   "address": "ŞEKER MAH. MUHSİN YAZICIOĞLU BULVARI NO:74/D",
+   "phone": "05558770029",
+   "dutyStart": "2026-10-23T08:30:00+03:00",
+   "dutyEnd": "2026-10-24T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.770466,
+   "lng": 35.41319
   },
   {
    "district": "Kocasinan",
@@ -40,36 +62,36 @@
   },
   {
    "district": "Kocasinan",
-   "name": "Ayyildiz Eczanesi",
-   "address": "ŞEKER MAH. MUHSİN YAZICIOĞLU BULVARI NO:74/D",
-   "phone": "05558770029",
-   "dutyStart": "2026-10-23T08:30:00+03:00",
-   "dutyEnd": "2026-10-24T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.770466,
-   "lng": 35.41319
-  },
-  {
-   "district": "Kocasinan",
-   "name": "Soylu Eczanesi",
-   "address": "GEVHER NESIBE MAH. GÖK GEÇIDI SOK. 13/D",
-   "phone": "03522211137",
-   "dutyStart": "2026-10-23T08:30:00+03:00",
-   "dutyEnd": "2026-10-24T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.725245,
-   "lng": 35.481343
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Damla Eczanesi",
-   "address": "HUNAT MAH. KALPAKLIOGLU CAD. NO:7",
-   "phone": "03522312104",
+   "name": "Karabulut Eczanesi",
+   "address": "SAHABIYE MH.METE CAD.N0:14/D",
+   "phone": "3522227781",
    "dutyStart": "2026-10-23T08:30:00+03:00",
    "dutyEnd": "2026-10-24T01:00:00+03:00",
    "approved": true,
-   "lat": 38.721232,
-   "lng": 35.49222
+   "lat": 38.724458,
+   "lng": 35.487008
+  },
+  {
+   "district": "Talas",
+   "name": "Genişer Eczanesi",
+   "address": "MEVLANA MAH. ANAYURT CAD. NO:5/A",
+   "phone": "03523361403",
+   "dutyStart": "2026-10-23T08:30:00+03:00",
+   "dutyEnd": "2026-10-24T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.707076,
+   "lng": 35.561198
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Buse Eczanesi",
+   "address": "30 Ağustos Mahallesi, Şehit Hasan Esat Işık Bulvarı No:22/A",
+   "phone": "03523265838",
+   "dutyStart": "2026-10-23T08:30:00+03:00",
+   "dutyEnd": "2026-10-24T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.746373,
+   "lng": 35.391689
   },
   {
    "district": "Melikgazi",
@@ -95,28 +117,6 @@
   },
   {
    "district": "Talas",
-   "name": "Genişer Eczanesi",
-   "address": "MEVLANA MAH. ANAYURT CAD. NO:5/A",
-   "phone": "03523361403",
-   "dutyStart": "2026-10-23T08:30:00+03:00",
-   "dutyEnd": "2026-10-24T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.707076,
-   "lng": 35.561198
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Buse Eczanesi",
-   "address": "30 Ağustos Mahallesi, Şehit Hasan Esat Işık Bulvarı No:22/A",
-   "phone": "03523265838",
-   "dutyStart": "2026-10-23T08:30:00+03:00",
-   "dutyEnd": "2026-10-24T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.746373,
-   "lng": 35.391689
-  },
-  {
-   "district": "Talas",
    "name": "Çakmak Eczanesi",
    "address": "KIÇIKÖY MAH. ATATÜRK BULVARI NO: 4/I",
    "phone": "3524373356",
@@ -128,6 +128,17 @@
   },
   {
    "district": "Melikgazi",
+   "name": "Damla Eczanesi",
+   "address": "HUNAT MAH. KALPAKLIOGLU CAD. NO:7",
+   "phone": "03522312104",
+   "dutyStart": "2026-10-23T08:30:00+03:00",
+   "dutyEnd": "2026-10-24T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.721232,
+   "lng": 35.49222
+  },
+  {
+   "district": "Melikgazi",
    "name": "Handenaz Eczanesi",
    "address": "Alpaslan Mah. Gökçefidan Sk. 11/A",
    "phone": "03522202044",
@@ -136,17 +147,6 @@
    "approved": true,
    "lat": 38.724443,
    "lng": 35.514333
-  },
-  {
-   "district": "Kocasinan",
-   "name": "Karabulut Eczanesi",
-   "address": "SAHABIYE MH.METE CAD.N0:14/D",
-   "phone": "3522227781",
-   "dutyStart": "2026-10-23T08:30:00+03:00",
-   "dutyEnd": "2026-10-24T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.724458,
-   "lng": 35.487008
   },
   {
    "district": "Melikgazi",

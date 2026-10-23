@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-23T14:14:05.564Z",
+ "generatedAt": "2026-10-23T17:53:48.662Z",
  "source": "e-Devlet TİTCK",
  "cities": [
   {
@@ -63,7 +63,7 @@
    "slug": "artvin",
    "code": 8,
    "dutyDay": "2026-10-23",
-   "updatedAt": "2026-10-23T14:12:40.320Z",
+   "updatedAt": "2026-10-23T17:53:00.180Z",
    "count": 9
   },
   {
@@ -175,7 +175,7 @@
    "slug": "edirne",
    "code": 22,
    "dutyDay": "2026-10-23",
-   "updatedAt": "2026-10-23T14:13:15.356Z",
+   "updatedAt": "2026-10-23T17:53:06.554Z",
    "count": 12
   },
   {
@@ -183,7 +183,7 @@
    "slug": "elazig",
    "code": 23,
    "dutyDay": "2026-10-23",
-   "updatedAt": "2026-10-23T14:13:20.522Z",
+   "updatedAt": "2026-10-23T17:53:10.923Z",
    "count": 7
   },
   {
@@ -207,7 +207,7 @@
    "slug": "eskisehir",
    "code": 26,
    "dutyDay": "2026-10-23",
-   "updatedAt": "2026-10-23T14:13:25.637Z",
+   "updatedAt": "2026-10-23T17:53:15.363Z",
    "count": 14
   },
   {
@@ -239,7 +239,7 @@
    "slug": "hakkari",
    "code": 30,
    "dutyDay": "2026-10-23",
-   "updatedAt": "2026-10-23T14:13:30.553Z",
+   "updatedAt": "2026-10-23T17:53:20.172Z",
    "count": 5
   },
   {
@@ -255,7 +255,7 @@
    "slug": "isparta",
    "code": 32,
    "dutyDay": "2026-10-23",
-   "updatedAt": "2026-10-23T14:13:33.479Z",
+   "updatedAt": "2026-10-23T17:53:22.917Z",
    "count": 9
   },
   {
@@ -303,7 +303,7 @@
    "slug": "kayseri",
    "code": 38,
    "dutyDay": "2026-10-23",
-   "updatedAt": "2026-10-23T11:39:17.171Z",
+   "updatedAt": "2026-10-23T17:53:27.710Z",
    "count": 14
   },
   {
@@ -319,7 +319,7 @@
    "slug": "kirsehir",
    "code": 40,
    "dutyDay": "2026-10-23",
-   "updatedAt": "2026-10-23T14:13:40.310Z",
+   "updatedAt": "2026-10-23T17:53:32.076Z",
    "count": 4
   },
   {
@@ -351,7 +351,7 @@
    "slug": "malatya",
    "code": 44,
    "dutyDay": "2026-10-23",
-   "updatedAt": "2026-10-23T14:13:45.250Z",
+   "updatedAt": "2026-10-23T17:53:36.565Z",
    "count": 5
   },
   {
@@ -391,7 +391,7 @@
    "slug": "mus",
    "code": 49,
    "dutyDay": "2026-10-23",
-   "updatedAt": "2026-10-23T14:13:50.099Z",
+   "updatedAt": "2026-10-23T17:53:40.990Z",
    "count": 6
   },
   {
@@ -631,7 +631,7 @@
    "slug": "kilis",
    "code": 79,
    "dutyDay": "2026-10-23",
-   "updatedAt": "2026-10-23T14:14:03.202Z",
+   "updatedAt": "2026-10-23T17:53:46.185Z",
    "count": 1
   },
   {
