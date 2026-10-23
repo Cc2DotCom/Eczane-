@@ -2,42 +2,9 @@
  "city": "Kayseri",
  "code": 38,
  "dutyDay": "2026-10-23",
- "updatedAt": "2026-10-23T17:53:27.710Z",
+ "updatedAt": "2026-10-23T19:59:09.218Z",
  "source": "Kayseri Eczacı Odası",
  "pharmacies": [
-  {
-   "district": "Melikgazi",
-   "name": "Hande Eczanesi",
-   "address": "YEŞİLYURT MAHALLESİ 3220. CAD 8/2A",
-   "phone": "03525022012",
-   "dutyStart": "2026-10-23T08:30:00+03:00",
-   "dutyEnd": "2026-10-24T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.792754,
-   "lng": 35.620991
-  },
-  {
-   "district": "Kocasinan",
-   "name": "Soylu Eczanesi",
-   "address": "GEVHER NESIBE MAH. GÖK GEÇIDI SOK. 13/D",
-   "phone": "03522211137",
-   "dutyStart": "2026-10-23T08:30:00+03:00",
-   "dutyEnd": "2026-10-24T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.725245,
-   "lng": 35.481343
-  },
-  {
-   "district": "Kocasinan",
-   "name": "Ayyildiz Eczanesi",
-   "address": "ŞEKER MAH. MUHSİN YAZICIOĞLU BULVARI NO:74/D",
-   "phone": "05558770029",
-   "dutyStart": "2026-10-23T08:30:00+03:00",
-   "dutyEnd": "2026-10-24T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.770466,
-   "lng": 35.41319
-  },
   {
    "district": "Kocasinan",
    "name": "Umay Eczanesi",
@@ -48,6 +15,17 @@
    "approved": true,
    "lat": 38.722338,
    "lng": 35.480321
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Hande Eczanesi",
+   "address": "YEŞİLYURT MAHALLESİ 3220. CAD 8/2A",
+   "phone": "03525022012",
+   "dutyStart": "2026-10-23T08:30:00+03:00",
+   "dutyEnd": "2026-10-24T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.792754,
+   "lng": 35.620991
   },
   {
    "district": "Kocasinan",
@@ -62,6 +40,72 @@
   },
   {
    "district": "Kocasinan",
+   "name": "Ayyildiz Eczanesi",
+   "address": "ŞEKER MAH. MUHSİN YAZICIOĞLU BULVARI NO:74/D",
+   "phone": "05558770029",
+   "dutyStart": "2026-10-23T08:30:00+03:00",
+   "dutyEnd": "2026-10-24T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.770466,
+   "lng": 35.41319
+  },
+  {
+   "district": "Kocasinan",
+   "name": "Soylu Eczanesi",
+   "address": "GEVHER NESIBE MAH. GÖK GEÇIDI SOK. 13/D",
+   "phone": "03522211137",
+   "dutyStart": "2026-10-23T08:30:00+03:00",
+   "dutyEnd": "2026-10-24T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.725245,
+   "lng": 35.481343
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Damla Eczanesi",
+   "address": "HUNAT MAH. KALPAKLIOGLU CAD. NO:7",
+   "phone": "03522312104",
+   "dutyStart": "2026-10-23T08:30:00+03:00",
+   "dutyEnd": "2026-10-24T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.721232,
+   "lng": 35.49222
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Gökçen Eczanesi",
+   "address": "OSMANLI MAH. DALGIÇ SOK. NO:2",
+   "phone": "03523474674",
+   "dutyStart": "2026-10-23T08:30:00+03:00",
+   "dutyEnd": "2026-10-24T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.688423,
+   "lng": 35.474771
+  },
+  {
+   "district": "Talas",
+   "name": "Çakmak Eczanesi",
+   "address": "KIÇIKÖY MAH. ATATÜRK BULVARI NO: 4/I",
+   "phone": "3524373356",
+   "dutyStart": "2026-10-23T08:30:00+03:00",
+   "dutyEnd": "2026-10-24T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.692582,
+   "lng": 35.550733
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Huzur Eczanesi",
+   "address": "Altınoluk MAh. Sakar Cad. 16/B",
+   "phone": "03523553200",
+   "dutyStart": "2026-10-23T08:30:00+03:00",
+   "dutyEnd": "2026-10-24T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.701172,
+   "lng": 35.444055
+  },
+  {
+   "district": "Kocasinan",
    "name": "Karabulut Eczanesi",
    "address": "SAHABIYE MH.METE CAD.N0:14/D",
    "phone": "3522227781",
@@ -70,6 +114,28 @@
    "approved": true,
    "lat": 38.724458,
    "lng": 35.487008
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Alara Eczanesi",
+   "address": "ALPASLAN MAH. SEVGİ SOK NO:5/B",
+   "phone": "03522331000",
+   "dutyStart": "2026-10-23T08:30:00+03:00",
+   "dutyEnd": "2026-10-24T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.731369,
+   "lng": 35.524857
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Handenaz Eczanesi",
+   "address": "Alpaslan Mah. Gökçefidan Sk. 11/A",
+   "phone": "03522202044",
+   "dutyStart": "2026-10-23T08:30:00+03:00",
+   "dutyEnd": "2026-10-24T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.724443,
+   "lng": 35.514333
   },
   {
    "district": "Talas",
@@ -92,72 +158,6 @@
    "approved": true,
    "lat": 38.746373,
    "lng": 35.391689
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Gökçen Eczanesi",
-   "address": "OSMANLI MAH. DALGIÇ SOK. NO:2",
-   "phone": "03523474674",
-   "dutyStart": "2026-10-23T08:30:00+03:00",
-   "dutyEnd": "2026-10-24T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.688423,
-   "lng": 35.474771
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Huzur Eczanesi",
-   "address": "Altınoluk MAh. Sakar Cad. 16/B",
-   "phone": "03523553200",
-   "dutyStart": "2026-10-23T08:30:00+03:00",
-   "dutyEnd": "2026-10-24T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.701172,
-   "lng": 35.444055
-  },
-  {
-   "district": "Talas",
-   "name": "Çakmak Eczanesi",
-   "address": "KIÇIKÖY MAH. ATATÜRK BULVARI NO: 4/I",
-   "phone": "3524373356",
-   "dutyStart": "2026-10-23T08:30:00+03:00",
-   "dutyEnd": "2026-10-24T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.692582,
-   "lng": 35.550733
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Damla Eczanesi",
-   "address": "HUNAT MAH. KALPAKLIOGLU CAD. NO:7",
-   "phone": "03522312104",
-   "dutyStart": "2026-10-23T08:30:00+03:00",
-   "dutyEnd": "2026-10-24T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.721232,
-   "lng": 35.49222
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Handenaz Eczanesi",
-   "address": "Alpaslan Mah. Gökçefidan Sk. 11/A",
-   "phone": "03522202044",
-   "dutyStart": "2026-10-23T08:30:00+03:00",
-   "dutyEnd": "2026-10-24T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.724443,
-   "lng": 35.514333
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Alara Eczanesi",
-   "address": "ALPASLAN MAH. SEVGİ SOK NO:5/B",
-   "phone": "03522331000",
-   "dutyStart": "2026-10-23T08:30:00+03:00",
-   "dutyEnd": "2026-10-24T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.731369,
-   "lng": 35.524857
   }
  ],
  "sourceUrl": "https://www.kayserieo.org.tr/nobetci-eczaneler"
