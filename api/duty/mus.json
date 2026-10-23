@@ -1,75 +1,75 @@
 {
  "city": "Muş",
  "code": 49,
- "dutyDay": "2026-10-22",
- "updatedAt": "2026-10-22T20:11:58.620Z",
+ "dutyDay": "2026-10-23",
+ "updatedAt": "2026-10-23T11:41:18.341Z",
  "source": "Batman Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Defne Eczanesi",
-   "address": "KÜLTÜR MAH. ŞİFA HASTANESİ KARŞISI.",
-   "phone": "04362126100",
+   "name": "Kayhan Eczanesi",
+   "address": "MUŞ BELEDİYESİ YANI",
+   "phone": "04362127396",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.736981,
-   "lng": 41.494621
+   "lat": 38.731916,
+   "lng": 41.490002
   },
   {
    "district": "Bulanık",
-   "name": "Enes Eczanesi",
-   "address": "KÜLTÜR MAH. ŞEHİT ÜSTEĞMEN SUAT İSHAKOĞLU CAD. NO:10/C (BULANIK MERKEZ CAMİ KARŞISI BELEDİYE YANI)",
-   "phone": "04363112100",
+   "name": "Yağmur Eczanesi",
+   "address": "ZAFER MAH. HASTANE CAD. 620.SOK NO:8/B",
+   "phone": "04363113737",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.092076,
-   "lng": 42.271749
+   "lat": 39.094591,
+   "lng": 42.274451
   },
   {
    "district": "Hasköy",
-   "name": "İstanbul Eczanesi",
-   "address": "YENİ HASKÖY DEVLET HASTANESİ KARŞISI, ALPARSLAN ORTAOKULU YANINDA",
-   "phone": "04364113400",
+   "name": "Şifa Eczanesi",
+   "address": "SUNAY MAHALLESİ GAZİ CADDESİ NO:1/A",
+   "phone": "04364112425",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.683305,
-   "lng": 41.692534
+   "lat": 38.683646,
+   "lng": 41.689746
   },
   {
    "district": "Korkut",
-   "name": "Şifa Eczanesi",
-   "address": "ADNAN MENDERES MAH.2 CAD. NO:51/J",
-   "phone": "04366116769",
+   "name": "Korkut Eczanesi",
+   "address": "BAHÇELİEVLER MAH.İKİNCİ CAD.NO:11/C",
+   "phone": "04366116026",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.734309,
-   "lng": 41.776712
+   "lat": 38.738225,
+   "lng": 41.782945
   },
   {
    "district": "Malazgirt",
-   "name": "Öz Malazgirt Eczanesi",
-   "address": "YILANKIRAN CAD. NO:6",
-   "phone": "4365112207",
+   "name": "Merve Eczanesi",
+   "address": "MALAZGİRT DEVLET HASTANESİ KARŞISI",
+   "phone": "04365112020",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.146692,
-   "lng": 42.542267
+   "lat": 39.152042,
+   "lng": 42.550441
   },
   {
    "district": "Varto",
-   "name": "Nergiz Eczanesi",
-   "address": "VARTO DEVLET HASTANESİ İLERİSİ TOKİ KARŞISI",
-   "phone": "05378546356",
+   "name": "Bizim Eczanesi",
+   "address": "GÜMGÜM MAH. MUŞ CAD. NO:101/2",
+   "phone": "04367112130",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.159528,
-   "lng": 41.449514
+   "lat": 39.167877,
+   "lng": 41.455363
   }
  ],
  "sourceUrl": "https://www.batmaneczaciodasi.org.tr/nobetci-eczaneler"

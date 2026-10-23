@@ -1,15 +1,15 @@
 {
  "city": "Kilis",
  "code": 79,
- "dutyDay": "2026-10-22",
- "updatedAt": "2026-10-22T20:12:06.349Z",
+ "dutyDay": "2026-10-23",
+ "updatedAt": "2026-10-23T11:44:29.956Z",
  "source": "Gaziantep Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Tevhide Eczanesi",
-   "address": "Şörhabil Mahallesi Yaşar Çakmak Sokak No:2/2 /KİLİS",
-   "phone": "03488136166",
+   "name": "Tutoglu Eczanesi",
+   "address": "KARAALI MAHALLESI TÜRBEDAR SOKAK NO 6/A (AKCURUN CİVARI)",
+   "phone": "03488132081",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,

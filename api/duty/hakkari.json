@@ -1,64 +1,64 @@
 {
  "city": "Hakkari",
  "code": 30,
- "dutyDay": "2026-10-22",
- "updatedAt": "2026-10-22T20:11:39.238Z",
+ "dutyDay": "2026-10-23",
+ "updatedAt": "2026-10-23T11:36:33.593Z",
  "source": "Van Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "İkizler Eczanesi",
-   "address": "Pehlivan Mah.Bulvar Cad.Hadi Besi İşhanı No:2",
-   "phone": "04382114976",
+   "name": "Nisa Eczanesi",
+   "address": "PEHLİVAN MAH.ÇÖLEMERİK CAD.NO:50/C",
+   "phone": "04382115050",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.577897,
-   "lng": 43.734857
+   "lat": 37.573857,
+   "lng": 43.731455
   },
   {
    "district": "Yüksekova",
-   "name": "Nefes Eczanesi",
-   "address": "Cengiz Topel Caddesi Şehremini Fırını Karşısı No:54",
-   "phone": "04385020932",
+   "name": "Özdemir Eczanesi",
+   "address": "HÜKÜMET KONAĞI KARŞISI ESENYURT MAH.1.BÖLGE 1.ETAP MZERALIK TOKİ KONUTLARI CAD.NO:13D",
+   "phone": "05453342775",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.570505,
-   "lng": 44.283471
+   "lat": 37.573574,
+   "lng": 44.256511
   },
   {
    "district": "Yüksekova",
-   "name": "Hekimoğlu Eczanesi",
-   "address": "Yüksekova Devlet Hastanesi Karşısı No:315C",
-   "phone": "04383512998",
+   "name": "Rojda Eczanesi",
+   "address": "Güngör mah.5 Nolu sağlık ocağı yanı Übeydullah Camisi arkası 902.SK.NO:8A",
+   "phone": "05301125830",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.567616,
-   "lng": 44.229502
+   "lat": 37.565384,
+   "lng": 44.284367
   },
   {
    "district": "Şemdinli",
-   "name": "Şemdinli Eczanesi",
-   "address": "Karşıyaka Mah. Çevreyolu Cad.No:5/C",
-   "phone": "05461501130",
+   "name": "Yaşam Eczanesi",
+   "address": "Yeni Mah.Cumhuriyet Cad.No:70/B",
+   "phone": "04384113357",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.308407,
-   "lng": 44.570159
+   "lat": 37.307227,
+   "lng": 44.572463
   },
   {
    "district": "Şemdinli",
-   "name": "Aki Eczanesi",
-   "address": "MERKEZ MAH. VATAN CADDESİ NO:12/A",
-   "phone": "04384613320",
+   "name": "Bahar Eczanesi",
+   "address": "MERKEZ MAH. VATAN CAD.NO:17/A",
+   "phone": "04384613122",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.080915,
-   "lng": 44.310193
+   "lat": 37.306194,
+   "lng": 44.573294
   }
  ],
  "sourceUrl": "https://www.vaneczaciodasi.org.tr/nobetci-eczaneler"

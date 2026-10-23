@@ -1,86 +1,86 @@
 {
  "city": "Elazığ",
  "code": 23,
- "dutyDay": "2026-10-22",
- "updatedAt": "2026-10-22T20:11:30.241Z",
+ "dutyDay": "2026-10-23",
+ "updatedAt": "2026-10-23T11:35:44.276Z",
  "source": "Elazığ Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Kilimci Eczanesi",
-   "address": "RIZAİYE MAH. PERTEK CAD.NO:64/B (ESKİ DEVLET HASTENESİ 100M ALTI)",
-   "phone": "04242135023",
+   "name": "Miray Eczanesi",
+   "address": "ÖZEL MEDİLİNE HASTANESİ (eski MEDİKAL PARK HASTANESİ) KARŞISI RIZAIYE MAH. YUNUS EMRE BULVARI NO:134/D",
+   "phone": "04242331730",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.681019,
-   "lng": 39.225439
+   "lat": 38.683587,
+   "lng": 39.225538
   },
   {
    "district": "Merkez",
-   "name": "Selmanoglu Eczanesi",
-   "address": "YENİ HAYAT HASTANESİ KARŞISI RIZAİYE MAH. İZZETPAŞA CAD. NO:24/E",
-   "phone": "04242182211",
+   "name": "Kübra Eczanesi",
+   "address": "VALİFAHRİBEY AİLE HEKİMLİĞİ KARŞISI Nailbey Mah. Akın No:20/A",
+   "phone": "04242340504",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.67606,
-   "lng": 39.224159
+   "lat": 38.67373,
+   "lng": 39.219366
   },
   {
    "district": "Merkez",
-   "name": "Sihhat Eczanesi",
-   "address": "ÜNİVERSİTE HASTANESİ POLİKLİNİKLER KAVŞAĞI MİGROSJET KARŞISI ÜNİVERSİTE MAH. YUNUS EMRE BLV.NO:2/2A",
-   "phone": "04242368800",
+   "name": "Hande Eczanesi",
+   "address": "ÜNİVERSİTE MAH. YAHYA KEMAL CAD.NO:54/1-A",
+   "phone": "04242382343",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.679761,
-   "lng": 39.208019
+   "lat": 38.680914,
+   "lng": 39.207081
   },
   {
    "district": "Merkez",
-   "name": "Büşra Eczanesi",
-   "address": "belediye binası karşısı öztunç market arka sokagı Sürsürü mah. Şehit mimar F.Mehmet Bakar Sok. No:38/BA",
-   "phone": "04242478580",
+   "name": "Yesilkent Eczanesi",
+   "address": "CUMHURIYET MAH. GENERAL HULUSI SAYIN CAD. YESILKENT SITESI LALE APT. NO:133/D",
+   "phone": "04242480939",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.667899,
-   "lng": 39.183945
+   "lat": 38.674989,
+   "lng": 39.162766
   },
   {
    "district": "Karakoçan",
-   "name": "Karakoçan Eczanesi",
-   "address": "YENI MAH. CARSI CAD. NO:62",
-   "phone": "04247113328",
+   "name": "Bulutoglu Eczanesi",
+   "address": "karakoçan elazığ TEPE MAH. HAN ÇESMESI SOK. NO:11",
+   "phone": "04247113836",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.955172,
-   "lng": 40.036909
+   "lat": 38.955773,
+   "lng": 40.03583
   },
   {
    "district": "Kovancilar",
-   "name": "Yilmaz Eczanesi",
-   "address": "İSMETPAŞA MAH.ASLAN CAD. NO:46/A",
-   "phone": "04246115200",
+   "name": "Derman Eczanesi",
+   "address": "ÇARŞIBAŞI MAH İLHAMİ ERTEM CAD. NO:14",
+   "phone": "04246115002",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.725741,
-   "lng": 39.876719
+   "lat": 38.718788,
+   "lng": 39.865831
   },
   {
    "district": "Palu",
-   "name": "Yaşam Eczanesi",
-   "address": "KALEKENT MAH.ŞEHYŞAMİL BLV.NO:3/D",
-   "phone": "04245036934",
+   "name": "Palu Eczanesi",
+   "address": "NUMUNE MAH.CUMHURİYET BLV.NO:16",
+   "phone": "04246512040",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.693789,
-   "lng": 39.914233
+   "lat": 38.693169,
+   "lng": 39.927802
   }
  ],
  "sourceUrl": "https://www.elazigeczaciodasi.org.tr/nobetci-eczaneler/elazig"
