@@ -1,15 +1,26 @@
 {
  "city": "Kilis",
  "code": 79,
- "dutyDay": "2026-10-23",
- "updatedAt": "2026-10-23T19:59:28.776Z",
+ "dutyDay": "2026-10-24",
+ "updatedAt": "2026-10-24T11:03:42.190Z",
  "source": "Gaziantep Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Tutoglu Eczanesi",
-   "address": "KARAALI MAHALLESI TÜRBEDAR SOKAK NO 6/A (AKCURUN CİVARI)",
-   "phone": "03488132081",
+   "name": "Göktürk Eczanesi",
+   "address": "Yaşar Aktürk Mahallesi Av. Mehmet Abdi Bulut Caddesi No:15/D Merkez KİLİS",
+   "phone": "05451747996",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": null,
+   "lng": null
+  },
+  {
+   "district": "Merkez",
+   "name": "Halk Eczanesi",
+   "address": "Yaşar Aktürk Mahallesi Ünverdi Caddesi No:140/B",
+   "phone": "03488032032",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,

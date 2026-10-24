@@ -1,75 +1,75 @@
 {
  "city": "Burdur",
  "code": 15,
- "dutyDay": "2026-10-23",
- "updatedAt": "2026-10-23T11:34:29.239Z",
+ "dutyDay": "2026-10-24",
+ "updatedAt": "2026-10-24T10:54:27.815Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Bucak",
-   "name": "Uğur Eczanesi",
-   "address": "Yetmişevler Mahallesi 2919 Sokak No:1/A Bucak/BURDUR",
-   "phone": "0248 325 9582",
-   "dutyStart": "2026-10-23T18:30:00+03:00",
-   "dutyEnd": "2026-10-24T08:00:00+03:00",
+   "name": "Onay Eczanesi",
+   "address": "SANAYİ MAHALLESİ ORHANGAZİ CADDESİ NO:4/4",
+   "phone": "0248 325 1004",
+   "dutyStart": "2026-10-24T18:30:00+03:00",
+   "dutyEnd": "2026-10-25T08:00:00+03:00",
    "approved": true,
-   "lat": 37.471275,
-   "lng": 30.564346
+   "lat": 37.470131,
+   "lng": 30.565264
   },
   {
    "district": "Gölhisar",
-   "name": "Şenel Eczanesi",
-   "address": "Pazar Mahallesi Cumhuriyet Caddesi No:69/A",
-   "phone": "0248 411 6070",
-   "dutyStart": "2026-10-23T18:30:00+03:00",
-   "dutyEnd": "2026-10-24T08:00:00+03:00",
+   "name": "Emre Eczanesi",
+   "address": "Pazar Mahallesi Cumhuriyet Caddesi No:67/A",
+   "phone": "0248 411 4544",
+   "dutyStart": "2026-10-24T18:30:00+03:00",
+   "dutyEnd": "2026-10-25T08:00:00+03:00",
    "approved": true,
-   "lat": 37.14502,
-   "lng": 29.508884
+   "lat": 37.145046,
+   "lng": 29.509003
   },
   {
    "district": "Karamanlı",
-   "name": "Deva Eczanesi",
-   "address": "BARBAROS MAHALLESİ HASTANE CADDESİ NO:21/A KARAMANLI/BURDUR",
-   "phone": "0248 531 2424",
-   "dutyStart": "2026-10-23T18:00:00+03:00",
-   "dutyEnd": "2026-10-24T08:00:00+03:00",
+   "name": "Karamanli Eczanesi",
+   "address": "FATİH MAHALLESİ BURDUR CADDESİ NO:6/A",
+   "phone": "0248 531 2244",
+   "dutyStart": "2026-10-24T18:00:00+03:00",
+   "dutyEnd": "2026-10-25T08:00:00+03:00",
    "approved": true,
-   "lat": 37.368031,
-   "lng": 29.818331
+   "lat": 37.369999,
+   "lng": 29.82136
   },
   {
    "district": "Merkez",
-   "name": "Özbağcı Eczanesi",
-   "address": "Atatürk Mahallesi Zeynel Abidin Tonguç Caddesi No:13/1 Merkez/BURDUR",
-   "phone": "0248 233 1112",
-   "dutyStart": "2026-10-23T18:30:00+03:00",
-   "dutyEnd": "2026-10-24T08:00:00+03:00",
+   "name": "Hayat Eczanesi",
+   "address": "YENİ MAHALLE ŞEHİT TEĞMEN HALİL DEMİRÖRS CADDESİ NO:2/B",
+   "phone": "0248 232 1010",
+   "dutyStart": "2026-10-24T18:30:00+03:00",
+   "dutyEnd": "2026-10-25T08:00:00+03:00",
    "approved": true,
-   "lat": 37.713329,
-   "lng": 30.23188
+   "lat": 37.723507,
+   "lng": 30.291353
   },
   {
    "district": "Tefenni",
-   "name": "Demirol Eczanesi",
-   "address": "YOKUŞ MAHALLESİ BURDUR CADDESİ NO:18/A",
-   "phone": "0248 491 2135",
-   "dutyStart": "2026-10-23T18:00:00+03:00",
-   "dutyEnd": "2026-10-24T08:00:00+03:00",
+   "name": "Dilim Eczanesi",
+   "address": "Fatih Mahallesi Alparslan Türkeş Caddesi No:49/A Tefenni/BURDUR",
+   "phone": "0505 129 6313",
+   "dutyStart": "2026-10-24T18:00:00+03:00",
+   "dutyEnd": "2026-10-25T08:00:00+03:00",
    "approved": true,
-   "lat": 37.309364,
-   "lng": 29.774769
+   "lat": 37.314751,
+   "lng": 29.778183
   },
   {
    "district": "Yeşilova",
-   "name": "Akdeniz Eczanesi",
-   "address": "MERKEZ MAHALLESİ HÜKÜMET CADDESİ NO:8/A",
-   "phone": "0248 618 2421",
-   "dutyStart": "2026-10-23T17:30:00+03:00",
-   "dutyEnd": "2026-10-24T08:30:00+03:00",
+   "name": "Şifa Eczanesi",
+   "address": "MERKEZ MAHALLESİ ATATÜRK CADDESİ NO:9/A",
+   "phone": "0248 618 1049",
+   "dutyStart": "2026-10-24T17:30:00+03:00",
+   "dutyEnd": "2026-10-25T08:30:00+03:00",
    "approved": true,
-   "lat": 37.505978,
-   "lng": 29.752878
+   "lat": 37.506207,
+   "lng": 29.753452
   }
  ]
 }

@@ -1,86 +1,86 @@
 {
  "city": "Bolu",
  "code": 14,
- "dutyDay": "2026-10-23",
- "updatedAt": "2026-10-23T11:34:24.949Z",
+ "dutyDay": "2026-10-24",
+ "updatedAt": "2026-10-24T10:54:23.742Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Gerede",
-   "name": "Gerede Eczanesi",
-   "address": "KİTİRLER MAH.HACI EMİN EFENDİ CADDESİ NO.31",
-   "phone": "0555 746 7695",
-   "dutyStart": "2026-10-23T18:00:00+03:00",
-   "dutyEnd": "2026-10-24T08:00:00+03:00",
+   "name": "Çamlıbel Eczanesi",
+   "address": "YENİ MAH.NECİP FAZIL CAD.NO:20/5",
+   "phone": "0374 311 5676",
+   "dutyStart": "2026-10-24T18:00:00+03:00",
+   "dutyEnd": "2026-10-25T08:00:00+03:00",
    "approved": true,
-   "lat": 40.801525,
-   "lng": 32.198444
+   "lat": 40.793907,
+   "lng": 32.208248
   },
   {
    "district": "Göynük",
-   "name": "Çalık Eczanesi",
-   "address": "Yenice Mh. Selim Çapar Cd. No: 17/C",
-   "phone": "0374 451 2030",
-   "dutyStart": "2026-10-23T18:30:00+03:00",
-   "dutyEnd": "2026-10-24T08:30:00+03:00",
+   "name": "Göynük Eczanesi",
+   "address": "YENİCE MH. PROF.DR.NECMETTİN ERBAKAN CAD. NO:36/A",
+   "phone": "0374 451 6181",
+   "dutyStart": "2026-10-24T18:30:00+03:00",
+   "dutyEnd": "2026-10-25T08:30:00+03:00",
    "approved": true,
-   "lat": 40.397404,
-   "lng": 30.783382
+   "lat": 40.398647,
+   "lng": 30.78463
   },
   {
    "district": "Mengen",
-   "name": "Mengen Eczanesi",
-   "address": "TÜRKBEYLİ MAH.ATATÜRK CAD.NO:24/A",
-   "phone": "0374 356 1205",
-   "dutyStart": "2026-10-23T18:00:00+03:00",
-   "dutyEnd": "2026-10-24T08:00:00+03:00",
+   "name": "Emir Eczanesi",
+   "address": "TÜRKBEYLİ MAHALLESİ, MUSTAFA KÖRPEOĞLU CADDESİ NO:29-MENGEN",
+   "phone": "0374 356 3536",
+   "dutyStart": "2026-10-24T18:00:00+03:00",
+   "dutyEnd": "2026-10-25T08:00:00+03:00",
    "approved": true,
-   "lat": 40.938965,
-   "lng": 32.075443
+   "lat": 40.946377,
+   "lng": 32.075371
   },
   {
    "district": "Merkez",
-   "name": "Selen Eczanesi",
-   "address": "GÖLYÜZÜ MAH. BAHAR SOK. MEHMET EFENDİ APARTMANI NO:40/1",
-   "phone": "0374 218 2048",
-   "dutyStart": "2026-10-23T18:00:00+03:00",
-   "dutyEnd": "2026-10-24T08:00:00+03:00",
+   "name": "Doğal Eczanesi",
+   "address": "YAŞAM KENT MAH.KALICI KONUTLAR İŞ MERKEZLERİ 28.BLOK Z-9",
+   "phone": "0374 275 2725",
+   "dutyStart": "2026-10-24T18:00:00+03:00",
+   "dutyEnd": "2026-10-25T08:00:00+03:00",
    "approved": true,
-   "lat": 40.737759,
-   "lng": 31.612282
+   "lat": 40.744125,
+   "lng": 31.573172
   },
   {
    "district": "Merkez",
-   "name": "Yazgi Eczanesi",
-   "address": "KÜLTÜR MAHHALLESİ CEM SULTAN CADDESİ NO:17/1-9",
-   "phone": "0374 270 2588",
-   "dutyStart": "2026-10-23T18:00:00+03:00",
-   "dutyEnd": "2026-10-24T08:00:00+03:00",
+   "name": "Gümrah Eczanesi",
+   "address": "TABAKLAR MAH.CUMHURİYET CAD.KÖSTENDİL APT.NO:73/A22",
+   "phone": "0374 212 8959",
+   "dutyStart": "2026-10-24T18:00:00+03:00",
+   "dutyEnd": "2026-10-25T08:00:00+03:00",
    "approved": true,
-   "lat": 40.742455,
-   "lng": 31.605385
+   "lat": 40.728455,
+   "lng": 31.600443
   },
   {
    "district": "Mudurnu",
-   "name": "Beyza Eczanesi",
-   "address": "Seyrancık Mah. Belediye Cd. No:1/C",
-   "phone": "0374 421 3270",
-   "dutyStart": "2026-10-23T18:00:00+03:00",
-   "dutyEnd": "2026-10-24T08:00:00+03:00",
+   "name": "Mudurnu Eczanesi",
+   "address": "SEYRANCIK MAH. BOLU CAD. NO:8",
+   "phone": "0374 421 3145",
+   "dutyStart": "2026-10-24T18:00:00+03:00",
+   "dutyEnd": "2026-10-25T08:00:00+03:00",
    "approved": true,
-   "lat": 40.465969,
-   "lng": 31.212126
+   "lat": 40.466221,
+   "lng": 31.211475
   },
   {
    "district": "Yeniçağa",
-   "name": "Ayçiçeği Eczanesi",
-   "address": "ASİLBEY MAH.SULTAN REŞAT CAD.NO:82/D",
-   "phone": "0374 341 3341",
-   "dutyStart": "2026-10-23T18:00:00+03:00",
-   "dutyEnd": "2026-10-24T08:00:00+03:00",
+   "name": "Ebrar Eczanesi",
+   "address": "ASİLBEY MAH.SULTAN REŞAT CAD.NO.90",
+   "phone": "0374 356 3536",
+   "dutyStart": "2026-10-24T18:00:00+03:00",
+   "dutyEnd": "2026-10-25T08:00:00+03:00",
    "approved": true,
-   "lat": 40.770962,
-   "lng": 32.032867
+   "lat": 40.770836,
+   "lng": 32.032257
   }
  ]
 }

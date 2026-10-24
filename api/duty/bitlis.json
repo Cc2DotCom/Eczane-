@@ -1,97 +1,86 @@
 {
  "city": "Bitlis",
  "code": 13,
- "dutyDay": "2026-10-23",
- "updatedAt": "2026-10-23T11:34:20.682Z",
+ "dutyDay": "2026-10-24",
+ "updatedAt": "2026-10-24T10:54:20.258Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
-   "district": "Adilcevaz",
-   "name": "Yeni Adilcevaz Eczanesi",
-   "address": "CEVİZLİ MAH. 801 SOKAK NO: 4",
-   "phone": "0434 311 2012",
-   "dutyStart": "2026-10-23T17:30:00+03:00",
-   "dutyEnd": "2026-10-24T08:00:00+03:00",
-   "approved": true,
-   "lat": 38.798866,
-   "lng": 42.76453
-  },
-  {
    "district": "Ahlat",
-   "name": "Yildiz Eczanesi",
-   "address": "SELÇUKLU MAH. CUMHURİYET CAD. PROF.DR.HALUK DURSUN SOK. NO:3/9",
-   "phone": "0434 505 6657",
-   "dutyStart": "2026-10-23T18:00:00+03:00",
-   "dutyEnd": "2026-10-24T08:00:00+03:00",
+   "name": "Derman Eczanesi",
+   "address": "SELÇUKLU MAH. SELÇUKLU SOK. NO:91/95B",
+   "phone": "0434 412 5040",
+   "dutyStart": "2026-10-24T08:00:00+03:00",
+   "dutyEnd": "2026-10-25T08:00:00+03:00",
    "approved": true,
-   "lat": 38.749485,
-   "lng": 42.476425
+   "lat": 38.750504,
+   "lng": 42.477043
   },
   {
    "district": "Güroymak",
-   "name": "Emek Eczanesi",
-   "address": "MUŞ CAD. NO :24/A Güroymak/BİTLİS",
-   "phone": "0434 511 2150",
-   "dutyStart": "2026-10-23T17:30:00+03:00",
-   "dutyEnd": "2026-10-24T08:00:00+03:00",
+   "name": "Can Eczanesi",
+   "address": "Bağlar Mah. 504. Sok. Dış Kapı No: 5 A",
+   "phone": "0553 882 2113",
+   "dutyStart": "2026-10-24T08:00:00+03:00",
+   "dutyEnd": "2026-10-25T08:00:00+03:00",
    "approved": true,
-   "lat": 38.577358,
-   "lng": 42.019081
+   "lat": 38.577202,
+   "lng": 42.020031
   },
   {
    "district": "Hizan",
-   "name": "Şifa Eczanesi",
-   "address": "Kültür Mah. Hükümet Cad. No:40/B",
-   "phone": "0553 933 9627",
-   "dutyStart": "2026-10-23T18:00:00+03:00",
-   "dutyEnd": "2026-10-24T08:00:00+03:00",
+   "name": "Hizan Zara Eczanesi",
+   "address": "Kültür mahallesi Hükümet Caddesi No:42/G",
+   "phone": "0554 160 5895",
+   "dutyStart": "2026-10-24T08:00:00+03:00",
+   "dutyEnd": "2026-10-25T08:00:00+03:00",
    "approved": true,
-   "lat": 38.225075,
-   "lng": 42.426422
+   "lat": 38.224564,
+   "lng": 42.425175
   },
   {
    "district": "Merkez",
-   "name": "Zümrüt Eczanesi",
-   "address": "HÜSREVPAŞA MAH. AHMET EREN BULVARI B BLOK APARTMAN NO: 101D MERKEZ/BİTLİS",
-   "phone": "0434 502 0646",
-   "dutyStart": "2026-10-23T18:00:00+03:00",
-   "dutyEnd": "2026-10-24T08:00:00+03:00",
+   "name": "Merkez Eczanesi",
+   "address": "Taş Mah. Arifbey Cad. No:4/A merkez/Bitlis",
+   "phone": "0434 226 9222",
+   "dutyStart": "2026-10-24T08:00:00+03:00",
+   "dutyEnd": "2026-10-25T08:00:00+03:00",
    "approved": true,
-   "lat": 38.432907,
-   "lng": 42.133747
+   "lat": 38.403271,
+   "lng": 42.107944
   },
   {
    "district": "Mutki",
-   "name": "Barış Eczanesi",
-   "address": "Yeni Mah. Kiler Cad. 1 No:2/A",
-   "phone": "0434 711 2625",
-   "dutyStart": "2026-10-23T18:00:00+03:00",
-   "dutyEnd": "2026-10-24T08:00:00+03:00",
+   "name": "Can Eczanesi",
+   "address": "PINARBAŞI MAH.ZEKİ ERGEZEN CAD.NO:29/C Mutki/BİTLİS",
+   "phone": "0434 611 2122",
+   "dutyStart": "2026-10-24T08:00:00+03:00",
+   "dutyEnd": "2026-10-25T18:00:00+03:00",
    "approved": true,
-   "lat": 38.407814,
-   "lng": 41.928959
+   "lat": 38.409554,
+   "lng": 41.921783
   },
   {
    "district": "Tatvan",
-   "name": "Dünya Eczanesi",
-   "address": "TUĞ MAH. CUMHURİYET BULVARI NO: 242/C",
-   "phone": "0434 827 3313",
-   "dutyStart": "2026-10-23T18:00:00+03:00",
-   "dutyEnd": "2026-10-24T08:00:00+03:00",
+   "name": "Ela Eczanesi",
+   "address": "KÜLTÜR MAH. CEMAL TAŞAR CAD. NO:63/C TATVAN/BİTLİS",
+   "phone": "0434 827 0620",
+   "dutyStart": "2026-10-24T08:00:00+03:00",
+   "dutyEnd": "2026-10-24T18:00:00+03:00",
    "approved": true,
-   "lat": 38.493538,
-   "lng": 42.287266
+   "lat": 38.507996,
+   "lng": 42.284744
   },
   {
    "district": "Tatvan",
-   "name": "Zehra Eczanesi",
-   "address": "Karşıyaka Mah. Hastane Cad. Sağlık İş Merkezi No:20/L",
-   "phone": "0434 829 1252",
-   "dutyStart": "2026-10-23T18:00:00+03:00",
-   "dutyEnd": "2026-10-24T08:00:00+03:00",
+   "name": "Göl Eczanesi",
+   "address": "Karşıyaka Mah. Hastane Cad. No:20/J",
+   "phone": "0434 827 0099",
+   "dutyStart": "2026-10-24T08:00:00+03:00",
+   "dutyEnd": "2026-10-24T18:00:00+03:00",
    "approved": true,
-   "lat": 38.491123,
-   "lng": 42.186207
+   "lat": 38.49115,
+   "lng": 42.186218
   }
  ]
 }

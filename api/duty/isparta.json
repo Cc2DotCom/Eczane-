@@ -1,75 +1,64 @@
 {
  "city": "Isparta",
  "code": 32,
- "dutyDay": "2026-10-23",
- "updatedAt": "2026-10-23T19:59:04.470Z",
+ "dutyDay": "2026-10-24",
+ "updatedAt": "2026-10-24T10:56:35.613Z",
  "source": "e-Devlet TİTCK, Isparta Eczacı Odası",
  "pharmacies": [
   {
-   "district": "Merkez",
-   "name": "Çünür Eczanesi",
-   "address": "ÇÜNÜR MAH. 102.CADDE NO:220",
-   "phone": "0246 237 1237",
-   "dutyStart": "2026-10-23T18:00:00+03:00",
-   "dutyEnd": "2026-10-24T08:00:00+03:00",
-   "approved": true,
-   "lat": 37.819565,
-   "lng": 30.532726
-  },
-  {
-   "district": "Merkez",
-   "name": "Eylül Eczanesi",
-   "address": "DAVRAZ MAH. 104. CADDE NO:40A/Z06",
-   "phone": "0246 218 8042",
-   "dutyStart": "2026-10-23T18:00:00+03:00",
-   "dutyEnd": "2026-10-24T08:00:00+03:00",
-   "approved": true,
-   "lat": 37.774788,
-   "lng": 30.560787
-  },
-  {
-   "district": "Merkez",
-   "name": "Ülgen Eczanesi",
-   "address": "İSKENDER MAH. AKSU CAD. NO:40",
-   "phone": "0246 500 2220",
-   "dutyStart": "2026-10-23T18:00:00+03:00",
-   "dutyEnd": "2026-10-24T08:00:00+03:00",
-   "approved": true,
-   "lat": 37.763268,
-   "lng": 30.560755
-  },
-  {
    "district": "Keçiborlu",
-   "name": "Erturan Eczanesi",
-   "address": "ORTA MAH. ATATÜRK CAD. NO:57/A",
-   "phone": "02465413207",
-   "dutyStart": null,
-   "dutyEnd": null,
+   "name": "Keçiborlu Eczanesi",
+   "address": "HASANBEY MAH. ŞEHİT ÖMER HALİSDEMİR CAD. NO:10",
+   "phone": "0246 541 4054",
+   "dutyStart": "2026-10-24T08:00:00+03:00",
+   "dutyEnd": "2026-10-25T08:00:00+03:00",
    "approved": true,
-   "lat": 37.94428,
-   "lng": 30.3027
+   "lat": 37.943069,
+   "lng": 30.300692
+  },
+  {
+   "district": "Merkez",
+   "name": "Bizim Eczanesi",
+   "address": "DAVRAZ MAH.YENİÇARŞAMBA PAZARI E BLOK NO:19",
+   "phone": "0246 223 1611",
+   "dutyStart": "2026-10-24T14:00:00+03:00",
+   "dutyEnd": "2026-10-25T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.765121,
+   "lng": 30.573172
+  },
+  {
+   "district": "Merkez",
+   "name": "Yağmur Eczanesi",
+   "address": "HIZIRBEY MAHALLESİ 129.CADDE NO:17",
+   "phone": "0246 232 5440",
+   "dutyStart": "2026-10-24T14:00:00+03:00",
+   "dutyEnd": "2026-10-25T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.760521,
+   "lng": 30.548656
   },
   {
    "district": "Eğirdir",
-   "name": "Çankaya Eczanesi",
-   "address": "1.SAHİL YOLU NO:12/B",
-   "phone": "02463115985",
+   "name": "Cansoy Eczanesi",
+   "address": "CAMİ MAHALLESİ KURUÇEŞME SOKAK NO:9",
+   "phone": "02463133313",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.873845,
-   "lng": 30.850481
+   "lat": 37.875412,
+   "lng": 30.851249
   },
   {
    "district": "Gelendost",
-   "name": "İhsan Eczanesi",
-   "address": "MUHARREM MAH. CUMHURİYET MEYDANI NO:21/A",
-   "phone": "02463812625",
+   "name": "Erol Eczanesi",
+   "address": "MUHARREM MAH. HÜSEYİN AVNİ PAŞA CAD. NO:13",
+   "phone": "02463813746",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.120911,
-   "lng": 31.01495
+   "lat": 38.120606,
+   "lng": 31.015108
   },
   {
    "district": "Senirkent",
@@ -84,25 +73,25 @@
   },
   {
    "district": "Yalvaç",
-   "name": "Altınbaş Eczanesi",
-   "address": "ÇARŞI MAHALLESİ HASTANE CADDESİ NO:41/D",
-   "phone": "02464418182",
+   "name": "Denizhan Eczanesi",
+   "address": "KAŞYUKARI MAH. HASTANE CAD.NO:15/2",
+   "phone": "02464414170",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.295396,
-   "lng": 31.178294
+   "lat": 38.297163,
+   "lng": 31.177085
   },
   {
    "district": "Şarkikaraağaç",
-   "name": "Tuğçe Eczanesi",
-   "address": "ULVİKALE MAHALLESİ HASTANE CADDESİ 115.SOKAK NO:18 BAĞIMSIZ BÖLÜM 14-15 (A-B)",
-   "phone": "05079893233",
+   "name": "Derman Eczanesi",
+   "address": "ULVİKALE MAH.144.Cumhuriyet Caddesi No:3D",
+   "phone": "02464114024",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.083756,
-   "lng": 31.371046
+   "lat": 38.081123,
+   "lng": 31.366574
   }
  ],
  "sourceUrl": "https://www.ispartaeo.org.tr/nobetci-eczaneler"

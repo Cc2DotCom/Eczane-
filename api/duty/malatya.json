@@ -1,15 +1,15 @@
 {
  "city": "Malatya",
  "code": 44,
- "dutyDay": "2026-10-23",
- "updatedAt": "2026-10-23T19:59:19.279Z",
+ "dutyDay": "2026-10-24",
+ "updatedAt": "2026-10-24T10:59:45.497Z",
  "source": "Malatya Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Barış Eczanesi",
-   "address": "KÜÇÜK HÜSEYİN BEY MAH .ATATÜRK EVİ YANI SİVAS CAD.CUMHURİYET MEYDANI KONTEYNER ÇARŞI NO:42",
-   "phone": "05326157997",
+   "name": "İbni Sina Eczanesi",
+   "address": "SİVAS CAD.BATTALGAZİ BELEDİYESİ KARŞISI NO:75D",
+   "phone": "04223246974",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
@@ -18,20 +18,20 @@
   },
   {
    "district": "Merkez",
-   "name": "Nur Eczanesi",
-   "address": "YILDIZTEPE MH. YEŞİLÇAM CAD. YEŞİLÇAM SOSYAL TESİSİ KARŞISI NO:28",
-   "phone": "04225025555",
+   "name": "Dönmez Eczanesi",
+   "address": "CEVHERİZADE MAH. EMEKSİZ CD. ÖZDEN SOK. NO:45/B KÖK MOBİLYA YANI",
+   "phone": "05386190870",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.3595671,
-   "lng": 38.3500624
+   "lat": 38.3438671,
+   "lng": 38.3126019
   },
   {
    "district": "Merkez",
-   "name": "Çevre Eczanesi",
-   "address": "İSTASYON CAD. EMNİYET MÜDÜRLÜĞÜ KARŞISI",
-   "phone": "5376579860",
+   "name": "Gürsoy Park Eczanesi",
+   "address": "İNÖNÜ MAH.ÇEVRE SOK NO : Z-6 MALATYA PARK AVM MEYDAN",
+   "phone": "05301640256",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
@@ -40,9 +40,9 @@
   },
   {
    "district": "Merkez",
-   "name": "Can Eczanesi",
-   "address": "BOSTANBAŞI MAH. ÇİFTLİK CAD. PRESTİJ EYLÜL KONUTLARI KARŞISI",
-   "phone": "05077074655",
+   "name": "Beyza Nur Eczanesi",
+   "address": "FAHRİ KAYAHAN ÇARŞI MARKET DÖNÜŞÜ İKİZKULE TOTAL BENZİNLİK ÇAPRAZI",
+   "phone": "04225040828",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
@@ -51,14 +51,14 @@
   },
   {
    "district": "Battalgazi",
-   "name": "Menengiç Eczanesi",
-   "address": "Meydanbaşı Mah. Osman ATEŞ Cad . No:85 Menengiç Eczanesi Battalgazi/MALATYA",
-   "phone": "04229991023",
+   "name": "Betül Eczanesi",
+   "address": "Alacakapı mah kırkgöz caddesi hasırcılar yolu opet devamı",
+   "phone": "05343428444",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.4138473,
-   "lng": 38.363356
+   "lat": 38.4293454,
+   "lng": 38.3625665
   }
  ],
  "sourceUrl": "https://www.malatyaeczaciodasi.org.tr/nobetci-eczaneler"

@@ -1,86 +1,86 @@
 {
  "city": "Sinop",
  "code": 57,
- "dutyDay": "2026-10-23",
- "updatedAt": "2026-10-23T11:42:23.539Z",
+ "dutyDay": "2026-10-24",
+ "updatedAt": "2026-10-24T11:01:40.738Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Ayancık",
-   "name": "Öncel Eczanesi",
-   "address": "YALI MAH. ATATÜRK CAD. NO:17/A",
-   "phone": "0368 613 1395",
-   "dutyStart": "2026-10-23T17:00:00+03:00",
-   "dutyEnd": "2026-10-24T09:00:00+03:00",
+   "name": "Önsoy Eczanesi",
+   "address": "YALI MAH. PROF. DR. SEDAT DEMİRCAN CAD. NO:39/A",
+   "phone": "0368 613 1203",
+   "dutyStart": "2026-10-24T16:00:00+03:00",
+   "dutyEnd": "2026-10-25T08:00:00+03:00",
    "approved": true,
-   "lat": 41.944412,
-   "lng": 34.588539
+   "lat": 41.944443,
+   "lng": 34.587334
   },
   {
    "district": "Boyabat",
-   "name": "Coşkun Eczanesi",
-   "address": "ÇAMLICA MAH. EROL DEMİRKOL CAD. NO:3/I",
-   "phone": "0368 315 5632",
-   "dutyStart": "2026-10-23T18:00:00+03:00",
-   "dutyEnd": "2026-10-24T08:00:00+03:00",
+   "name": "Boyabat Eczanesi",
+   "address": "GÖKDERE MAH. YUSUF KEMAL BEY CAD. NO:50",
+   "phone": "0368 315 1032",
+   "dutyStart": "2026-10-24T08:00:00+03:00",
+   "dutyEnd": "2026-10-25T08:00:00+03:00",
    "approved": true,
-   "lat": 41.463474,
-   "lng": 34.783577
+   "lat": 41.46656,
+   "lng": 34.767311
   },
   {
    "district": "Durağan",
-   "name": "Nazlı Eczanesi",
-   "address": "Merkez mah. Plevne Cad. No:47/B Durağan / SİNOP",
-   "phone": "0368 416 1057",
-   "dutyStart": "2026-10-23T18:00:00+03:00",
-   "dutyEnd": "2026-10-24T08:30:00+03:00",
+   "name": "Altinkaynak Eczanesi",
+   "address": "MERKEZ MAH. PLEVNE CAD. NO:17/2",
+   "phone": "0368 416 1451",
+   "dutyStart": "2026-10-24T08:30:00+03:00",
+   "dutyEnd": "2026-10-25T08:30:00+03:00",
    "approved": true,
-   "lat": 41.416367,
-   "lng": 35.058456
+   "lat": 41.416012,
+   "lng": 35.056438
   },
   {
    "district": "Erfelek",
-   "name": "Kumsal Eczanesi",
-   "address": "MERKEZ MH. ÇINARLIK CD. NO: 20/B",
-   "phone": "0368 511 2000",
-   "dutyStart": "2026-10-23T19:00:00+03:00",
-   "dutyEnd": "2026-10-24T08:00:00+03:00",
+   "name": "Erfelek Eczanesi",
+   "address": "MERKEZ MAH. CUMHURİYET CAD. NO:26",
+   "phone": "0368 511 2039",
+   "dutyStart": "2026-10-24T08:00:00+03:00",
+   "dutyEnd": "2026-10-25T08:00:00+03:00",
    "approved": true,
-   "lat": 41.879681,
-   "lng": 34.890827
+   "lat": 41.87989,
+   "lng": 34.906693
   },
   {
    "district": "Gerze",
-   "name": "Yeni Gerze Eczanesi",
-   "address": "Çarşı Mah. General Osman Pamukoğlu Cad. No:2/C",
-   "phone": "0545 373 2392",
-   "dutyStart": "2026-10-23T18:00:00+03:00",
-   "dutyEnd": "2026-10-24T08:30:00+03:00",
+   "name": "Yeni Hayat Eczanesi",
+   "address": "19 MAYIS MAH. YABANGÜLÜ SOKAK NO:21A",
+   "phone": "0368 700 0204",
+   "dutyStart": "2026-10-24T08:30:00+03:00",
+   "dutyEnd": "2026-10-25T08:30:00+03:00",
    "approved": true,
-   "lat": 41.802563,
-   "lng": 35.197716
+   "lat": 41.809891,
+   "lng": 35.188347
   },
   {
    "district": "Merkez",
-   "name": "Hayat Eczanesi",
-   "address": "MEYDANKAPI MAH. İNCEDAYI SOK. NO:6/A",
-   "phone": "0368 261 4931",
-   "dutyStart": "2026-10-23T18:00:00+03:00",
-   "dutyEnd": "2026-10-24T08:00:00+03:00",
+   "name": "Cemre Eczanesi",
+   "address": "YENİ MH. OKULAK SK. NO: 15",
+   "phone": "0368 261 5705",
+   "dutyStart": "2026-10-24T08:00:00+03:00",
+   "dutyEnd": "2026-10-25T08:00:00+03:00",
    "approved": true,
-   "lat": 42.026543,
-   "lng": 35.148811
+   "lat": 42.023483,
+   "lng": 35.157097
   },
   {
    "district": "Türkeli",
-   "name": "Gizem Eczanesi",
-   "address": "GÜZELYURT MH. ALPARSLAN TÜRKEŞ CD. NO:9/A",
-   "phone": "0368 671 2792",
-   "dutyStart": "2026-10-23T18:00:00+03:00",
-   "dutyEnd": "2026-10-24T08:00:00+03:00",
+   "name": "Şifa Eczanesi",
+   "address": "CUMHURİYET CAD. NO:4/B",
+   "phone": "0368 671 2179",
+   "dutyStart": "2026-10-24T10:00:00+03:00",
+   "dutyEnd": "2026-10-25T10:00:00+03:00",
    "approved": true,
-   "lat": 41.947079,
-   "lng": 34.337921
+   "lat": 41.946568,
+   "lng": 34.336864
   }
  ]
 }
