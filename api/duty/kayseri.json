@@ -2,42 +2,9 @@
  "city": "Kayseri",
  "code": 38,
  "dutyDay": "2026-10-24",
- "updatedAt": "2026-10-24T16:36:54.509Z",
+ "updatedAt": "2026-10-24T18:49:56.588Z",
  "source": "Kayseri Eczacı Odası",
  "pharmacies": [
-  {
-   "district": "Melikgazi",
-   "name": "Gaye Eczanesi",
-   "address": "GESİ FATİH MAH. SAFFET ARIKAN BEDÜK CAD. NO:70/C",
-   "phone": "03522362927",
-   "dutyStart": "2026-10-24T08:30:00+03:00",
-   "dutyEnd": "2026-10-25T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.786967,
-   "lng": 35.602838
-  },
-  {
-   "district": "Kocasinan",
-   "name": "Yiğit Eczanesi",
-   "address": "BEYAZŞEHİR MAH. KOÇKAYA CAD. 19/D",
-   "phone": "03522512755",
-   "dutyStart": "2026-10-24T08:30:00+03:00",
-   "dutyEnd": "2026-10-25T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.784051,
-   "lng": 35.586387
-  },
-  {
-   "district": "Kocasinan",
-   "name": "Gülşah Eczanesi",
-   "address": "Hacı Saki Mahallesi Kenarcık Sokak Özel Dünyam Hastanesi Karşısı",
-   "phone": "03523200887",
-   "dutyStart": "2026-10-24T08:30:00+03:00",
-   "dutyEnd": "2026-10-25T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.722397,
-   "lng": 35.480086
-  },
   {
    "district": "Melikgazi",
    "name": "Funda Birol Eczanesi",
@@ -48,17 +15,6 @@
    "approved": true,
    "lat": 38.765894,
    "lng": 35.604351
-  },
-  {
-   "district": "Kocasinan",
-   "name": "Güngören Eczanesi",
-   "address": "ŞEKER MAH. MUHSİN YAZICIOĞLU BULV. NO:74/D",
-   "phone": "03523366200",
-   "dutyStart": "2026-10-24T08:30:00+03:00",
-   "dutyEnd": "2026-10-25T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.769946,
-   "lng": 35.413188
   },
   {
    "district": "Kocasinan",
@@ -73,6 +29,17 @@
   },
   {
    "district": "Melikgazi",
+   "name": "Gaye Eczanesi",
+   "address": "GESİ FATİH MAH. SAFFET ARIKAN BEDÜK CAD. NO:70/C",
+   "phone": "03522362927",
+   "dutyStart": "2026-10-24T08:30:00+03:00",
+   "dutyEnd": "2026-10-25T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.786967,
+   "lng": 35.602838
+  },
+  {
+   "district": "Melikgazi",
    "name": "Çandır Eczanesi",
    "address": "TACETTIN VELI MAH.DELIKTAS CAD.NO:23/B",
    "phone": "03522251144",
@@ -83,15 +50,37 @@
    "lng": 35.493037
   },
   {
-   "district": "Talas",
-   "name": "Gözde Eczanesi",
-   "address": "Mevlana Mah. MEHMET TİMUÇİN CAD. TEVFİK ZİYA APT. NO:22/D",
-   "phone": "03525023254",
+   "district": "Kocasinan",
+   "name": "Güngören Eczanesi",
+   "address": "ŞEKER MAH. MUHSİN YAZICIOĞLU BULV. NO:74/D",
+   "phone": "03523366200",
    "dutyStart": "2026-10-24T08:30:00+03:00",
-   "dutyEnd": "2026-10-25T01:00:00+03:00",
+   "dutyEnd": "2026-10-25T08:30:00+03:00",
    "approved": true,
-   "lat": 38.708113,
-   "lng": 35.563112
+   "lat": 38.769946,
+   "lng": 35.413188
+  },
+  {
+   "district": "Kocasinan",
+   "name": "Gülşah Eczanesi",
+   "address": "Hacı Saki Mahallesi Kenarcık Sokak Özel Dünyam Hastanesi Karşısı",
+   "phone": "03523200887",
+   "dutyStart": "2026-10-24T08:30:00+03:00",
+   "dutyEnd": "2026-10-25T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.722397,
+   "lng": 35.480086
+  },
+  {
+   "district": "Kocasinan",
+   "name": "Yiğit Eczanesi",
+   "address": "BEYAZŞEHİR MAH. KOÇKAYA CAD. 19/D",
+   "phone": "03522512755",
+   "dutyStart": "2026-10-24T08:30:00+03:00",
+   "dutyEnd": "2026-10-25T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.784051,
+   "lng": 35.586387
   },
   {
    "district": "Melikgazi",
@@ -105,6 +94,17 @@
    "lng": 35.544926
   },
   {
+   "district": "Talas",
+   "name": "Gözde Eczanesi",
+   "address": "Mevlana Mah. MEHMET TİMUÇİN CAD. TEVFİK ZİYA APT. NO:22/D",
+   "phone": "03525023254",
+   "dutyStart": "2026-10-24T08:30:00+03:00",
+   "dutyEnd": "2026-10-25T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.708113,
+   "lng": 35.563112
+  },
+  {
    "district": "Kocasinan",
    "name": "Mimoza Eczanesi",
    "address": "Hoca Ahmet Yesevi Mah. Şht. Astsubay Suat Sarı Cad. No: 28/C",
@@ -116,17 +116,6 @@
    "lng": 35.489967
   },
   {
-   "district": "Melikgazi",
-   "name": "Köşk Eczanesi",
-   "address": "KÖSK MAH.KISLALAR CAD.OBALAR SOK.NO:58",
-   "phone": "03522231988",
-   "dutyStart": "2026-10-24T08:30:00+03:00",
-   "dutyEnd": "2026-10-25T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.722163,
-   "lng": 35.518155
-  },
-  {
    "district": "Talas",
    "name": "Taşkın Eczanesi",
    "address": "BAHÇELIEVLER MAH.MEVLANA CAD.SEDA SIT.B-BLOK N0:34",
@@ -136,28 +125,6 @@
    "approved": true,
    "lat": 38.686765,
    "lng": 35.545288
-  },
-  {
-   "district": "Kocasinan",
-   "name": "Billur Eczanesi",
-   "address": "Mimarsinan Mah. Billur Cad. No: 79/B",
-   "phone": "03522362310",
-   "dutyStart": "2026-10-24T08:30:00+03:00",
-   "dutyEnd": "2026-10-25T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.733785,
-   "lng": 35.511228
-  },
-  {
-   "district": "Kocasinan",
-   "name": "Yeni Eczanesi",
-   "address": "MEVLANA MH.10 CD.N0:56/A",
-   "phone": "03523384343",
-   "dutyStart": "2026-10-24T08:30:00+03:00",
-   "dutyEnd": "2026-10-25T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.739397,
-   "lng": 35.48395
   },
   {
    "district": "Melikgazi",
@@ -180,6 +147,39 @@
    "approved": true,
    "lat": 38.689708,
    "lng": 35.475269
+  },
+  {
+   "district": "Kocasinan",
+   "name": "Billur Eczanesi",
+   "address": "Mimarsinan Mah. Billur Cad. No: 79/B",
+   "phone": "03522362310",
+   "dutyStart": "2026-10-24T08:30:00+03:00",
+   "dutyEnd": "2026-10-25T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.733785,
+   "lng": 35.511228
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Köşk Eczanesi",
+   "address": "KÖSK MAH.KISLALAR CAD.OBALAR SOK.NO:58",
+   "phone": "03522231988",
+   "dutyStart": "2026-10-24T08:30:00+03:00",
+   "dutyEnd": "2026-10-25T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.722163,
+   "lng": 35.518155
+  },
+  {
+   "district": "Kocasinan",
+   "name": "Yeni Eczanesi",
+   "address": "MEVLANA MH.10 CD.N0:56/A",
+   "phone": "03523384343",
+   "dutyStart": "2026-10-24T08:30:00+03:00",
+   "dutyEnd": "2026-10-25T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.739397,
+   "lng": 35.48395
   }
  ],
  "sourceUrl": "https://www.kayserieo.org.tr/nobetci-eczaneler"
