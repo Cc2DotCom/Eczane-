@@ -2,7 +2,7 @@
  "city": "Aydın",
  "code": 9,
  "dutyDay": "2026-10-24",
- "updatedAt": "2026-10-24T13:17:27.792Z",
+ "updatedAt": "2026-10-24T16:36:22.799Z",
  "source": "Aydın Eczacı Odası",
  "pharmacies": [
   {
@@ -301,17 +301,6 @@
    "approved": true,
    "lat": 37.556182,
    "lng": 27.835884
-  },
-  {
-   "district": "Köşk",
-   "name": "Kösk Eczanesi",
-   "address": "ÇARSI MAH.BASÇAYIR CAD.NO.5 (PTT YANI)",
-   "phone": "02564613043",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 37.852947,
-   "lng": 28.052338
   },
   {
    "district": "Köşk",

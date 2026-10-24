@@ -2,20 +2,9 @@
  "city": "Malatya",
  "code": 44,
  "dutyDay": "2026-10-24",
- "updatedAt": "2026-10-24T13:18:08.676Z",
+ "updatedAt": "2026-10-24T16:37:04.268Z",
  "source": "Malatya Eczacı Odası",
  "pharmacies": [
-  {
-   "district": "Merkez",
-   "name": "Dönmez Eczanesi",
-   "address": "CEVHERİZADE MAH. EMEKSİZ CD. ÖZDEN SOK. NO:45/B KÖK MOBİLYA YANI",
-   "phone": "05386190870",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 38.3438671,
-   "lng": 38.3126019
-  },
   {
    "district": "Merkez",
    "name": "İbni Sina Eczanesi",
@@ -26,6 +15,17 @@
    "approved": true,
    "lat": null,
    "lng": null
+  },
+  {
+   "district": "Merkez",
+   "name": "Dönmez Eczanesi",
+   "address": "CEVHERİZADE MAH. EMEKSİZ CD. ÖZDEN SOK. NO:45/B KÖK MOBİLYA YANI",
+   "phone": "05386190870",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 38.3438671,
+   "lng": 38.3126019
   },
   {
    "district": "Merkez",

@@ -1,75 +1,75 @@
 {
  "city": "Bartın",
  "code": 74,
- "dutyDay": "2026-10-23",
- "updatedAt": "2026-10-23T11:44:10.374Z",
+ "dutyDay": "2026-10-24",
+ "updatedAt": "2026-10-24T16:37:17.533Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Amasra",
-   "name": "Amasra Eczanesi",
-   "address": "HÜKÜMET CAD. KUM MAH. NO: 42A",
-   "phone": "0378 315 1080",
-   "dutyStart": "2026-10-23T18:30:00+03:00",
-   "dutyEnd": "2026-10-24T08:30:00+03:00",
+   "name": "Egemen Eczanesi",
+   "address": "KUM MAH. CUMHURİYET CAD. KUMSAL APT. NO: 42/A AMASRA",
+   "phone": "0378 315 2323",
+   "dutyStart": "2026-10-24T08:30:00+03:00",
+   "dutyEnd": "2026-10-25T08:30:00+03:00",
    "approved": true,
-   "lat": 41.746567,
-   "lng": 32.385437
+   "lat": 41.746635,
+   "lng": 32.385426
   },
   {
    "district": "Merkez",
-   "name": "Çalışkan Eczanesi",
-   "address": "KOZCAĞIZ BELDESİ CUMHURİYET CAD.NO:11",
-   "phone": "0378 233 2648",
-   "dutyStart": "2026-10-23T18:00:00+03:00",
-   "dutyEnd": "2026-10-24T08:00:00+03:00",
+   "name": "Deniz Eczanesi",
+   "address": "Karaköy Mahallesi Kadıoğlu Sokak 37A",
+   "phone": "0378 227 1991",
+   "dutyStart": "2026-10-24T08:30:00+03:00",
+   "dutyEnd": "2026-10-25T08:30:00+03:00",
    "approved": true,
-   "lat": 41.475758,
-   "lng": 32.340981
+   "lat": 41.621849,
+   "lng": 32.34087
   },
   {
    "district": "Merkez",
-   "name": "Elif Eczanesi",
-   "address": "KEMERKÖPRÜ MAH. 871.SOK.NO:12B",
-   "phone": "0378 227 0919",
-   "dutyStart": "2026-10-23T18:30:00+03:00",
-   "dutyEnd": "2026-10-24T08:30:00+03:00",
+   "name": "Kozcağız Eczanesi",
+   "address": "Kozcağız Beldesi Merkez Mah. Şehit Hasan Aydın Sokak 19/1",
+   "phone": "0378 233 2030",
+   "dutyStart": "2026-10-24T08:30:00+03:00",
+   "dutyEnd": "2026-10-25T08:30:00+03:00",
    "approved": true,
-   "lat": 41.62677,
-   "lng": 32.323437
+   "lat": 41.475754,
+   "lng": 32.338089
   },
   {
    "district": "Merkez",
-   "name": "Tökelek Eczanesi",
-   "address": "Kırtepe Mah. Eski Konak Cad. No:43A",
-   "phone": "0532 504 4964",
-   "dutyStart": "2026-10-23T18:30:00+03:00",
-   "dutyEnd": "2026-10-24T08:30:00+03:00",
+   "name": "Yali Eczanesi",
+   "address": "KIRTEPE MAHALLESİ 168. CADDE NO:1B",
+   "phone": "3 78  228 8880",
+   "dutyStart": "2026-10-24T08:30:00+03:00",
+   "dutyEnd": "2026-10-25T08:30:00+03:00",
    "approved": true,
-   "lat": 41.631149,
-   "lng": 32.334564
+   "lat": 41.637283,
+   "lng": 32.333321
   },
   {
    "district": "Ulus",
-   "name": "Tümer Eczanesi",
-   "address": "ABDİPAŞA BELDESİ AHMET ÖZSOY 1 SOK.NO:1-A",
-   "phone": "0378 426 5003",
-   "dutyStart": "2026-10-23T18:00:00+03:00",
-   "dutyEnd": "2026-10-24T08:00:00+03:00",
+   "name": "Burak Çelik Eczanesi",
+   "address": "MEZGELLER MAH.ZÜBEYDE HANIM CAD. NO:31/C",
+   "phone": "0378 416 2121",
+   "dutyStart": "2026-10-24T08:30:00+03:00",
+   "dutyEnd": "2026-10-25T08:30:00+03:00",
    "approved": true,
-   "lat": 41.516602,
-   "lng": 32.55983
+   "lat": 41.580742,
+   "lng": 32.634666
   },
   {
    "district": "Ulus",
-   "name": "Umut Eczanesi",
-   "address": "UĞUR MUMCU SOKAK NO:6/A",
-   "phone": "0533 656 0478",
-   "dutyStart": "2026-10-23T18:30:00+03:00",
-   "dutyEnd": "2026-10-24T08:30:00+03:00",
+   "name": "Soner Eczanesi",
+   "address": "ABDİPAŞA BELDESİ YEŞİLPAZAR MAH.AHMET ÖZSOY 1 SOK. NO:1/B",
+   "phone": "0545 258 9193",
+   "dutyStart": "2026-10-24T08:30:00+03:00",
+   "dutyEnd": "2026-10-25T08:30:00+03:00",
    "approved": true,
-   "lat": 41.583595,
-   "lng": 32.6404
+   "lat": 41.516563,
+   "lng": 32.559868
   }
  ]
 }
