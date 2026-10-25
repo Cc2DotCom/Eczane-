@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-25T11:29:39.646Z",
+ "generatedAt": "2026-10-25T13:42:33.968Z",
  "source": "e-Devlet TİTCK",
  "cities": [
   {
@@ -63,7 +63,7 @@
    "slug": "artvin",
    "code": 8,
    "dutyDay": "2026-10-25",
-   "updatedAt": "2026-10-25T11:19:52.523Z",
+   "updatedAt": "2026-10-25T13:41:29.306Z",
    "count": 9
   },
   {
@@ -71,7 +71,7 @@
    "slug": "aydin",
    "code": 9,
    "dutyDay": "2026-10-25",
-   "updatedAt": "2026-10-25T11:19:57.809Z",
+   "updatedAt": "2026-10-25T13:41:34.595Z",
    "count": 34
   },
   {
@@ -255,15 +255,15 @@
    "slug": "isparta",
    "code": 32,
    "dutyDay": "2026-10-25",
-   "updatedAt": "2026-10-25T11:22:37.588Z",
+   "updatedAt": "2026-10-25T13:41:47.716Z",
    "count": 9
   },
   {
    "city": "Mersin",
    "slug": "mersin",
    "code": 33,
-   "dutyDay": "2026-10-24",
-   "updatedAt": "2026-10-24T10:56:50.620Z",
+   "dutyDay": "2026-10-25",
+   "updatedAt": "2026-10-25T13:42:01.310Z",
    "count": 25
   },
   {
@@ -303,7 +303,7 @@
    "slug": "kayseri",
    "code": 38,
    "dutyDay": "2026-10-25",
-   "updatedAt": "2026-10-25T11:24:52.360Z",
+   "updatedAt": "2026-10-25T13:42:05.048Z",
    "count": 14
   },
   {
@@ -319,7 +319,7 @@
    "slug": "kirsehir",
    "code": 40,
    "dutyDay": "2026-10-25",
-   "updatedAt": "2026-10-25T11:25:03.918Z",
+   "updatedAt": "2026-10-25T13:42:09.393Z",
    "count": 4
   },
   {
@@ -351,7 +351,7 @@
    "slug": "malatya",
    "code": 44,
    "dutyDay": "2026-10-25",
-   "updatedAt": "2026-10-25T11:25:48.568Z",
+   "updatedAt": "2026-10-25T13:42:13.991Z",
    "count": 5
   },
   {
@@ -391,7 +391,7 @@
    "slug": "mus",
    "code": 49,
    "dutyDay": "2026-10-25",
-   "updatedAt": "2026-10-25T11:26:39.049Z",
+   "updatedAt": "2026-10-25T13:42:18.558Z",
    "count": 7
   },
   {
@@ -550,8 +550,8 @@
    "city": "Bayburt",
    "slug": "bayburt",
    "code": 69,
-   "dutyDay": "2026-10-24",
-   "updatedAt": "2026-10-24T13:18:17.684Z",
+   "dutyDay": "2026-10-25",
+   "updatedAt": "2026-10-25T13:42:22.106Z",
    "count": 2
   },
   {
@@ -631,15 +631,15 @@
    "slug": "kilis",
    "code": 79,
    "dutyDay": "2026-10-25",
-   "updatedAt": "2026-10-25T11:29:26.516Z",
+   "updatedAt": "2026-10-25T13:42:25.650Z",
    "count": 2
   },
   {
    "city": "Osmaniye",
    "slug": "osmaniye",
    "code": 80,
-   "dutyDay": "2026-10-24",
-   "updatedAt": "2026-10-24T11:03:53.168Z",
+   "dutyDay": "2026-10-25",
+   "updatedAt": "2026-10-25T13:42:33.961Z",
    "count": 8
   },
   {

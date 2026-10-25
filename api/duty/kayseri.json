@@ -2,20 +2,9 @@
  "city": "Kayseri",
  "code": 38,
  "dutyDay": "2026-10-25",
- "updatedAt": "2026-10-25T11:24:52.360Z",
+ "updatedAt": "2026-10-25T13:42:05.048Z",
  "source": "Kayseri Eczacı Odası",
  "pharmacies": [
-  {
-   "district": "Kocasinan",
-   "name": "Karagöz Eczanesi",
-   "address": "GEVHER NESIBEMAH. Gür Sokak, 8/I Tekden Hastanesi Yanı",
-   "phone": "03522314868",
-   "dutyStart": "2026-10-25T08:30:00+03:00",
-   "dutyEnd": "2026-10-26T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.723335,
-   "lng": 35.482343
-  },
   {
    "district": "Melikgazi",
    "name": "Kent Eczanesi",
@@ -40,6 +29,17 @@
   },
   {
    "district": "Kocasinan",
+   "name": "Beyza Eczanesi",
+   "address": "ŞEKER MAH. MUHSİN YAZICIOĞLU BULV. NO:72/C",
+   "phone": "03525037370",
+   "dutyStart": "2026-10-25T08:30:00+03:00",
+   "dutyEnd": "2026-10-26T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.769666,
+   "lng": 35.413194
+  },
+  {
+   "district": "Kocasinan",
    "name": "Sihhat Eczanesi",
    "address": "SANAYI MAH. ÇIMEN SOK. NO: 40/A",
    "phone": "03523363848",
@@ -51,25 +51,14 @@
   },
   {
    "district": "Kocasinan",
-   "name": "Beyza Eczanesi",
-   "address": "ŞEKER MAH. MUHSİN YAZICIOĞLU BULV. NO:72/C",
-   "phone": "03525037370",
+   "name": "Karagöz Eczanesi",
+   "address": "GEVHER NESIBEMAH. Gür Sokak, 8/I Tekden Hastanesi Yanı",
+   "phone": "03522314868",
    "dutyStart": "2026-10-25T08:30:00+03:00",
    "dutyEnd": "2026-10-26T08:30:00+03:00",
    "approved": true,
-   "lat": 38.769666,
-   "lng": 35.413194
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Yeni Hilal Eczanesi",
-   "address": "OSMANLI MAH. EDIP GEÇIDI 11/B",
-   "phone": "03523470102",
-   "dutyStart": "2026-10-25T08:30:00+03:00",
-   "dutyEnd": "2026-10-26T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.689571,
-   "lng": 35.475777
+   "lat": 38.723335,
+   "lng": 35.482343
   },
   {
    "district": "Melikgazi",
@@ -83,28 +72,6 @@
    "lng": 35.493011
   },
   {
-   "district": "Melikgazi",
-   "name": "Reyyan Baykan Eczanesi",
-   "address": "Gültepe Mahallesi, Gelincik Sokak, No:18/A",
-   "phone": "03525029800",
-   "dutyStart": "2026-10-25T08:30:00+03:00",
-   "dutyEnd": "2026-10-26T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.717971,
-   "lng": 35.505184
-  },
-  {
-   "district": "Talas",
-   "name": "Papatyam Eczanesi",
-   "address": "Mevlana Mah. Papatya Cad. 37/C",
-   "phone": "03529991698",
-   "dutyStart": "2026-10-25T08:30:00+03:00",
-   "dutyEnd": "2026-10-26T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.712936,
-   "lng": 35.564177
-  },
-  {
    "district": "Talas",
    "name": "Ulutürk Eczanesi",
    "address": "Kiçiköy Mahallesi, Kayabağlar Caddesi, No:9/B",
@@ -114,17 +81,6 @@
    "approved": true,
    "lat": 38.69214,
    "lng": 35.552572
-  },
-  {
-   "district": "Kocasinan",
-   "name": "Erciyes Eczanesi",
-   "address": "MIMARSINAN MAH. MURAT CAD. ÖZYILMAZ APT. NO: 29/B",
-   "phone": "03522355563",
-   "dutyStart": "2026-10-25T08:30:00+03:00",
-   "dutyEnd": "2026-10-26T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.732964,
-   "lng": 35.510023
   },
   {
    "district": "Melikgazi",
@@ -139,14 +95,47 @@
   },
   {
    "district": "Melikgazi",
-   "name": "Somtaş Eczanesi",
-   "address": "KEYKUBAT MAH. EREN YILDIRIM BULV. NO:31/D",
-   "phone": "03523266801",
+   "name": "Yeni Hilal Eczanesi",
+   "address": "OSMANLI MAH. EDIP GEÇIDI 11/B",
+   "phone": "03523470102",
    "dutyStart": "2026-10-25T08:30:00+03:00",
    "dutyEnd": "2026-10-26T01:00:00+03:00",
    "approved": true,
-   "lat": 38.741118,
-   "lng": 35.400635
+   "lat": 38.689571,
+   "lng": 35.475777
+  },
+  {
+   "district": "Kocasinan",
+   "name": "Erciyes Eczanesi",
+   "address": "MIMARSINAN MAH. MURAT CAD. ÖZYILMAZ APT. NO: 29/B",
+   "phone": "03522355563",
+   "dutyStart": "2026-10-25T08:30:00+03:00",
+   "dutyEnd": "2026-10-26T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.732964,
+   "lng": 35.510023
+  },
+  {
+   "district": "Talas",
+   "name": "Papatyam Eczanesi",
+   "address": "Mevlana Mah. Papatya Cad. 37/C",
+   "phone": "03529991698",
+   "dutyStart": "2026-10-25T08:30:00+03:00",
+   "dutyEnd": "2026-10-26T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.712936,
+   "lng": 35.564177
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Reyyan Baykan Eczanesi",
+   "address": "Gültepe Mahallesi, Gelincik Sokak, No:18/A",
+   "phone": "03525029800",
+   "dutyStart": "2026-10-25T08:30:00+03:00",
+   "dutyEnd": "2026-10-26T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.717971,
+   "lng": 35.505184
   },
   {
    "district": "Melikgazi",
@@ -158,6 +147,17 @@
    "approved": true,
    "lat": 38.712582,
    "lng": 35.45505
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Somtaş Eczanesi",
+   "address": "KEYKUBAT MAH. EREN YILDIRIM BULV. NO:31/D",
+   "phone": "03523266801",
+   "dutyStart": "2026-10-25T08:30:00+03:00",
+   "dutyEnd": "2026-10-26T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.741118,
+   "lng": 35.400635
   }
  ],
  "sourceUrl": "https://www.kayserieo.org.tr/nobetci-eczaneler"
