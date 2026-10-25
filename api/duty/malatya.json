@@ -2,20 +2,9 @@
  "city": "Malatya",
  "code": 44,
  "dutyDay": "2026-10-25",
- "updatedAt": "2026-10-25T13:42:13.991Z",
+ "updatedAt": "2026-10-25T17:05:45.996Z",
  "source": "Malatya Eczacı Odası",
  "pharmacies": [
-  {
-   "district": "Merkez",
-   "name": "Esma Eczanesi",
-   "address": "GÖZTEPE MH. FEVZİ ÇAKMAK CD. SULTANLAR SARAYI KIZ YURDU AŞAGISI GÖZTEPE SAĞLIK OCAĞI KARŞISI",
-   "phone": "04223218135",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 38.3593479,
-   "lng": 38.3431236
-  },
   {
    "district": "Merkez",
    "name": "Malatya Eczanesi",
@@ -26,6 +15,17 @@
    "approved": true,
    "lat": null,
    "lng": null
+  },
+  {
+   "district": "Merkez",
+   "name": "Esma Eczanesi",
+   "address": "GÖZTEPE MH. FEVZİ ÇAKMAK CD. SULTANLAR SARAYI KIZ YURDU AŞAGISI GÖZTEPE SAĞLIK OCAĞI KARŞISI",
+   "phone": "04223218135",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 38.3593479,
+   "lng": 38.3431236
   },
   {
    "district": "Merkez",
