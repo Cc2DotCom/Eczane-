@@ -1,26 +1,26 @@
 {
  "city": "Malatya",
  "code": 44,
- "dutyDay": "2026-10-24",
- "updatedAt": "2026-10-24T18:50:05.771Z",
+ "dutyDay": "2026-10-25",
+ "updatedAt": "2026-10-25T11:25:48.568Z",
  "source": "Malatya Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Dönmez Eczanesi",
-   "address": "CEVHERİZADE MAH. EMEKSİZ CD. ÖZDEN SOK. NO:45/B KÖK MOBİLYA YANI",
-   "phone": "05386190870",
+   "name": "Esma Eczanesi",
+   "address": "GÖZTEPE MH. FEVZİ ÇAKMAK CD. SULTANLAR SARAYI KIZ YURDU AŞAGISI GÖZTEPE SAĞLIK OCAĞI KARŞISI",
+   "phone": "04223218135",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.3438671,
-   "lng": 38.3126019
+   "lat": 38.3593479,
+   "lng": 38.3431236
   },
   {
    "district": "Merkez",
-   "name": "İbni Sina Eczanesi",
-   "address": "SİVAS CAD.BATTALGAZİ BELEDİYESİ KARŞISI NO:75D",
-   "phone": "04223246974",
+   "name": "Malatya Eczanesi",
+   "address": "EMEKSİZ CAD. NO:90 KÖK MOBİLYA KARŞISI",
+   "phone": "04223211064",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
@@ -29,9 +29,9 @@
   },
   {
    "district": "Merkez",
-   "name": "Gürsoy Park Eczanesi",
-   "address": "İNÖNÜ MAH.ÇEVRE SOK NO : Z-6 MALATYA PARK AVM MEYDAN",
-   "phone": "05301640256",
+   "name": "Leyla Eczanesi",
+   "address": "ŞEYHBAYRAM MH. NENEHATUN SK. N:38/A ŞEYBAYRAM CAMİ ALTI KIVANÇ EKMEK KARŞ.",
+   "phone": "04222123334",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
@@ -40,25 +40,25 @@
   },
   {
    "district": "Merkez",
-   "name": "Beyza Nur Eczanesi",
-   "address": "FAHRİ KAYAHAN ÇARŞI MARKET DÖNÜŞÜ İKİZKULE TOTAL BENZİNLİK ÇAPRAZI",
-   "phone": "04225040828",
+   "name": "Sevinç Eczanesi",
+   "address": "KARAKAVAK MAH. ESKİ FEN LİSESİ YANI SAĞLIK OCAĞI KARŞISI",
+   "phone": "05326657244",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": null,
-   "lng": null
+   "lat": 38.3393894,
+   "lng": 38.2592855
   },
   {
    "district": "Battalgazi",
-   "name": "Betül Eczanesi",
-   "address": "Alacakapı mah kırkgöz caddesi hasırcılar yolu opet devamı",
-   "phone": "05343428444",
+   "name": "Ari Eczanesi",
+   "address": "Alacakapı Mahallesi Kırkgöz Caddesi Eskimalatya semt polikliniği Karşısı",
+   "phone": "05346863703",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.4293454,
-   "lng": 38.3625665
+   "lat": 38.4251199,
+   "lng": 38.3668399
   }
  ],
  "sourceUrl": "https://www.malatyaeczaciodasi.org.tr/nobetci-eczaneler"

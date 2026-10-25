@@ -1,64 +1,53 @@
 {
  "city": "Hakkari",
  "code": 30,
- "dutyDay": "2026-10-24",
- "updatedAt": "2026-10-24T18:49:48.545Z",
+ "dutyDay": "2026-10-25",
+ "updatedAt": "2026-10-25T11:22:15.763Z",
  "source": "Van Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Zagros Eczanesi",
-   "address": "PEHLİVAN MAH.ÇEVREYOLU CAD. SALİHOĞULLARI APT. 14/C",
-   "phone": "04382114000",
+   "name": "Yagmur Ezcanesi Eczanesi",
+   "address": "BULAK MAH. BULVAR CAD.1013 SOKAK.NO1",
+   "phone": "04382117373",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.573397,
-   "lng": 43.731741
+   "lat": 37.577385,
+   "lng": 43.736287
   },
   {
    "district": "Yüksekova",
-   "name": "Rumeysa Eczanesi",
-   "address": "İNANLI MAH.İNANLI CAD.NO:317/C",
-   "phone": "04383510001",
+   "name": "Rojda Eczanesi",
+   "address": "Güngör mah.5 Nolu sağlık ocağı yanı Übeydullah Camisi arkası 902.SK.NO:8A",
+   "phone": "05301125830",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.56741,
-   "lng": 44.229384
-  },
-  {
-   "district": "Yüksekova",
-   "name": "Sanat Eczanesi",
-   "address": "Çarşı merkez Cengiz Topel cad. İran pasajı karşısı no:26/b",
-   "phone": "04383512222",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 37.571519,
-   "lng": 44.282142
+   "lat": 37.565384,
+   "lng": 44.284367
   },
   {
    "district": "Şemdinli",
-   "name": "Derman Eczanesi",
-   "address": "KARŞIYAKA MAH. ÇEVREYOLU CAD. NO:60/4-E",
-   "phone": "04384113274",
+   "name": "Mavi Eczanesi",
+   "address": "BEŞEVLER MAH.CUMHURİYET CAD.NO:96/A",
+   "phone": "05312972080",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.3087,
-   "lng": 44.569983
+   "lat": 37.308802,
+   "lng": 44.570835
   },
   {
    "district": "Şemdinli",
-   "name": "Aki Eczanesi",
-   "address": "MERKEZ MAH. VATAN CADDESİ NO:12/A",
-   "phone": "04384613320",
+   "name": "Derecik Eczanesi",
+   "address": "MERKEZ MAH.VATAN CAD.NO:19/A",
+   "phone": "05380443717",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.080915,
-   "lng": 44.310193
+   "lat": 37.080721,
+   "lng": 44.310393
   }
  ],
  "sourceUrl": "https://www.vaneczaciodasi.org.tr/nobetci-eczaneler"

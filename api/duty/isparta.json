@@ -1,97 +1,108 @@
 {
  "city": "Isparta",
  "code": 32,
- "dutyDay": "2026-10-24",
- "updatedAt": "2026-10-24T18:49:51.747Z",
+ "dutyDay": "2026-10-25",
+ "updatedAt": "2026-10-25T11:22:37.588Z",
  "source": "e-Devlet TİTCK, Isparta Eczacı Odası",
  "pharmacies": [
   {
    "district": "Keçiborlu",
-   "name": "Keçiborlu Eczanesi",
-   "address": "HASANBEY MAH. ŞEHİT ÖMER HALİSDEMİR CAD. NO:10",
-   "phone": "0246 541 4054",
-   "dutyStart": "2026-10-24T08:00:00+03:00",
-   "dutyEnd": "2026-10-25T08:00:00+03:00",
+   "name": "Demir Eczanesi",
+   "address": "YUKARI MAHALLE ATATÜRK CADDESİ NO 127/B",
+   "phone": "0246 541 4318",
+   "dutyStart": "2026-10-25T08:00:00+03:00",
+   "dutyEnd": "2026-10-26T08:00:00+03:00",
    "approved": true,
-   "lat": 37.943069,
-   "lng": 30.300692
+   "lat": 37.947071,
+   "lng": 30.303968
   },
   {
    "district": "Merkez",
-   "name": "Bizim Eczanesi",
-   "address": "DAVRAZ MAH.YENİÇARŞAMBA PAZARI E BLOK NO:19",
-   "phone": "0246 223 1611",
-   "dutyStart": "2026-10-24T14:00:00+03:00",
-   "dutyEnd": "2026-10-25T08:00:00+03:00",
+   "name": "Cadde Eczanesi",
+   "address": "Muzaffer Türkeş Mahallesi 5141.Sokak No:21/1",
+   "phone": "0538 027 1084",
+   "dutyStart": "2026-10-25T08:00:00+03:00",
+   "dutyEnd": "2026-10-26T08:00:00+03:00",
    "approved": true,
-   "lat": 37.765121,
-   "lng": 30.573172
+   "lat": 37.772129,
+   "lng": 30.523567
   },
   {
    "district": "Merkez",
-   "name": "Yağmur Eczanesi",
-   "address": "HIZIRBEY MAHALLESİ 129.CADDE NO:17",
-   "phone": "0246 232 5440",
-   "dutyStart": "2026-10-24T14:00:00+03:00",
-   "dutyEnd": "2026-10-25T08:00:00+03:00",
+   "name": "Deniz Eczanesi",
+   "address": "KUTLUBEY MAHALLESİ MUSTANTİK SOKAK NO:11",
+   "phone": "0246 223 1968",
+   "dutyStart": "2026-10-25T08:00:00+03:00",
+   "dutyEnd": "2026-10-26T08:00:00+03:00",
    "approved": true,
-   "lat": 37.760521,
-   "lng": 30.548656
+   "lat": 37.764645,
+   "lng": 30.55562
+  },
+  {
+   "district": "Merkez",
+   "name": "Özgü Eczanesi",
+   "address": "SANAYİ MAHALLESİ 3208 SOKAK NO:13",
+   "phone": "0246 232 2313",
+   "dutyStart": "2026-10-25T08:00:00+03:00",
+   "dutyEnd": "2026-10-26T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.7733,
+   "lng": 30.551271
   },
   {
    "district": "Eğirdir",
-   "name": "Cansoy Eczanesi",
-   "address": "CAMİ MAHALLESİ KURUÇEŞME SOKAK NO:9",
-   "phone": "02463133313",
+   "name": "Eğirdir Eczanesi",
+   "address": "DEMİRKAPI MAH. DR.İSA KÖKLÜ CAD. NO:20",
+   "phone": "02463112774",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.875412,
-   "lng": 30.851249
+   "lat": 37.873652,
+   "lng": 30.85015
   },
   {
    "district": "Gelendost",
-   "name": "Erol Eczanesi",
-   "address": "MUHARREM MAH. HÜSEYİN AVNİ PAŞA CAD. NO:13",
-   "phone": "02463813746",
+   "name": "Doğan Eczanesi",
+   "address": "YENİ MAH. HÜSEYİN AVNİ PAŞA CAD. NO:11",
+   "phone": "02463814240",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.120606,
-   "lng": 31.015108
+   "lat": 38.120948,
+   "lng": 31.01412
   },
   {
    "district": "Senirkent",
-   "name": "Vereseli Gonca Eczanesi",
-   "address": "HAMİDİYE MAH. MİLLETLER SOK. NO:1",
-   "phone": "02465113188",
+   "name": "Tola Eczanesi",
+   "address": "KIBRIS MAH. PİYADE ASTSUBAY MUHARREM TUTUCU SOKAK NO:4",
+   "phone": "02465112110",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.106877,
-   "lng": 30.550862
+   "lat": 38.108261,
+   "lng": 30.551741
   },
   {
    "district": "Yalvaç",
-   "name": "Denizhan Eczanesi",
-   "address": "KAŞYUKARI MAH. HASTANE CAD.NO:15/2",
-   "phone": "02464414170",
+   "name": "Çınar Eczanesi",
+   "address": "PAZARYUKARI MAH. YEŞİL ÇINAR BULVARI NO:33",
+   "phone": "02464415260",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.297163,
-   "lng": 31.177085
+   "lat": 38.295955,
+   "lng": 31.180116
   },
   {
    "district": "Şarkikaraağaç",
-   "name": "Derman Eczanesi",
-   "address": "ULVİKALE MAH.144.Cumhuriyet Caddesi No:3D",
-   "phone": "02464114024",
+   "name": "Tuğçe Eczanesi",
+   "address": "ULVİKALE MAHALLESİ HASTANE CADDESİ 115.SOKAK NO:18 BAĞIMSIZ BÖLÜM 14-15 (A-B)",
+   "phone": "05079893233",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.081123,
-   "lng": 31.366574
+   "lat": 38.083756,
+   "lng": 31.371046
   }
  ],
  "sourceUrl": "https://www.ispartaeo.org.tr/nobetci-eczaneler"

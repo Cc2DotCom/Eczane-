@@ -1,42 +1,42 @@
 {
  "city": "Kırşehir",
  "code": 40,
- "dutyDay": "2026-10-24",
- "updatedAt": "2026-10-24T18:50:01.075Z",
+ "dutyDay": "2026-10-25",
+ "updatedAt": "2026-10-25T11:25:03.918Z",
  "source": "Aksaray-Kırşehir Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Çelik Eczanesi",
-   "address": "TAPU DAİRESİ CAPRAZ KARŞISI.KIRGAZ BİNASI BİR ALT SOKAK Medrese Mah. 92. Sokak Yılmaz Apt.Altı No : 8/13",
-   "phone": "03862143370",
+   "name": "Yasemin Aslan Eczanesi",
+   "address": "DİŞ HASTANESİ KARŞISI AHİ EVRAN MAH.ZÜBEYDE HANIM CAD.GÜNDÜZ APT.ALTI NO:5/A DİŞ HASTANESİ KARŞISI",
+   "phone": "05452139567",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.142877,
-   "lng": 34.162651
+   "lat": 39.156127,
+   "lng": 34.159385
   },
   {
    "district": "Merkez",
-   "name": "Esen Eczanesi",
-   "address": "yence mah.karaca mağazası karşısı Yenice Mah. Atatürk Cad.37.Sokak Kaya Apartmanı",
-   "phone": "03862130951",
+   "name": "Güneş Eczanesi",
+   "address": "DEVLET HASTANESİ ACİL KARŞISI",
+   "phone": "03862122122",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.142178,
-   "lng": 34.162591
+   "lat": 39.156682,
+   "lng": 34.161787
   },
   {
    "district": "Kaman",
-   "name": "Deva Eczanesi",
-   "address": "ORTA MAHALLE ISTIKLAL CAD. NO:92",
-   "phone": "3867122121",
+   "name": "Akdeniz Eczanesi",
+   "address": "CUMHURIYET MEYDANI NO:18",
+   "phone": "3867122646",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.357578,
-   "lng": 33.724427
+   "lat": 39.358501,
+   "lng": 33.724271
   },
   {
    "district": "Mucur",
