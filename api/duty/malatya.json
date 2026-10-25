@@ -2,20 +2,9 @@
  "city": "Malatya",
  "code": 44,
  "dutyDay": "2026-10-25",
- "updatedAt": "2026-10-25T17:05:45.996Z",
+ "updatedAt": "2026-10-25T19:06:16.470Z",
  "source": "Malatya Eczacı Odası",
  "pharmacies": [
-  {
-   "district": "Merkez",
-   "name": "Malatya Eczanesi",
-   "address": "EMEKSİZ CAD. NO:90 KÖK MOBİLYA KARŞISI",
-   "phone": "04223211064",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": null,
-   "lng": null
-  },
   {
    "district": "Merkez",
    "name": "Esma Eczanesi",
@@ -26,6 +15,17 @@
    "approved": true,
    "lat": 38.3593479,
    "lng": 38.3431236
+  },
+  {
+   "district": "Merkez",
+   "name": "Malatya Eczanesi",
+   "address": "EMEKSİZ CAD. NO:90 KÖK MOBİLYA KARŞISI",
+   "phone": "04223211064",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": null,
+   "lng": null
   },
   {
    "district": "Merkez",
