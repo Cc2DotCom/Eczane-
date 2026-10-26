@@ -1,26 +1,15 @@
 {
  "city": "Kilis",
  "code": 79,
- "dutyDay": "2026-10-25",
- "updatedAt": "2026-10-25T19:06:25.969Z",
+ "dutyDay": "2026-10-26",
+ "updatedAt": "2026-10-26T13:02:55.941Z",
  "source": "Gaziantep Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Derman Eczanesi",
-   "address": "EKREM ÇETIN MAH. TURGUTREIS CD. NO:25 BULVARI NO:32",
-   "phone": "03488135141",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 36.7219812,
-   "lng": 37.0982203
-  },
-  {
-   "district": "Merkez",
-   "name": "Hamdemirci Eczanesi",
-   "address": "DOĞANGÜREŞ PAŞA MAH. MUSTAFA EREN CAD. NO:36/A KİLİS (ESKİ BEŞEVLER)",
-   "phone": "03488138386",
+   "name": "Uygur Eczanesi",
+   "address": "Yaşar aktürk mh. Av. Mehmet abdi bulut cd. No:15/C Yeni hastane yolu üzeri KİLİS/Merkez",
+   "phone": "05075597879",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,

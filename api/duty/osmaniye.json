@@ -1,97 +1,86 @@
 {
  "city": "Osmaniye",
  "code": 80,
- "dutyDay": "2026-10-25",
- "updatedAt": "2026-10-25T13:42:33.961Z",
+ "dutyDay": "2026-10-26",
+ "updatedAt": "2026-10-26T13:03:05.555Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Bahçe",
-   "name": "Açıkgöz Eczanesi",
-   "address": "Bahçelievler Mah.Devlet Bahçeli Bulvarı No:11/C",
-   "phone": "0328 861 4433",
-   "dutyStart": "2026-10-25T08:00:00+03:00",
-   "dutyEnd": "2026-10-26T08:00:00+03:00",
+   "name": "Bahçe Eczanesi",
+   "address": "Bahçelievler Mahallesi Devlet Bahçeli Bulvarı No: 13/B",
+   "phone": "0328 861 2111",
+   "dutyStart": "2026-10-26T12:30:00+03:00",
+   "dutyEnd": "2026-10-27T08:00:00+03:00",
    "approved": true,
-   "lat": 37.200596,
-   "lng": 36.577488
+   "lat": 37.20039,
+   "lng": 36.577251
   },
   {
    "district": "Düziçi",
-   "name": "Namli Eczanesi",
-   "address": "İrfanlı Mahallesi Müdür Mehmeh İslah Caddesi No:71/B",
-   "phone": "0546 416 5750",
-   "dutyStart": "2026-10-25T08:00:00+03:00",
-   "dutyEnd": "2026-10-26T08:00:00+03:00",
+   "name": "Özkan Eczanesi",
+   "address": "Boğaziçi Mah. Hastane Sok. No:12/A",
+   "phone": "0328 876 7878",
+   "dutyStart": "2026-10-26T17:30:00+03:00",
+   "dutyEnd": "2026-10-27T08:00:00+03:00",
    "approved": true,
-   "lat": 37.25975,
-   "lng": 36.463238
+   "lat": 37.244083,
+   "lng": 36.461624
   },
   {
    "district": "Kadirli",
-   "name": "Öndaşlar Eczanesi",
-   "address": "Cemalpaşa Mahallesi 1666 Sokak No: 4/B",
-   "phone": "0328 717 0001",
-   "dutyStart": "2026-10-25T08:30:00+03:00",
-   "dutyEnd": "2026-10-26T08:30:00+03:00",
+   "name": "Deva Eczanesi",
+   "address": "7 MART MAH. 451 SOK. NO:15/1",
+   "phone": "0328 718 4259",
+   "dutyStart": "2026-10-26T12:00:00+03:00",
+   "dutyEnd": "2026-10-27T08:30:00+03:00",
    "approved": true,
-   "lat": 37.375828,
-   "lng": 36.081978
-  },
-  {
-   "district": "Kadirli",
-   "name": "Türkan Eczanesi",
-   "address": "Şehit Mustafa Yağız Mahallesi Arslantaş Caddesi No:117/A",
-   "phone": "0328 718 0777",
-   "dutyStart": "2026-10-25T08:30:00+03:00",
-   "dutyEnd": "2026-10-26T08:30:00+03:00",
-   "approved": true,
-   "lat": 37.366592,
-   "lng": 36.121124
+   "lat": 37.368591,
+   "lng": 36.104256
   },
   {
    "district": "Merkez",
-   "name": "Cadde Park Avm Özlen Eczanesi",
-   "address": "Adnan Menderes Mahallesi 19537 Sok. Dış Kapı No:1/B",
-   "phone": "0328 826 0390",
-   "dutyStart": "2026-10-25T08:00:00+03:00",
-   "dutyEnd": "2026-10-26T08:00:00+03:00",
+   "name": "Erdem Eczanesi",
+   "address": "Mareşal Fevzi Çakmak Mahallesi Beycioğlu Ali Ağa Caddesi No:90/C",
+   "phone": "0328 633 2055",
+   "dutyStart": "2026-10-26T18:00:00+03:00",
+   "dutyEnd": "2026-10-27T08:00:00+03:00",
    "approved": true,
-   "lat": 37.063114,
-   "lng": 36.237007
+   "lat": 37.089535,
+   "lng": 36.265648
   },
   {
    "district": "Merkez",
-   "name": "Cihangir Eczanesi",
-   "address": "Hacı Osmanlı Mahallesi 4009 Sok. No:15/A",
-   "phone": "0328 813 1090",
-   "dutyStart": "2026-10-25T08:00:00+03:00",
-   "dutyEnd": "2026-10-26T08:00:00+03:00",
+   "name": "Okur Eczanesi",
+   "address": "Baş Mah.1037 Cad. Dış Kapı No:19",
+   "phone": "0328 814 3420",
+   "dutyStart": "2026-10-26T18:00:00+03:00",
+   "dutyEnd": "2026-10-27T08:00:00+03:00",
    "approved": true,
-   "lat": 37.065384,
-   "lng": 36.256989
+   "lat": 37.052559,
+   "lng": 36.253468
   },
   {
    "district": "Merkez",
-   "name": "Sarpkaya Eczanesi",
-   "address": "Kazım Karabekir Mahallesi 6502 Sokak No:9/B",
-   "phone": "0328 813 1513",
-   "dutyStart": "2026-10-25T08:00:00+03:00",
-   "dutyEnd": "2026-10-26T08:00:00+03:00",
+   "name": "Yalçın Eczanesi",
+   "address": "Alibeyli Mah. Karaoğlanoğlu Sokak No: 17/C",
+   "phone": "0328 814 7000",
+   "dutyStart": "2026-10-26T18:00:00+03:00",
+   "dutyEnd": "2026-10-27T08:00:00+03:00",
    "approved": true,
-   "lat": 37.083618,
-   "lng": 36.265751
+   "lat": 37.072456,
+   "lng": 36.245884
   },
   {
    "district": "Toprakkale",
-   "name": "Doruk Eczanesi",
-   "address": "Fatih Sultan Mehmet Mahallesi Atatürk Caddesi No: 142/A",
-   "phone": "0553 350 4339",
-   "dutyStart": "2026-10-25T08:00:00+03:00",
-   "dutyEnd": "2026-10-26T08:00:00+03:00",
+   "name": "Nurten Eczanesi",
+   "address": "Fatih Sultan Mehmet Mahallesi Çamlıbel Sokak No: 11",
+   "phone": "0328 633 3196",
+   "dutyStart": "2026-10-26T18:30:00+03:00",
+   "dutyEnd": "2026-10-27T08:00:00+03:00",
    "approved": true,
-   "lat": 37.068085,
-   "lng": 36.144161
+   "lat": 37.070889,
+   "lng": 36.143784
   }
  ]
 }

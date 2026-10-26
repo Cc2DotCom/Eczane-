@@ -1,26 +1,15 @@
 {
  "city": "Malatya",
  "code": 44,
- "dutyDay": "2026-10-25",
- "updatedAt": "2026-10-25T19:06:16.470Z",
+ "dutyDay": "2026-10-26",
+ "updatedAt": "2026-10-26T12:59:21.363Z",
  "source": "Malatya Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Esma Eczanesi",
-   "address": "GÖZTEPE MH. FEVZİ ÇAKMAK CD. SULTANLAR SARAYI KIZ YURDU AŞAGISI GÖZTEPE SAĞLIK OCAĞI KARŞISI",
-   "phone": "04223218135",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 38.3593479,
-   "lng": 38.3431236
-  },
-  {
-   "district": "Merkez",
-   "name": "Malatya Eczanesi",
-   "address": "EMEKSİZ CAD. NO:90 KÖK MOBİLYA KARŞISI",
-   "phone": "04223211064",
+   "name": "Damla Eczanesi",
+   "address": "MÜJDE HASTANESİ YANI",
+   "phone": "04223249105",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
@@ -29,36 +18,47 @@
   },
   {
    "district": "Merkez",
-   "name": "Leyla Eczanesi",
-   "address": "ŞEYHBAYRAM MH. NENEHATUN SK. N:38/A ŞEYBAYRAM CAMİ ALTI KIVANÇ EKMEK KARŞ.",
-   "phone": "04222123334",
+   "name": "Umut Eczanesi",
+   "address": "Mücelli Sağlık Ocağı karşı çaprazı Cengiz Topel Caddesi Emeksiz Kavşağı saat kulesi devamı",
+   "phone": "05010099044",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 38.342038,
+   "lng": 38.3127813
+  },
+  {
+   "district": "Merkez",
+   "name": "Mert Eczanesi",
+   "address": "ATATÜRK MAH. VATAN CAD.NO22/A YEŞİLYURT/MALATYA( Yeşiltepe )",
+   "phone": "05342448309",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 38.357071,
+   "lng": 38.2745597
+  },
+  {
+   "district": "Merkez",
+   "name": "Gürkan Eczanesi",
+   "address": "ÇİLESİZ MAHALLESİ ESKİ GAZİ LİSESİ ÇAPRAZ KARŞISI",
+   "phone": "04222110121",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
    "lat": null,
    "lng": null
-  },
-  {
-   "district": "Merkez",
-   "name": "Sevinç Eczanesi",
-   "address": "KARAKAVAK MAH. ESKİ FEN LİSESİ YANI SAĞLIK OCAĞI KARŞISI",
-   "phone": "05326657244",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 38.3393894,
-   "lng": 38.2592855
   },
   {
    "district": "Battalgazi",
-   "name": "Ari Eczanesi",
-   "address": "Alacakapı Mahallesi Kırkgöz Caddesi Eskimalatya semt polikliniği Karşısı",
-   "phone": "05346863703",
+   "name": "Atalan Eczanesi",
+   "address": "ALACAKAPI MAH. KIRKGÖZ CAD. NO 15/A ESKİMALATYA SEMT POLK. KARŞISI BATTALGAZİ/MALATYA",
+   "phone": "05343370444",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.4251199,
-   "lng": 38.3668399
+   "lat": 38.4267751,
+   "lng": 38.3668196
   }
  ],
  "sourceUrl": "https://www.malatyaeczaciodasi.org.tr/nobetci-eczaneler"

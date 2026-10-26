@@ -1,53 +1,64 @@
 {
  "city": "Hakkari",
  "code": 30,
- "dutyDay": "2026-10-25",
- "updatedAt": "2026-10-25T19:05:58.763Z",
+ "dutyDay": "2026-10-26",
+ "updatedAt": "2026-10-26T12:56:26.220Z",
  "source": "Van Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Yagmur Ezcanesi Eczanesi",
-   "address": "BULAK MAH. BULVAR CAD.1013 SOKAK.NO1",
-   "phone": "04382117373",
+   "name": "Pinar Eczanesi",
+   "address": "BULAK MAH.ALTAY CAD.NO:61 HAKKARI",
+   "phone": "4382116742",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.577385,
-   "lng": 43.736287
+   "lat": 37.575901,
+   "lng": 43.737349
   },
   {
    "district": "Yüksekova",
-   "name": "Rojda Eczanesi",
-   "address": "Güngör mah.5 Nolu sağlık ocağı yanı Übeydullah Camisi arkası 902.SK.NO:8A",
-   "phone": "05301125830",
+   "name": "Sidar Eczanesi",
+   "address": "CENGİZ TOPEL CAD.LAWASH YANI AKYOL KUYUMCUSU KARŞISI NO:57/A",
+   "phone": "04383510880",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.565384,
-   "lng": 44.284367
+   "lat": 37.570442,
+   "lng": 44.284249
+  },
+  {
+   "district": "Yüksekova",
+   "name": "Rumeysa Eczanesi",
+   "address": "İNANLI MAH.İNANLI CAD.NO:317/C",
+   "phone": "04383510001",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 37.56741,
+   "lng": 44.229384
   },
   {
    "district": "Şemdinli",
-   "name": "Mavi Eczanesi",
-   "address": "BEŞEVLER MAH.CUMHURİYET CAD.NO:96/A",
-   "phone": "05312972080",
+   "name": "Navşar Eczanesi",
+   "address": "CUMHURİYET CAD.ULU CAMİ KARŞISI NO:111",
+   "phone": "04384120098",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.308802,
-   "lng": 44.570835
+   "lat": 37.307384,
+   "lng": 44.571761
   },
   {
    "district": "Şemdinli",
-   "name": "Derecik Eczanesi",
-   "address": "MERKEZ MAH.VATAN CAD.NO:19/A",
-   "phone": "05380443717",
+   "name": "Bahar Eczanesi",
+   "address": "MERKEZ MAH. VATAN CAD.NO:17/A",
+   "phone": "04384613122",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.080721,
-   "lng": 44.310393
+   "lat": 37.306194,
+   "lng": 44.573294
   }
  ],
  "sourceUrl": "https://www.vaneczaciodasi.org.tr/nobetci-eczaneler"

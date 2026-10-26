@@ -1,75 +1,75 @@
 {
  "city": "Isparta",
  "code": 32,
- "dutyDay": "2026-10-25",
- "updatedAt": "2026-10-25T19:06:01.901Z",
+ "dutyDay": "2026-10-26",
+ "updatedAt": "2026-10-26T12:56:46.211Z",
  "source": "e-Devlet TİTCK, Isparta Eczacı Odası",
  "pharmacies": [
   {
    "district": "Keçiborlu",
-   "name": "Demir Eczanesi",
-   "address": "YUKARI MAHALLE ATATÜRK CADDESİ NO 127/B",
-   "phone": "0246 541 4318",
-   "dutyStart": "2026-10-25T08:00:00+03:00",
-   "dutyEnd": "2026-10-26T08:00:00+03:00",
+   "name": "Erturan Eczanesi",
+   "address": "ORTA MAH. ATATÜRK CAD. NO:57/A",
+   "phone": "0246 541 3207",
+   "dutyStart": "2026-10-26T08:00:00+03:00",
+   "dutyEnd": "2026-10-27T08:00:00+03:00",
    "approved": true,
-   "lat": 37.947071,
-   "lng": 30.303968
+   "lat": 37.944279,
+   "lng": 30.3027
   },
   {
    "district": "Merkez",
-   "name": "Cadde Eczanesi",
-   "address": "Muzaffer Türkeş Mahallesi 5141.Sokak No:21/1",
-   "phone": "0538 027 1084",
-   "dutyStart": "2026-10-25T08:00:00+03:00",
-   "dutyEnd": "2026-10-26T08:00:00+03:00",
+   "name": "Ege Eczanesi",
+   "address": "BAHÇELİEVLER MAH. 110. CADDE NO:176",
+   "phone": "0246 223 1411",
+   "dutyStart": "2026-10-26T18:00:00+03:00",
+   "dutyEnd": "2026-10-27T08:00:00+03:00",
    "approved": true,
-   "lat": 37.772129,
-   "lng": 30.523567
+   "lat": 37.777111,
+   "lng": 30.541265
   },
   {
    "district": "Merkez",
-   "name": "Deniz Eczanesi",
-   "address": "KUTLUBEY MAHALLESİ MUSTANTİK SOKAK NO:11",
-   "phone": "0246 223 1968",
-   "dutyStart": "2026-10-25T08:00:00+03:00",
-   "dutyEnd": "2026-10-26T08:00:00+03:00",
+   "name": "Okyanus Eczanesi",
+   "address": "Davraz Mahallesi 104.Cadde No:50 A Blok No:5",
+   "phone": "0505 393 2016",
+   "dutyStart": "2026-10-26T18:00:00+03:00",
+   "dutyEnd": "2026-10-27T08:00:00+03:00",
    "approved": true,
-   "lat": 37.764645,
-   "lng": 30.55562
+   "lat": 37.776546,
+   "lng": 30.563126
   },
   {
    "district": "Merkez",
-   "name": "Özgü Eczanesi",
-   "address": "SANAYİ MAHALLESİ 3208 SOKAK NO:13",
-   "phone": "0246 232 2313",
-   "dutyStart": "2026-10-25T08:00:00+03:00",
-   "dutyEnd": "2026-10-26T08:00:00+03:00",
+   "name": "Öztürk Eczanesi",
+   "address": "Çünür Mahallesi 5476.Sokak No:6",
+   "phone": "0530 609 7131",
+   "dutyStart": "2026-10-26T18:00:00+03:00",
+   "dutyEnd": "2026-10-27T08:00:00+03:00",
    "approved": true,
-   "lat": 37.7733,
-   "lng": 30.551271
+   "lat": 37.822903,
+   "lng": 30.541513
   },
   {
    "district": "Eğirdir",
-   "name": "Eğirdir Eczanesi",
-   "address": "DEMİRKAPI MAH. DR.İSA KÖKLÜ CAD. NO:20",
-   "phone": "02463112774",
+   "name": "Yiğitbaşı Eczanesi",
+   "address": "CAMİ MAH. 1.SAHİL YOLU NO:18",
+   "phone": "02463116700",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.873652,
-   "lng": 30.85015
+   "lat": 37.873773,
+   "lng": 30.850297
   },
   {
    "district": "Gelendost",
-   "name": "Doğan Eczanesi",
-   "address": "YENİ MAH. HÜSEYİN AVNİ PAŞA CAD. NO:11",
-   "phone": "02463814240",
+   "name": "İhsan Eczanesi",
+   "address": "MUHARREM MAH. CUMHURİYET MEYDANI NO:21/A",
+   "phone": "02463812625",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.120948,
-   "lng": 31.01412
+   "lat": 38.120911,
+   "lng": 31.01495
   },
   {
    "district": "Senirkent",
@@ -84,25 +84,25 @@
   },
   {
    "district": "Yalvaç",
-   "name": "Çınar Eczanesi",
-   "address": "PAZARYUKARI MAH. YEŞİL ÇINAR BULVARI NO:33",
-   "phone": "02464415260",
+   "name": "Çiğdem Eczanesi",
+   "address": "KAŞYUKARI MAH. HASTANE CAD. NO:12/E",
+   "phone": "02464414433",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.295955,
-   "lng": 31.180116
+   "lat": 38.298387,
+   "lng": 31.176152
   },
   {
    "district": "Şarkikaraağaç",
-   "name": "Tuğçe Eczanesi",
-   "address": "ULVİKALE MAHALLESİ HASTANE CADDESİ 115.SOKAK NO:18 BAĞIMSIZ BÖLÜM 14-15 (A-B)",
-   "phone": "05079893233",
+   "name": "Şifa Eczanesi",
+   "address": "HASTANE CADDESİ",
+   "phone": "02464114070",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.083756,
-   "lng": 31.371046
+   "lat": 38.081754,
+   "lng": 31.36803
   }
  ],
  "sourceUrl": "https://www.ispartaeo.org.tr/nobetci-eczaneler"
