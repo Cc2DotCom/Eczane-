@@ -2,7 +2,7 @@
  "city": "Hakkari",
  "code": 30,
  "dutyDay": "2026-10-26",
- "updatedAt": "2026-10-26T12:56:26.220Z",
+ "updatedAt": "2026-10-26T16:05:50.128Z",
  "source": "Van Eczacı Odası",
  "pharmacies": [
   {
@@ -18,17 +18,6 @@
   },
   {
    "district": "Yüksekova",
-   "name": "Sidar Eczanesi",
-   "address": "CENGİZ TOPEL CAD.LAWASH YANI AKYOL KUYUMCUSU KARŞISI NO:57/A",
-   "phone": "04383510880",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 37.570442,
-   "lng": 44.284249
-  },
-  {
-   "district": "Yüksekova",
    "name": "Rumeysa Eczanesi",
    "address": "İNANLI MAH.İNANLI CAD.NO:317/C",
    "phone": "04383510001",
@@ -37,6 +26,17 @@
    "approved": true,
    "lat": 37.56741,
    "lng": 44.229384
+  },
+  {
+   "district": "Yüksekova",
+   "name": "Sidar Eczanesi",
+   "address": "CENGİZ TOPEL CAD.LAWASH YANI AKYOL KUYUMCUSU KARŞISI NO:57/A",
+   "phone": "04383510880",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 37.570442,
+   "lng": 44.284249
   },
   {
    "district": "Şemdinli",

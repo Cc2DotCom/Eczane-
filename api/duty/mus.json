@@ -1,86 +1,75 @@
 {
  "city": "Muş",
  "code": 49,
- "dutyDay": "2026-10-25",
- "updatedAt": "2026-10-25T19:06:21.090Z",
+ "dutyDay": "2026-10-26",
+ "updatedAt": "2026-10-26T16:06:52.005Z",
  "source": "Batman Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Çağlayan Eczanesi",
-   "address": "ÇAĞLAYAN CAMİİ ALTI",
-   "phone": "04362164149",
+   "name": "Kamiloğlu Eczanesi",
+   "address": "DEVLET HASTANESİ KARŞISI",
+   "phone": "04362127844",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.758085,
-   "lng": 41.508494
-  },
-  {
-   "district": "Merkez",
-   "name": "Bahar Eczanesi",
-   "address": "SUNAY MAH.SUNAY ASM ÜSTÜ",
-   "phone": "04362122131",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 38.743609,
-   "lng": 41.503442
+   "lat": 38.745064,
+   "lng": 41.518201
   },
   {
    "district": "Bulanık",
-   "name": "Sipan Eczanesi",
-   "address": "ZAFER MAH.HASTANE CAD. BULANIK DEVLET HASTENESİ KARŞISI",
-   "phone": "04363115959",
+   "name": "Ferhat Eczanesi",
+   "address": "CUMHURIYET MAHHALESI SUAT ISHAKOGLU CADDESI MUS",
+   "phone": "4363114378",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.09467,
-   "lng": 42.274854
+   "lat": 39.094777,
+   "lng": 42.274514
   },
   {
    "district": "Hasköy",
-   "name": "Hayat Eczanesi",
-   "address": "YENİ DEVLET HASTANESİ KARŞISI",
-   "phone": "04364112184",
+   "name": "Yenıhasköy Eczanesi",
+   "address": "KÜLTÜR MAH HASTANE CAD NO:24",
+   "phone": "4364113020",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.683269,
-   "lng": 41.691815
+   "lat": 38.683363,
+   "lng": 41.692677
   },
   {
    "district": "Korkut",
-   "name": "Korkut Eczanesi",
-   "address": "BAHÇELİEVLER MAH.İKİNCİ CAD.NO:11/C",
-   "phone": "04366116026",
+   "name": "Şifa Eczanesi",
+   "address": "ADNAN MENDERES MAH.2 CAD. NO:51/J",
+   "phone": "04366116769",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.738225,
-   "lng": 41.782945
+   "lat": 38.734309,
+   "lng": 41.776712
   },
   {
    "district": "Malazgirt",
-   "name": "Halk Eczanesi",
-   "address": "YILANKIRAN CAD MERKEZ CAMİ KARŞISI",
-   "phone": "04365113199",
+   "name": "Meydan Eczanesi",
+   "address": "MENGÜÇGAZİ MAH 109 SOK. NO:8/H",
+   "phone": "05524534950",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.14721,
-   "lng": 42.542723
+   "lat": 39.145617,
+   "lng": 42.541915
   },
   {
    "district": "Varto",
-   "name": "Güneş Eczanesi",
-   "address": "GÜMGÜM MAH. SAĞLIK SOK. NO:6",
-   "phone": "04365024181",
+   "name": "Derman Eczanesi",
+   "address": "GÜMGÜM MAH NO:101",
+   "phone": "04367112679",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.170331,
-   "lng": 41.45576
+   "lat": 39.171343,
+   "lng": 41.455128
   }
  ],
  "sourceUrl": "https://www.batmaneczaciodasi.org.tr/nobetci-eczaneler"
