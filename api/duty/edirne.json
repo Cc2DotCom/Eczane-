@@ -2,7 +2,7 @@
  "city": "Edirne",
  "code": 22,
  "dutyDay": "2026-10-26",
- "updatedAt": "2026-10-26T19:21:19.738Z",
+ "updatedAt": "2026-10-26T21:03:15.393Z",
  "source": "e-Devlet TİTCK, Edirne Eczacı Odası",
  "pharmacies": [
   {
@@ -37,17 +37,6 @@
    "approved": true,
    "lat": 41.665171,
    "lng": 26.598461
-  },
-  {
-   "district": "Merkez",
-   "name": "Çakbil Eczanesi",
-   "address": "TALATPASA CAD.NO:200",
-   "phone": "02842253195",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 41.669292,
-   "lng": 26.568071
   },
   {
    "district": "Merkez",
