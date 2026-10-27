@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-27T12:15:02.611Z",
+ "generatedAt": "2026-10-27T15:20:05.310Z",
  "source": "e-Devlet TİTCK",
  "cities": [
   {
@@ -63,7 +63,7 @@
    "slug": "artvin",
    "code": 8,
    "dutyDay": "2026-10-27",
-   "updatedAt": "2026-10-27T12:05:42.162Z",
+   "updatedAt": "2026-10-27T15:19:02.799Z",
    "count": 9
   },
   {
@@ -71,7 +71,7 @@
    "slug": "aydin",
    "code": 9,
    "dutyDay": "2026-10-27",
-   "updatedAt": "2026-10-27T12:05:47.024Z",
+   "updatedAt": "2026-10-27T15:19:08.133Z",
    "count": 33
   },
   {
@@ -175,7 +175,7 @@
    "slug": "edirne",
    "code": 22,
    "dutyDay": "2026-10-27",
-   "updatedAt": "2026-10-27T12:07:21.527Z",
+   "updatedAt": "2026-10-27T15:19:19.478Z",
    "count": 12
   },
   {
@@ -183,7 +183,7 @@
    "slug": "elazig",
    "code": 23,
    "dutyDay": "2026-10-27",
-   "updatedAt": "2026-10-27T12:07:26.304Z",
+   "updatedAt": "2026-10-27T15:19:24.447Z",
    "count": 7
   },
   {
@@ -207,7 +207,7 @@
    "slug": "eskisehir",
    "code": 26,
    "dutyDay": "2026-10-27",
-   "updatedAt": "2026-10-27T12:07:40.124Z",
+   "updatedAt": "2026-10-27T15:19:29.594Z",
    "count": 14
   },
   {
@@ -239,7 +239,7 @@
    "slug": "hakkari",
    "code": 30,
    "dutyDay": "2026-10-27",
-   "updatedAt": "2026-10-27T12:08:05.474Z",
+   "updatedAt": "2026-10-27T15:19:34.610Z",
    "count": 5
   },
   {
@@ -255,7 +255,7 @@
    "slug": "isparta",
    "code": 32,
    "dutyDay": "2026-10-27",
-   "updatedAt": "2026-10-27T12:08:21.593Z",
+   "updatedAt": "2026-10-27T15:19:38.025Z",
    "count": 8
   },
   {
@@ -303,7 +303,7 @@
    "slug": "kayseri",
    "code": 38,
    "dutyDay": "2026-10-27",
-   "updatedAt": "2026-10-27T12:10:33.976Z",
+   "updatedAt": "2026-10-27T15:19:42.997Z",
    "count": 14
   },
   {
@@ -319,7 +319,7 @@
    "slug": "kirsehir",
    "code": 40,
    "dutyDay": "2026-10-27",
-   "updatedAt": "2026-10-27T12:10:43.924Z",
+   "updatedAt": "2026-10-27T15:19:47.725Z",
    "count": 4
   },
   {
@@ -351,7 +351,7 @@
    "slug": "malatya",
    "code": 44,
    "dutyDay": "2026-10-27",
-   "updatedAt": "2026-10-27T12:11:24.282Z",
+   "updatedAt": "2026-10-27T15:19:52.564Z",
    "count": 5
   },
   {
@@ -391,8 +391,8 @@
    "slug": "mus",
    "code": 49,
    "dutyDay": "2026-10-27",
-   "updatedAt": "2026-10-27T12:12:18.734Z",
-   "count": 0
+   "updatedAt": "2026-10-27T15:19:57.269Z",
+   "count": 6
   },
   {
    "city": "Nevşehir",
@@ -631,7 +631,7 @@
    "slug": "kilis",
    "code": 79,
    "dutyDay": "2026-10-27",
-   "updatedAt": "2026-10-27T12:14:47.331Z",
+   "updatedAt": "2026-10-27T15:20:02.336Z",
    "count": 1
   },
   {

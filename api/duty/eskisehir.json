@@ -2,19 +2,19 @@
  "city": "Eskişehir",
  "code": 26,
  "dutyDay": "2026-10-27",
- "updatedAt": "2026-10-27T12:07:40.124Z",
+ "updatedAt": "2026-10-27T15:19:29.594Z",
  "source": "Eskişehir Eczacı Odası",
  "pharmacies": [
   {
    "district": "Odunpazari",
-   "name": "Vadi Eczanesi",
-   "address": "VADİŞEHİR MAH. ÖZLEM CAD. NO:8/B MAMUCA YOLU (HOBİ BAHÇELERİ KAVŞAĞI) VADİŞEHİR SAĞLIK OCAĞI ARKASI",
-   "phone": "02222630263",
+   "name": "Elif Sağlık Eczanesi",
+   "address": "EMEK MAH. ERTAŞ CAD. NO:168/A Emek Tramvay Durağı Karşısı",
+   "phone": "02222500052",
    "dutyStart": "2026-10-27T18:30:00+03:00",
    "dutyEnd": "2026-10-28T08:30:00+03:00",
    "approved": true,
-   "lat": 39.742036,
-   "lng": 30.555072
+   "lat": 39.752594,
+   "lng": 30.565834
   },
   {
    "district": "Odunpazari",

@@ -2,7 +2,7 @@
  "city": "Aydın",
  "code": 9,
  "dutyDay": "2026-10-27",
- "updatedAt": "2026-10-27T12:05:47.024Z",
+ "updatedAt": "2026-10-27T15:19:08.133Z",
  "source": "Aydın Eczacı Odası",
  "pharmacies": [
   {
@@ -95,17 +95,6 @@
   },
   {
    "district": "Söke",
-   "name": "İlayda Eczanesi",
-   "address": "KONAK MAH. FAİK KOCAGÖZ CAD. NO:25/1C (DEVLET HASTANESİ ACİL SERVİS KARŞISI)",
-   "phone": "02565130909",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 37.763633,
-   "lng": 27.40263
-  },
-  {
-   "district": "Söke",
    "name": "Yiğit Eczanesi",
    "address": "ATATÜRK MAH. BURDUR SOK. NO:14/A (5 NOLU ASM KARŞISI, DİŞ HASTANESİ ARKA SOKAĞI)",
    "phone": "02565124667",
@@ -114,6 +103,17 @@
    "approved": true,
    "lat": 37.756579,
    "lng": 27.409561
+  },
+  {
+   "district": "Söke",
+   "name": "İlayda Eczanesi",
+   "address": "KONAK MAH. FAİK KOCAGÖZ CAD. NO:25/1C (DEVLET HASTANESİ ACİL SERVİS KARŞISI)",
+   "phone": "02565130909",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 37.763633,
+   "lng": 27.40263
   },
   {
    "district": "Didim",

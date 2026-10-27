@@ -2,9 +2,75 @@
  "city": "Muş",
  "code": 49,
  "dutyDay": "2026-10-27",
- "updatedAt": "2026-10-27T12:12:18.734Z",
- "source": "e-Devlet TİTCK",
- "pharmacies": [],
- "unavailable": true,
- "note": "class=\"warningContainer\">Seçilen zaman aralığı için nöbetçi eczane bulunamadı. Sayfa Sonu Bağlantıları e-Devlet Kapısı English Hak"
+ "updatedAt": "2026-10-27T15:19:57.269Z",
+ "source": "Batman Eczacı Odası",
+ "pharmacies": [
+  {
+   "district": "Merkez",
+   "name": "Botanik Eczanesi",
+   "address": "MURAT PAŞA MAH. ESKİ CEZAEVİ KARŞISI",
+   "phone": "04362121612",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 38.734031,
+   "lng": 41.486049
+  },
+  {
+   "district": "Bulanık",
+   "name": "Bilican Eczanesi",
+   "address": "ZAFER MAH. HASTANE CAD. NO 14/C",
+   "phone": "04363114049",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 39.094566,
+   "lng": 42.275263
+  },
+  {
+   "district": "Hasköy",
+   "name": "Derman Eczanesi",
+   "address": "VATAN MAH. SEFA DEMİRYÜREK CAD. NO:48/B",
+   "phone": "04364112323",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 38.683236,
+   "lng": 41.691762
+  },
+  {
+   "district": "Korkut",
+   "name": "Korkut Eczanesi",
+   "address": "BAHÇELİEVLER MAH.İKİNCİ CAD.NO:11/C",
+   "phone": "04366116026",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 38.738225,
+   "lng": 41.782945
+  },
+  {
+   "district": "Malazgirt",
+   "name": "Derman Eczanesi",
+   "address": "SALTUKGAZİ MAH.HÜKÜMET KONAĞICAD.NO:1/F",
+   "phone": "04365114540",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 39.14657,
+   "lng": 42.541759
+  },
+  {
+   "district": "Varto",
+   "name": "Han Eczanesi",
+   "address": "GÜMGÜM MAH. SAĞLIK SOKAK NO:5/2A BLOK",
+   "phone": "04365024969",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 39.170486,
+   "lng": 41.455843
+  }
+ ],
+ "sourceUrl": "https://www.batmaneczaciodasi.org.tr/nobetci-eczaneler"
 }
