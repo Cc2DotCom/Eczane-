@@ -2,20 +2,9 @@
  "city": "Kayseri",
  "code": 38,
  "dutyDay": "2026-10-27",
- "updatedAt": "2026-10-27T15:19:42.997Z",
+ "updatedAt": "2026-10-27T18:43:07.597Z",
  "source": "Kayseri Eczacı Odası",
  "pharmacies": [
-  {
-   "district": "Melikgazi",
-   "name": "Şubat Eczanesi",
-   "address": "Bahçelievler Mahallesi, 2153. Sokak, 17/2",
-   "phone": "05065990117",
-   "dutyStart": "2026-10-27T08:30:00+03:00",
-   "dutyEnd": "2026-10-28T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.766318,
-   "lng": 35.584466
-  },
   {
    "district": "Kocasinan",
    "name": "Demir Eczanesi",
@@ -62,14 +51,25 @@
   },
   {
    "district": "Melikgazi",
-   "name": "Ayşe Eczanesi",
-   "address": "Şirintepe Mahallesi,3139. Sokak, No:8 Melikgazi",
-   "phone": "03525028804",
+   "name": "Şubat Eczanesi",
+   "address": "Bahçelievler Mahallesi, 2153. Sokak, 17/2",
+   "phone": "05065990117",
+   "dutyStart": "2026-10-27T08:30:00+03:00",
+   "dutyEnd": "2026-10-28T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.766318,
+   "lng": 35.584466
+  },
+  {
+   "district": "Talas",
+   "name": "Leyla Eczanesi",
+   "address": "Mevlana Mah. Şehit Fatih Duman Sok. No:36/C",
+   "phone": "03523803434",
    "dutyStart": "2026-10-27T08:30:00+03:00",
    "dutyEnd": "2026-10-28T01:00:00+03:00",
    "approved": true,
-   "lat": 38.745152,
-   "lng": 35.575943
+   "lat": 38.716689,
+   "lng": 35.562572
   },
   {
    "district": "Melikgazi",
@@ -84,14 +84,47 @@
   },
   {
    "district": "Talas",
-   "name": "Leyla Eczanesi",
-   "address": "Mevlana Mah. Şehit Fatih Duman Sok. No:36/C",
-   "phone": "03523803434",
+   "name": "Bahadir Eczanesi",
+   "address": "KIÇIKÖY MH.KAYABAGLAR 1.CD.N0:15/A",
+   "phone": "03524378816",
    "dutyStart": "2026-10-27T08:30:00+03:00",
    "dutyEnd": "2026-10-28T01:00:00+03:00",
    "approved": true,
-   "lat": 38.716689,
-   "lng": 35.562572
+   "lat": 38.692657,
+   "lng": 35.552289
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Ayşe Eczanesi",
+   "address": "Şirintepe Mahallesi,3139. Sokak, No:8 Melikgazi",
+   "phone": "03525028804",
+   "dutyStart": "2026-10-27T08:30:00+03:00",
+   "dutyEnd": "2026-10-28T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.745152,
+   "lng": 35.575943
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Hayat Eczanesi",
+   "address": "Osmanlı Mahallesi, Edip Bulvarı, 5/B",
+   "phone": "03522317725",
+   "dutyStart": "2026-10-27T08:30:00+03:00",
+   "dutyEnd": "2026-10-28T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.689641,
+   "lng": 35.475692
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Candan Eczanesi",
+   "address": "Yıldırım Beyazıt Mah. Olgunla Cad. 9/A-B",
+   "phone": "03522249889",
+   "dutyStart": "2026-10-27T08:30:00+03:00",
+   "dutyEnd": "2026-10-28T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.730753,
+   "lng": 35.528607
   },
   {
    "district": "Kocasinan",
@@ -117,17 +150,6 @@
   },
   {
    "district": "Melikgazi",
-   "name": "Candan Eczanesi",
-   "address": "Yıldırım Beyazıt Mah. Olgunla Cad. 9/A-B",
-   "phone": "03522249889",
-   "dutyStart": "2026-10-27T08:30:00+03:00",
-   "dutyEnd": "2026-10-28T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.730753,
-   "lng": 35.528607
-  },
-  {
-   "district": "Melikgazi",
    "name": "Çiçek Eczanesi",
    "address": "CUMHURIYET MH. MİLLET CD. NO:7",
    "phone": "03522225176",
@@ -136,28 +158,6 @@
    "approved": true,
    "lat": 38.720207,
    "lng": 35.490076
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Hayat Eczanesi",
-   "address": "Osmanlı Mahallesi, Edip Bulvarı, 5/B",
-   "phone": "03522317725",
-   "dutyStart": "2026-10-27T08:30:00+03:00",
-   "dutyEnd": "2026-10-28T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.689641,
-   "lng": 35.475692
-  },
-  {
-   "district": "Talas",
-   "name": "Bahadir Eczanesi",
-   "address": "KIÇIKÖY MH.KAYABAGLAR 1.CD.N0:15/A",
-   "phone": "03524378816",
-   "dutyStart": "2026-10-27T08:30:00+03:00",
-   "dutyEnd": "2026-10-28T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.692657,
-   "lng": 35.552289
   }
  ],
  "sourceUrl": "https://www.kayserieo.org.tr/nobetci-eczaneler"
