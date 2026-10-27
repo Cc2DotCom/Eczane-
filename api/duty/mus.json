@@ -1,76 +1,10 @@
 {
  "city": "Muş",
  "code": 49,
- "dutyDay": "2026-10-26",
- "updatedAt": "2026-10-26T21:03:51.657Z",
- "source": "Batman Eczacı Odası",
- "pharmacies": [
-  {
-   "district": "Merkez",
-   "name": "Kamiloğlu Eczanesi",
-   "address": "DEVLET HASTANESİ KARŞISI",
-   "phone": "04362127844",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 38.745064,
-   "lng": 41.518201
-  },
-  {
-   "district": "Bulanık",
-   "name": "Ferhat Eczanesi",
-   "address": "CUMHURIYET MAHHALESI SUAT ISHAKOGLU CADDESI MUS",
-   "phone": "4363114378",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 39.094777,
-   "lng": 42.274514
-  },
-  {
-   "district": "Hasköy",
-   "name": "Yenıhasköy Eczanesi",
-   "address": "KÜLTÜR MAH HASTANE CAD NO:24",
-   "phone": "4364113020",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 38.683363,
-   "lng": 41.692677
-  },
-  {
-   "district": "Korkut",
-   "name": "Şifa Eczanesi",
-   "address": "ADNAN MENDERES MAH.2 CAD. NO:51/J",
-   "phone": "04366116769",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 38.734309,
-   "lng": 41.776712
-  },
-  {
-   "district": "Malazgirt",
-   "name": "Meydan Eczanesi",
-   "address": "MENGÜÇGAZİ MAH 109 SOK. NO:8/H",
-   "phone": "05524534950",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 39.145617,
-   "lng": 42.541915
-  },
-  {
-   "district": "Varto",
-   "name": "Derman Eczanesi",
-   "address": "GÜMGÜM MAH NO:101",
-   "phone": "04367112679",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 39.171343,
-   "lng": 41.455128
-  }
- ],
- "sourceUrl": "https://www.batmaneczaciodasi.org.tr/nobetci-eczaneler"
+ "dutyDay": "2026-10-27",
+ "updatedAt": "2026-10-27T12:12:18.734Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [],
+ "unavailable": true,
+ "note": "class=\"warningContainer\">Seçilen zaman aralığı için nöbetçi eczane bulunamadı. Sayfa Sonu Bağlantıları e-Devlet Kapısı English Hak"
 }

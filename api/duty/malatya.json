@@ -1,15 +1,15 @@
 {
  "city": "Malatya",
  "code": 44,
- "dutyDay": "2026-10-26",
- "updatedAt": "2026-10-26T21:03:47.230Z",
+ "dutyDay": "2026-10-27",
+ "updatedAt": "2026-10-27T12:11:24.282Z",
  "source": "Malatya Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Damla Eczanesi",
-   "address": "MÜJDE HASTANESİ YANI",
-   "phone": "04223249105",
+   "name": "Aydin Eczanesi",
+   "address": "HASTANE CAD. MÜJDE HASTANESİ KARŞISI NO:11",
+   "phone": "05443220444",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
@@ -18,31 +18,31 @@
   },
   {
    "district": "Merkez",
-   "name": "Umut Eczanesi",
-   "address": "Mücelli Sağlık Ocağı karşı çaprazı Cengiz Topel Caddesi Emeksiz Kavşağı saat kulesi devamı",
-   "phone": "05010099044",
+   "name": "Anadolu Eczanesi",
+   "address": "HALK SAĞLIĞI MÜD. ARKASI SITMAPINARI SAĞLIK OCAĞI GİRİŞİ",
+   "phone": "05052300199",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.342038,
-   "lng": 38.3127813
+   "lat": null,
+   "lng": null
   },
   {
    "district": "Merkez",
-   "name": "Mert Eczanesi",
-   "address": "ATATÜRK MAH. VATAN CAD.NO22/A YEŞİLYURT/MALATYA( Yeşiltepe )",
-   "phone": "05342448309",
+   "name": "Ergöçen Eczanesi",
+   "address": "ÖZALPER MAH.YENİBAHAR CAD.NO :82/A (ÖZALPER KAVŞAĞI DOSTLAR BALIK VE TAVUK EVİ KARŞISI BAMET YANI)",
+   "phone": "04222128950",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.357071,
-   "lng": 38.2745597
+   "lat": null,
+   "lng": null
   },
   {
    "district": "Merkez",
-   "name": "Gürkan Eczanesi",
-   "address": "ÇİLESİZ MAHALLESİ ESKİ GAZİ LİSESİ ÇAPRAZ KARŞISI",
-   "phone": "04222110121",
+   "name": "Çilesiz Eczanesi",
+   "address": "ÇİLESİZ MAH ELİBOL SOK YEŞİLYURT ÇİLESİZ SEMPT PAZARI ALTI NO :5/C",
+   "phone": "04223710010",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
@@ -51,14 +51,14 @@
   },
   {
    "district": "Battalgazi",
-   "name": "Atalan Eczanesi",
-   "address": "ALACAKAPI MAH. KIRKGÖZ CAD. NO 15/A ESKİMALATYA SEMT POLK. KARŞISI BATTALGAZİ/MALATYA",
-   "phone": "05343370444",
+   "name": "Aksu Eczanesi",
+   "address": "ALACAKAPI MAH. KIRKGÖZ CAD. 15/B BATTALGAZİ SEMT POLİKLİNİĞİ KARŞISI BATTALGAZİ/MALATYA",
+   "phone": "05064433444",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.4267751,
-   "lng": 38.3668196
+   "lat": 38.4265267,
+   "lng": 38.3666997
   }
  ],
  "sourceUrl": "https://www.malatyaeczaciodasi.org.tr/nobetci-eczaneler"

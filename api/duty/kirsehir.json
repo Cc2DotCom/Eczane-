@@ -1,53 +1,53 @@
 {
  "city": "Kırşehir",
  "code": 40,
- "dutyDay": "2026-10-26",
- "updatedAt": "2026-10-26T21:03:42.719Z",
+ "dutyDay": "2026-10-27",
+ "updatedAt": "2026-10-27T12:10:43.924Z",
  "source": "Aksaray-Kırşehir Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Kent Eczanesi",
-   "address": "terme cad.çubuk iş merkezi karşısı TERME CAD. NO:32",
-   "phone": "3862133376",
+   "name": "Gökbayrak Eczanesi",
+   "address": "Aşıkpaşa Mah. 1 Sok. Paşa Konağı Apt. No:22/B ESKİ DEVLET HASTANESİ ACİL KARŞISI",
+   "phone": "03862120440",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.144649,
-   "lng": 34.160308
+   "lat": 39.157045,
+   "lng": 34.162409
   },
   {
    "district": "Merkez",
-   "name": "Gökbulut Eczanesi",
-   "address": "terme cad.eski belediye ek binası yanı GÖKBULUT ECZ.MEHMET ALI YAPICI BUL NO:2 TERME CADDESİ DÖVİZ BÜROSU YANI.",
-   "phone": "03862133368",
+   "name": "Kaya Eczanesi",
+   "address": "eski devlet hastanesi acil karşısı Aşıkpaşa Mah. 8.Sokak No:31",
+   "phone": "03862121992",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.145781,
-   "lng": 34.160336
+   "lat": 39.156893,
+   "lng": 34.162059
   },
   {
    "district": "Kaman",
-   "name": "Berk Eczanesi",
-   "address": "25 ARALIK CAD.NO :28 KAMAN",
-   "phone": "3867122784",
+   "name": "Hayat Eczanesi",
+   "address": "CUMHURIYET MEYDANI NO:38 KAMAN",
+   "phone": "3867127210",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.359727,
-   "lng": 33.723424
+   "lat": 39.358003,
+   "lng": 33.724385
   },
   {
    "district": "Mucur",
-   "name": "Kayis Eczanesi",
-   "address": "ENVERPASA CAD. NO:10",
-   "phone": "3868123770",
+   "name": "Hendek Eczanesi",
+   "address": "YENİCE MAH.ENVERPAŞA CAD.NO:29",
+   "phone": "03868122223",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.063202,
-   "lng": 34.376335
+   "lat": 39.064625,
+   "lng": 34.376816
   }
  ],
  "sourceUrl": "https://www.aksarayeo.org.tr/nobetci-eczaneler"

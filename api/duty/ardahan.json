@@ -1,42 +1,42 @@
 {
  "city": "Ardahan",
  "code": 75,
- "dutyDay": "2026-10-26",
- "updatedAt": "2026-10-26T13:02:42.108Z",
+ "dutyDay": "2026-10-27",
+ "updatedAt": "2026-10-27T12:14:34.238Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Göle",
-   "name": "Yeni Göle Eczanesi",
-   "address": "Salim Bey Mahallesi, Oltu Caddesi No:36 Göle/ Ardahan",
-   "phone": "0554 380 1097",
-   "dutyStart": "2026-10-26T18:00:00+03:00",
-   "dutyEnd": "2026-10-27T08:00:00+03:00",
+   "name": "Derman Eczanesi",
+   "address": "KAZIM KARABEKİR MAH. KARS CADDESİ NO:9/A",
+   "phone": "0478 411 2297",
+   "dutyStart": "2026-10-27T18:00:00+03:00",
+   "dutyEnd": "2026-10-28T08:00:00+03:00",
    "approved": true,
-   "lat": 40.793003,
-   "lng": 42.607552
+   "lat": 40.793278,
+   "lng": 42.610622
   },
   {
    "district": "Hanak",
    "name": "Uygar Eczanesi",
    "address": "Hürriye Mahallesi, Atatürk Caddesi No:89/A Hanak/Ardahan",
    "phone": "0501 525 9116",
-   "dutyStart": "2026-10-26T17:00:00+03:00",
-   "dutyEnd": "2026-10-27T08:00:00+03:00",
+   "dutyStart": "2026-10-27T17:00:00+03:00",
+   "dutyEnd": "2026-10-28T08:00:00+03:00",
    "approved": true,
    "lat": 41.23756,
    "lng": 42.843979
   },
   {
    "district": "Merkez",
-   "name": "Şifa Eczanesi",
-   "address": "KARAGÖL MAHALLESİ KONGRE CADDESİ NO: 59",
-   "phone": "0543 495 6044",
-   "dutyStart": "2026-10-26T18:00:00+03:00",
-   "dutyEnd": "2026-10-27T08:30:00+03:00",
+   "name": "Kömürcü Eczanesi",
+   "address": "İnönü Mahallesi Sağlık 1 Sokak No: 7/D",
+   "phone": "0478 211 6583",
+   "dutyStart": "2026-10-27T18:00:00+03:00",
+   "dutyEnd": "2026-10-28T08:30:00+03:00",
    "approved": true,
-   "lat": 41.112247,
-   "lng": 42.700745
+   "lat": 41.094551,
+   "lng": 42.668362
   }
  ]
 }

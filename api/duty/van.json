@@ -1,42 +1,42 @@
 {
  "city": "Van",
  "code": 65,
- "dutyDay": "2026-10-26",
- "updatedAt": "2026-10-26T13:01:59.349Z",
+ "dutyDay": "2026-10-27",
+ "updatedAt": "2026-10-27T12:13:55.460Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Çatak",
-   "name": "Selçuk Eczanesi",
-   "address": "Çatak Cumhuriyet Mah. Atatürk Cad. No:9/1A",
-   "phone": "0545 563 7063",
-   "dutyStart": "2026-10-26T18:00:00+03:00",
-   "dutyEnd": "2026-10-27T08:30:00+03:00",
+   "name": "Çatak Eczanesi",
+   "address": "Cumhuriyet Mah. Atatürk Cad. Dış Kapı No:13D",
+   "phone": "0541 585 1006",
+   "dutyStart": "2026-10-27T18:00:00+03:00",
+   "dutyEnd": "2026-10-28T08:30:00+03:00",
    "approved": true,
-   "lat": 38.008499,
-   "lng": 43.061993
+   "lat": 38.008438,
+   "lng": 43.061832
   },
   {
    "district": "Erciş",
-   "name": "Sevda Eczanesi",
-   "address": "Kışla Mah. Şehitler Cad. Dış Kapı 2D",
-   "phone": "0530 497 2135",
-   "dutyStart": "2026-10-26T18:00:00+03:00",
-   "dutyEnd": "2026-10-27T08:30:00+03:00",
+   "name": "Tekbir Eczanesi",
+   "address": "Van Yolu Mah. Kara Yusuf Bey Bulvarı Dış Kapı No:105A",
+   "phone": "0507 164 4676",
+   "dutyStart": "2026-10-27T18:00:00+03:00",
+   "dutyEnd": "2026-10-28T08:30:00+03:00",
    "approved": true,
-   "lat": 39.027435,
-   "lng": 43.357784
+   "lat": 39.023926,
+   "lng": 43.370445
   },
   {
    "district": "Muradiye",
-   "name": "Yuva Eczanesi",
-   "address": "Yenişehir Mah. 117. Sok. 7-9A",
-   "phone": "0536 784 2330",
-   "dutyStart": "2026-10-26T17:00:00+03:00",
-   "dutyEnd": "2026-10-27T08:30:00+03:00",
+   "name": "Doğa Eczanesi",
+   "address": "Yenişehir Mahallesi Hastane Caddesi Dış Kapı No:37",
+   "phone": "0532 477 4998",
+   "dutyStart": "2026-10-27T17:00:00+03:00",
+   "dutyEnd": "2026-10-28T08:30:00+03:00",
    "approved": true,
-   "lat": 38.989006,
-   "lng": 43.760014
+   "lat": 38.989407,
+   "lng": 43.760136
   }
  ]
 }

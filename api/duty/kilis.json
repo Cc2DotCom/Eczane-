@@ -1,15 +1,15 @@
 {
  "city": "Kilis",
  "code": 79,
- "dutyDay": "2026-10-26",
- "updatedAt": "2026-10-26T21:03:56.275Z",
+ "dutyDay": "2026-10-27",
+ "updatedAt": "2026-10-27T12:14:47.331Z",
  "source": "Gaziantep Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Uygur Eczanesi",
-   "address": "Yaşar aktürk mh. Av. Mehmet abdi bulut cd. No:15/C Yeni hastane yolu üzeri KİLİS/Merkez",
-   "phone": "05075597879",
+   "name": "Yedi Aralik Eczanesi",
+   "address": "KARAALI MAHALLESI TÜRBEDAR SOK. NO:2/A (AKCURUN CİVARI)",
+   "phone": "03488133070",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,

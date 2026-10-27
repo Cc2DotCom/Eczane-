@@ -1,97 +1,64 @@
 {
  "city": "Uşak",
  "code": 64,
- "dutyDay": "2026-10-26",
- "updatedAt": "2026-10-26T13:01:56.000Z",
+ "dutyDay": "2026-10-27",
+ "updatedAt": "2026-10-27T12:13:52.485Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Banaz",
-   "name": "Özgür Eczanesi",
-   "address": "CUMHURİYET MH. BAŞARAN CD. N:16",
-   "phone": "0276 315 3114",
-   "dutyStart": "2026-10-26T08:30:00+03:00",
-   "dutyEnd": "2026-10-27T18:00:00+03:00",
+   "name": "Taylan Eczanesi",
+   "address": "CUMHURİYET MH. İNÖNÜ CD. NO :20/B",
+   "phone": "0276 315 6400",
+   "dutyStart": "2026-10-27T08:30:00+03:00",
+   "dutyEnd": "2026-10-28T18:00:00+03:00",
    "approved": true,
-   "lat": 38.73848,
-   "lng": 29.752827
+   "lat": 38.740032,
+   "lng": 29.751368
   },
   {
    "district": "Eşme",
-   "name": "İlker Eczanesi",
-   "address": "İSTASYON MH.2096 SOK. NO:2/A EŞME",
-   "phone": "0276 414 1428",
-   "dutyStart": "2026-10-26T08:30:00+03:00",
-   "dutyEnd": "2026-10-27T18:30:00+03:00",
+   "name": "Leyla Eczanesi",
+   "address": "İSTASYON MAH.SANAT OKULU CADDESİ NO:2/C EŞME",
+   "phone": "0534 524 6679",
+   "dutyStart": "2026-10-27T08:30:00+03:00",
+   "dutyEnd": "2026-10-28T18:30:00+03:00",
    "approved": true,
-   "lat": 38.397636,
-   "lng": 28.973738
+   "lat": 38.399895,
+   "lng": 28.971617
   },
   {
    "district": "Karahallı",
-   "name": "Barış Eczanesi",
-   "address": "KONAK MH. AÇIK PAZAR MEYDANI NO:33",
-   "phone": "0276 517 1770",
-   "dutyStart": "2026-10-26T08:30:00+03:00",
-   "dutyEnd": "2026-10-27T18:30:00+03:00",
+   "name": "Hayat Eczanesi",
+   "address": "YENİ MH. İNÖNÜ CD. KADİFE SK. NO: 2/A",
+   "phone": "0276 517 1347",
+   "dutyStart": "2026-10-27T08:30:00+03:00",
+   "dutyEnd": "2026-10-28T18:30:00+03:00",
    "approved": true,
-   "lat": 38.320847,
-   "lng": 29.531631
-  },
-  {
-   "district": "Merkez",
-   "name": "Aşiyan Eczanesi",
-   "address": "İSLİCE MH. İSMET PAŞA CD. NO:9/B",
-   "phone": "0276 215 8231",
-   "dutyStart": "2026-10-26T08:30:00+03:00",
-   "dutyEnd": "2026-10-27T18:30:00+03:00",
-   "approved": true,
-   "lat": 38.67849,
-   "lng": 29.405262
-  },
-  {
-   "district": "Merkez",
-   "name": "Demet Eczanesi",
-   "address": "ATATÜRK MH. 2.SAÇMA SK. NO:3/B",
-   "phone": "0276 231 7515",
-   "dutyStart": "2026-10-26T08:30:00+03:00",
-   "dutyEnd": "2026-10-27T18:30:00+03:00",
-   "approved": true,
-   "lat": 38.666492,
-   "lng": 29.420443
-  },
-  {
-   "district": "Merkez",
-   "name": "Ömür Eczanesi",
-   "address": "KARAAĞAÇ MH. GEDİZ ULUYOLU NO: 106/A",
-   "phone": "0276 224 6655",
-   "dutyStart": "2026-10-26T08:30:00+03:00",
-   "dutyEnd": "2026-10-27T18:30:00+03:00",
-   "approved": true,
-   "lat": 38.68119,
-   "lng": 29.397554
+   "lat": 38.32111,
+   "lng": 29.5329
   },
   {
    "district": "Sivaslı",
-   "name": "Şükran Eczanesi",
-   "address": "KONAK MAH. GAZİ BULVARI NO:125",
-   "phone": "_ 276 618 1177",
-   "dutyStart": "2026-10-26T08:30:00+03:00",
-   "dutyEnd": "2026-10-27T18:30:00+03:00",
+   "name": "Azatçam Eczanesi",
+   "address": "ATATÜRK MH. OLGUN SK.NO:6 SİVASLI",
+   "phone": "0276 618 1313",
+   "dutyStart": "2026-10-27T08:30:00+03:00",
+   "dutyEnd": "2026-10-28T18:30:00+03:00",
    "approved": true,
-   "lat": 38.498489,
-   "lng": 29.678995
+   "lat": 38.500072,
+   "lng": 29.679026
   },
   {
    "district": "Ulubey",
-   "name": "Sağlık Eczanesi",
-   "address": "GÖLBAŞI MH. HÜRRİYET CD. NO:47/A ULUBEY",
-   "phone": "0276 716 1402",
-   "dutyStart": "2026-10-26T08:30:00+03:00",
-   "dutyEnd": "2026-10-27T18:30:00+03:00",
+   "name": "Gamze Eczanesi",
+   "address": "Gölbaşı Mh. Atatürk Cd. No:6/A",
+   "phone": "0276 716 1039",
+   "dutyStart": "2026-10-27T08:30:00+03:00",
+   "dutyEnd": "2026-10-28T18:30:00+03:00",
    "approved": true,
-   "lat": 38.419388,
-   "lng": 29.290314
+   "lat": 38.419746,
+   "lng": 29.289986
   }
  ]
 }
