@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-28T12:55:00.027Z",
+ "generatedAt": "2026-10-28T16:00:01.653Z",
  "source": "e-Devlet TİTCK",
  "cities": [
   {
@@ -175,7 +175,7 @@
    "slug": "edirne",
    "code": 22,
    "dutyDay": "2026-10-28",
-   "updatedAt": "2026-10-28T12:48:01.567Z",
+   "updatedAt": "2026-10-28T15:58:33.371Z",
    "count": 12
   },
   {
@@ -239,7 +239,7 @@
    "slug": "hakkari",
    "code": 30,
    "dutyDay": "2026-10-28",
-   "updatedAt": "2026-10-28T12:48:46.700Z",
+   "updatedAt": "2026-10-28T15:58:45.596Z",
    "count": 4
   },
   {
@@ -255,7 +255,7 @@
    "slug": "isparta",
    "code": 32,
    "dutyDay": "2026-10-28",
-   "updatedAt": "2026-10-28T12:49:00.890Z",
+   "updatedAt": "2026-10-28T15:58:48.641Z",
    "count": 8
   },
   {
@@ -351,7 +351,7 @@
    "slug": "malatya",
    "code": 44,
    "dutyDay": "2026-10-28",
-   "updatedAt": "2026-10-28T12:52:01.404Z",
+   "updatedAt": "2026-10-28T15:58:57.055Z",
    "count": 5
   },
   {
@@ -382,8 +382,8 @@
    "city": "Muğla",
    "slug": "mugla",
    "code": 48,
-   "dutyDay": "2026-10-27",
-   "updatedAt": "2026-10-27T12:12:14.844Z",
+   "dutyDay": "2026-10-28",
+   "updatedAt": "2026-10-28T15:59:10.822Z",
    "count": 34
   },
   {
@@ -391,7 +391,7 @@
    "slug": "mus",
    "code": 49,
    "dutyDay": "2026-10-28",
-   "updatedAt": "2026-10-28T12:52:39.421Z",
+   "updatedAt": "2026-10-28T15:59:14.448Z",
    "count": 6
   },
   {
@@ -430,9 +430,9 @@
    "city": "Sakarya",
    "slug": "sakarya",
    "code": 54,
-   "dutyDay": "2026-10-27",
-   "updatedAt": "2026-10-27T12:12:47.365Z",
-   "count": 18
+   "dutyDay": "2026-10-28",
+   "updatedAt": "2026-10-28T15:59:27.555Z",
+   "count": 27
   },
   {
    "city": "Samsun",
@@ -470,16 +470,16 @@
    "city": "Tekirdağ",
    "slug": "tekirdag",
    "code": 59,
-   "dutyDay": "2026-10-27",
-   "updatedAt": "2026-10-27T12:13:20.525Z",
-   "count": 22
+   "dutyDay": "2026-10-28",
+   "updatedAt": "2026-10-28T15:59:55.585Z",
+   "count": 62
   },
   {
    "city": "Tokat",
    "slug": "tokat",
    "code": 60,
-   "dutyDay": "2026-10-27",
-   "updatedAt": "2026-10-27T12:13:26.554Z",
+   "dutyDay": "2026-10-28",
+   "updatedAt": "2026-10-28T15:59:59.830Z",
    "count": 10
   },
   {
