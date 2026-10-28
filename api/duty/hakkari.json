@@ -2,9 +2,53 @@
  "city": "Hakkari",
  "code": 30,
  "dutyDay": "2026-10-28",
- "updatedAt": "2026-10-28T18:53:15.080Z",
- "source": "e-Devlet TİTCK",
- "pharmacies": [],
- "unavailable": true,
- "note": "class=\"warningContainer\">Seçilen zaman aralığı için nöbetçi eczane bulunamadı. Sayfa Sonu Bağlantıları e-Devlet Kapısı English Hakkı"
+ "updatedAt": "2026-10-28T21:09:05.827Z",
+ "source": "Van Eczacı Odası",
+ "pharmacies": [
+  {
+   "district": "Merkez",
+   "name": "Umut Eczanesi",
+   "address": "PEHLIVAN MAH. DEVLET HAST. KARSISI NO:93/1",
+   "phone": "4382113200",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 37.573514,
+   "lng": 43.732111
+  },
+  {
+   "district": "Yüksekova",
+   "name": "Gever Eczanesi",
+   "address": "YÜKSEKOVA DEVLET HASTANESİ KARŞISI NO:3",
+   "phone": "04383510004",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 37.567838,
+   "lng": 44.229582
+  },
+  {
+   "district": "Şemdinli",
+   "name": "Şemdinli Eczanesi",
+   "address": "Karşıyaka Mah. Çevreyolu Cad.No:5/C",
+   "phone": "05461501130",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 37.308407,
+   "lng": 44.570159
+  },
+  {
+   "district": "Şemdinli",
+   "name": "Bahar Eczanesi",
+   "address": "MERKEZ MAH. VATAN CAD.NO:17/A",
+   "phone": "04384613122",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 37.306194,
+   "lng": 44.573294
+  }
+ ],
+ "sourceUrl": "https://www.vaneczaciodasi.org.tr/nobetci-eczaneler"
 }
