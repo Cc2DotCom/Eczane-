@@ -2,86 +2,9 @@
  "city": "Elazığ",
  "code": 23,
  "dutyDay": "2026-10-28",
- "updatedAt": "2026-10-28T12:48:06.030Z",
- "source": "Elazığ Eczacı Odası",
- "pharmacies": [
-  {
-   "district": "Merkez",
-   "name": "Şehir Eczanesi",
-   "address": "FETHİ SEKİN ŞEHİR HASTANESİ POLIKLINIK KARŞISI ÇİÇEK BÖREK BİTİŞİĞİ DOĞUKENT MAH. PROF.DR.NACİ GÖRÜR BLV.NO:44/D",
-   "phone": "04247712212",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 38.686985,
-   "lng": 39.271903
-  },
-  {
-   "district": "Merkez",
-   "name": "Sağlık Eczanesi",
-   "address": "ÇARŞI MAH. HÜRRİYET CAD.NO:8/A İZZETPAŞA CAMİSİ KARŞISI",
-   "phone": "04242180403",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 38.674459,
-   "lng": 39.224296
-  },
-  {
-   "district": "Merkez",
-   "name": "Kent Eczanesi",
-   "address": "(eski kapalı spor salonu altı-kız meslek lisesi karşısı) KÜLTÜR MAH. SEHIT IDRIS DOGAN CAD. NO:4 (eski kapalı spor salonu altı-kız meslek lisesi karşısı)",
-   "phone": "04242122011",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 38.67452,
-   "lng": 39.214288
-  },
-  {
-   "district": "Merkez",
-   "name": "Atasehir Eczanesi",
-   "address": "ATASEHIR MAHALLESI MALATYA CADDESI NO:105/C",
-   "phone": "04242476688",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 38.656412,
-   "lng": 39.156668
-  },
-  {
-   "district": "Karakoçan",
-   "name": "Karakoçan Eczanesi",
-   "address": "YENI MAH. CARSI CAD. NO:62",
-   "phone": "04247113328",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 38.955172,
-   "lng": 40.036909
-  },
-  {
-   "district": "Kovancilar",
-   "name": "Yildirim Eczanesi",
-   "address": "ÇARŞIBAŞI MAH. İLHAMİ ERTEM CAD. NO:12",
-   "phone": "04246112002",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 38.718633,
-   "lng": 39.865911
-  },
-  {
-   "district": "Palu",
-   "name": "Palu Eczanesi",
-   "address": "NUMUNE MAH.CUMHURİYET BLV.NO:16",
-   "phone": "04246512040",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 38.693169,
-   "lng": 39.927802
-  }
- ],
- "sourceUrl": "https://www.elazigeczaciodasi.org.tr/nobetci-eczaneler/elazig"
+ "updatedAt": "2026-10-28T18:53:04.946Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [],
+ "unavailable": true,
+ "note": "class=\"warningContainer\">Seçilen zaman aralığı için nöbetçi eczane bulunamadı. Sayfa Sonu Bağlantıları e-Devlet Kapısı English Hak"
 }

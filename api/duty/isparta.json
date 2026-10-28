@@ -2,8 +2,8 @@
  "city": "Isparta",
  "code": 32,
  "dutyDay": "2026-10-28",
- "updatedAt": "2026-10-28T15:58:48.641Z",
- "source": "e-Devlet TİTCK, Isparta Eczacı Odası",
+ "updatedAt": "2026-10-28T18:53:18.384Z",
+ "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Keçiborlu",
@@ -37,62 +37,6 @@
    "approved": true,
    "lat": 37.774574,
    "lng": 30.557274
-  },
-  {
-   "district": "Eğirdir",
-   "name": "Çankaya Eczanesi",
-   "address": "1.SAHİL YOLU NO:12/B",
-   "phone": "02463115985",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 37.873845,
-   "lng": 30.850481
-  },
-  {
-   "district": "Gelendost",
-   "name": "Doğan Eczanesi",
-   "address": "YENİ MAH. HÜSEYİN AVNİ PAŞA CAD. NO:11",
-   "phone": "02463814240",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 38.120948,
-   "lng": 31.01412
-  },
-  {
-   "district": "Senirkent",
-   "name": "Heybelioğlu Eczanesi",
-   "address": "TAŞMESCİT MAH. DR.TAHSİN TOLA CAD. NO:2/C",
-   "phone": "02465114418",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 38.106912,
-   "lng": 30.549955
-  },
-  {
-   "district": "Yalvaç",
-   "name": "Şenol Eczanesi",
-   "address": "ÇARŞI MAHALLESİ HASTANE CAD. NO:27/B",
-   "phone": "02464412021",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 38.296186,
-   "lng": 31.177682
-  },
-  {
-   "district": "Şarkikaraağaç",
-   "name": "Yaşam Eczanesi",
-   "address": "ULVİKALE MAH. HASTANE CAD. NO:30",
-   "phone": "05464112592",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 38.081941,
-   "lng": 31.368406
   }
- ],
- "sourceUrl": "https://www.ispartaeo.org.tr/nobetci-eczaneler"
+ ]
 }

@@ -2,53 +2,9 @@
  "city": "Kırşehir",
  "code": 40,
  "dutyDay": "2026-10-28",
- "updatedAt": "2026-10-28T12:51:29.387Z",
- "source": "Aksaray-Kırşehir Eczacı Odası",
- "pharmacies": [
-  {
-   "district": "Merkez",
-   "name": "Kismet Eczanesi",
-   "address": "basın antı sağlık ocağı karşısı Yenice Mah. Şehit Üsteğmen Keramettin Gök Bulvarı No:22",
-   "phone": "03862127908",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 39.138705,
-   "lng": 34.170587
-  },
-  {
-   "district": "Merkez",
-   "name": "Şahin Eczanesi",
-   "address": "Bağbaşı Mah. Hakkı Göçen Cad. Camizoğlu Suites Apt. No:64/A",
-   "phone": "03865021212",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 39.144392,
-   "lng": 34.146831
-  },
-  {
-   "district": "Kaman",
-   "name": "Eren Eczanesi",
-   "address": "Yeni Mah. 25 Aralık Cad. No: 5",
-   "phone": "03867127988",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 39.359839,
-   "lng": 33.723075
-  },
-  {
-   "district": "Mucur",
-   "name": "Emin Eczanesi",
-   "address": "Hamidiye Mah.İnönü Cad. No:16",
-   "phone": "03868126027",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 39.062735,
-   "lng": 34.376231
-  }
- ],
- "sourceUrl": "https://www.aksarayeo.org.tr/nobetci-eczaneler"
+ "updatedAt": "2026-10-28T18:53:28.532Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [],
+ "unavailable": true,
+ "note": "class=\"warningContainer\">Seçilen zaman aralığı için nöbetçi eczane bulunamadı. Sayfa Sonu Bağlantıları e-Devlet Kapısı English Hak"
 }
