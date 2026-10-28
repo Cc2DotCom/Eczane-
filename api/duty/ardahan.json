@@ -1,42 +1,42 @@
 {
  "city": "Ardahan",
  "code": 75,
- "dutyDay": "2026-10-27",
- "updatedAt": "2026-10-27T12:14:34.238Z",
+ "dutyDay": "2026-10-28",
+ "updatedAt": "2026-10-28T12:54:27.627Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Göle",
-   "name": "Derman Eczanesi",
-   "address": "KAZIM KARABEKİR MAH. KARS CADDESİ NO:9/A",
-   "phone": "0478 411 2297",
-   "dutyStart": "2026-10-27T18:00:00+03:00",
-   "dutyEnd": "2026-10-28T08:00:00+03:00",
+   "name": "Budak Eczanesi",
+   "address": "Kubilaybey Mahallesi Kars Caddesi 3. Sokak No:11",
+   "phone": "0478 411 3167",
+   "dutyStart": "2026-10-28T18:00:00+03:00",
+   "dutyEnd": "2026-10-29T08:00:00+03:00",
    "approved": true,
-   "lat": 40.793278,
-   "lng": 42.610622
+   "lat": 40.792747,
+   "lng": 42.610119
   },
   {
    "district": "Hanak",
    "name": "Uygar Eczanesi",
    "address": "Hürriye Mahallesi, Atatürk Caddesi No:89/A Hanak/Ardahan",
    "phone": "0501 525 9116",
-   "dutyStart": "2026-10-27T17:00:00+03:00",
-   "dutyEnd": "2026-10-28T08:00:00+03:00",
+   "dutyStart": "2026-10-28T17:00:00+03:00",
+   "dutyEnd": "2026-10-29T08:00:00+03:00",
    "approved": true,
    "lat": 41.23756,
    "lng": 42.843979
   },
   {
    "district": "Merkez",
-   "name": "Kömürcü Eczanesi",
-   "address": "İnönü Mahallesi Sağlık 1 Sokak No: 7/D",
-   "phone": "0478 211 6583",
-   "dutyStart": "2026-10-27T18:00:00+03:00",
-   "dutyEnd": "2026-10-28T08:30:00+03:00",
+   "name": "Tanış Eczanesi",
+   "address": "Sağlık Caddesi, B1 Blok No:3A Merkez/Ardahan",
+   "phone": "0478 411 3700",
+   "dutyStart": "2026-10-28T18:00:00+03:00",
+   "dutyEnd": "2026-10-29T08:30:00+03:00",
    "approved": true,
-   "lat": 41.094551,
-   "lng": 42.668362
+   "lat": 41.093971,
+   "lng": 42.668308
   }
  ]
 }

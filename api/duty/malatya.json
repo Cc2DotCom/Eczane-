@@ -1,15 +1,37 @@
 {
  "city": "Malatya",
  "code": 44,
- "dutyDay": "2026-10-27",
- "updatedAt": "2026-10-27T20:45:17.972Z",
+ "dutyDay": "2026-10-28",
+ "updatedAt": "2026-10-28T12:52:01.404Z",
  "source": "Malatya Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Aydin Eczanesi",
-   "address": "HASTANE CAD. MÜJDE HASTANESİ KARŞISI NO:11",
-   "phone": "05443220444",
+   "name": "Ömür Eczanesi",
+   "address": "KIŞLA CAD. NO:65/C",
+   "phone": "04223214215",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 38.3489236,
+   "lng": 38.323586
+  },
+  {
+   "district": "Merkez",
+   "name": "Büşra Eczanesi",
+   "address": "Özalper mahallesi aliya sokak özalper ilkokulu arkası Oran 4 sitesi karşısı",
+   "phone": "04222112200",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 38.3410589,
+   "lng": 38.2821394
+  },
+  {
+   "district": "Merkez",
+   "name": "Can Eczanesi",
+   "address": "BOSTANBAŞI MAH. ÇİFTLİK CAD. PRESTİJ EYLÜL KONUTLARI KARŞISI",
+   "phone": "05077074655",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
@@ -18,31 +40,9 @@
   },
   {
    "district": "Merkez",
-   "name": "Anadolu Eczanesi",
-   "address": "HALK SAĞLIĞI MÜD. ARKASI SITMAPINARI SAĞLIK OCAĞI GİRİŞİ",
-   "phone": "05052300199",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": null,
-   "lng": null
-  },
-  {
-   "district": "Merkez",
-   "name": "Ergöçen Eczanesi",
-   "address": "ÖZALPER MAH.YENİBAHAR CAD.NO :82/A (ÖZALPER KAVŞAĞI DOSTLAR BALIK VE TAVUK EVİ KARŞISI BAMET YANI)",
-   "phone": "04222128950",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": null,
-   "lng": null
-  },
-  {
-   "district": "Merkez",
-   "name": "Çilesiz Eczanesi",
-   "address": "ÇİLESİZ MAH ELİBOL SOK YEŞİLYURT ÇİLESİZ SEMPT PAZARI ALTI NO :5/C",
-   "phone": "04223710010",
+   "name": "Melis Eczanesi",
+   "address": "ÇAVUŞOĞLU SAĞLIK OCAĞI KARŞISI",
+   "phone": "05526071702",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
@@ -51,14 +51,14 @@
   },
   {
    "district": "Battalgazi",
-   "name": "Aksu Eczanesi",
-   "address": "ALACAKAPI MAH. KIRKGÖZ CAD. 15/B BATTALGAZİ SEMT POLİKLİNİĞİ KARŞISI BATTALGAZİ/MALATYA",
-   "phone": "05064433444",
+   "name": "Menengiç Eczanesi",
+   "address": "Meydanbaşı Mah. Osman ATEŞ Cad . No:85 Menengiç Eczanesi Battalgazi/MALATYA",
+   "phone": "04229991023",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.4265267,
-   "lng": 38.3666997
+   "lat": 38.4138473,
+   "lng": 38.363356
   }
  ],
  "sourceUrl": "https://www.malatyaeczaciodasi.org.tr/nobetci-eczaneler"

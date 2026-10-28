@@ -1,86 +1,64 @@
 {
  "city": "Sinop",
  "code": 57,
- "dutyDay": "2026-10-27",
- "updatedAt": "2026-10-27T12:13:03.781Z",
+ "dutyDay": "2026-10-28",
+ "updatedAt": "2026-10-28T12:53:17.925Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Ayancık",
-   "name": "Güven Eczanesi",
-   "address": "YALI MAH. ATATÜRK CAD. NO:24/A",
-   "phone": "0368 613 3388",
-   "dutyStart": "2026-10-27T17:00:00+03:00",
-   "dutyEnd": "2026-10-28T09:00:00+03:00",
+   "name": "Merve Eczanesi",
+   "address": "YALI MAH. ATATÜRK CAD. NO:30/A",
+   "phone": "0368 613 4188",
+   "dutyStart": "2026-10-28T17:00:00+03:00",
+   "dutyEnd": "2026-10-29T09:00:00+03:00",
    "approved": true,
-   "lat": 41.943932,
-   "lng": 34.588242
+   "lat": 41.943466,
+   "lng": 34.588264
   },
   {
    "district": "Boyabat",
-   "name": "Elif Eczanesi",
-   "address": "ÇAMLICA MAH. EROL DEMİRKOL CAD. NO:3/F",
-   "phone": "0368 315 5882",
-   "dutyStart": "2026-10-27T18:00:00+03:00",
-   "dutyEnd": "2026-10-28T08:00:00+03:00",
+   "name": "Deva Eczanesi",
+   "address": "CAMİİKEBİR MH. ADNAN MENDERES BLV. No:47/D",
+   "phone": "0546 770 3538",
+   "dutyStart": "2026-10-28T18:00:00+03:00",
+   "dutyEnd": "2026-10-29T08:00:00+03:00",
    "approved": true,
-   "lat": 41.463333,
-   "lng": 34.783558
-  },
-  {
-   "district": "Durağan",
-   "name": "Altinkaynak Eczanesi",
-   "address": "MERKEZ MAH. PLEVNE CAD. NO:17/2",
-   "phone": "0368 416 1451",
-   "dutyStart": "2026-10-27T18:00:00+03:00",
-   "dutyEnd": "2026-10-28T08:30:00+03:00",
-   "approved": true,
-   "lat": 41.416012,
-   "lng": 35.056438
+   "lat": 41.465378,
+   "lng": 34.773109
   },
   {
    "district": "Erfelek",
-   "name": "Kumsal Eczanesi",
-   "address": "MERKEZ MH. ÇINARLIK CD. NO: 20/B",
-   "phone": "0368 511 2000",
-   "dutyStart": "2026-10-27T19:00:00+03:00",
-   "dutyEnd": "2026-10-28T08:00:00+03:00",
+   "name": "Erfelek Eczanesi",
+   "address": "MERKEZ MAH. CUMHURİYET CAD. NO:26",
+   "phone": "0368 511 2039",
+   "dutyStart": "2026-10-28T19:00:00+03:00",
+   "dutyEnd": "2026-10-29T08:00:00+03:00",
    "approved": true,
-   "lat": 41.879681,
-   "lng": 34.890827
-  },
-  {
-   "district": "Gerze",
-   "name": "Yumuk Eczanesi",
-   "address": "ÇARŞI MAH. GENERAL OSMAN PAMUKOĞLU CAD. NO:6",
-   "phone": "0368 718 4428",
-   "dutyStart": "2026-10-27T18:00:00+03:00",
-   "dutyEnd": "2026-10-28T08:30:00+03:00",
-   "approved": true,
-   "lat": 41.80254,
-   "lng": 35.197929
+   "lat": 41.87989,
+   "lng": 34.906693
   },
   {
    "district": "Merkez",
-   "name": "İnci Eczanesi",
-   "address": "KORUCUK KÖYÜ TIRKIŞLAR MAH. NO:9/2A-2B",
-   "phone": "0368 271 5656",
-   "dutyStart": "2026-10-27T18:00:00+03:00",
-   "dutyEnd": "2026-10-28T08:00:00+03:00",
+   "name": "Merkez Eczanesi",
+   "address": "MEYDANKAPI MAH. SAKARYA CAD. NO:31",
+   "phone": "0368 261 7863",
+   "dutyStart": "2026-10-28T18:00:00+03:00",
+   "dutyEnd": "2026-10-29T08:00:00+03:00",
    "approved": true,
-   "lat": 42.00325,
-   "lng": 35.078705
+   "lat": 42.026096,
+   "lng": 35.148617
   },
   {
    "district": "Türkeli",
-   "name": "Özlem Eczanesi",
-   "address": "GÜZELYURT MAH. CUMHURİYET CAD. NO:10/B",
-   "phone": "0368 671 2692",
-   "dutyStart": "2026-10-27T18:00:00+03:00",
-   "dutyEnd": "2026-10-28T08:00:00+03:00",
+   "name": "Gizem Eczanesi",
+   "address": "GÜZELYURT MH. ALPARSLAN TÜRKEŞ CD. NO:9/A",
+   "phone": "0368 671 2792",
+   "dutyStart": "2026-10-28T18:00:00+03:00",
+   "dutyEnd": "2026-10-29T08:00:00+03:00",
    "approved": true,
-   "lat": 41.946556,
-   "lng": 34.33662
+   "lat": 41.947079,
+   "lng": 34.337921
   }
  ]
 }

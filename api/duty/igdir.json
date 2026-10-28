@@ -1,42 +1,42 @@
 {
  "city": "Iğdır",
  "code": 76,
- "dutyDay": "2026-10-27",
- "updatedAt": "2026-10-27T12:14:36.661Z",
+ "dutyDay": "2026-10-28",
+ "updatedAt": "2026-10-28T12:54:30.535Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Aralık",
-   "name": "Yavuz Eczanesi",
-   "address": "Karşıyaka Mahallesi, Milli Egemenlik Caddesi No:4",
-   "phone": "0476 227 7475",
-   "dutyStart": "2026-10-27T18:30:00+03:00",
-   "dutyEnd": "2026-10-28T08:00:00+03:00",
+   "name": "Can Eczanesi",
+   "address": "Karşıyaka Mh. Milli Egemenlik Cd. No:37/C",
+   "phone": "0551 230 5253",
+   "dutyStart": "2026-10-28T18:30:00+03:00",
+   "dutyEnd": "2026-10-29T08:00:00+03:00",
    "approved": true,
-   "lat": 39.873154,
-   "lng": 44.515427
+   "lat": 39.871346,
+   "lng": 44.514355
   },
   {
    "district": "Merkez",
-   "name": "Özcan Eczanesi",
-   "address": "Özgür Mahallesi Genç Osman Caddesi No:1/A Merkez/IĞDIR",
-   "phone": "0476 227 4030",
-   "dutyStart": "2026-10-27T18:30:00+03:00",
-   "dutyEnd": "2026-10-28T08:00:00+03:00",
+   "name": "Doğan Eczanesi",
+   "address": "14 Kasım Mahallesi",
+   "phone": "0476 502 0000",
+   "dutyStart": "2026-10-28T18:30:00+03:00",
+   "dutyEnd": "2026-10-29T08:00:00+03:00",
    "approved": true,
-   "lat": 39.91758,
-   "lng": 44.045506
+   "lat": 39.936607,
+   "lng": 44.073162
   },
   {
    "district": "Tuzluca",
-   "name": "İrem Eczanesi",
-   "address": "Cumhuriyet Mh. Yakup Ulutaş Cd. No:6/4",
-   "phone": "0507 714 4357",
-   "dutyStart": "2026-10-27T18:00:00+03:00",
-   "dutyEnd": "2026-10-28T07:30:00+03:00",
+   "name": "Aydin Eczanesi",
+   "address": "Cumhuriyet mahallesi , sağlık ocağı yolu sokak No: 14",
+   "phone": "0538 983 0845",
+   "dutyStart": "2026-10-28T18:00:00+03:00",
+   "dutyEnd": "2026-10-29T07:30:00+03:00",
    "approved": true,
-   "lat": 40.040417,
-   "lng": 43.662785
+   "lat": 40.040909,
+   "lng": 43.663303
   }
  ]
 }

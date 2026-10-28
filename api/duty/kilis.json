@@ -1,15 +1,15 @@
 {
  "city": "Kilis",
  "code": 79,
- "dutyDay": "2026-10-27",
- "updatedAt": "2026-10-27T20:45:26.782Z",
+ "dutyDay": "2026-10-28",
+ "updatedAt": "2026-10-28T12:54:41.885Z",
  "source": "Gaziantep Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Yedi Aralik Eczanesi",
-   "address": "KARAALI MAHALLESI TÜRBEDAR SOK. NO:2/A (AKCURUN CİVARI)",
-   "phone": "03488133070",
+   "name": "Bilge Eczanesi",
+   "address": "Albay İbrahim Karaoğlanoğlu Mah. Ömer Halisdemir cd. No:31 E (Yeni Hastane Yolu Üzeri)",
+   "phone": "03488139464",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,

@@ -1,75 +1,64 @@
 {
  "city": "Isparta",
  "code": 32,
- "dutyDay": "2026-10-27",
- "updatedAt": "2026-10-27T20:45:04.869Z",
+ "dutyDay": "2026-10-28",
+ "updatedAt": "2026-10-28T12:49:00.890Z",
  "source": "e-Devlet TİTCK, Isparta Eczacı Odası",
  "pharmacies": [
   {
    "district": "Keçiborlu",
-   "name": "Keçiborlu Eczanesi",
-   "address": "HASANBEY MAH. ŞEHİT ÖMER HALİSDEMİR CAD. NO:10",
-   "phone": "0246 541 4054",
-   "dutyStart": "2026-10-27T08:00:00+03:00",
-   "dutyEnd": "2026-10-28T08:00:00+03:00",
+   "name": "Demir Eczanesi",
+   "address": "YUKARI MAHALLE ATATÜRK CADDESİ NO 127/B",
+   "phone": "0246 541 4318",
+   "dutyStart": "2026-10-28T08:00:00+03:00",
+   "dutyEnd": "2026-10-29T08:00:00+03:00",
    "approved": true,
-   "lat": 37.943069,
-   "lng": 30.300692
+   "lat": 37.947071,
+   "lng": 30.303968
   },
   {
    "district": "Merkez",
-   "name": "Dilek Eczanesi",
-   "address": "Davraz Mah. 104. Cadde No:40A/Z05",
-   "phone": "0246 218 2777",
-   "dutyStart": "2026-10-27T18:00:00+03:00",
-   "dutyEnd": "2026-10-28T08:00:00+03:00",
+   "name": "Gök Eczanesi",
+   "address": "HIZIRBEY MAH. 1520 SOKAK NO:15",
+   "phone": "0246 218 0836",
+   "dutyStart": "2026-10-28T18:00:00+03:00",
+   "dutyEnd": "2026-10-29T08:00:00+03:00",
    "approved": true,
-   "lat": 37.774776,
-   "lng": 30.560776
+   "lat": 37.760334,
+   "lng": 30.546944
   },
   {
    "district": "Merkez",
-   "name": "Doğa Eczanesi",
-   "address": "Emre Mahallesi 123.Cadde No:57-59",
-   "phone": "0246 502 0402",
-   "dutyStart": "2026-10-27T18:00:00+03:00",
-   "dutyEnd": "2026-10-28T08:00:00+03:00",
+   "name": "Hizir Eczanesi",
+   "address": "SANAYİ MAHALLESİ 104.CADDE NO:43/2",
+   "phone": "0246 218 6460",
+   "dutyStart": "2026-10-28T18:00:00+03:00",
+   "dutyEnd": "2026-10-29T08:00:00+03:00",
    "approved": true,
-   "lat": 37.752384,
-   "lng": 30.555433
-  },
-  {
-   "district": "Merkez",
-   "name": "Esra Eczanesi",
-   "address": "KURTULUŞ MAH.1420 SOKAK NO:2/12",
-   "phone": "0246 232 7565",
-   "dutyStart": "2026-10-27T18:00:00+03:00",
-   "dutyEnd": "2026-10-28T08:00:00+03:00",
-   "approved": true,
-   "lat": 37.760143,
-   "lng": 30.556522
+   "lat": 37.774574,
+   "lng": 30.557274
   },
   {
    "district": "Eğirdir",
-   "name": "Mavigöl Eczanesi",
-   "address": "DEMİRKAPI MAH. İSA KÖKLÜ CAD. NO:18/A",
-   "phone": "02463116005",
+   "name": "Çankaya Eczanesi",
+   "address": "1.SAHİL YOLU NO:12/B",
+   "phone": "02463115985",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.87372,
-   "lng": 30.850308
+   "lat": 37.873845,
+   "lng": 30.850481
   },
   {
    "district": "Gelendost",
-   "name": "Erol Eczanesi",
-   "address": "MUHARREM MAH. HÜSEYİN AVNİ PAŞA CAD. NO:13",
-   "phone": "02463813746",
+   "name": "Doğan Eczanesi",
+   "address": "YENİ MAH. HÜSEYİN AVNİ PAŞA CAD. NO:11",
+   "phone": "02463814240",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.120606,
-   "lng": 31.015108
+   "lat": 38.120948,
+   "lng": 31.01412
   },
   {
    "district": "Senirkent",
@@ -84,14 +73,25 @@
   },
   {
    "district": "Yalvaç",
-   "name": "Hayat Eczanesi",
-   "address": "ÇARŞI MAH. GAZİ PAŞA CAD. NO:38",
-   "phone": "02464415356",
+   "name": "Şenol Eczanesi",
+   "address": "ÇARŞI MAHALLESİ HASTANE CAD. NO:27/B",
+   "phone": "02464412021",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.296379,
-   "lng": 31.179522
+   "lat": 38.296186,
+   "lng": 31.177682
+  },
+  {
+   "district": "Şarkikaraağaç",
+   "name": "Yaşam Eczanesi",
+   "address": "ULVİKALE MAH. HASTANE CAD. NO:30",
+   "phone": "05464112592",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 38.081941,
+   "lng": 31.368406
   }
  ],
  "sourceUrl": "https://www.ispartaeo.org.tr/nobetci-eczaneler"

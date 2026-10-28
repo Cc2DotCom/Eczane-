@@ -1,42 +1,53 @@
 {
  "city": "Van",
  "code": 65,
- "dutyDay": "2026-10-27",
- "updatedAt": "2026-10-27T12:13:55.460Z",
+ "dutyDay": "2026-10-28",
+ "updatedAt": "2026-10-28T12:53:53.947Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Çatak",
-   "name": "Çatak Eczanesi",
-   "address": "Cumhuriyet Mah. Atatürk Cad. Dış Kapı No:13D",
-   "phone": "0541 585 1006",
-   "dutyStart": "2026-10-27T18:00:00+03:00",
-   "dutyEnd": "2026-10-28T08:30:00+03:00",
+   "name": "Selçuk Eczanesi",
+   "address": "Çatak Cumhuriyet Mah. Atatürk Cad. No:9/1A",
+   "phone": "0545 563 7063",
+   "dutyStart": "2026-10-28T18:00:00+03:00",
+   "dutyEnd": "2026-10-29T08:30:00+03:00",
    "approved": true,
-   "lat": 38.008438,
-   "lng": 43.061832
+   "lat": 38.008499,
+   "lng": 43.061993
   },
   {
    "district": "Erciş",
-   "name": "Tekbir Eczanesi",
-   "address": "Van Yolu Mah. Kara Yusuf Bey Bulvarı Dış Kapı No:105A",
-   "phone": "0507 164 4676",
-   "dutyStart": "2026-10-27T18:00:00+03:00",
-   "dutyEnd": "2026-10-28T08:30:00+03:00",
+   "name": "Bilici Eczanesi",
+   "address": "Erciş İlçe Kışla Mah. Çınar Cad. 55. Sok. 9/1",
+   "phone": "0432 354 3200",
+   "dutyStart": "2026-10-28T18:00:00+03:00",
+   "dutyEnd": "2026-10-29T08:30:00+03:00",
    "approved": true,
-   "lat": 39.023926,
-   "lng": 43.370445
+   "lat": 39.017773,
+   "lng": 43.352558
+  },
+  {
+   "district": "Erciş",
+   "name": "Hekimoğlu Eczanesi",
+   "address": "VANYOLU MAH. KARA YUSUF BEY BULVARI DIŞKAPI NO:102F",
+   "phone": "0539 893 4206",
+   "dutyStart": "2026-10-28T18:00:00+03:00",
+   "dutyEnd": "2026-10-29T08:30:00+03:00",
+   "approved": true,
+   "lat": 39.024395,
+   "lng": 43.369846
   },
   {
    "district": "Muradiye",
-   "name": "Doğa Eczanesi",
-   "address": "Yenişehir Mahallesi Hastane Caddesi Dış Kapı No:37",
-   "phone": "0532 477 4998",
-   "dutyStart": "2026-10-27T17:00:00+03:00",
-   "dutyEnd": "2026-10-28T08:30:00+03:00",
+   "name": "Hayat Eczanesi",
+   "address": "Yenişehir Mah. Hastane Cad. NO: 31",
+   "phone": "0432 451 2032",
+   "dutyStart": "2026-10-28T17:00:00+03:00",
+   "dutyEnd": "2026-10-29T08:30:00+03:00",
    "approved": true,
-   "lat": 38.989407,
-   "lng": 43.760136
+   "lat": 38.989517,
+   "lng": 43.760262
   }
  ]
 }
