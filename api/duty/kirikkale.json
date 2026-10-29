@@ -1,64 +1,53 @@
 {
  "city": "Kırıkkale",
  "code": 71,
- "dutyDay": "2026-10-28",
- "updatedAt": "2026-10-28T12:54:14.605Z",
+ "dutyDay": "2026-10-29",
+ "updatedAt": "2026-10-29T13:01:48.654Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
-   "district": "Delice",
-   "name": "Delice Eczanesi",
-   "address": "CUMHURİYET MAH. ATATÜRK BULVARI NO:6/C DELİCE/KIRIKKALE",
-   "phone": "0318 618 5609",
-   "dutyStart": "2026-10-28T08:30:00+03:00",
-   "dutyEnd": "2026-10-28T22:00:00+03:00",
-   "approved": true,
-   "lat": 39.94426,
-   "lng": 34.032265
-  },
-  {
    "district": "Karakeçili",
-   "name": "Metin Eczanesi",
-   "address": "KURTULUŞ MAH.İNÖNÜ CAD. NO:1/C KARAKEÇİLİ/KIRIKKALE",
-   "phone": "0318 474 3033",
-   "dutyStart": "2026-10-28T18:30:00+03:00",
-   "dutyEnd": "2026-10-29T08:30:00+03:00",
+   "name": "Karakeçili Eczanesi",
+   "address": "Fatih Sultan Mehmet Mahallesi Hürriyet Caddesi No:4/A Karakeçili / Kırıkkale",
+   "phone": "0505 681 7381",
+   "dutyStart": "2026-10-29T18:30:00+03:00",
+   "dutyEnd": "2026-10-30T08:30:00+03:00",
    "approved": true,
-   "lat": 39.59354,
-   "lng": 33.378311
+   "lat": 39.593029,
+   "lng": 33.378559
   },
   {
    "district": "Keskin",
-   "name": "Mert Eczanesi",
-   "address": "BOZKURT MAH.MERT SOK.NO:32 KESKİN/K.KALE",
-   "phone": "0318 515 4760",
-   "dutyStart": "2026-10-28T08:30:00+03:00",
-   "dutyEnd": "2026-10-29T08:30:00+03:00",
+   "name": "Rana Eczanesi",
+   "address": "BOZKURT MAH.MERT SOK:NO:36 KESKİN/KIRIKKALE",
+   "phone": "3 185 153 257_",
+   "dutyStart": "2026-10-29T08:30:00+03:00",
+   "dutyEnd": "2026-10-30T08:30:00+03:00",
    "approved": true,
-   "lat": 39.673637,
-   "lng": 33.615711
+   "lat": 39.67366,
+   "lng": 33.615814
+  },
+  {
+   "district": "Merkez",
+   "name": "Başkent Eczanesi",
+   "address": "YENİDOĞAN MAH.ZAFER CAD.NO:12/D",
+   "phone": "0318 225 1200",
+   "dutyStart": "2026-10-29T08:30:00+03:00",
+   "dutyEnd": "2026-10-30T08:30:00+03:00",
+   "approved": true,
+   "lat": 39.840717,
+   "lng": 33.505863
   },
   {
    "district": "Merkez",
    "name": "Güleser Eczanesi",
    "address": "YENİ MAHALLE 327.SOKAK N0:24/B MERKEZ/KIRIKKALE",
    "phone": "0318 218 3040",
-   "dutyStart": "2026-10-28T08:30:00+03:00",
-   "dutyEnd": "2026-10-29T08:30:00+03:00",
+   "dutyStart": "2026-10-29T08:30:00+03:00",
+   "dutyEnd": "2026-10-30T08:30:00+03:00",
    "approved": true,
    "lat": 39.838387,
    "lng": 33.492844
-  },
-  {
-   "district": "Merkez",
-   "name": "Yalçın Eczanesi",
-   "address": "YAYLACIK MAH.ANKARA CAD.NO:25/A KIRIKKALE",
-   "phone": "0318 218 2892",
-   "dutyStart": "2026-10-28T08:30:00+03:00",
-   "dutyEnd": "2026-10-29T08:30:00+03:00",
-   "approved": true,
-   "lat": 39.84396,
-   "lng": 33.503147
   }
  ]
 }

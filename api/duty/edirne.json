@@ -1,31 +1,142 @@
 {
  "city": "Edirne",
  "code": 22,
- "dutyDay": "2026-10-28",
- "updatedAt": "2026-10-28T18:52:59.785Z",
- "source": "e-Devlet TİTCK",
+ "dutyDay": "2026-10-29",
+ "updatedAt": "2026-10-29T12:56:11.305Z",
+ "source": "e-Devlet TİTCK, Edirne Eczacı Odası",
  "pharmacies": [
   {
    "district": "Havsa",
-   "name": "Derman Eczanesi",
-   "address": "23 KASIM CAD. NO:4/D",
-   "phone": "0284 336 1549",
-   "dutyStart": "2026-10-28T18:00:00+03:00",
-   "dutyEnd": "2026-10-29T08:30:00+03:00",
+   "name": "Petek Eczanesi",
+   "address": "CUMHURİYET MAHALLESİ FATİH CADDESİ NO:95F",
+   "phone": "0530 396 4994",
+   "dutyStart": "2026-10-29T08:30:00+03:00",
+   "dutyEnd": "2026-10-30T08:30:00+03:00",
    "approved": true,
-   "lat": 41.549706,
-   "lng": 26.822157
+   "lat": 41.545963,
+   "lng": 26.829653
   },
   {
    "district": "Havsa",
-   "name": "Gün Eczanesi",
-   "address": "HACI İSA MAHALLESİ 23 KASIM CADDESİ NO:22/F",
-   "phone": "0284 336 1325",
-   "dutyStart": "2026-10-28T18:00:00+03:00",
-   "dutyEnd": "2026-10-29T08:30:00+03:00",
+   "name": "Yavuz Eczanesi",
+   "address": "VAROŞ MAHALLESİ UZUNKÖPRÜ CADDESİ NO:5/B",
+   "phone": "0284 336 2473",
+   "dutyStart": "2026-10-29T18:00:00+03:00",
+   "dutyEnd": "2026-10-30T08:30:00+03:00",
    "approved": true,
-   "lat": 41.549488,
-   "lng": 26.821152
+   "lat": 41.548862,
+   "lng": 26.821615
+  },
+  {
+   "district": "Merkez",
+   "name": "Deniz Eczanesi",
+   "address": "SARICAPASA MAH.ÇUKUR SOK NO:25/11 AŞİYAN YOKUŞU (ESKİ DEVLET HASTANESİ KARŞISI)",
+   "phone": "02842131406",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 41.67449,
+   "lng": 26.562347
+  },
+  {
+   "district": "Merkez",
+   "name": "Şentürk Eczanesi",
+   "address": "FATİH MAHALLESİ ÜMRAN AKKAN CADDESİ NO:17/B ESENTEPE MİGROS YANI",
+   "phone": "02842351923",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 41.660169,
+   "lng": 26.596166
+  },
+  {
+   "district": "Merkez",
+   "name": "Şimşek Eczanesi",
+   "address": "TIP FAKÜLTESI KAVSAGI D-100 KARAYOLU ÜZERI NO:2",
+   "phone": "02842363377",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 41.636712,
+   "lng": 26.609303
+  },
+  {
+   "district": "Enez",
+   "name": "Saygin Eczanesi",
+   "address": "GAZI ÖMERBEY MAH. KALE CAD. NO:11",
+   "phone": "2848116147",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 40.724814,
+   "lng": 26.084344
+  },
+  {
+   "district": "İpsala",
+   "name": "İpsala Taş Eczanesi",
+   "address": "bayrambey mah. dr sadık ahmet caddesı 75/b",
+   "phone": "02846162284",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 40.917259,
+   "lng": 26.380692
+  },
+  {
+   "district": "Keşan",
+   "name": "Türkkal Eczanesi",
+   "address": "AŞAĞI ZAFERİYE MAH.EVREŞE CD.1.E/BLOK NO:2 KEŞAN",
+   "phone": "02847149344",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 40.84097,
+   "lng": 26.629299
+  },
+  {
+   "district": "Lalapaşa",
+   "name": "Sevil Eczanesi",
+   "address": "CUMHURIYET CAD.NO:36/B",
+   "phone": "2843214032",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 41.839311,
+   "lng": 26.732826
+  },
+  {
+   "district": "Meriç",
+   "name": "Öden Eczanesi",
+   "address": "CUMHURIYET CAD. NO:6",
+   "phone": "2844151419",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 41.190576,
+   "lng": 26.418861
+  },
+  {
+   "district": "Uzunköprü",
+   "name": "Halit Orhon Eczanesi",
+   "address": "HABİP HOCA MAH. YUSUF KİREZ SOK. NO:11",
+   "phone": "02845131333",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 41.260219,
+   "lng": 26.68571
+  },
+  {
+   "district": "Süloğlu",
+   "name": "Süloglu Eczanesi",
+   "address": "ŞAFAK MAH. EDİRNE CAD. NO:109/1",
+   "phone": "02843113689",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 41.76645,
+   "lng": 26.910025
   }
- ]
+ ],
+ "sourceUrl": "https://www.edirneeo.org.tr/nobetci-eczaneler"
 }

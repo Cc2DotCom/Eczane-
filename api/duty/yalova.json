@@ -1,86 +1,86 @@
 {
  "city": "Yalova",
  "code": 77,
- "dutyDay": "2026-10-28",
- "updatedAt": "2026-10-28T12:54:34.537Z",
+ "dutyDay": "2026-10-29",
+ "updatedAt": "2026-10-29T13:02:06.995Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Altınova",
-   "name": "Esra Gül Eczanesi",
-   "address": "HÜRRİYET MAH. BURSA CAD. NO:42/3",
-   "phone": "0226 461 2608",
-   "dutyStart": "2026-10-28T19:00:00+03:00",
-   "dutyEnd": "2026-10-29T09:00:00+03:00",
+   "name": "Simge Eczanesi",
+   "address": "DENİZGÖREN MAH. 85 SOK. NO:14/C-D",
+   "phone": "0226 463 1485",
+   "dutyStart": "2026-10-29T19:00:00+03:00",
+   "dutyEnd": "2026-10-30T09:00:00+03:00",
    "approved": true,
-   "lat": 40.694393,
-   "lng": 29.508457
+   "lat": 40.672409,
+   "lng": 29.483133
   },
   {
    "district": "Armutlu",
-   "name": "Arda Eczanesi",
-   "address": "KARŞIYAKA MAH. OKUL CAD. NO:3/A",
-   "phone": "0226 531 2896",
-   "dutyStart": "2026-10-28T19:00:00+03:00",
-   "dutyEnd": "2026-10-29T09:00:00+03:00",
+   "name": "İskele Eczanesi",
+   "address": "BAYIR MAH. ATATÜRK CAD. NO:123-C/12",
+   "phone": "0554 349 9338",
+   "dutyStart": "2026-10-29T19:00:00+03:00",
+   "dutyEnd": "2026-10-30T09:00:00+03:00",
    "approved": true,
-   "lat": 40.519695,
-   "lng": 28.827698
+   "lat": 40.509464,
+   "lng": 28.837183
   },
   {
    "district": "Çınarcık",
-   "name": "İrem Naz Eczanesi",
-   "address": "TAŞLİMAN MAH. AHMET SUGÜN CAD. NO:38B/14",
-   "phone": "0535 293 7038",
-   "dutyStart": "2026-10-28T19:00:00+03:00",
-   "dutyEnd": "2026-10-29T09:00:00+03:00",
+   "name": "Çınarcık Eczanesi",
+   "address": "HARMANLAR MAH. VALİ AKI CAD. BAŞKAN APT. Sit. NO:3C",
+   "phone": "0226 245 1649",
+   "dutyStart": "2026-10-29T19:00:00+03:00",
+   "dutyEnd": "2026-10-30T09:00:00+03:00",
    "approved": true,
-   "lat": 40.646198,
-   "lng": 29.126251
+   "lat": 40.645496,
+   "lng": 29.118486
   },
   {
    "district": "Çiftlikköy",
-   "name": "Özbek Eczanesi",
-   "address": "ÇİFTLİK MAH. SAKARYA CAD. NO:44/10",
-   "phone": "0531 774 2777",
-   "dutyStart": "2026-10-28T19:00:00+03:00",
-   "dutyEnd": "2026-10-29T09:00:00+03:00",
+   "name": "Yakamoz Eczanesi",
+   "address": "ÇİFTLİK MAH. ATATÜRK CAD. NO:68/2",
+   "phone": "0226 352 5525",
+   "dutyStart": "2026-10-29T19:00:00+03:00",
+   "dutyEnd": "2026-10-30T09:00:00+03:00",
    "approved": true,
-   "lat": 40.660984,
-   "lng": 29.328669
+   "lat": 40.661396,
+   "lng": 29.324278
   },
   {
    "district": "Merkez",
-   "name": "Cadde Eczanesi",
-   "address": "RÜSTEM PAŞA MAH.FATİH CAD.NO:4/B",
-   "phone": "0226 812 2020",
-   "dutyStart": "2026-10-28T19:00:00+03:00",
-   "dutyEnd": "2026-10-29T09:00:00+03:00",
+   "name": "İrmak Eczanesi",
+   "address": "RÜSTEM PAŞA MAH. YESARİ ASIM SOK. NO:40/A",
+   "phone": "0226 814 6841",
+   "dutyStart": "2026-10-29T19:00:00+03:00",
+   "dutyEnd": "2026-10-30T09:00:00+03:00",
    "approved": true,
-   "lat": 40.656685,
-   "lng": 29.270325
+   "lat": 40.652805,
+   "lng": 29.26672
   },
   {
    "district": "Merkez",
-   "name": "Nazli Eczanesi",
-   "address": "DERE MAH. MEHMET DURMAN CAD. NO:68/A",
-   "phone": "0226 814 5677",
-   "dutyStart": "2026-10-28T19:00:00+03:00",
-   "dutyEnd": "2026-10-29T09:00:00+03:00",
+   "name": "İrem Eczanesi",
+   "address": "BAĞLARBAŞI MAH. KINALI SOK. NO: 1/14",
+   "phone": "0226 813 4010",
+   "dutyStart": "2026-10-29T19:00:00+03:00",
+   "dutyEnd": "2026-10-30T09:00:00+03:00",
    "approved": true,
-   "lat": 40.646885,
-   "lng": 29.265486
+   "lat": 40.634361,
+   "lng": 29.268393
   },
   {
    "district": "Merkez",
-   "name": "Selin Akçın Eczanesi",
-   "address": "RÜSTEMPAŞA MAH. İSMET ACAR CAD. NO:37/A",
-   "phone": "0226 814 4286",
-   "dutyStart": "2026-10-28T19:00:00+03:00",
-   "dutyEnd": "2026-10-29T09:00:00+03:00",
+   "name": "Lale Eczanesi",
+   "address": "SÜLEYMAN BEY MAH. CENGİZ KOÇAL CAD. NO:40/A",
+   "phone": "0226 814 2208",
+   "dutyStart": "2026-10-29T19:00:00+03:00",
+   "dutyEnd": "2026-10-30T09:00:00+03:00",
    "approved": true,
-   "lat": 40.652126,
-   "lng": 29.270069
+   "lat": 40.658314,
+   "lng": 29.272551
   }
  ]
 }

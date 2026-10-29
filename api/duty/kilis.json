@@ -1,15 +1,26 @@
 {
  "city": "Kilis",
  "code": 79,
- "dutyDay": "2026-10-28",
- "updatedAt": "2026-10-28T21:09:28.540Z",
+ "dutyDay": "2026-10-29",
+ "updatedAt": "2026-10-29T13:02:12.265Z",
  "source": "Gaziantep Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Bilge Eczanesi",
-   "address": "Albay İbrahim Karaoğlanoğlu Mah. Ömer Halisdemir cd. No:31 E (Yeni Hastane Yolu Üzeri)",
-   "phone": "03488139464",
+   "name": "Neba Eczanesi",
+   "address": "İsmet Paşa Mahallesi Doğan Güreş Paşa Bulvarı No :42/A (İslahiye Yolu Üzeri)",
+   "phone": "03488138585",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": null,
+   "lng": null
+  },
+  {
+   "district": "Merkez",
+   "name": "Nur Eczanesi",
+   "address": "KAZIM KARABEKİR MAH. SENA SK NO 3/A (Çevre yolu Kilis il özel idare karşısı)",
+   "phone": "03488134271",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,

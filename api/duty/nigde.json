@@ -1,86 +1,97 @@
 {
  "city": "Niğde",
  "code": 51,
- "dutyDay": "2026-10-28",
- "updatedAt": "2026-10-28T12:52:47.406Z",
+ "dutyDay": "2026-10-29",
+ "updatedAt": "2026-10-29T13:00:16.855Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Altunhisar",
-   "name": "Nazli Eczanesi",
-   "address": "İstiklal Mah. Şehit Abdulkadir Tanık Cad. No:13/1",
-   "phone": "0388 611 2121",
-   "dutyStart": "2026-10-28T17:00:00+03:00",
-   "dutyEnd": "2026-10-29T08:30:00+03:00",
+   "name": "Akinci Eczanesi",
+   "address": "İstiklal Mah. Şehit Abdulkadir Tanık Cad. No:9B",
+   "phone": "0388 611 3183",
+   "dutyStart": "2026-10-29T17:00:00+03:00",
+   "dutyEnd": "2026-10-30T08:30:00+03:00",
    "approved": true,
-   "lat": 37.984203,
-   "lng": 34.373482
+   "lat": 37.983162,
+   "lng": 34.373711
   },
   {
    "district": "Bor",
-   "name": "Oğuz Eczanesi",
-   "address": "Ahmet Kuddusi Mah. Doğan Baran Cad. No:76A",
-   "phone": "0388 311 4306",
-   "dutyStart": "2026-10-28T18:30:00+03:00",
-   "dutyEnd": "2026-10-29T08:30:00+03:00",
+   "name": "Biyik Eczanesi",
+   "address": "Yeni Harım Mah. Sakarya Cad. No:70D",
+   "phone": "0388 311 4147",
+   "dutyStart": "2026-10-29T18:30:00+03:00",
+   "dutyEnd": "2026-10-30T08:30:00+03:00",
    "approved": true,
-   "lat": 37.913963,
-   "lng": 34.560108
+   "lat": 37.880169,
+   "lng": 34.556763
   },
   {
    "district": "Çamardı",
-   "name": "Çamardı Eczanesi",
-   "address": "Bereketli Mah. 100.Yıl Cad. No:16A",
-   "phone": "0388 711 2407",
-   "dutyStart": "2026-10-28T18:30:00+03:00",
-   "dutyEnd": "2026-10-29T08:30:00+03:00",
+   "name": "Uygun Eczanesi",
+   "address": "Bereketli Mah. 100. Yıl Cad. No:21",
+   "phone": "0388 279 4251",
+   "dutyStart": "2026-10-29T18:30:00+03:00",
+   "dutyEnd": "2026-10-30T08:30:00+03:00",
    "approved": true,
-   "lat": 37.833298,
-   "lng": 34.986794
+   "lat": 37.833641,
+   "lng": 34.986618
   },
   {
    "district": "Çiftlik",
-   "name": "Deniz Eczanesi",
-   "address": "Çiftçi Mah. Cumhuriyet Cad. No:84/1",
-   "phone": "0388 411 2640",
-   "dutyStart": "2026-10-28T18:30:00+03:00",
-   "dutyEnd": "2026-10-29T08:30:00+03:00",
+   "name": "Çiftlik Eczanesi",
+   "address": "Çiftçi Mah.Kurumlar Cad.No:7",
+   "phone": "0388 411 2874",
+   "dutyStart": "2026-10-29T18:30:00+03:00",
+   "dutyEnd": "2026-10-30T08:30:00+03:00",
    "approved": true,
-   "lat": 38.183945,
-   "lng": 34.485748
+   "lat": 38.183895,
+   "lng": 34.48444
   },
   {
    "district": "Merkez",
-   "name": "Koçoğlu Eczanesi",
-   "address": "Kumluca Mahallesi Şifa Sokak No:14/1/49",
-   "phone": "0388 232 7365",
-   "dutyStart": "2026-10-28T18:30:00+03:00",
-   "dutyEnd": "2026-10-29T08:30:00+03:00",
+   "name": "Çakı Eczanesi",
+   "address": "Sarıköprü Mah. Zemerdin Sokak No:40/48",
+   "phone": "0388 502 9151",
+   "dutyStart": "2026-10-29T18:30:00+03:00",
+   "dutyEnd": "2026-10-29T23:59:00+03:00",
    "approved": true,
-   "lat": 37.969807,
-   "lng": 34.647476
+   "lat": 37.953239,
+   "lng": 34.640491
   },
   {
    "district": "Merkez",
-   "name": "Zemzem Eczanesi",
-   "address": "Kale Mah. Paşakapı Cad. No:16/F",
-   "phone": "0388 232 3604",
-   "dutyStart": "2026-10-28T18:30:00+03:00",
-   "dutyEnd": "2026-10-28T23:59:00+03:00",
+   "name": "Yildiz Eczanesi",
+   "address": "Kumluca Mah. Hastaneler Cad. No:23/13",
+   "phone": "0388 311 8100",
+   "dutyStart": "2026-10-29T18:30:00+03:00",
+   "dutyEnd": "2026-10-30T08:30:00+03:00",
    "approved": true,
-   "lat": 37.970078,
-   "lng": 34.679153
+   "lat": 37.970097,
+   "lng": 34.644283
+  },
+  {
+   "district": "Merkez",
+   "name": "Yurteri Eczanesi",
+   "address": "Yukarı Kayabaşı Mah. Süleyman Fethi Cad. No:69/C",
+   "phone": "0388 232 4747",
+   "dutyStart": "2026-10-29T18:30:00+03:00",
+   "dutyEnd": "2026-10-29T23:59:00+03:00",
+   "approved": true,
+   "lat": 37.971008,
+   "lng": 34.672478
   },
   {
    "district": "Ulukışla",
-   "name": "Sena Gülbahar Eczanesi",
-   "address": "Alpağut Mahallesi 13. Sokak No:3D",
-   "phone": "0553 528 5146",
-   "dutyStart": "2026-10-28T18:30:00+03:00",
-   "dutyEnd": "2026-10-29T08:30:00+03:00",
+   "name": "Bilge Eczanesi",
+   "address": "Alpağut Mahallesi Adil Erol Caddesi No:25B",
+   "phone": "0388 511 2121",
+   "dutyStart": "2026-10-29T18:30:00+03:00",
+   "dutyEnd": "2026-10-30T08:30:00+03:00",
    "approved": true,
-   "lat": 37.547138,
-   "lng": 34.482769
+   "lat": 37.549747,
+   "lng": 34.486122
   }
  ]
 }

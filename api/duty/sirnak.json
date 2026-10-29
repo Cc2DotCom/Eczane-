@@ -1,64 +1,64 @@
 {
  "city": "Şırnak",
  "code": 73,
- "dutyDay": "2026-10-28",
- "updatedAt": "2026-10-28T12:54:22.505Z",
+ "dutyDay": "2026-10-29",
+ "updatedAt": "2026-10-29T13:01:56.303Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Cizre",
-   "name": "Bahar Eczanesi",
-   "address": "NUR MAHALLE AŞUT SOKAK NO:2/BB",
-   "phone": "0505 040 6597",
-   "dutyStart": "2026-10-28T18:00:00+03:00",
-   "dutyEnd": "2026-10-29T08:00:00+03:00",
+   "name": "Özdemir Eczanesi",
+   "address": "Caferi Sadık Mahallesi Mem U Zin Bulvarı NO:148",
+   "phone": "0553 253 9444",
+   "dutyStart": "2026-10-29T08:00:00+03:00",
+   "dutyEnd": "2026-10-30T08:00:00+03:00",
    "approved": true,
-   "lat": 37.333725,
-   "lng": 42.185085
+   "lat": 37.325733,
+   "lng": 42.184662
   },
   {
    "district": "İdil",
-   "name": "Şifa Eczanesi",
-   "address": "Yeni Mahalle Alanya Bulvarı 148. Sokak No:215/A",
-   "phone": "0541 485 4932",
-   "dutyStart": "2026-10-28T18:00:00+03:00",
-   "dutyEnd": "2026-10-29T08:00:00+03:00",
+   "name": "Nas Eczanesi",
+   "address": "Aşağı Mahalle 235. Sokak No:6",
+   "phone": "0541 280 5342",
+   "dutyStart": "2026-10-29T08:00:00+03:00",
+   "dutyEnd": "2026-10-30T08:00:00+03:00",
    "approved": true,
-   "lat": 37.341808,
-   "lng": 41.900738
+   "lat": 37.340092,
+   "lng": 41.897606
   },
   {
    "district": "Merkez",
-   "name": "Neşe Eczanesi",
-   "address": "ŞIRNAK İLİ MERKEZ İLÇESİ BAHÇELİEVLER MAH. NUJİN CAD. NO:36/B",
-   "phone": "0486 216 2122",
-   "dutyStart": "2026-10-28T17:00:00+03:00",
-   "dutyEnd": "2026-10-29T08:00:00+03:00",
+   "name": "Sefine Eczanesi",
+   "address": "Bahçelievler Mahallesi Belediye Bulvarı No:4/I",
+   "phone": "0545 958 2088",
+   "dutyStart": "2026-10-29T08:00:00+03:00",
+   "dutyEnd": "2026-10-30T08:00:00+03:00",
    "approved": true,
-   "lat": 37.517941,
-   "lng": 42.443848
+   "lat": 37.519287,
+   "lng": 42.452587
   },
   {
    "district": "Silopi",
-   "name": "Ülker Eczanesi",
-   "address": "Yeşiltepe Mahallesi 1. Cadde No:10/C",
-   "phone": "0543 937 9667",
-   "dutyStart": "2026-10-28T17:00:00+03:00",
-   "dutyEnd": "2026-10-29T08:00:00+03:00",
+   "name": "İpekyolu Eczanesi",
+   "address": "Dicle Mahallesi İpekyolu Bulvarı No:67/A",
+   "phone": "0530 179 9092",
+   "dutyStart": "2026-10-29T08:00:00+03:00",
+   "dutyEnd": "2026-10-30T08:00:00+03:00",
    "approved": true,
-   "lat": 37.247463,
-   "lng": 42.470547
+   "lat": 37.24696,
+   "lng": 42.468353
   },
   {
    "district": "Uludere",
-   "name": "Murat Eczanesi",
-   "address": "Yeşilyova Mahallesi Vatan Caddesi No:8/D",
-   "phone": "0486 351 2800",
-   "dutyStart": "2026-10-28T18:00:00+03:00",
-   "dutyEnd": "2026-10-29T08:00:00+03:00",
+   "name": "Firat Eczanesi",
+   "address": "Uludere ilçesi Yeşilyova Mahallesi Vatan Caddesi No:7/C",
+   "phone": "0544 328 4198",
+   "dutyStart": "2026-10-29T08:00:00+03:00",
+   "dutyEnd": "2026-10-30T08:00:00+03:00",
    "approved": true,
-   "lat": 37.446964,
-   "lng": 42.845818
+   "lat": 37.446758,
+   "lng": 42.844795
   }
  ]
 }

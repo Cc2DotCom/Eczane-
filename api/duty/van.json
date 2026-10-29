@@ -1,53 +1,53 @@
 {
  "city": "Van",
  "code": 65,
- "dutyDay": "2026-10-28",
- "updatedAt": "2026-10-28T12:53:53.947Z",
+ "dutyDay": "2026-10-29",
+ "updatedAt": "2026-10-29T13:01:28.296Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Çatak",
-   "name": "Selçuk Eczanesi",
-   "address": "Çatak Cumhuriyet Mah. Atatürk Cad. No:9/1A",
-   "phone": "0545 563 7063",
-   "dutyStart": "2026-10-28T18:00:00+03:00",
-   "dutyEnd": "2026-10-29T08:30:00+03:00",
+   "name": "Çatak Eczanesi",
+   "address": "Cumhuriyet Mah. Atatürk Cad. Dış Kapı No:13D",
+   "phone": "0541 585 1006",
+   "dutyStart": "2026-10-29T18:00:00+03:00",
+   "dutyEnd": "2026-10-30T08:30:00+03:00",
    "approved": true,
-   "lat": 38.008499,
-   "lng": 43.061993
+   "lat": 38.008438,
+   "lng": 43.061832
   },
   {
    "district": "Erciş",
-   "name": "Bilici Eczanesi",
-   "address": "Erciş İlçe Kışla Mah. Çınar Cad. 55. Sok. 9/1",
-   "phone": "0432 354 3200",
-   "dutyStart": "2026-10-28T18:00:00+03:00",
-   "dutyEnd": "2026-10-29T08:30:00+03:00",
+   "name": "Çiçek Eczanesi",
+   "address": "Vanyolu Mah. Kara Yusuf Bey Bulvarı Dış Kapı No:105B",
+   "phone": "0545 497 8021",
+   "dutyStart": "2026-10-29T08:30:00+03:00",
+   "dutyEnd": "2026-10-30T08:30:00+03:00",
    "approved": true,
-   "lat": 39.017773,
-   "lng": 43.352558
+   "lat": 39.023895,
+   "lng": 43.3703
   },
   {
    "district": "Erciş",
-   "name": "Hekimoğlu Eczanesi",
-   "address": "VANYOLU MAH. KARA YUSUF BEY BULVARI DIŞKAPI NO:102F",
-   "phone": "0539 893 4206",
-   "dutyStart": "2026-10-28T18:00:00+03:00",
-   "dutyEnd": "2026-10-29T08:30:00+03:00",
+   "name": "Erciş Eczanesi",
+   "address": "Kışla Mah. Çınarlı Yolu Cad. No:93/1",
+   "phone": "0545 263 7610",
+   "dutyStart": "2026-10-29T08:30:00+03:00",
+   "dutyEnd": "2026-10-30T08:30:00+03:00",
    "approved": true,
-   "lat": 39.024395,
-   "lng": 43.369846
+   "lat": 39.017002,
+   "lng": 43.352242
   },
   {
    "district": "Muradiye",
-   "name": "Hayat Eczanesi",
-   "address": "Yenişehir Mah. Hastane Cad. NO: 31",
-   "phone": "0432 451 2032",
-   "dutyStart": "2026-10-28T17:00:00+03:00",
-   "dutyEnd": "2026-10-29T08:30:00+03:00",
+   "name": "Muradiye Eczanesi",
+   "address": "HASTANE CAD. NO:51/A",
+   "phone": "0432 451 2798",
+   "dutyStart": "2026-10-29T08:00:00+03:00",
+   "dutyEnd": "2026-10-30T08:00:00+03:00",
    "approved": true,
-   "lat": 38.989517,
-   "lng": 43.760262
+   "lat": 38.989254,
+   "lng": 43.759796
   }
  ]
 }
