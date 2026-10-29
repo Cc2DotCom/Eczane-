@@ -1,42 +1,42 @@
 {
  "city": "Ardahan",
  "code": 75,
- "dutyDay": "2026-10-28",
- "updatedAt": "2026-10-28T12:54:27.627Z",
+ "dutyDay": "2026-10-29",
+ "updatedAt": "2026-10-29T16:05:24.437Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Göle",
-   "name": "Budak Eczanesi",
-   "address": "Kubilaybey Mahallesi Kars Caddesi 3. Sokak No:11",
-   "phone": "0478 411 3167",
-   "dutyStart": "2026-10-28T18:00:00+03:00",
-   "dutyEnd": "2026-10-29T08:00:00+03:00",
+   "name": "Can Eczanesi",
+   "address": "Kazım Karabekir Mah. Kars Cad No:13 Göle/ARDAHAN",
+   "phone": "0478 411 2323",
+   "dutyStart": "2026-10-29T08:00:00+03:00",
+   "dutyEnd": "2026-10-30T08:00:00+03:00",
    "approved": true,
-   "lat": 40.792747,
-   "lng": 42.610119
+   "lat": 40.793186,
+   "lng": 42.610809
   },
   {
    "district": "Hanak",
-   "name": "Uygar Eczanesi",
-   "address": "Hürriye Mahallesi, Atatürk Caddesi No:89/A Hanak/Ardahan",
-   "phone": "0501 525 9116",
-   "dutyStart": "2026-10-28T17:00:00+03:00",
-   "dutyEnd": "2026-10-29T08:00:00+03:00",
+   "name": "Hanak Eczanesi",
+   "address": "Hürriyet Mahallesi, Atatürk Caddesi No:82 Hanak/Ardahan",
+   "phone": "0531 694 9725",
+   "dutyStart": "2026-10-29T08:00:00+03:00",
+   "dutyEnd": "2026-10-30T08:00:00+03:00",
    "approved": true,
-   "lat": 41.23756,
-   "lng": 42.843979
+   "lat": 41.236973,
+   "lng": 42.844879
   },
   {
    "district": "Merkez",
-   "name": "Tanış Eczanesi",
-   "address": "Sağlık Caddesi, B1 Blok No:3A Merkez/Ardahan",
-   "phone": "0478 411 3700",
-   "dutyStart": "2026-10-28T18:00:00+03:00",
-   "dutyEnd": "2026-10-29T08:30:00+03:00",
+   "name": "Arzu Eczanesi",
+   "address": "KAPTANPAŞA MAH. KONGRE CADDESİ NO: 32/A",
+   "phone": "0478 211 2389",
+   "dutyStart": "2026-10-29T08:30:00+03:00",
+   "dutyEnd": "2026-10-30T08:30:00+03:00",
    "approved": true,
-   "lat": 41.093971,
-   "lng": 42.668308
+   "lat": 41.112827,
+   "lng": 42.701633
   }
  ]
 }
