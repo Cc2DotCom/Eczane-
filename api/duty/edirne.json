@@ -2,30 +2,19 @@
  "city": "Edirne",
  "code": 22,
  "dutyDay": "2026-10-29",
- "updatedAt": "2026-10-29T18:58:48.153Z",
+ "updatedAt": "2026-10-29T21:11:57.722Z",
  "source": "e-Devlet TİTCK, Edirne Eczacı Odası",
  "pharmacies": [
   {
    "district": "Havsa",
-   "name": "Petek Eczanesi",
-   "address": "CUMHURİYET MAHALLESİ FATİH CADDESİ NO:95F",
-   "phone": "0530 396 4994",
-   "dutyStart": "2026-10-29T08:30:00+03:00",
-   "dutyEnd": "2026-10-30T08:30:00+03:00",
+   "name": "Gün Eczanesi",
+   "address": "HACI İSA MAHALLESİ 23 KASIM CADDESİ NO:22/F",
+   "phone": "0284 336 1325",
+   "dutyStart": "2026-10-30T18:00:00+03:00",
+   "dutyEnd": "2026-10-31T08:30:00+03:00",
    "approved": true,
-   "lat": 41.545963,
-   "lng": 26.829653
-  },
-  {
-   "district": "Havsa",
-   "name": "Yavuz Eczanesi",
-   "address": "VAROŞ MAHALLESİ UZUNKÖPRÜ CADDESİ NO:5/B",
-   "phone": "0284 336 2473",
-   "dutyStart": "2026-10-29T18:00:00+03:00",
-   "dutyEnd": "2026-10-30T08:30:00+03:00",
-   "approved": true,
-   "lat": 41.548862,
-   "lng": 26.821615
+   "lat": 41.549488,
+   "lng": 26.821152
   },
   {
    "district": "Merkez",
@@ -48,17 +37,6 @@
    "approved": true,
    "lat": 41.660169,
    "lng": 26.596166
-  },
-  {
-   "district": "Merkez",
-   "name": "Şimşek Eczanesi",
-   "address": "TIP FAKÜLTESI KAVSAGI D-100 KARAYOLU ÜZERI NO:2",
-   "phone": "02842363377",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 41.636712,
-   "lng": 26.609303
   },
   {
    "district": "Enez",
