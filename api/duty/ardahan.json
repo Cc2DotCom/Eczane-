@@ -1,42 +1,42 @@
 {
  "city": "Ardahan",
  "code": 75,
- "dutyDay": "2026-10-29",
- "updatedAt": "2026-10-29T16:05:24.437Z",
+ "dutyDay": "2026-10-30",
+ "updatedAt": "2026-10-30T12:57:07.024Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Göle",
-   "name": "Can Eczanesi",
-   "address": "Kazım Karabekir Mah. Kars Cad No:13 Göle/ARDAHAN",
-   "phone": "0478 411 2323",
-   "dutyStart": "2026-10-29T08:00:00+03:00",
-   "dutyEnd": "2026-10-30T08:00:00+03:00",
+   "name": "Emek Eczanesi",
+   "address": "Kubilay bey Mah. Kars Cad. No:10 Göle/ARDAHAN",
+   "phone": "0478 411 3019",
+   "dutyStart": "2026-10-30T18:00:00+03:00",
+   "dutyEnd": "2026-10-31T08:00:00+03:00",
    "approved": true,
-   "lat": 40.793186,
-   "lng": 42.610809
+   "lat": 40.793171,
+   "lng": 42.610214
   },
   {
    "district": "Hanak",
    "name": "Hanak Eczanesi",
    "address": "Hürriyet Mahallesi, Atatürk Caddesi No:82 Hanak/Ardahan",
    "phone": "0531 694 9725",
-   "dutyStart": "2026-10-29T08:00:00+03:00",
-   "dutyEnd": "2026-10-30T08:00:00+03:00",
+   "dutyStart": "2026-10-30T17:00:00+03:00",
+   "dutyEnd": "2026-10-31T08:00:00+03:00",
    "approved": true,
    "lat": 41.236973,
    "lng": 42.844879
   },
   {
    "district": "Merkez",
-   "name": "Arzu Eczanesi",
-   "address": "KAPTANPAŞA MAH. KONGRE CADDESİ NO: 32/A",
-   "phone": "0478 211 2389",
-   "dutyStart": "2026-10-29T08:30:00+03:00",
-   "dutyEnd": "2026-10-30T08:30:00+03:00",
+   "name": "Manolya Eczanesi",
+   "address": "kaptanpaşa mah. kazım karabekir cad. no:2 (7/A) MERKEZ/ARDAHAN",
+   "phone": "0478 502 2828",
+   "dutyStart": "2026-10-30T18:00:00+03:00",
+   "dutyEnd": "2026-10-31T08:30:00+03:00",
    "approved": true,
-   "lat": 41.112827,
-   "lng": 42.701633
+   "lat": 41.112274,
+   "lng": 42.701008
   }
  ]
 }

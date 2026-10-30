@@ -1,31 +1,42 @@
 {
  "city": "Hakkari",
  "code": 30,
- "dutyDay": "2026-10-29",
- "updatedAt": "2026-10-29T21:12:11.868Z",
+ "dutyDay": "2026-10-30",
+ "updatedAt": "2026-10-30T12:51:08.727Z",
  "source": "Van Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Pinar Eczanesi",
-   "address": "BULAK MAH.ALTAY CAD.NO:61 HAKKARI",
-   "phone": "4382116742",
+   "name": "Taha Eczanesi",
+   "address": "BULAK MAH.ALTAY CAD.NO:6/B",
+   "phone": "04382113034",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.575901,
-   "lng": 43.737349
+   "lat": 37.576461,
+   "lng": 43.737388
   },
   {
    "district": "Yüksekova",
-   "name": "Furkan Eczanesi",
-   "address": "İPEK YOLU CADDESİ HALK BANKASI YANI NO;175/C",
-   "phone": "04385020747",
+   "name": "Yakut Eczanesi",
+   "address": "Cengiz Topel caddesi zagros iş merkezi yanı no: 86/C",
+   "phone": "04383515357",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.572318,
-   "lng": 44.280452
+   "lat": 37.56958,
+   "lng": 44.2846
+  },
+  {
+   "district": "Yüksekova",
+   "name": "Şifa Eczanesi",
+   "address": "AKALAN MAH.AKALIN CAD.NO:334",
+   "phone": "04383511010",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 37.56651,
+   "lng": 44.228018
   },
   {
    "district": "Şemdinli",
@@ -40,14 +51,14 @@
   },
   {
    "district": "Şemdinli",
-   "name": "Aki Eczanesi",
-   "address": "MERKEZ MAH. VATAN CADDESİ NO:12/A",
-   "phone": "04384613320",
+   "name": "Derecik Eczanesi",
+   "address": "MERKEZ MAH.VATAN CAD.NO:19/A",
+   "phone": "05380443717",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.080915,
-   "lng": 44.310193
+   "lat": 37.080721,
+   "lng": 44.310393
   }
  ],
  "sourceUrl": "https://www.vaneczaciodasi.org.tr/nobetci-eczaneler"

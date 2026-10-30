@@ -1,64 +1,64 @@
 {
  "city": "Uşak",
  "code": 64,
- "dutyDay": "2026-10-29",
- "updatedAt": "2026-10-29T13:01:25.955Z",
+ "dutyDay": "2026-10-30",
+ "updatedAt": "2026-10-30T12:56:25.279Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Banaz",
-   "name": "Ağaoğlu Eczanesi",
-   "address": "Dilek Mh. Kuşdemir 2 Sk. No:56/B",
-   "phone": "0276 315 3009",
-   "dutyStart": "2026-10-29T08:30:00+03:00",
-   "dutyEnd": "2026-10-30T18:00:00+03:00",
+   "name": "Bulut Eczanesi",
+   "address": "ŞEHİTLER MH. ADNAN MENDERES CADDESİ NO:62/A BANAZ",
+   "phone": "0276 315 6233",
+   "dutyStart": "2026-10-30T08:30:00+03:00",
+   "dutyEnd": "2026-10-31T18:00:00+03:00",
    "approved": true,
-   "lat": 38.738319,
-   "lng": 29.740253
+   "lat": 38.736038,
+   "lng": 29.761736
   },
   {
    "district": "Eşme",
-   "name": "Doruk Eczanesi",
-   "address": "ŞEHİT ALİBEY MH. VAKKAS FERİT CD. NO:36/A",
-   "phone": "0276 414 1694",
-   "dutyStart": "2026-10-29T08:30:00+03:00",
-   "dutyEnd": "2026-10-30T18:30:00+03:00",
+   "name": "Elvan Eczanesi",
+   "address": "YENİKENT MH. TOKİ EVLERİ 1 SK. NO: 3/D EŞME",
+   "phone": "0276 414 1320",
+   "dutyStart": "2026-10-30T08:30:00+03:00",
+   "dutyEnd": "2026-10-31T18:30:00+03:00",
    "approved": true,
-   "lat": 38.399788,
-   "lng": 28.969885
+   "lat": 38.395168,
+   "lng": 28.989744
   },
   {
    "district": "Karahallı",
-   "name": "Hayat Eczanesi",
-   "address": "YENİ MH. İNÖNÜ CD. KADİFE SK. NO: 2/A",
-   "phone": "0276 517 1347",
-   "dutyStart": "2026-10-29T08:30:00+03:00",
-   "dutyEnd": "2026-10-30T18:30:00+03:00",
+   "name": "Barış Eczanesi",
+   "address": "KONAK MH. AÇIK PAZAR MEYDANI NO:33",
+   "phone": "0276 517 1770",
+   "dutyStart": "2026-10-30T08:30:00+03:00",
+   "dutyEnd": "2026-10-31T18:30:00+03:00",
    "approved": true,
-   "lat": 38.32111,
-   "lng": 29.5329
+   "lat": 38.320847,
+   "lng": 29.531631
   },
   {
    "district": "Sivaslı",
-   "name": "Türkmen Eczanesi",
-   "address": "AKINCILAR MH. UĞUR MUMCU CD.NO:46 SİVASLI",
-   "phone": "0276 618 3433",
-   "dutyStart": "2026-10-29T08:30:00+03:00",
-   "dutyEnd": "2026-10-30T18:30:00+03:00",
+   "name": "Keskin Eczanesi",
+   "address": "GÖLBAHÇE MH. GAZİ BULVARI NO:194 SİVASLI",
+   "phone": "0276 618 2214",
+   "dutyStart": "2026-10-30T08:30:00+03:00",
+   "dutyEnd": "2026-10-31T18:30:00+03:00",
    "approved": true,
-   "lat": 38.502541,
-   "lng": 29.684546
+   "lat": 38.49942,
+   "lng": 29.679186
   },
   {
    "district": "Ulubey",
-   "name": "Toklu Eczanesi",
-   "address": "GÖLBAŞI MH. HÜRRİYET CD.NO:61/A ULUBEY",
-   "phone": "0276 716 2808",
-   "dutyStart": "2026-10-29T08:30:00+03:00",
-   "dutyEnd": "2026-10-30T18:30:00+03:00",
+   "name": "Sağlık Eczanesi",
+   "address": "GÖLBAŞI MH. HÜRRİYET CD. NO:47/A ULUBEY",
+   "phone": "0276 716 1402",
+   "dutyStart": "2026-10-30T08:30:00+03:00",
+   "dutyEnd": "2026-10-31T18:30:00+03:00",
    "approved": true,
-   "lat": 38.419922,
-   "lng": 29.290365
+   "lat": 38.419388,
+   "lng": 29.290314
   }
  ]
 }

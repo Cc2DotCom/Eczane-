@@ -1,8 +1,8 @@
 {
  "city": "Edirne",
  "code": 22,
- "dutyDay": "2026-10-29",
- "updatedAt": "2026-10-29T21:11:57.722Z",
+ "dutyDay": "2026-10-30",
+ "updatedAt": "2026-10-30T12:50:18.198Z",
  "source": "e-Devlet TİTCK, Edirne Eczacı Odası",
  "pharmacies": [
   {
@@ -18,69 +18,80 @@
   },
   {
    "district": "Merkez",
-   "name": "Deniz Eczanesi",
-   "address": "SARICAPASA MAH.ÇUKUR SOK NO:25/11 AŞİYAN YOKUŞU (ESKİ DEVLET HASTANESİ KARŞISI)",
-   "phone": "02842131406",
+   "name": "Edirne Yüksel Eczanesi",
+   "address": "FATİH MAH. ALPARSLAN TÜRKEŞ CAD. ALİVA RESİDANCE NO:14/74 SULTAN 1. MURAT DEV. HAST. KARŞISI",
+   "phone": "02845021128",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 41.67449,
-   "lng": 26.562347
+   "lat": 41.652633,
+   "lng": 26.605255
   },
   {
    "district": "Merkez",
-   "name": "Şentürk Eczanesi",
-   "address": "FATİH MAHALLESİ ÜMRAN AKKAN CADDESİ NO:17/B ESENTEPE MİGROS YANI",
-   "phone": "02842351923",
+   "name": "Aytaç Eczanesi",
+   "address": "LONDRA ASFALTI NO:35",
+   "phone": "2842122424",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 41.660169,
-   "lng": 26.596166
+   "lat": 41.676796,
+   "lng": 26.549706
+  },
+  {
+   "district": "Merkez",
+   "name": "Pamuk Eczanesi",
+   "address": "ŞÜKRÜPAŞA MAH. ABDİ İPEKÇİ CD. NO:56 İÇ KAPI NO : 17",
+   "phone": "02842360303",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 41.677725,
+   "lng": 26.585168
   },
   {
    "district": "Enez",
-   "name": "Saygin Eczanesi",
-   "address": "GAZI ÖMERBEY MAH. KALE CAD. NO:11",
-   "phone": "2848116147",
+   "name": "Hayat Eczanesi",
+   "address": "YENI MAH.MILLI EGEMENLIK CAD. NO:9/A",
+   "phone": "2848116564",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 40.724814,
-   "lng": 26.084344
+   "lat": 40.724876,
+   "lng": 26.086899
   },
   {
    "district": "İpsala",
-   "name": "İpsala Taş Eczanesi",
-   "address": "bayrambey mah. dr sadık ahmet caddesı 75/b",
-   "phone": "02846162284",
+   "name": "Çınar Eczanesi",
+   "address": "BAYRAMBEY MAH. DR. SADIK AHMET CAD. İPSALA DEVLET HASTANESİ KARŞISI",
+   "phone": "02846163375",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 40.917259,
-   "lng": 26.380692
+   "lat": 40.917157,
+   "lng": 26.380669
   },
   {
    "district": "Keşan",
-   "name": "Türkkal Eczanesi",
-   "address": "AŞAĞI ZAFERİYE MAH.EVREŞE CD.1.E/BLOK NO:2 KEŞAN",
-   "phone": "02847149344",
+   "name": "Ebru Eczanesi",
+   "address": "ÖNDER CAD. NO:9/A",
+   "phone": "02847154004",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 40.84097,
-   "lng": 26.629299
+   "lat": 40.851525,
+   "lng": 26.632171
   },
   {
    "district": "Lalapaşa",
-   "name": "Sevil Eczanesi",
-   "address": "CUMHURIYET CAD.NO:36/B",
-   "phone": "2843214032",
+   "name": "Yaren Eczanesi",
+   "address": "MERKEZ MAH. ŞEHİT ER AHMET BİNGÖL SOK. NO:1/D LALAPAŞA",
+   "phone": "02843214082",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 41.839311,
-   "lng": 26.732826
+   "lat": 41.839159,
+   "lng": 26.735825
   },
   {
    "district": "Meriç",

@@ -1,109 +1,109 @@
 {
- "generatedAt": "2026-10-29T21:12:42.512Z",
+ "generatedAt": "2026-10-30T12:57:32.607Z",
  "source": "e-Devlet TİTCK",
  "cities": [
   {
    "city": "Adana",
    "slug": "adana",
    "code": 1,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T16:03:32.301Z",
-   "count": 35
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:47:45.345Z",
+   "count": 34
   },
   {
    "city": "Adıyaman",
    "slug": "adiyaman",
    "code": 2,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T12:53:59.368Z",
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:47:51.691Z",
    "count": 9
   },
   {
    "city": "Afyonkarahisar",
    "slug": "afyonkarahisar",
    "code": 3,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T16:03:35.868Z",
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:47:56.751Z",
    "count": 14
   },
   {
    "city": "Ağrı",
    "slug": "agri",
    "code": 4,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T12:54:05.420Z",
-   "count": 10
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:48:00.550Z",
+   "count": 9
   },
   {
    "city": "Amasya",
    "slug": "amasya",
    "code": 5,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T12:54:07.813Z",
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:48:04.377Z",
    "count": 7
   },
   {
    "city": "Ankara",
    "slug": "ankara",
    "code": 6,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T12:54:32.941Z",
-   "count": 53
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:48:27.612Z",
+   "count": 48
   },
   {
    "city": "Antalya",
    "slug": "antalya",
    "code": 7,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T12:54:47.725Z",
-   "count": 39
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:48:47.456Z",
+   "count": 37
   },
   {
    "city": "Artvin",
    "slug": "artvin",
    "code": 8,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T21:11:43.449Z",
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:48:51.258Z",
    "count": 9
   },
   {
    "city": "Aydın",
    "slug": "aydin",
    "code": 9,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T21:11:48.212Z",
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:48:56.645Z",
    "count": 33
   },
   {
    "city": "Balıkesir",
    "slug": "balikesir",
    "code": 10,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T16:04:02.101Z",
-   "count": 31
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:49:17.554Z",
+   "count": 29
   },
   {
    "city": "Bilecik",
    "slug": "bilecik",
    "code": 11,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T12:55:09.396Z",
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:49:20.075Z",
    "count": 5
   },
   {
    "city": "Bingöl",
    "slug": "bingol",
    "code": 12,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T12:55:12.349Z",
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:49:24.513Z",
    "count": 5
   },
   {
    "city": "Bitlis",
    "slug": "bitlis",
    "code": 13,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T12:55:15.302Z",
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:49:28.967Z",
    "count": 8
   },
   {
@@ -118,48 +118,48 @@
    "city": "Burdur",
    "slug": "burdur",
    "code": 15,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T18:58:46.361Z",
-   "count": 6
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:49:34.091Z",
+   "count": 5
   },
   {
    "city": "Bursa",
    "slug": "bursa",
    "code": 16,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T12:55:38.777Z",
-   "count": 37
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:49:51.915Z",
+   "count": 32
   },
   {
    "city": "Çanakkale",
    "slug": "canakkale",
    "code": 17,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T12:55:43.587Z",
-   "count": 18
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:49:57.854Z",
+   "count": 16
   },
   {
    "city": "Çankırı",
    "slug": "cankiri",
    "code": 18,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T12:55:46.560Z",
-   "count": 13
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:50:00.437Z",
+   "count": 12
   },
   {
    "city": "Çorum",
    "slug": "corum",
    "code": 19,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T12:55:50.768Z",
-   "count": 17
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:50:05.475Z",
+   "count": 16
   },
   {
    "city": "Denizli",
    "slug": "denizli",
    "code": 20,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T12:56:00.602Z",
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:50:14.407Z",
    "count": 23
   },
   {
@@ -174,328 +174,328 @@
    "city": "Edirne",
    "slug": "edirne",
    "code": 22,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T21:11:57.722Z",
-   "count": 10
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:50:18.198Z",
+   "count": 11
   },
   {
    "city": "Elazığ",
    "slug": "elazig",
    "code": 23,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T21:12:02.279Z",
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:50:23.433Z",
    "count": 7
   },
   {
    "city": "Erzincan",
    "slug": "erzincan",
    "code": 24,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T12:56:19.026Z",
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:50:28.096Z",
    "count": 7
   },
   {
    "city": "Erzurum",
    "slug": "erzurum",
    "code": 25,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T12:56:24.374Z",
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:50:33.539Z",
    "count": 20
   },
   {
    "city": "Eskişehir",
    "slug": "eskisehir",
    "code": 26,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T21:12:06.914Z",
-   "count": 16
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:50:37.301Z",
+   "count": 14
   },
   {
    "city": "Gaziantep",
    "slug": "gaziantep",
    "code": 27,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T18:59:11.488Z",
-   "count": 22
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:50:51.472Z",
+   "count": 21
   },
   {
    "city": "Giresun",
    "slug": "giresun",
    "code": 28,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T12:56:37.739Z",
-   "count": 18
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:50:56.587Z",
+   "count": 15
   },
   {
    "city": "Gümüşhane",
    "slug": "gumushane",
    "code": 29,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T12:56:40.707Z",
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:51:04.930Z",
    "count": 6
   },
   {
    "city": "Hakkari",
    "slug": "hakkari",
    "code": 30,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T21:12:11.868Z",
-   "count": 4
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:51:08.727Z",
+   "count": 5
   },
   {
    "city": "Hatay",
    "slug": "hatay",
    "code": 31,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T12:56:58.129Z",
-   "count": 28
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:51:22.124Z",
+   "count": 25
   },
   {
    "city": "Isparta",
    "slug": "isparta",
    "code": 32,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T21:12:16.431Z",
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:51:24.031Z",
    "count": 9
   },
   {
    "city": "Mersin",
    "slug": "mersin",
    "code": 33,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T12:57:14.698Z",
-   "count": 24
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:51:40.303Z",
+   "count": 23
   },
   {
    "city": "İstanbul",
    "slug": "istanbul",
    "code": 34,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T12:58:41.124Z",
-   "count": 155
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:52:54.635Z",
+   "count": 125
   },
   {
    "city": "İzmir",
    "slug": "izmir",
    "code": 35,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T12:59:03.766Z",
-   "count": 71
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:53:28.052Z",
+   "count": 68
   },
   {
    "city": "Kars",
    "slug": "kars",
    "code": 36,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T12:59:06.138Z",
-   "count": 8
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:53:30.561Z",
+   "count": 7
   },
   {
    "city": "Kastamonu",
    "slug": "kastamonu",
    "code": 37,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T12:59:09.083Z",
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:53:33.700Z",
    "count": 23
   },
   {
    "city": "Kayseri",
    "slug": "kayseri",
    "code": 38,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T21:12:21.200Z",
-   "count": 19
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:53:37.446Z",
+   "count": 14
   },
   {
    "city": "Kırklareli",
    "slug": "kirklareli",
    "code": 39,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T12:59:17.325Z",
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:53:44.043Z",
    "count": 11
   },
   {
    "city": "Kırşehir",
    "slug": "kirsehir",
    "code": 40,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T21:12:25.617Z",
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:53:48.246Z",
    "count": 4
   },
   {
    "city": "Kocaeli",
    "slug": "kocaeli",
    "code": 41,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T12:59:32.067Z",
-   "count": 24
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:54:01.675Z",
+   "count": 25
   },
   {
    "city": "Konya",
    "slug": "konya",
    "code": 42,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T16:04:48.291Z",
-   "count": 52
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:54:15.571Z",
+   "count": 49
   },
   {
    "city": "Kütahya",
    "slug": "kutahya",
    "code": 43,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T12:59:37.987Z",
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:54:21.266Z",
    "count": 13
   },
   {
    "city": "Malatya",
    "slug": "malatya",
    "code": 44,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T21:12:30.278Z",
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:54:25.044Z",
    "count": 5
   },
   {
    "city": "Manisa",
    "slug": "manisa",
    "code": 45,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T12:59:49.429Z",
-   "count": 24
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:54:42.745Z",
+   "count": 22
   },
   {
    "city": "Kahramanmaraş",
    "slug": "kahramanmaras",
    "code": 46,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T12:59:57.784Z",
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:54:52.873Z",
    "count": 18
   },
   {
    "city": "Mardin",
    "slug": "mardin",
    "code": 47,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T13:00:02.591Z",
-   "count": 12
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:54:57.926Z",
+   "count": 11
   },
   {
    "city": "Muğla",
    "slug": "mugla",
    "code": 48,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T16:05:06.395Z",
-   "count": 36
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:55:07.669Z",
+   "count": 34
   },
   {
    "city": "Muş",
    "slug": "mus",
    "code": 49,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T21:12:34.908Z",
-   "count": 7
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:55:11.408Z",
+   "count": 6
   },
   {
    "city": "Nevşehir",
    "slug": "nevsehir",
    "code": 50,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T13:00:12.723Z",
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:55:16.143Z",
    "count": 9
   },
   {
    "city": "Niğde",
    "slug": "nigde",
    "code": 51,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T13:00:16.855Z",
-   "count": 8
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:55:19.922Z",
+   "count": 7
   },
   {
    "city": "Ordu",
    "slug": "ordu",
    "code": 52,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T13:00:23.955Z",
-   "count": 22
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:55:27.134Z",
+   "count": 19
   },
   {
    "city": "Rize",
    "slug": "rize",
    "code": 53,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T13:00:28.659Z",
-   "count": 7
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:55:31.519Z",
+   "count": 6
   },
   {
    "city": "Sakarya",
    "slug": "sakarya",
    "code": 54,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T13:00:40.456Z",
-   "count": 24
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:55:38.482Z",
+   "count": 18
   },
   {
    "city": "Samsun",
    "slug": "samsun",
    "code": 55,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T13:00:50.505Z",
-   "count": 28
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:55:46.692Z",
+   "count": 21
   },
   {
    "city": "Siirt",
    "slug": "siirt",
    "code": 56,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T13:00:54.028Z",
-   "count": 9
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:55:49.821Z",
+   "count": 8
   },
   {
    "city": "Sinop",
    "slug": "sinop",
    "code": 57,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T13:00:57.336Z",
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:55:52.959Z",
    "count": 7
   },
   {
    "city": "Sivas",
    "slug": "sivas",
    "code": 58,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T16:05:16.103Z",
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:55:57.961Z",
    "count": 16
   },
   {
    "city": "Tekirdağ",
    "slug": "tekirdag",
    "code": 59,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T16:05:22.636Z",
-   "count": 23
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:56:06.163Z",
+   "count": 21
   },
   {
    "city": "Tokat",
    "slug": "tokat",
    "code": 60,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T13:01:05.300Z",
-   "count": 11
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:56:11.173Z",
+   "count": 10
   },
   {
    "city": "Trabzon",
    "slug": "trabzon",
    "code": 61,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T13:01:12.363Z",
-   "count": 20
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:56:18.014Z",
+   "count": 17
   },
   {
    "city": "Tunceli",
    "slug": "tunceli",
    "code": 62,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T13:01:14.734Z",
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:56:20.893Z",
    "count": 3
   },
   {
@@ -510,8 +510,8 @@
    "city": "Uşak",
    "slug": "usak",
    "code": 64,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T13:01:25.955Z",
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:56:25.279Z",
    "count": 5
   },
   {
@@ -526,128 +526,128 @@
    "city": "Yozgat",
    "slug": "yozgat",
    "code": 66,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T13:01:32.417Z",
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:56:31.601Z",
    "count": 14
   },
   {
    "city": "Zonguldak",
    "slug": "zonguldak",
    "code": 67,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T13:01:37.739Z",
-   "count": 20
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:56:37.257Z",
+   "count": 21
   },
   {
    "city": "Aksaray",
    "slug": "aksaray",
    "code": 68,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T13:01:40.694Z",
-   "count": 8
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:56:42.287Z",
+   "count": 9
   },
   {
    "city": "Bayburt",
    "slug": "bayburt",
    "code": 69,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T13:01:43.040Z",
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:56:44.925Z",
    "count": 2
   },
   {
    "city": "Karaman",
    "slug": "karaman",
    "code": 70,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T13:01:46.301Z",
-   "count": 7
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:56:48.454Z",
+   "count": 6
   },
   {
    "city": "Kırıkkale",
    "slug": "kirikkale",
    "code": 71,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T13:01:48.654Z",
-   "count": 4
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:56:52.868Z",
+   "count": 7
   },
   {
    "city": "Batman",
    "slug": "batman",
    "code": 72,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T13:01:52.794Z",
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:56:56.640Z",
    "count": 8
   },
   {
    "city": "Şırnak",
    "slug": "sirnak",
    "code": 73,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T13:01:56.303Z",
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:57:01.093Z",
    "count": 5
   },
   {
    "city": "Bartın",
    "slug": "bartin",
    "code": 74,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T13:01:59.252Z",
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:57:04.201Z",
    "count": 6
   },
   {
    "city": "Ardahan",
    "slug": "ardahan",
    "code": 75,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T16:05:24.437Z",
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:57:07.024Z",
    "count": 3
   },
   {
    "city": "Iğdır",
    "slug": "igdir",
    "code": 76,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T13:02:03.429Z",
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:57:09.946Z",
    "count": 3
   },
   {
    "city": "Yalova",
    "slug": "yalova",
    "code": 77,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T13:02:06.995Z",
-   "count": 7
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:57:13.107Z",
+   "count": 6
   },
   {
    "city": "Karabük",
    "slug": "karabuk",
    "code": 78,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T16:05:27.455Z",
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:57:16.265Z",
    "count": 6
   },
   {
    "city": "Kilis",
    "slug": "kilis",
    "code": 79,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T21:12:39.532Z",
-   "count": 2
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:57:20.019Z",
+   "count": 1
   },
   {
    "city": "Osmaniye",
    "slug": "osmaniye",
    "code": 80,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T16:05:39.291Z",
-   "count": 8
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:57:30.058Z",
+   "count": 7
   },
   {
    "city": "Düzce",
    "slug": "duzce",
    "code": 81,
-   "dutyDay": "2026-10-29",
-   "updatedAt": "2026-10-29T16:05:41.663Z",
+   "dutyDay": "2026-10-30",
+   "updatedAt": "2026-10-30T12:57:32.597Z",
    "count": 11
   }
  ]

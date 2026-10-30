@@ -1,8 +1,8 @@
 {
  "city": "Isparta",
  "code": 32,
- "dutyDay": "2026-10-29",
- "updatedAt": "2026-10-29T21:12:16.431Z",
+ "dutyDay": "2026-10-30",
+ "updatedAt": "2026-10-30T12:51:24.031Z",
  "source": "e-Devlet TİTCK, Isparta Eczacı Odası",
  "pharmacies": [
   {
@@ -51,25 +51,25 @@
   },
   {
    "district": "Eğirdir",
-   "name": "Gülbudak Eczanesi",
-   "address": "CAMİ MAH. BELEDİYE CAD. NO:7/A",
-   "phone": "02463113537",
+   "name": "Eğirdir Eczanesi",
+   "address": "DEMİRKAPI MAH. DR.İSA KÖKLÜ CAD. NO:20",
+   "phone": "02463112774",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.875378,
-   "lng": 30.851184
+   "lat": 37.873652,
+   "lng": 30.85015
   },
   {
    "district": "Gelendost",
-   "name": "İhsan Eczanesi",
-   "address": "MUHARREM MAH. CUMHURİYET MEYDANI NO:21/A",
-   "phone": "02463812625",
+   "name": "Erol Eczanesi",
+   "address": "MUHARREM MAH. HÜSEYİN AVNİ PAŞA CAD. NO:13",
+   "phone": "02463813746",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.120911,
-   "lng": 31.01495
+   "lat": 38.120606,
+   "lng": 31.015108
   },
   {
    "district": "Senirkent",
@@ -84,25 +84,25 @@
   },
   {
    "district": "Yalvaç",
-   "name": "Kocabey Eczanesi",
-   "address": "KAŞYUKARI MAH. GAZİ PAŞA CAD. NO:38",
-   "phone": "02464417866",
+   "name": "Haseki Eczanesi",
+   "address": "ÇINAR BULVARI BANKALAR CAD. NO:41/A",
+   "phone": "02464416348",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.2979,
-   "lng": 31.177972
+   "lat": 38.295745,
+   "lng": 31.180175
   },
   {
    "district": "Şarkikaraağaç",
-   "name": "Şifa Eczanesi",
-   "address": "HASTANE CADDESİ",
-   "phone": "02464114070",
+   "name": "Levent Eczanesi",
+   "address": "ULVİKALE MAH. 114 HASTANE CAD. NO:1/8",
+   "phone": "02464113520",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.081754,
-   "lng": 31.36803
+   "lat": 38.081256,
+   "lng": 31.367001
   }
  ],
  "sourceUrl": "https://www.ispartaeo.org.tr/nobetci-eczaneler"

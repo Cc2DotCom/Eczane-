@@ -1,42 +1,42 @@
 {
  "city": "Tunceli",
  "code": 62,
- "dutyDay": "2026-10-29",
- "updatedAt": "2026-10-29T13:01:14.734Z",
+ "dutyDay": "2026-10-30",
+ "updatedAt": "2026-10-30T12:56:20.893Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Çemişgezek",
-   "name": "Çemişgezek Eczanesi",
-   "address": "Çukur mahallesi Sakarya caddesi No:8/A Çemişgezek/TUNCELİ",
-   "phone": "_ 505 079 2976",
-   "dutyStart": "2026-10-29T18:00:00+03:00",
-   "dutyEnd": "2026-10-30T08:30:00+03:00",
+   "name": "Dilan Balik Eczanesi",
+   "address": "Hacı Cami mah. Park sok. 20/C",
+   "phone": "0539 860 3887",
+   "dutyStart": "2026-10-30T18:00:00+03:00",
+   "dutyEnd": "2026-10-31T08:30:00+03:00",
    "approved": true,
-   "lat": 39.062889,
-   "lng": 38.910889
+   "lat": 39.062885,
+   "lng": 38.911171
   },
   {
    "district": "Merkez",
-   "name": "Deva Eczanesi",
-   "address": "MOĞULTAY MAHALLESİ OKULLAR CADDESİ NO:8/B",
-   "phone": "0428 212 2288",
-   "dutyStart": "2026-10-29T18:30:00+03:00",
-   "dutyEnd": "2026-10-30T08:30:00+03:00",
+   "name": "Doğan Eczanesi",
+   "address": "ATATÜRK MAHALLESİ MİMAR SİNAN CADDESİ NO:14/3 TUNCELİ",
+   "phone": "0428 213 1174",
+   "dutyStart": "2026-10-30T18:30:00+03:00",
+   "dutyEnd": "2026-10-31T08:30:00+03:00",
    "approved": true,
-   "lat": 39.106907,
-   "lng": 39.548515
+   "lat": 39.090282,
+   "lng": 39.536819
   },
   {
    "district": "Pertek",
-   "name": "Ekin Eczanesi",
-   "address": "İstiklal Mahallesi Uğur Mumcu Caddesi No:10-E Pertek/ TUNCELİ",
-   "phone": "0543 669 3699",
-   "dutyStart": "2026-10-29T18:00:00+03:00",
-   "dutyEnd": "2026-10-30T08:30:00+03:00",
+   "name": "Güven Eczanesi",
+   "address": "İstiklal Mahallesi Uğur Mumcu Caddesi No:7/A Pertek/TUNCELİ",
+   "phone": "0428 651 3228",
+   "dutyStart": "2026-10-30T18:00:00+03:00",
+   "dutyEnd": "2026-10-31T08:30:00+03:00",
    "approved": true,
-   "lat": 38.867825,
-   "lng": 39.322376
+   "lat": 38.867722,
+   "lng": 39.319466
   }
  ]
 }
