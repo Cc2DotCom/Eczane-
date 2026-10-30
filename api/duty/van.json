@@ -1,53 +1,42 @@
 {
  "city": "Van",
  "code": 65,
- "dutyDay": "2026-10-29",
- "updatedAt": "2026-10-29T13:01:28.296Z",
+ "dutyDay": "2026-10-30",
+ "updatedAt": "2026-10-30T15:53:25.222Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Çatak",
-   "name": "Çatak Eczanesi",
-   "address": "Cumhuriyet Mah. Atatürk Cad. Dış Kapı No:13D",
-   "phone": "0541 585 1006",
-   "dutyStart": "2026-10-29T18:00:00+03:00",
-   "dutyEnd": "2026-10-30T08:30:00+03:00",
+   "name": "Selçuk Eczanesi",
+   "address": "Çatak Cumhuriyet Mah. Atatürk Cad. No:9/1A",
+   "phone": "0545 563 7063",
+   "dutyStart": "2026-10-30T18:00:00+03:00",
+   "dutyEnd": "2026-10-31T08:30:00+03:00",
    "approved": true,
-   "lat": 38.008438,
-   "lng": 43.061832
+   "lat": 38.008499,
+   "lng": 43.061993
   },
   {
    "district": "Erciş",
-   "name": "Çiçek Eczanesi",
-   "address": "Vanyolu Mah. Kara Yusuf Bey Bulvarı Dış Kapı No:105B",
-   "phone": "0545 497 8021",
-   "dutyStart": "2026-10-29T08:30:00+03:00",
-   "dutyEnd": "2026-10-30T08:30:00+03:00",
+   "name": "Vitamin Eczanesi",
+   "address": "Vanyolu Mah. Karayusuf Bey Bulvarı No: 99-B",
+   "phone": "0543 244 7572",
+   "dutyStart": "2026-10-30T18:00:00+03:00",
+   "dutyEnd": "2026-10-31T08:30:00+03:00",
    "approved": true,
-   "lat": 39.023895,
-   "lng": 43.3703
-  },
-  {
-   "district": "Erciş",
-   "name": "Erciş Eczanesi",
-   "address": "Kışla Mah. Çınarlı Yolu Cad. No:93/1",
-   "phone": "0545 263 7610",
-   "dutyStart": "2026-10-29T08:30:00+03:00",
-   "dutyEnd": "2026-10-30T08:30:00+03:00",
-   "approved": true,
-   "lat": 39.017002,
-   "lng": 43.352242
+   "lat": 39.023823,
+   "lng": 43.370651
   },
   {
    "district": "Muradiye",
-   "name": "Muradiye Eczanesi",
-   "address": "HASTANE CAD. NO:51/A",
-   "phone": "0432 451 2798",
-   "dutyStart": "2026-10-29T08:00:00+03:00",
-   "dutyEnd": "2026-10-30T08:00:00+03:00",
+   "name": "Ebrar Eczanesi",
+   "address": "Yenişehir Mah. Hastane Cad. No:10E Muradiye/VAN",
+   "phone": "0546 403 3469",
+   "dutyStart": "2026-10-30T17:00:00+03:00",
+   "dutyEnd": "2026-10-31T08:30:00+03:00",
    "approved": true,
-   "lat": 38.989254,
-   "lng": 43.759796
+   "lat": 38.99007,
+   "lng": 43.760475
   }
  ]
 }

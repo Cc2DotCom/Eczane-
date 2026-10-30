@@ -2,7 +2,7 @@
  "city": "Aydın",
  "code": 9,
  "dutyDay": "2026-10-30",
- "updatedAt": "2026-10-30T12:48:56.645Z",
+ "updatedAt": "2026-10-30T15:52:15.927Z",
  "source": "Aydın Eczacı Odası",
  "pharmacies": [
   {
@@ -51,17 +51,6 @@
   },
   {
    "district": "Kuşadası",
-   "name": "Okyanus Eczanesi",
-   "address": "TÜRKMEN MAH. CANDAN TARHAN BUL. NO:51 A ( ESKİ SAYDAM TIP MERKEZİ KARŞISI , YENİ YÖRÜK FIRINI YANI )",
-   "phone": "02566148707",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 37.864263,
-   "lng": 27.267142
-  },
-  {
-   "district": "Kuşadası",
    "name": "Güneş Eczanesi",
    "address": "HACI FEYZULLAH MAH. FERİT DEMİREL- ALİ ÇALLI SAĞLIK OCAĞI SOK. NO:15A-B (3 NOLU SAĞLIK OCAĞI KARŞISI)",
    "phone": "02566146894",
@@ -72,15 +61,15 @@
    "lng": 27.258456
   },
   {
-   "district": "Nazilli",
-   "name": "Yaşam Eczanesi",
-   "address": "YENİ SANAYİ MAH. DEVLET KARAYOLU KENARI 61/B ( ÖZEL REFERANS HASTANESİ YANI DEVLET YOLU ÜZERİ )",
-   "phone": "02563160033",
+   "district": "Kuşadası",
+   "name": "Okyanus Eczanesi",
+   "address": "TÜRKMEN MAH. CANDAN TARHAN BUL. NO:51 A ( ESKİ SAYDAM TIP MERKEZİ KARŞISI , YENİ YÖRÜK FIRINI YANI )",
+   "phone": "02566148707",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.908638,
-   "lng": 28.317626
+   "lat": 37.864263,
+   "lng": 27.267142
   },
   {
    "district": "Nazilli",
@@ -92,6 +81,17 @@
    "approved": true,
    "lat": 37.917357,
    "lng": 28.319989
+  },
+  {
+   "district": "Nazilli",
+   "name": "Yaşam Eczanesi",
+   "address": "YENİ SANAYİ MAH. DEVLET KARAYOLU KENARI 61/B ( ÖZEL REFERANS HASTANESİ YANI DEVLET YOLU ÜZERİ )",
+   "phone": "02563160033",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 37.908638,
+   "lng": 28.317626
   },
   {
    "district": "Söke",
