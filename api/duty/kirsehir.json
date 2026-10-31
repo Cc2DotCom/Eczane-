@@ -2,53 +2,9 @@
  "city": "Kırşehir",
  "code": 40,
  "dutyDay": "2026-10-31",
- "updatedAt": "2026-10-31T17:46:13.733Z",
- "source": "Aksaray-Kırşehir Eczacı Odası",
- "pharmacies": [
-  {
-   "district": "Merkez",
-   "name": "Aydin Eczanesi",
-   "address": "kırgaz binası yanı Medrese Mah. Metin Çobanoğlu Cad. Aydoğan Apt.No:7-2/6",
-   "phone": "03862144029",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 39.142636,
-   "lng": 34.163428
-  },
-  {
-   "district": "Merkez",
-   "name": "Özge Eczanesi",
-   "address": "TERME CAD.Dominos Pizza yanı Grand Kırşehir otel altı eski üniversite yerleşkesi karşısı Kuşdilli Mahallesi Terme caddesi no 74",
-   "phone": "03862130473",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 39.137708,
-   "lng": 34.154788
-  },
-  {
-   "district": "Kaman",
-   "name": "Berk Eczanesi",
-   "address": "25 ARALIK CAD.NO :28 KAMAN",
-   "phone": "3867122784",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 39.359727,
-   "lng": 33.723424
-  },
-  {
-   "district": "Mucur",
-   "name": "Emin Eczanesi",
-   "address": "Hamidiye Mah.İnönü Cad. No:16",
-   "phone": "03868126027",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 39.062735,
-   "lng": 34.376231
-  }
- ],
- "sourceUrl": "https://www.aksarayeo.org.tr/nobetci-eczaneler"
+ "updatedAt": "2026-10-31T20:03:24.310Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [],
+ "unavailable": true,
+ "note": "class=\"warningContainer\">Seçilen zaman aralığı için nöbetçi eczane bulunamadı. Sayfa Sonu Bağlantıları e-Devlet Kapısı English Hak"
 }

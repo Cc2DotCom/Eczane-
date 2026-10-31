@@ -2,8 +2,8 @@
  "city": "Isparta",
  "code": 32,
  "dutyDay": "2026-10-31",
- "updatedAt": "2026-10-31T17:46:03.328Z",
- "source": "e-Devlet TİTCK, Isparta Eczacı Odası",
+ "updatedAt": "2026-10-31T20:02:55.023Z",
+ "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Keçiborlu",
@@ -48,62 +48,6 @@
    "approved": true,
    "lat": 37.775345,
    "lng": 30.56196
-  },
-  {
-   "district": "Eğirdir",
-   "name": "Uzman Eczanesi",
-   "address": "İMARET MAHALLESİ DR. İSA KÖKLÜ CADDESİ GÜLBABA B BLOK 134/A",
-   "phone": "02463113111",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 37.8688,
-   "lng": 30.847282
-  },
-  {
-   "district": "Gelendost",
-   "name": "Doğan Eczanesi",
-   "address": "YENİ MAH. HÜSEYİN AVNİ PAŞA CAD. NO:11",
-   "phone": "02463814240",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 38.120948,
-   "lng": 31.01412
-  },
-  {
-   "district": "Senirkent",
-   "name": "Tola Eczanesi",
-   "address": "KIBRIS MAH. PİYADE ASTSUBAY MUHARREM TUTUCU SOKAK NO:4",
-   "phone": "02465112110",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 38.108261,
-   "lng": 30.551741
-  },
-  {
-   "district": "Yalvaç",
-   "name": "Hayat Eczanesi",
-   "address": "ÇARŞI MAH. GAZİ PAŞA CAD. NO:38",
-   "phone": "02464415356",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 38.296379,
-   "lng": 31.179522
-  },
-  {
-   "district": "Şarkikaraağaç",
-   "name": "Tuğçe Eczanesi",
-   "address": "ULVİKALE MAHALLESİ HASTANE CADDESİ 115.SOKAK NO:18 BAĞIMSIZ BÖLÜM 14-15 (A-B)",
-   "phone": "05079893233",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 38.083756,
-   "lng": 31.371046
   }
- ],
- "sourceUrl": "https://www.ispartaeo.org.tr/nobetci-eczaneler"
+ ]
 }

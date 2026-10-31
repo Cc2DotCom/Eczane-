@@ -2,86 +2,9 @@
  "city": "Muş",
  "code": 49,
  "dutyDay": "2026-10-31",
- "updatedAt": "2026-10-31T17:46:24.078Z",
- "source": "Batman Eczacı Odası",
- "pharmacies": [
-  {
-   "district": "Merkez",
-   "name": "Deva Eczanesi",
-   "address": "CUMHURİYET CAD. AVES TEMİZLİK KARŞISI",
-   "phone": "04362127700",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 38.743623,
-   "lng": 41.504177
-  },
-  {
-   "district": "Merkez",
-   "name": "Yaşar Eczanesi",
-   "address": "BATMAN GİYİM ALTI,UYGUN AVM YANI,CUMHURİYET CAD.",
-   "phone": "04362120044",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 38.743156,
-   "lng": 41.50404
-  },
-  {
-   "district": "Bulanık",
-   "name": "Enes Eczanesi",
-   "address": "KÜLTÜR MAH. ŞEHİT ÜSTEĞMEN SUAT İSHAKOĞLU CAD. NO:10/C (BULANIK MERKEZ CAMİ KARŞISI BELEDİYE YANI)",
-   "phone": "04363112100",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 39.092076,
-   "lng": 42.271749
-  },
-  {
-   "district": "Hasköy",
-   "name": "Hayat Eczanesi",
-   "address": "YENİ DEVLET HASTANESİ KARŞISI",
-   "phone": "04364112184",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 38.683269,
-   "lng": 41.691815
-  },
-  {
-   "district": "Korkut",
-   "name": "Şifa Eczanesi",
-   "address": "ADNAN MENDERES MAH.2 CAD. NO:51/J",
-   "phone": "04366116769",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 38.734309,
-   "lng": 41.776712
-  },
-  {
-   "district": "Malazgirt",
-   "name": "Öz Malazgirt Eczanesi",
-   "address": "YILANKIRAN CAD. NO:6",
-   "phone": "4365112207",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 39.146692,
-   "lng": 42.542267
-  },
-  {
-   "district": "Varto",
-   "name": "Güneş Eczanesi",
-   "address": "GÜMGÜM MAH. SAĞLIK SOK. NO:6",
-   "phone": "04365024181",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 39.170331,
-   "lng": 41.45576
-  }
- ],
- "sourceUrl": "https://www.batmaneczaciodasi.org.tr/nobetci-eczaneler"
+ "updatedAt": "2026-10-31T20:03:53.549Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [],
+ "unavailable": true,
+ "note": "class=\"warningContainer\">Seçilen zaman aralığı için nöbetçi eczane bulunamadı. Sayfa Sonu Bağlantıları e-Devlet Kapısı English Hak"
 }

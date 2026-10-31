@@ -2,64 +2,9 @@
  "city": "Hakkari",
  "code": 30,
  "dutyDay": "2026-10-31",
- "updatedAt": "2026-10-31T17:46:00.189Z",
- "source": "Van Eczacı Odası",
- "pharmacies": [
-  {
-   "district": "Merkez",
-   "name": "Vural Eczanesi",
-   "address": "PEHLİVAN MAH.ÇÖLEMERİK CAD.NO:63/A",
-   "phone": "04382116996",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 37.57354,
-   "lng": 43.732054
-  },
-  {
-   "district": "Yüksekova",
-   "name": "Altan Eczanesi",
-   "address": "YENİ MAH.DAĞLICA YOLU CAD.46/A",
-   "phone": "05455328353",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 37.560282,
-   "lng": 44.270552
-  },
-  {
-   "district": "Yüksekova",
-   "name": "Yasin Eczanesi",
-   "address": "Dize Mahallesi,Hamit Kesici Okulu Yanı, 3 No'lu Sağlık Ocağı Karşısı,No: 73B",
-   "phone": "05053538202",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 37.576626,
-   "lng": 44.291891
-  },
-  {
-   "district": "Şemdinli",
-   "name": "Derman Eczanesi",
-   "address": "KARŞIYAKA MAH. ÇEVREYOLU CAD. NO:60/4-E",
-   "phone": "04384113274",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 37.3087,
-   "lng": 44.569983
-  },
-  {
-   "district": "Şemdinli",
-   "name": "Bahar Eczanesi",
-   "address": "MERKEZ MAH. VATAN CAD.NO:17/A",
-   "phone": "04384613122",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 37.306194,
-   "lng": 44.573294
-  }
- ],
- "sourceUrl": "https://www.vaneczaciodasi.org.tr/nobetci-eczaneler"
+ "updatedAt": "2026-10-31T20:02:42.263Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [],
+ "unavailable": true,
+ "note": "class=\"warningContainer\">Seçilen zaman aralığı için nöbetçi eczane bulunamadı. Sayfa Sonu Bağlantıları e-Devlet Kapısı English Hak"
 }

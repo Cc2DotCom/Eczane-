@@ -2,64 +2,9 @@
  "city": "Malatya",
  "code": 44,
  "dutyDay": "2026-10-31",
- "updatedAt": "2026-10-31T17:46:19.074Z",
- "source": "Malatya Eczacı Odası",
- "pharmacies": [
-  {
-   "district": "Merkez",
-   "name": "Başak Eczanesi",
-   "address": "HASTANE CAD. BATTALGAZİ DEVLET HASTANESİ KARŞ.",
-   "phone": "05333252024",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": null,
-   "lng": null
-  },
-  {
-   "district": "Merkez",
-   "name": "Anadolu Eczanesi",
-   "address": "HALK SAĞLIĞI MÜD. ARKASI SITMAPINARI SAĞLIK OCAĞI GİRİŞİ",
-   "phone": "05052300199",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": null,
-   "lng": null
-  },
-  {
-   "district": "Merkez",
-   "name": "Leyla Eczanesi",
-   "address": "ŞEYHBAYRAM MH. NENEHATUN SK. N:38/A ŞEYBAYRAM CAMİ ALTI KIVANÇ EKMEK KARŞ.",
-   "phone": "04222123334",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": null,
-   "lng": null
-  },
-  {
-   "district": "Merkez",
-   "name": "Dörtyol Eczanesi",
-   "address": "TURGUT ÖZAL MAH. FAHRİ KAYAHAN CD. NO:27/D OPET PETROL KARŞISI",
-   "phone": "05512387244",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": null,
-   "lng": null
-  },
-  {
-   "district": "Battalgazi",
-   "name": "Atalan Eczanesi",
-   "address": "ALACAKAPI MAH. KIRKGÖZ CAD. NO 15/A ESKİMALATYA SEMT POLK. KARŞISI BATTALGAZİ/MALATYA",
-   "phone": "05343370444",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 38.4267751,
-   "lng": 38.3668196
-  }
- ],
- "sourceUrl": "https://www.malatyaeczaciodasi.org.tr/nobetci-eczaneler"
+ "updatedAt": "2026-10-31T20:03:38.941Z",
+ "source": "e-Devlet TİTCK",
+ "pharmacies": [],
+ "unavailable": true,
+ "note": "class=\"warningContainer\">Seçilen zaman aralığı için nöbetçi eczane bulunamadı. Sayfa Sonu Bağlantıları e-Devlet Kapısı English Hak"
 }

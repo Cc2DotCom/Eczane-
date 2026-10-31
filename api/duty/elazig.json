@@ -2,8 +2,8 @@
  "city": "Elazığ",
  "code": 23,
  "dutyDay": "2026-10-31",
- "updatedAt": "2026-10-31T17:45:49.777Z",
- "source": "e-Devlet TİTCK, Elazığ Eczacı Odası",
+ "updatedAt": "2026-10-31T20:02:13.027Z",
+ "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Merkez",
@@ -37,40 +37,6 @@
    "approved": true,
    "lat": 38.681072,
    "lng": 39.225422
-  },
-  {
-   "district": "Karakoçan",
-   "name": "Sağlık Eczanesi",
-   "address": "KIRKPINAR MAH.HASTANE CAD.NO:12",
-   "phone": "04247112525",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 38.946633,
-   "lng": 40.048619
-  },
-  {
-   "district": "Kovancilar",
-   "name": "Yağmur Eczanesi",
-   "address": "ÇARŞIBAŞI MAH.İLHAMİ ERTEM CAD.NO:30",
-   "phone": "04246113519",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 38.719261,
-   "lng": 39.865381
-  },
-  {
-   "district": "Palu",
-   "name": "Eylül Eczanesi",
-   "address": "NUMUNE MAH.15 TEMMUZ DİRİLİŞ CAD. NO:20/1",
-   "phone": "04246512569",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 38.693205,
-   "lng": 39.927578
   }
- ],
- "sourceUrl": "https://www.elazigeczaciodasi.org.tr/nobetci-eczaneler/elazig"
+ ]
 }
