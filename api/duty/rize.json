@@ -1,75 +1,97 @@
 {
  "city": "Rize",
  "code": 53,
- "dutyDay": "2026-10-30",
- "updatedAt": "2026-10-30T12:55:31.519Z",
+ "dutyDay": "2026-10-31",
+ "updatedAt": "2026-10-31T12:25:16.390Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Ardeşen",
-   "name": "Sevim Eczanesi",
-   "address": "MERKEZ MAHALLESİ ATATÜRK CADDESİ NO:124/A ARDEŞEN/RİZE",
-   "phone": "0464 715 1583",
-   "dutyStart": "2026-10-30T18:00:00+03:00",
-   "dutyEnd": "2026-10-31T08:00:00+03:00",
+   "name": "Bizim Eczanesi",
+   "address": "FATİH MAHALLESİ LÜTFÜ ALEMDAR CADDESİ NO:28B",
+   "phone": "0464 715 6422",
+   "dutyStart": "2026-10-31T08:00:00+03:00",
+   "dutyEnd": "2026-11-01T08:00:00+03:00",
    "approved": true,
-   "lat": 41.192486,
-   "lng": 40.992542
+   "lat": 41.193218,
+   "lng": 40.982357
   },
   {
    "district": "Çayeli",
-   "name": "Şifa Eczanesi",
-   "address": "Yenipazar Mahallesi Hastane Sokak Kibar Apartmanı No:2/B",
-   "phone": "0464 532 6670",
-   "dutyStart": "2026-10-30T17:30:00+03:00",
-   "dutyEnd": "2026-10-31T08:00:00+03:00",
+   "name": "Ağaran Eczanesi",
+   "address": "ESKİPAZAR MAH. YUSUF ZİYA KURÇENLİ CAD. NO:21/A",
+   "phone": "0464 550 5153",
+   "dutyStart": "2026-10-31T08:00:00+03:00",
+   "dutyEnd": "2026-11-01T08:00:00+03:00",
    "approved": true,
-   "lat": 41.090294,
-   "lng": 40.726231
+   "lat": 41.083382,
+   "lng": 40.725876
   },
   {
    "district": "Fındıklı",
-   "name": "Halk Eczanesi",
-   "address": "MERKEZ MAHALLESİ 2.CADDE NO:72",
-   "phone": "0464 511 3151",
-   "dutyStart": "2026-10-30T18:00:00+03:00",
-   "dutyEnd": "2026-10-31T08:00:00+03:00",
+   "name": "Deniz Eczanesi",
+   "address": "SAHİL MAHALLESİ 34. CADDE NO:162A",
+   "phone": "0464 511 5305",
+   "dutyStart": "2026-10-31T08:00:00+03:00",
+   "dutyEnd": "2026-11-01T08:00:00+03:00",
    "approved": true,
-   "lat": 41.271988,
-   "lng": 41.141762
+   "lat": 41.267143,
+   "lng": 41.136467
   },
   {
    "district": "Merkez",
-   "name": "Anadolu Eczanesi",
-   "address": "EMİNETTİN MAHALLESİ ATATÜRK CADDESİ NO:290/A",
-   "phone": "0464 217 3872",
-   "dutyStart": "2026-10-30T08:00:00+03:00",
+   "name": "Elif Eczanesi",
+   "address": "ATATÜRK CAD. 36/B MERKEZ RİZE",
+   "phone": "0464 217 4145",
+   "dutyStart": "2026-10-31T08:00:00+03:00",
    "dutyEnd": "2026-10-31T18:00:00+03:00",
    "approved": true,
-   "lat": 41.027805,
-   "lng": 40.513988
+   "lat": 41.024544,
+   "lng": 40.519085
   },
   {
    "district": "Merkez",
-   "name": "Hayat Eczanesi",
-   "address": "İslampaşa Mahallesi 2 No'lu Şehitler Caddesi No:41J",
-   "phone": "0464 214 4165",
-   "dutyStart": "2026-10-30T18:00:00+03:00",
-   "dutyEnd": "2026-10-31T08:00:00+03:00",
+   "name": "Gülbahar Eczanesi",
+   "address": "GÜLBAHAR MAHALLESİ ŞEHİT OKTAY TÜRÜT SOKAK 9/B",
+   "phone": "0464 253 0717",
+   "dutyStart": "2026-10-31T08:00:00+03:00",
+   "dutyEnd": "2026-11-01T08:00:00+03:00",
    "approved": true,
-   "lat": 41.039001,
-   "lng": 40.573242
+   "lat": 41.02536,
+   "lng": 40.541603
+  },
+  {
+   "district": "Merkez",
+   "name": "İsmailoğlu Eczanesi",
+   "address": "EMİNETTİN MAH. CUMHURİYET CAD. 114/A MERKEZ RİZE",
+   "phone": "0464 213 1592",
+   "dutyStart": "2026-10-31T08:00:00+03:00",
+   "dutyEnd": "2026-11-01T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.027718,
+   "lng": 40.515369
+  },
+  {
+   "district": "Merkez",
+   "name": "Yeşil Mavi Eczanesi",
+   "address": "ÇAMLIBEL MAH. ZÜBEYDE HANIM CAD. 8/A",
+   "phone": "0464 212 2053",
+   "dutyStart": "2026-10-31T08:00:00+03:00",
+   "dutyEnd": "2026-10-31T18:00:00+03:00",
+   "approved": true,
+   "lat": 41.02277,
+   "lng": 40.528236
   },
   {
    "district": "Pazar",
-   "name": "Halk Eczanesi",
-   "address": "PAZAR MAHALLESİ PROF. DR. MEHMET HABERAL CADDESİ NO:66",
-   "phone": "0464 612 1313",
-   "dutyStart": "2026-10-30T18:00:00+03:00",
-   "dutyEnd": "2026-10-31T08:00:00+03:00",
+   "name": "Merkez Eczanesi",
+   "address": "HAMİDİYE MAHALLESİ KAÇKAR SOKAK NO:40/A",
+   "phone": "0464 715 1261",
+   "dutyStart": "2026-10-31T08:00:00+03:00",
+   "dutyEnd": "2026-11-01T08:00:00+03:00",
    "approved": true,
-   "lat": 41.180485,
-   "lng": 40.884106
+   "lat": 41.179169,
+   "lng": 40.944286
   }
  ]
 }

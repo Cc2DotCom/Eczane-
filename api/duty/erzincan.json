@@ -1,86 +1,86 @@
 {
  "city": "Erzincan",
  "code": 24,
- "dutyDay": "2026-10-30",
- "updatedAt": "2026-10-30T12:50:28.096Z",
+ "dutyDay": "2026-10-31",
+ "updatedAt": "2026-10-31T12:20:54.656Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Çayırlı",
-   "name": "Güliz Eczanesi",
-   "address": "ATATÜRK MAH. HÜKÜMET CAD. NO:17 ÇAYIRLI /ERZİNCAN",
-   "phone": "0446 311 3403",
-   "dutyStart": "2026-10-30T18:00:00+03:00",
-   "dutyEnd": "2026-10-31T08:00:00+03:00",
+   "name": "Çayırlı Eczanesi",
+   "address": "ATATÜRK MAHALLESİ HÜKÜMET CADDESİ NO:19 ÇAYIRLI/ ERZİNCAN",
+   "phone": "0446 311 3257",
+   "dutyStart": "2026-10-31T18:00:00+03:00",
+   "dutyEnd": "2026-11-01T08:00:00+03:00",
    "approved": true,
-   "lat": 39.807327,
-   "lng": 40.037361
+   "lat": 39.807289,
+   "lng": 40.037506
   },
   {
    "district": "İliç",
    "name": "Altinkent Eczanesi",
    "address": "ABDULLAHPAŞA MAH. HÜKÜMET CAD. AK PLAZA ZEMİN KAT NO: 1 İLİÇ/ERZİNCAN",
    "phone": "0446 711 2400",
-   "dutyStart": "2026-10-30T18:00:00+03:00",
-   "dutyEnd": "2026-10-31T08:30:00+03:00",
+   "dutyStart": "2026-10-31T08:30:00+03:00",
+   "dutyEnd": "2026-11-01T08:30:00+03:00",
    "approved": true,
    "lat": 39.456501,
    "lng": 38.564213
   },
   {
    "district": "Merkez",
-   "name": "Aksoy Eczanesi",
-   "address": "MİMARSİNAN MAHALLESİ 1167.SOKAK NO:3/C ERZİNCAN",
-   "phone": "0446 228 0228",
-   "dutyStart": "2026-10-30T18:00:00+03:00",
-   "dutyEnd": "2026-10-31T00:00:00+03:00",
+   "name": "Aktaş Eczanesi",
+   "address": "KARAAĞAÇ MAHALLESİ ŞEHİT YÜZBAŞI FATİH DEVRAVUT CADDESİ NO:13A MERKEZ/ERZİNCAN",
+   "phone": "0446 212 1811",
+   "dutyStart": "2026-10-31T18:00:00+03:00",
+   "dutyEnd": "2026-11-01T08:30:00+03:00",
    "approved": true,
-   "lat": 39.745255,
-   "lng": 39.470299
+   "lat": 39.745754,
+   "lng": 39.492886
   },
   {
    "district": "Merkez",
-   "name": "Onur Eczanesi",
-   "address": "YAVUZ SELİM MAHALLESİ BAHÇESARAY CADDESİ NO :50/A ERZİNCAN",
-   "phone": "0541 834 2923",
-   "dutyStart": "2026-10-30T18:00:00+03:00",
-   "dutyEnd": "2026-10-31T08:30:00+03:00",
+   "name": "Merkez Eczanesi",
+   "address": "Karaağaç Mahallesi Şehit Yüzbaşı Fatih Devravut Caddesi No : 17/B",
+   "phone": "0446 223 1615",
+   "dutyStart": "2026-10-31T18:00:00+03:00",
+   "dutyEnd": "2026-11-01T00:00:00+03:00",
    "approved": true,
-   "lat": 39.754642,
-   "lng": 39.4692
+   "lat": 39.745602,
+   "lng": 39.493423
   },
   {
    "district": "Refahiye",
-   "name": "Refahiye Eczanesi",
-   "address": "Yenidoğan Mahallesi 500. sokak No:5-A",
-   "phone": "0446 611 2322",
-   "dutyStart": "2026-10-30T17:00:00+03:00",
-   "dutyEnd": "2026-10-31T08:00:00+03:00",
+   "name": "Kübra Nur Eczanesi",
+   "address": "HÖKÜMET MAHALLESİ ŞEHİT METİN DAĞ SOKAK NO:4/B",
+   "phone": "0446 611 3238",
+   "dutyStart": "2026-10-31T17:00:00+03:00",
+   "dutyEnd": "2026-11-01T08:00:00+03:00",
    "approved": true,
-   "lat": 39.90052,
-   "lng": 38.769875
+   "lat": 39.89917,
+   "lng": 38.768185
   },
   {
    "district": "Tercan",
-   "name": "Algül Eczanesi",
-   "address": "KAZIM KARABEKİR MAHALLESİ KERVANSARAY CAD. DIŞ KAPI NO:99 İÇ KAPI NO:2 TERCAN/ERZİNCAN",
-   "phone": "0541 319 3117",
-   "dutyStart": "2026-10-30T18:00:00+03:00",
-   "dutyEnd": "2026-10-31T08:00:00+03:00",
+   "name": "Yeni Barış Eczanesi",
+   "address": "KAZIM KARABEKİR MAH. KERVANSARAY CAD. NO:13/C TERCAN/ERZİNCAN",
+   "phone": "0505 429 8717",
+   "dutyStart": "2026-10-31T12:00:00+03:00",
+   "dutyEnd": "2026-11-01T08:00:00+03:00",
    "approved": true,
-   "lat": 39.778496,
-   "lng": 40.380863
+   "lat": 39.778606,
+   "lng": 40.380493
   },
   {
    "district": "Üzümlü",
-   "name": "Güven Eczanesi",
-   "address": "Fatih Mahallesi Erzincan Bulvarı No:114/A Üzümlü Erzincan",
-   "phone": "0505 429 9575",
-   "dutyStart": "2026-10-30T18:00:00+03:00",
-   "dutyEnd": "2026-10-31T08:30:00+03:00",
+   "name": "Üzümlü Eczanesi",
+   "address": "FATİH MAH. ERZİNCAN BULVARI NO:112/B ÜZÜMLÜ / ERZİNCAN",
+   "phone": "0446 411 2313",
+   "dutyStart": "2026-10-31T18:00:00+03:00",
+   "dutyEnd": "2026-11-01T08:30:00+03:00",
    "approved": true,
-   "lat": 39.697781,
-   "lng": 39.683838
+   "lat": 39.697853,
+   "lng": 39.683887
   }
  ]
 }

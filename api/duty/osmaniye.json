@@ -1,86 +1,97 @@
 {
  "city": "Osmaniye",
  "code": 80,
- "dutyDay": "2026-10-30",
- "updatedAt": "2026-10-30T12:57:30.058Z",
+ "dutyDay": "2026-10-31",
+ "updatedAt": "2026-10-31T12:27:15.055Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Bahçe",
-   "name": "Eylül Eczanesi",
-   "address": "Bahçelievler Mahallesi Devlet Bahçeli Bulvarı No: 11/B",
-   "phone": "0328 861 2728",
-   "dutyStart": "2026-10-30T12:00:00+03:00",
-   "dutyEnd": "2026-10-31T08:00:00+03:00",
+   "name": "Açıkgöz Eczanesi",
+   "address": "Bahçelievler Mah.Devlet Bahçeli Bulvarı No:11/C",
+   "phone": "0328 861 4433",
+   "dutyStart": "2026-10-31T08:00:00+03:00",
+   "dutyEnd": "2026-11-01T08:00:00+03:00",
    "approved": true,
-   "lat": 37.200565,
-   "lng": 36.577446
+   "lat": 37.200596,
+   "lng": 36.577488
   },
   {
    "district": "Düziçi",
-   "name": "Şen Eczanesi",
-   "address": "Boğaziçi Mahallesi hastane Sokak No: 4/B",
-   "phone": "0328 876 2482",
-   "dutyStart": "2026-10-30T17:30:00+03:00",
-   "dutyEnd": "2026-10-31T08:00:00+03:00",
+   "name": "Şerife Eczanesi",
+   "address": "İrfanlı Mah. Dr. Selahattin Beyaz Sok. No:4/E-5",
+   "phone": "0545 955 9875",
+   "dutyStart": "2026-10-31T08:00:00+03:00",
+   "dutyEnd": "2026-11-01T08:00:00+03:00",
    "approved": true,
-   "lat": 37.244869,
-   "lng": 36.461361
+   "lat": 37.255749,
+   "lng": 36.455746
   },
   {
    "district": "Kadirli",
-   "name": "Mustafa Olcar Eczanesi",
-   "address": "Şehit Orhan Gök Mahallesi 931 Sokak No: 4/7",
-   "phone": "0532 164 0822",
-   "dutyStart": "2026-10-30T12:00:00+03:00",
-   "dutyEnd": "2026-10-31T08:30:00+03:00",
+   "name": "Merve Eczanesi",
+   "address": "Cemalpaşa Mahallesi 1666 Sokak No: 8",
+   "phone": "0328 718 6677",
+   "dutyStart": "2026-10-31T08:30:00+03:00",
+   "dutyEnd": "2026-11-01T08:30:00+03:00",
    "approved": true,
-   "lat": 37.345947,
-   "lng": 36.09716
+   "lat": 37.375603,
+   "lng": 36.081913
+  },
+  {
+   "district": "Kadirli",
+   "name": "Şifa Eczanesi",
+   "address": "Tufanpaşa Mah. 69 Sok. No:3/A",
+   "phone": "0531 591 5011",
+   "dutyStart": "2026-10-31T08:30:00+03:00",
+   "dutyEnd": "2026-11-01T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.379387,
+   "lng": 36.097218
   },
   {
    "district": "Merkez",
-   "name": "Çalık Eczanesi",
-   "address": "Alibeyli Mahallesi Karaoğlanoğlu Sokak No: 18/B",
-   "phone": "0328 812 6907",
-   "dutyStart": "2026-10-30T18:00:00+03:00",
-   "dutyEnd": "2026-10-31T08:00:00+03:00",
+   "name": "Ayşem Eczanesi",
+   "address": "Kazım Karabekir Mah. 6540 Sok. No:9/1-C",
+   "phone": "0507 811 8753",
+   "dutyStart": "2026-10-31T08:00:00+03:00",
+   "dutyEnd": "2026-11-01T08:00:00+03:00",
    "approved": true,
-   "lat": 37.07246,
-   "lng": 36.246246
+   "lat": 37.084583,
+   "lng": 36.272469
   },
   {
    "district": "Merkez",
-   "name": "Defne Eczanesi",
-   "address": "Mehmet Akif Ersoy Mah. Aziz Mahmut Hüdayi Sokak No:58/A",
-   "phone": "0328 430 0020",
-   "dutyStart": "2026-10-30T18:00:00+03:00",
-   "dutyEnd": "2026-10-31T08:00:00+03:00",
+   "name": "Büyüköztürk Eczanesi",
+   "address": "ESENEVLER MAHALLESİ KAYALAR SOKAK NO:8/A",
+   "phone": "0537 269 0229",
+   "dutyStart": "2026-10-31T08:00:00+03:00",
+   "dutyEnd": "2026-11-01T08:00:00+03:00",
    "approved": true,
-   "lat": 37.059315,
-   "lng": 36.246071
+   "lat": 37.076248,
+   "lng": 36.246143
   },
   {
    "district": "Merkez",
-   "name": "Melike Eczanesi",
-   "address": "Kazım Karabekir Mahallesi 6560 Sokak No:19/A",
-   "phone": "0553 534 9533",
-   "dutyStart": "2026-10-30T18:00:00+03:00",
-   "dutyEnd": "2026-10-31T08:00:00+03:00",
+   "name": "Erat Eczanesi",
+   "address": "M. AKİF ERSOY MAH. AZİZ MAHMUD HÜDAYİ SOKAK NO:107/1",
+   "phone": "0328 825 3939",
+   "dutyStart": "2026-10-31T08:00:00+03:00",
+   "dutyEnd": "2026-11-01T08:00:00+03:00",
    "approved": true,
-   "lat": 37.085239,
-   "lng": 36.274151
+   "lat": 37.059322,
+   "lng": 36.245792
   },
   {
    "district": "Toprakkale",
-   "name": "Nurten Eczanesi",
-   "address": "Fatih Sultan Mehmet Mahallesi Çamlıbel Sokak No: 11",
-   "phone": "0328 633 3196",
-   "dutyStart": "2026-10-30T18:30:00+03:00",
-   "dutyEnd": "2026-10-31T08:00:00+03:00",
+   "name": "Toprakkale Eczanesi",
+   "address": "Fatih Sultan Mehmet Mah. Çamlıbel Sok. No:19/B",
+   "phone": "0328 633 2053",
+   "dutyStart": "2026-10-31T08:00:00+03:00",
+   "dutyEnd": "2026-11-01T08:00:00+03:00",
    "approved": true,
-   "lat": 37.070889,
-   "lng": 36.143784
+   "lat": 37.070793,
+   "lng": 36.144039
   }
  ]
 }

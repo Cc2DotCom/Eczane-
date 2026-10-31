@@ -1,53 +1,53 @@
 {
  "city": "Kırşehir",
  "code": 40,
- "dutyDay": "2026-10-30",
- "updatedAt": "2026-10-30T20:51:01.093Z",
+ "dutyDay": "2026-10-31",
+ "updatedAt": "2026-10-31T12:23:44.815Z",
  "source": "Aksaray-Kırşehir Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Yeni Eczane Eczanesi",
-   "address": "kırgaz binası arkası tapu dairesi karşısı MEDRESE MAH.92SOKAK 4/A TAPU BİNASI KARŞISI KIRGAZ BİNASI ARKASI.",
-   "phone": "03862142221",
+   "name": "Aydin Eczanesi",
+   "address": "kırgaz binası yanı Medrese Mah. Metin Çobanoğlu Cad. Aydoğan Apt.No:7-2/6",
+   "phone": "03862144029",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.143166,
-   "lng": 34.162626
+   "lat": 39.142636,
+   "lng": 34.163428
   },
   {
    "district": "Merkez",
-   "name": "Çelik Eczanesi",
-   "address": "TAPU DAİRESİ CAPRAZ KARŞISI.KIRGAZ BİNASI BİR ALT SOKAK Medrese Mah. 92. Sokak Yılmaz Apt.Altı No : 8/13",
-   "phone": "03862143370",
+   "name": "Özge Eczanesi",
+   "address": "TERME CAD.Dominos Pizza yanı Grand Kırşehir otel altı eski üniversite yerleşkesi karşısı Kuşdilli Mahallesi Terme caddesi no 74",
+   "phone": "03862130473",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.142877,
-   "lng": 34.162651
+   "lat": 39.137708,
+   "lng": 34.154788
   },
   {
    "district": "Kaman",
-   "name": "Akdeniz Eczanesi",
-   "address": "CUMHURIYET MEYDANI NO:18",
-   "phone": "3867122646",
+   "name": "Berk Eczanesi",
+   "address": "25 ARALIK CAD.NO :28 KAMAN",
+   "phone": "3867122784",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.358501,
-   "lng": 33.724271
+   "lat": 39.359727,
+   "lng": 33.723424
   },
   {
    "district": "Mucur",
-   "name": "Sifa Eczanesi",
-   "address": "YENICE MAH. ENVERPASA CAD.NO:3/G",
-   "phone": "3868124065",
+   "name": "Emin Eczanesi",
+   "address": "Hamidiye Mah.İnönü Cad. No:16",
+   "phone": "03868126027",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.063197,
-   "lng": 34.376033
+   "lat": 39.062735,
+   "lng": 34.376231
   }
  ],
  "sourceUrl": "https://www.aksarayeo.org.tr/nobetci-eczaneler"

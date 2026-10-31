@@ -1,64 +1,64 @@
 {
  "city": "Bilecik",
  "code": 11,
- "dutyDay": "2026-10-30",
- "updatedAt": "2026-10-30T12:49:20.075Z",
+ "dutyDay": "2026-10-31",
+ "updatedAt": "2026-10-31T12:19:53.238Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Bozüyük",
-   "name": "Utku Eczanesi",
-   "address": "4 EYLÜL MAH. 892.SOK. NO:10/1",
-   "phone": "0228 314 8822",
-   "dutyStart": "2026-10-30T18:00:00+03:00",
-   "dutyEnd": "2026-10-31T08:30:00+03:00",
+   "name": "Arzu Eczanesi",
+   "address": "YENİ MAHALLE CAMİ CADDESİ NO: 102",
+   "phone": "0228 314 6070",
+   "dutyStart": "2026-10-31T08:30:00+03:00",
+   "dutyEnd": "2026-11-01T08:30:00+03:00",
    "approved": true,
-   "lat": 39.902847,
-   "lng": 30.068287
+   "lat": 39.906708,
+   "lng": 30.048162
   },
   {
    "district": "Gölpazarı",
-   "name": "Cebeci Eczanesi",
-   "address": "İSTİKLAL MAH. FEVZİ ÇAKMAK CAD. ÇİĞDEM SOKAK NO:1",
-   "phone": "0228 411 3393",
-   "dutyStart": "2026-10-30T18:30:00+03:00",
-   "dutyEnd": "2026-10-31T08:30:00+03:00",
+   "name": "Gölpazarı Eczanesi",
+   "address": "İSTİKLAL MAH. GAZİPAŞA MEYDANI NO:3/B",
+   "phone": "0228 411 3078",
+   "dutyStart": "2026-10-31T08:30:00+03:00",
+   "dutyEnd": "2026-11-01T08:30:00+03:00",
    "approved": true,
-   "lat": 40.282291,
-   "lng": 30.314161
+   "lat": 40.282585,
+   "lng": 30.314306
   },
   {
    "district": "Merkez",
-   "name": "Olcay Eczanesi",
-   "address": "Pelitözü Mah. Fatih Sultan Mehmet Bulvarı No:25/3A BİLECİK/MERKEZ",
-   "phone": "0228 212 6633",
-   "dutyStart": "2026-10-30T18:30:00+03:00",
-   "dutyEnd": "2026-10-31T08:30:00+03:00",
+   "name": "Erdal Eczanesi",
+   "address": "İsmetpaşa Mah. Dedeoğlu Cad. No:50/A BİLECİK/MERKEZ",
+   "phone": "0542 332 9110",
+   "dutyStart": "2026-10-31T08:30:00+03:00",
+   "dutyEnd": "2026-11-01T08:30:00+03:00",
    "approved": true,
-   "lat": 40.183765,
-   "lng": 29.969505
+   "lat": 40.143181,
+   "lng": 29.974085
   },
   {
    "district": "Osmaneli",
-   "name": "Osmaneli Eczanesi",
-   "address": "CAMİKEBİR MAH. PROF. DR. YUNUS SÖYLET CAD. NO:25/A",
-   "phone": "0228 461 2448",
-   "dutyStart": "2026-10-30T18:30:00+03:00",
-   "dutyEnd": "2026-10-31T08:30:00+03:00",
+   "name": "Kirdar Eczanesi",
+   "address": "Camikebir Mah. Prof.Dr. Yunus Söylet Cad. No:2/B",
+   "phone": "0228 461 3636",
+   "dutyStart": "2026-10-31T08:30:00+03:00",
+   "dutyEnd": "2026-11-01T08:30:00+03:00",
    "approved": true,
-   "lat": 40.358425,
-   "lng": 30.015768
+   "lat": 40.357567,
+   "lng": 30.013634
   },
   {
    "district": "Pazaryeri",
-   "name": "Pazaryeri Çiğdem Eczanesi",
-   "address": "DEREBOĞAZ MAH. ÇARŞI MEYDANI NO:8/A",
-   "phone": "0228 381 2139",
-   "dutyStart": "2026-10-30T18:00:00+03:00",
-   "dutyEnd": "2026-10-31T08:00:00+03:00",
+   "name": "Hayat Eczanesi",
+   "address": "ÇARŞI MAH. BAHATTİN ŞEKER CAD. NO:25/A",
+   "phone": "0228 381 2044",
+   "dutyStart": "2026-10-31T08:00:00+03:00",
+   "dutyEnd": "2026-11-01T08:00:00+03:00",
    "approved": true,
-   "lat": 39.995235,
-   "lng": 29.902828
+   "lat": 39.995583,
+   "lng": 29.90451
   }
  ]
 }

@@ -1,8 +1,8 @@
 {
  "city": "Amasya",
  "code": 5,
- "dutyDay": "2026-10-30",
- "updatedAt": "2026-10-30T12:48:04.377Z",
+ "dutyDay": "2026-10-31",
+ "updatedAt": "2026-10-31T12:18:52.896Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
@@ -10,77 +10,77 @@
    "name": "Kılıç Eczanesi",
    "address": "YENİ MAH. YOZGAT CAD. NO:166",
    "phone": "0358 615 2601",
-   "dutyStart": "2026-10-30T08:00:00+03:00",
-   "dutyEnd": "2026-10-31T08:00:00+03:00",
+   "dutyStart": "2026-10-31T08:00:00+03:00",
+   "dutyEnd": "2026-11-01T08:00:00+03:00",
    "approved": true,
    "lat": 40.396675,
    "lng": 35.524639
   },
   {
    "district": "Gümüşhacıköy",
-   "name": "Yarar Eczanesi",
-   "address": "HACIYAHYA MAH. CUMHURİYET MEYDANI NO:2N",
-   "phone": "0358 717 3977",
-   "dutyStart": "2026-10-30T08:00:00+03:00",
-   "dutyEnd": "2026-10-31T08:00:00+03:00",
+   "name": "Hayat Eczanesi",
+   "address": "CUMARA MAH. MEHMET PAŞA CAD. NO:1",
+   "phone": "0358 717 1861",
+   "dutyStart": "2026-10-31T08:00:00+03:00",
+   "dutyEnd": "2026-11-01T08:00:00+03:00",
    "approved": true,
-   "lat": 40.873775,
-   "lng": 35.215054
+   "lat": 40.873634,
+   "lng": 35.216152
   },
   {
    "district": "Hamamözü",
    "name": "Ömür Eczanesi",
    "address": "ARTUKBEY MAH. ÇORUM CAD. NO:9/1",
    "phone": "0358 787 6202",
-   "dutyStart": "2026-10-30T08:00:00+03:00",
-   "dutyEnd": "2026-10-31T08:00:00+03:00",
+   "dutyStart": "2026-10-31T08:00:00+03:00",
+   "dutyEnd": "2026-11-01T08:00:00+03:00",
    "approved": true,
    "lat": 40.781593,
    "lng": 35.022079
   },
   {
    "district": "Merkez",
-   "name": "Amasya Eczanesi",
-   "address": "Dere Mah. Mustafa Kemal Paşa Cad. No:46-48-A",
-   "phone": "0358 218 1087",
-   "dutyStart": "2026-10-30T08:00:00+03:00",
-   "dutyEnd": "2026-10-31T08:00:00+03:00",
+   "name": "Eczane Başak Eczanesi",
+   "address": "DERE MAH. M.K.P. CAD. NO:14/B",
+   "phone": "0358 218 4070",
+   "dutyStart": "2026-10-31T08:00:00+03:00",
+   "dutyEnd": "2026-11-01T08:00:00+03:00",
    "approved": true,
-   "lat": 40.650871,
-   "lng": 35.8311
+   "lat": 40.651421,
+   "lng": 35.832996
   },
   {
    "district": "Merkez",
-   "name": "Yeşilova Eczanesi",
-   "address": "KİRAZLIDERE MAHALLESİ TURGUT ÖZAL CAD. NO:21/C",
-   "phone": "0358 212 6039",
-   "dutyStart": "2026-10-30T08:00:00+03:00",
-   "dutyEnd": "2026-10-31T08:00:00+03:00",
+   "name": "Güngör Eczanesi",
+   "address": "BEYAZITPAŞA MAHALLESİ SAKMAN SOKAK NO:2A-B-C",
+   "phone": "0358 212 6556",
+   "dutyStart": "2026-10-31T08:00:00+03:00",
+   "dutyEnd": "2026-11-01T08:00:00+03:00",
    "approved": true,
-   "lat": 40.661724,
-   "lng": 35.847652
+   "lat": 40.65799,
+   "lng": 35.838387
   },
   {
    "district": "Merzifon",
-   "name": "Hançerli Eczanesi",
-   "address": "BAHÇELİEVLER MAH. İBN-İ SİNA SOK. NO:11/3",
-   "phone": "0358 505 0045",
-   "dutyStart": "2026-10-30T08:00:00+03:00",
-   "dutyEnd": "2026-10-31T08:00:00+03:00",
+   "name": "Doğaner Eczanesi",
+   "address": "BAHÇELİEVLER MAH.İBN-İ SİNA SOK.NO:3/B",
+   "phone": "0358 500 0127",
+   "dutyStart": "2026-10-31T08:00:00+03:00",
+   "dutyEnd": "2026-11-01T08:00:00+03:00",
    "approved": true,
-   "lat": 40.867672,
-   "lng": 35.438515
+   "lat": 40.868011,
+   "lng": 35.438316
   },
   {
    "district": "Taşova",
-   "name": "Yeni Eczanesi",
-   "address": "YEŞİLIRMAK MAH.CUMHURİYET CAD. NO:9/A",
-   "phone": "0358 312 1101",
-   "dutyStart": "2026-10-30T08:00:00+03:00",
-   "dutyEnd": "2026-10-31T08:00:00+03:00",
+   "name": "Taşova Eczanesi",
+   "address": "YEŞİLIRMAK MAH. ÇAĞPAR CAD. NO:22",
+   "phone": "0358 312 1252",
+   "dutyStart": "2026-10-31T08:00:00+03:00",
+   "dutyEnd": "2026-11-01T08:00:00+03:00",
    "approved": true,
-   "lat": 40.759399,
-   "lng": 36.323063
+   "lat": 40.759998,
+   "lng": 36.322929
   }
  ]
 }
