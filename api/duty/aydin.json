@@ -2,7 +2,7 @@
  "city": "Aydın",
  "code": 9,
  "dutyDay": "2026-10-31",
- "updatedAt": "2026-10-31T12:19:35.792Z",
+ "updatedAt": "2026-10-31T15:17:43.977Z",
  "source": "Aydın Eczacı Odası",
  "pharmacies": [
   {
@@ -290,17 +290,6 @@
    "approved": true,
    "lat": 37.556435,
    "lng": 27.835686
-  },
-  {
-   "district": "Köşk",
-   "name": "Şule Eczanesi",
-   "address": "ÇARŞI MAH. ESKİ NAZİLLİ CAD. NO:64/A",
-   "phone": "02564612858",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 37.853744,
-   "lng": 28.052322
   },
   {
    "district": "Köşk",

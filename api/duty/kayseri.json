@@ -2,7 +2,7 @@
  "city": "Kayseri",
  "code": 38,
  "dutyDay": "2026-10-31",
- "updatedAt": "2026-10-31T12:23:35.657Z",
+ "updatedAt": "2026-10-31T15:18:16.972Z",
  "source": "Kayseri Eczacı Odası",
  "pharmacies": [
   {
@@ -15,6 +15,39 @@
    "approved": true,
    "lat": 38.792766,
    "lng": 35.621053
+  },
+  {
+   "district": "Kocasinan",
+   "name": "Yilmaz Eczanesi",
+   "address": "Mimarsinan Bahçelievler Mah. Gesi Cad. No:90",
+   "phone": "03522400440",
+   "dutyStart": "2026-10-31T08:30:00+03:00",
+   "dutyEnd": "2026-11-01T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.779413,
+   "lng": 35.592451
+  },
+  {
+   "district": "Kocasinan",
+   "name": "Göktürk Eczanesi",
+   "address": "Gevher nesibe mah. Gür sokak 8/J Kocasinan Kayseri",
+   "phone": "03522202280",
+   "dutyStart": "2026-10-31T08:30:00+03:00",
+   "dutyEnd": "2026-11-01T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.723273,
+   "lng": 35.48221
+  },
+  {
+   "district": "Kocasinan",
+   "name": "Marmara Eczanesi",
+   "address": "ŞEKER MAH. MUHSİN YAZICIOĞLU BULV. NO:74/L",
+   "phone": "03523362515",
+   "dutyStart": "2026-10-31T08:30:00+03:00",
+   "dutyEnd": "2026-11-01T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.770805,
+   "lng": 35.413164
   },
   {
    "district": "Melikgazi",
@@ -39,28 +72,6 @@
    "lng": 35.479595
   },
   {
-   "district": "Kocasinan",
-   "name": "Marmara Eczanesi",
-   "address": "ŞEKER MAH. MUHSİN YAZICIOĞLU BULV. NO:74/L",
-   "phone": "03523362515",
-   "dutyStart": "2026-10-31T08:30:00+03:00",
-   "dutyEnd": "2026-11-01T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.770805,
-   "lng": 35.413164
-  },
-  {
-   "district": "Kocasinan",
-   "name": "Yilmaz Eczanesi",
-   "address": "Mimarsinan Bahçelievler Mah. Gesi Cad. No:90",
-   "phone": "03522400440",
-   "dutyStart": "2026-10-31T08:30:00+03:00",
-   "dutyEnd": "2026-11-01T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.779413,
-   "lng": 35.592451
-  },
-  {
    "district": "Melikgazi",
    "name": "İşler Eczanesi",
    "address": "Tacettinveli Mah. Lalezade Cad. 45/D",
@@ -72,15 +83,59 @@
    "lng": 35.494773
   },
   {
-   "district": "Kocasinan",
-   "name": "Göktürk Eczanesi",
-   "address": "Gevher nesibe mah. Gür sokak 8/J Kocasinan Kayseri",
-   "phone": "03522202280",
+   "district": "Melikgazi",
+   "name": "Gökçen Eczanesi",
+   "address": "OSMANLI MAH. DALGIÇ SOK. NO:2",
+   "phone": "03523474674",
    "dutyStart": "2026-10-31T08:30:00+03:00",
-   "dutyEnd": "2026-11-01T08:30:00+03:00",
+   "dutyEnd": "2026-11-01T01:00:00+03:00",
    "approved": true,
-   "lat": 38.723273,
-   "lng": 35.48221
+   "lat": 38.688423,
+   "lng": 35.474771
+  },
+  {
+   "district": "Kocasinan",
+   "name": "Emek Eczanesi",
+   "address": "MIMARSINAN MAH.BILLUR CAD.NO:75/A",
+   "phone": "03522236243",
+   "dutyStart": "2026-10-31T08:30:00+03:00",
+   "dutyEnd": "2026-11-01T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.733655,
+   "lng": 35.510632
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Kayseripark Meltem Zenger Eczanesi",
+   "address": "ALPARSLAN MAH. KIZILIRMAK CAD. NO: 120/A",
+   "phone": "03522355552",
+   "dutyStart": "2026-10-31T08:30:00+03:00",
+   "dutyEnd": "2026-11-01T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.726895,
+   "lng": 35.517193
+  },
+  {
+   "district": "Kocasinan",
+   "name": "Gaziosman Eczanesi",
+   "address": "BARBAROS MH.KALDIRIM CAD.N0:38/A",
+   "phone": "03523372879",
+   "dutyStart": "2026-10-31T08:30:00+03:00",
+   "dutyEnd": "2026-11-01T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.732409,
+   "lng": 35.47065
+  },
+  {
+   "district": "Talas",
+   "name": "Gökkuşağı Eczanesi",
+   "address": "YENİDOĞAN MAHALLESİ TİMUÇİN CADDESİ NO:17/A",
+   "phone": "03524379966",
+   "dutyStart": "2026-10-31T08:30:00+03:00",
+   "dutyEnd": "2026-11-01T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.697367,
+   "lng": 35.54432
   },
   {
    "district": "Talas",
@@ -125,61 +180,6 @@
    "approved": true,
    "lat": 38.746045,
    "lng": 35.393018
-  },
-  {
-   "district": "Kocasinan",
-   "name": "Emek Eczanesi",
-   "address": "MIMARSINAN MAH.BILLUR CAD.NO:75/A",
-   "phone": "03522236243",
-   "dutyStart": "2026-10-31T08:30:00+03:00",
-   "dutyEnd": "2026-11-01T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.733655,
-   "lng": 35.510632
-  },
-  {
-   "district": "Kocasinan",
-   "name": "Gaziosman Eczanesi",
-   "address": "BARBAROS MH.KALDIRIM CAD.N0:38/A",
-   "phone": "03523372879",
-   "dutyStart": "2026-10-31T08:30:00+03:00",
-   "dutyEnd": "2026-11-01T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.732409,
-   "lng": 35.47065
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Gökçen Eczanesi",
-   "address": "OSMANLI MAH. DALGIÇ SOK. NO:2",
-   "phone": "03523474674",
-   "dutyStart": "2026-10-31T08:30:00+03:00",
-   "dutyEnd": "2026-11-01T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.688423,
-   "lng": 35.474771
-  },
-  {
-   "district": "Talas",
-   "name": "Gökkuşağı Eczanesi",
-   "address": "YENİDOĞAN MAHALLESİ TİMUÇİN CADDESİ NO:17/A",
-   "phone": "03524379966",
-   "dutyStart": "2026-10-31T08:30:00+03:00",
-   "dutyEnd": "2026-11-01T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.697367,
-   "lng": 35.54432
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Kayseripark Meltem Zenger Eczanesi",
-   "address": "ALPARSLAN MAH. KIZILIRMAK CAD. NO: 120/A",
-   "phone": "03522355552",
-   "dutyStart": "2026-10-31T08:30:00+03:00",
-   "dutyEnd": "2026-11-01T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.726895,
-   "lng": 35.517193
   }
  ],
  "sourceUrl": "https://www.kayserieo.org.tr/nobetci-eczaneler"
