@@ -2,7 +2,7 @@
  "city": "Kayseri",
  "code": 38,
  "dutyDay": "2026-11-01",
- "updatedAt": "2026-11-01T13:19:21.903Z",
+ "updatedAt": "2026-11-01T15:59:27.347Z",
  "source": "Kayseri Eczacı Odası",
  "pharmacies": [
   {
@@ -61,26 +61,15 @@
    "lng": 35.479501
   },
   {
-   "district": "Talas",
-   "name": "Nisan Eczanesi",
-   "address": "YENIDOGAN MAH. FATİH SOK. NO:6/A",
-   "phone": "03524381274",
-   "dutyStart": "2026-11-01T08:30:00+03:00",
-   "dutyEnd": "2026-11-02T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.697894,
-   "lng": 35.545133
-  },
-  {
    "district": "Melikgazi",
-   "name": "Aydinlikevler Eczanesi",
-   "address": "HÜRRİYET MAH. GÜLSEREN SK. 14/A",
-   "phone": "03522374694",
+   "name": "Limon Eczanesi",
+   "address": "ESENYURT MAH. KAVAKLIK CAD. NO : 5/A-B",
+   "phone": "03522256227",
    "dutyStart": "2026-11-01T08:30:00+03:00",
    "dutyEnd": "2026-11-02T01:00:00+03:00",
    "approved": true,
-   "lat": 38.71566,
-   "lng": 35.466087
+   "lat": 38.698175,
+   "lng": 35.492994
   },
   {
    "district": "Melikgazi",
@@ -105,6 +94,39 @@
    "lng": 35.50862
   },
   {
+   "district": "Talas",
+   "name": "Nisan Eczanesi",
+   "address": "YENIDOGAN MAH. FATİH SOK. NO:6/A",
+   "phone": "03524381274",
+   "dutyStart": "2026-11-01T08:30:00+03:00",
+   "dutyEnd": "2026-11-02T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.697894,
+   "lng": 35.545133
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Aydinlikevler Eczanesi",
+   "address": "HÜRRİYET MAH. GÜLSEREN SK. 14/A",
+   "phone": "03522374694",
+   "dutyStart": "2026-11-01T08:30:00+03:00",
+   "dutyEnd": "2026-11-02T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.71566,
+   "lng": 35.466087
+  },
+  {
+   "district": "Talas",
+   "name": "Sağın Eczanesi",
+   "address": "MEVLANA MAH. TARİF SOK. NO: 40/B",
+   "phone": "03525026838",
+   "dutyStart": "2026-11-01T08:30:00+03:00",
+   "dutyEnd": "2026-11-02T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.716295,
+   "lng": 35.561819
+  },
+  {
    "district": "Melikgazi",
    "name": "Damla Eczanesi",
    "address": "HUNAT MAH. KALPAKLIOGLU CAD. NO:7",
@@ -125,28 +147,6 @@
    "approved": true,
    "lat": 38.689708,
    "lng": 35.475269
-  },
-  {
-   "district": "Talas",
-   "name": "Sağın Eczanesi",
-   "address": "MEVLANA MAH. TARİF SOK. NO: 40/B",
-   "phone": "03525026838",
-   "dutyStart": "2026-11-01T08:30:00+03:00",
-   "dutyEnd": "2026-11-02T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.716295,
-   "lng": 35.561819
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Limon Eczanesi",
-   "address": "ESENYURT MAH. KAVAKLIK CAD. NO : 5/A-B",
-   "phone": "03522256227",
-   "dutyStart": "2026-11-01T08:30:00+03:00",
-   "dutyEnd": "2026-11-02T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.698175,
-   "lng": 35.492994
   },
   {
    "district": "Melikgazi",

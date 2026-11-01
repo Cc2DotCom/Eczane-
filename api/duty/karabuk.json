@@ -1,86 +1,10 @@
 {
  "city": "Karabük",
  "code": 78,
- "dutyDay": "2026-10-31",
- "updatedAt": "2026-10-31T12:27:01.793Z",
+ "dutyDay": "2026-11-01",
+ "updatedAt": "2026-11-01T16:00:13.349Z",
  "source": "e-Devlet TİTCK",
- "pharmacies": [
-  {
-   "district": "Eflani",
-   "name": "Gülşen Eczanesi",
-   "address": "CANDAROĞULLARI MAH. HÜKÜMET CAD. NO:71/K",
-   "phone": "0370 461 2331",
-   "dutyStart": "2026-10-31T08:30:00+03:00",
-   "dutyEnd": "2026-11-01T08:30:00+03:00",
-   "approved": true,
-   "lat": 41.423168,
-   "lng": 32.957214
-  },
-  {
-   "district": "Eskipazar",
-   "name": "Eskipazar Eczanesi",
-   "address": "MERKEZ MAH.CAMİ CAD. NO:16",
-   "phone": "0370 818 3737",
-   "dutyStart": "2026-10-31T08:30:00+03:00",
-   "dutyEnd": "2026-11-01T08:00:00+03:00",
-   "approved": true,
-   "lat": 40.943947,
-   "lng": 32.531132
-  },
-  {
-   "district": "Merkez",
-   "name": "Bulut Eczanesi",
-   "address": "YEŞİL MAH. TAŞKENT CAD. NO: 78/A",
-   "phone": "0370 415 5520",
-   "dutyStart": "2026-10-31T08:30:00+03:00",
-   "dutyEnd": "2026-11-01T08:30:00+03:00",
-   "approved": true,
-   "lat": 41.206188,
-   "lng": 32.626637
-  },
-  {
-   "district": "Merkez",
-   "name": "Dilek Eczanesi",
-   "address": "BAYIR MAH. FEVZİ ÇAKMAK CAD. NO: 9",
-   "phone": "0370 415 3027",
-   "dutyStart": "2026-10-31T08:30:00+03:00",
-   "dutyEnd": "2026-11-01T08:30:00+03:00",
-   "approved": true,
-   "lat": 41.197155,
-   "lng": 32.612114
-  },
-  {
-   "district": "Merkez",
-   "name": "Gökçınar Eczanesi",
-   "address": "100.YIL MAH. PROF. DR. BURHANETTİN UYSAL CAD. NO:45D",
-   "phone": "0370 433 7119",
-   "dutyStart": "2026-10-31T08:30:00+03:00",
-   "dutyEnd": "2026-11-01T08:30:00+03:00",
-   "approved": true,
-   "lat": 41.218159,
-   "lng": 32.668968
-  },
-  {
-   "district": "Safranbolu",
-   "name": "4. Levent Eczanesi",
-   "address": "Esentepe Mah. Esendere Sok. No:10A",
-   "phone": "0370 712 4967",
-   "dutyStart": "2026-10-31T08:00:00+03:00",
-   "dutyEnd": "2026-11-01T08:00:00+03:00",
-   "approved": true,
-   "lat": 41.272545,
-   "lng": 32.673374
-  },
-  {
-   "district": "Yenice",
-   "name": "Deniz Eczanesi",
-   "address": "MERKEZ MAH.BÜLENT ECEVİT CAD.NO:6/A",
-   "phone": "0370 766 4200",
-   "dutyStart": "2026-10-31T18:30:00+03:00",
-   "dutyEnd": "2026-11-01T08:30:00+03:00",
-   "approved": true,
-   "lat": 41.20002,
-   "lng": 32.329491
-  }
- ]
+ "pharmacies": [],
+ "unavailable": true,
+ "note": "class=\"warningContainer\">Seçilen zaman aralığı için nöbetçi eczane bulunamadı. Sayfa Sonu Bağlantıları e-Devlet Kapısı English Hak"
 }

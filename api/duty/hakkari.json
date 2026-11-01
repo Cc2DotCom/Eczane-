@@ -1,10 +1,54 @@
 {
  "city": "Hakkari",
  "code": 30,
- "dutyDay": "2026-10-31",
- "updatedAt": "2026-10-31T20:02:42.263Z",
- "source": "e-Devlet TİTCK",
- "pharmacies": [],
- "unavailable": true,
- "note": "class=\"warningContainer\">Seçilen zaman aralığı için nöbetçi eczane bulunamadı. Sayfa Sonu Bağlantıları e-Devlet Kapısı English Hak"
+ "dutyDay": "2026-11-01",
+ "updatedAt": "2026-11-01T15:59:15.752Z",
+ "source": "Van Eczacı Odası",
+ "pharmacies": [
+  {
+   "district": "Merkez",
+   "name": "Seda Eczanesi",
+   "address": "GAZİ MAH.GÜLTEKİNLER CAD.NO:3/B",
+   "phone": "05016446717",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 37.583066,
+   "lng": 43.73526
+  },
+  {
+   "district": "Yüksekova",
+   "name": "Sanat Eczanesi",
+   "address": "Çarşı merkez Cengiz Topel cad. İran pasajı karşısı no:26/b",
+   "phone": "04383512222",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 37.571519,
+   "lng": 44.282142
+  },
+  {
+   "district": "Şemdinli",
+   "name": "Mavi Eczanesi",
+   "address": "BEŞEVLER MAH.CUMHURİYET CAD.NO:96/A",
+   "phone": "05312972080",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 37.308802,
+   "lng": 44.570835
+  },
+  {
+   "district": "Şemdinli",
+   "name": "Aki Eczanesi",
+   "address": "MERKEZ MAH. VATAN CADDESİ NO:12/A",
+   "phone": "04384613320",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 37.080915,
+   "lng": 44.310193
+  }
+ ],
+ "sourceUrl": "https://www.vaneczaciodasi.org.tr/nobetci-eczaneler"
 }

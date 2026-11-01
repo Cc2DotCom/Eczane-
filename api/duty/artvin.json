@@ -1,10 +1,109 @@
 {
  "city": "Artvin",
  "code": 8,
- "dutyDay": "2026-10-31",
- "updatedAt": "2026-10-31T20:01:32.887Z",
- "source": "e-Devlet TİTCK",
- "pharmacies": [],
- "unavailable": true,
- "note": "class=\"warningContainer\">Seçilen zaman aralığı için nöbetçi eczane bulunamadı. Sayfa Sonu Bağlantıları e-Devlet Kapısı English Hak"
+ "dutyDay": "2026-11-01",
+ "updatedAt": "2026-11-01T15:58:26.167Z",
+ "source": "Trabzon Eczacı Odası",
+ "pharmacies": [
+  {
+   "district": "Merkez",
+   "name": "Livane Eczanesi",
+   "address": "ÇARŞI MAH.İNÖNÜ CAD.NO:56/E HALİTPAŞA CAMİİ KARŞISI",
+   "phone": "04662127565",
+   "dutyStart": "2026-11-01T08:00:00+03:00",
+   "dutyEnd": "2026-11-02T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.179028,
+   "lng": 41.817434
+  },
+  {
+   "district": "Ardanuç",
+   "name": "Deniz Eczanesi",
+   "address": "MERKEZ MAH. 7 MART CAD. ÖMER NOYAN SOK. NO:21/F",
+   "phone": "04666114219",
+   "dutyStart": "2026-11-01T08:00:00+03:00",
+   "dutyEnd": "2026-11-02T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.121758,
+   "lng": 42.065987
+  },
+  {
+   "district": "Arhavi",
+   "name": "Turna Eczanesi",
+   "address": "YUKARI HACILAR MAH.YÜKSEL BÜYÜKLÜ CAD.NO:2/A",
+   "phone": "04663122012",
+   "dutyStart": "2026-11-01T08:00:00+03:00",
+   "dutyEnd": "2026-11-02T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.355158,
+   "lng": 41.313274
+  },
+  {
+   "district": "Borçka",
+   "name": "Zeytül Eczanesi",
+   "address": "GÜNDOĞDU MAH. HÜKÜMET CAD. 36/B HÜKÜMET CADDESİ GÜNDOĞDU MAHALLESİ CENNET GELİNLİK KARŞISI",
+   "phone": "04664151490",
+   "dutyStart": "2026-11-01T08:00:00+03:00",
+   "dutyEnd": "2026-11-02T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.359763,
+   "lng": 41.67454
+  },
+  {
+   "district": "Hopa",
+   "name": "Uzun Eczanesi",
+   "address": "ORTA HOPA MAH. SAHİL CAD. TERZİOĞLU APT. NO:174/D8",
+   "phone": "04663516211",
+   "dutyStart": "2026-11-01T08:00:00+03:00",
+   "dutyEnd": "2026-11-02T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.403087,
+   "lng": 41.427849
+  },
+  {
+   "district": "Murgul",
+   "name": "Göktaş Eczanesi",
+   "address": "İSRAFİL KIŞLA CAD. NO 117-Z01",
+   "phone": "04667113740",
+   "dutyStart": "2026-11-01T08:00:00+03:00",
+   "dutyEnd": "2026-11-02T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.278474,
+   "lng": 41.56313
+  },
+  {
+   "district": "Şavşat",
+   "name": "Serhat Eczanesi",
+   "address": "CUMHURİYET CAD. NO:87/1",
+   "phone": "04665171043",
+   "dutyStart": "2026-11-01T08:00:00+03:00",
+   "dutyEnd": "2026-11-02T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.252126,
+   "lng": 42.357055
+  },
+  {
+   "district": "Yusufeli",
+   "name": "Sarikaya Eczanesi",
+   "address": "ÇORUH MAH. RECEP TAYYİP ERDOĞAN CAD. NO:14/B",
+   "phone": "04668112707",
+   "dutyStart": "2026-11-01T08:00:00+03:00",
+   "dutyEnd": "2026-11-02T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.809339,
+   "lng": 41.523382
+  },
+  {
+   "district": "Kemalpaşa",
+   "name": "Ayça Eczanesi",
+   "address": "UZUNYALI MAH. İNÖNÜ CAD. NO:98/A",
+   "phone": "04662122220",
+   "dutyStart": "2026-11-01T08:00:00+03:00",
+   "dutyEnd": "2026-11-02T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.486228,
+   "lng": 41.529156
+  }
+ ],
+ "sourceUrl": "https://www.trabzoneczaciodasi.org.tr/nobetci-eczaneler/8"
 }
