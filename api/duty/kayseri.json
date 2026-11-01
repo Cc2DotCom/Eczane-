@@ -2,9 +2,42 @@
  "city": "Kayseri",
  "code": 38,
  "dutyDay": "2026-11-01",
- "updatedAt": "2026-11-01T18:27:11.017Z",
+ "updatedAt": "2026-11-01T20:33:17.821Z",
  "source": "Kayseri Eczacı Odası",
  "pharmacies": [
+  {
+   "district": "Kocasinan",
+   "name": "Şimşek Eczanesi",
+   "address": "Şeker Mah. Muhsin Yazıcıoğlu Bulv. No:74",
+   "phone": "03523304878",
+   "dutyStart": "2026-11-01T08:30:00+03:00",
+   "dutyEnd": "2026-11-02T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.770314,
+   "lng": 35.413245
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Akbulut Eczanesi",
+   "address": "Gesi Fatih Mah. Saffet Arıkan Bedük Cad. 70/D",
+   "phone": "03522312550",
+   "dutyStart": "2026-11-01T08:30:00+03:00",
+   "dutyEnd": "2026-11-02T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.786982,
+   "lng": 35.602778
+  },
+  {
+   "district": "Kocasinan",
+   "name": "Taşhan Eczanesi",
+   "address": "Sanayi Mahallesi, Çimen Sokak, 36/D",
+   "phone": "03523363611",
+   "dutyStart": "2026-11-01T08:30:00+03:00",
+   "dutyEnd": "2026-11-02T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.72583,
+   "lng": 35.479501
+  },
   {
    "district": "Kocasinan",
    "name": "Yangin Eczanesi",
@@ -28,48 +61,26 @@
    "lng": 35.496114
   },
   {
-   "district": "Kocasinan",
-   "name": "Şimşek Eczanesi",
-   "address": "Şeker Mah. Muhsin Yazıcıoğlu Bulv. No:74",
-   "phone": "03523304878",
-   "dutyStart": "2026-11-01T08:30:00+03:00",
-   "dutyEnd": "2026-11-02T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.770314,
-   "lng": 35.413245
-  },
-  {
-   "district": "Kocasinan",
-   "name": "Taşhan Eczanesi",
-   "address": "Sanayi Mahallesi, Çimen Sokak, 36/D",
-   "phone": "03523363611",
-   "dutyStart": "2026-11-01T08:30:00+03:00",
-   "dutyEnd": "2026-11-02T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.72583,
-   "lng": 35.479501
-  },
-  {
    "district": "Melikgazi",
-   "name": "Akbulut Eczanesi",
-   "address": "Gesi Fatih Mah. Saffet Arıkan Bedük Cad. 70/D",
-   "phone": "03522312550",
-   "dutyStart": "2026-11-01T08:30:00+03:00",
-   "dutyEnd": "2026-11-02T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.786982,
-   "lng": 35.602778
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Damla Eczanesi",
-   "address": "HUNAT MAH. KALPAKLIOGLU CAD. NO:7",
-   "phone": "03522312104",
+   "name": "Nilgün Eczanesi",
+   "address": "Osmanlı Mah. Edip Çıkmaz Sk. No:1",
+   "phone": "03523470844",
    "dutyStart": "2026-11-01T08:30:00+03:00",
    "dutyEnd": "2026-11-02T01:00:00+03:00",
    "approved": true,
-   "lat": 38.721232,
-   "lng": 35.49222
+   "lat": 38.689708,
+   "lng": 35.475269
+  },
+  {
+   "district": "Kocasinan",
+   "name": "Tunahan Eczanesi",
+   "address": "Alsancak Mah. 6236. Sk. No: 3",
+   "phone": "03522401777",
+   "dutyStart": "2026-11-01T08:30:00+03:00",
+   "dutyEnd": "2026-11-02T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.740879,
+   "lng": 35.50862
   },
   {
    "district": "Talas",
@@ -83,26 +94,15 @@
    "lng": 35.561819
   },
   {
-   "district": "Talas",
-   "name": "Nisan Eczanesi",
-   "address": "YENIDOGAN MAH. FATİH SOK. NO:6/A",
-   "phone": "03524381274",
-   "dutyStart": "2026-11-01T08:30:00+03:00",
-   "dutyEnd": "2026-11-02T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.697894,
-   "lng": 35.545133
-  },
-  {
    "district": "Melikgazi",
-   "name": "Limon Eczanesi",
-   "address": "ESENYURT MAH. KAVAKLIK CAD. NO : 5/A-B",
-   "phone": "03522256227",
+   "name": "Damla Eczanesi",
+   "address": "HUNAT MAH. KALPAKLIOGLU CAD. NO:7",
+   "phone": "03522312104",
    "dutyStart": "2026-11-01T08:30:00+03:00",
    "dutyEnd": "2026-11-02T01:00:00+03:00",
    "approved": true,
-   "lat": 38.698175,
-   "lng": 35.492994
+   "lat": 38.721232,
+   "lng": 35.49222
   },
   {
    "district": "Melikgazi",
@@ -117,25 +117,14 @@
   },
   {
    "district": "Melikgazi",
-   "name": "Mahzemin Eczanesi",
-   "address": "KEYKUBAT MAH. KULE CAD. N0:8/F",
-   "phone": "03523315891",
+   "name": "Limon Eczanesi",
+   "address": "ESENYURT MAH. KAVAKLIK CAD. NO : 5/A-B",
+   "phone": "03522256227",
    "dutyStart": "2026-11-01T08:30:00+03:00",
    "dutyEnd": "2026-11-02T01:00:00+03:00",
    "approved": true,
-   "lat": 38.743362,
-   "lng": 35.410958
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Nilgün Eczanesi",
-   "address": "Osmanlı Mah. Edip Çıkmaz Sk. No:1",
-   "phone": "03523470844",
-   "dutyStart": "2026-11-01T08:30:00+03:00",
-   "dutyEnd": "2026-11-02T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.689708,
-   "lng": 35.475269
+   "lat": 38.698175,
+   "lng": 35.492994
   },
   {
    "district": "Melikgazi",
@@ -149,15 +138,26 @@
    "lng": 35.466087
   },
   {
-   "district": "Kocasinan",
-   "name": "Tunahan Eczanesi",
-   "address": "Alsancak Mah. 6236. Sk. No: 3",
-   "phone": "03522401777",
+   "district": "Talas",
+   "name": "Nisan Eczanesi",
+   "address": "YENIDOGAN MAH. FATİH SOK. NO:6/A",
+   "phone": "03524381274",
    "dutyStart": "2026-11-01T08:30:00+03:00",
    "dutyEnd": "2026-11-02T01:00:00+03:00",
    "approved": true,
-   "lat": 38.740879,
-   "lng": 35.50862
+   "lat": 38.697894,
+   "lng": 35.545133
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Mahzemin Eczanesi",
+   "address": "KEYKUBAT MAH. KULE CAD. N0:8/F",
+   "phone": "03523315891",
+   "dutyStart": "2026-11-01T08:30:00+03:00",
+   "dutyEnd": "2026-11-02T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.743362,
+   "lng": 35.410958
   }
  ],
  "sourceUrl": "https://www.kayserieo.org.tr/nobetci-eczaneler"
