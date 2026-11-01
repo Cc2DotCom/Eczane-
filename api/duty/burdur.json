@@ -1,75 +1,10 @@
 {
  "city": "Burdur",
  "code": 15,
- "dutyDay": "2026-10-31",
- "updatedAt": "2026-10-31T12:20:04.193Z",
+ "dutyDay": "2026-11-01",
+ "updatedAt": "2026-11-01T13:16:05.191Z",
  "source": "e-Devlet TİTCK",
- "pharmacies": [
-  {
-   "district": "Bucak",
-   "name": "Kardelen Eczanesi",
-   "address": "Sanayi Mahallesi Orhangazi Caddesi No:4/5",
-   "phone": "0248 325 7943",
-   "dutyStart": "2026-10-31T18:30:00+03:00",
-   "dutyEnd": "2026-11-01T08:00:00+03:00",
-   "approved": true,
-   "lat": 37.469994,
-   "lng": 30.565374
-  },
-  {
-   "district": "Gölhisar",
-   "name": "Şenel Eczanesi",
-   "address": "Pazar Mahallesi Cumhuriyet Caddesi No:69/A",
-   "phone": "0248 411 6070",
-   "dutyStart": "2026-10-31T18:30:00+03:00",
-   "dutyEnd": "2026-11-01T08:00:00+03:00",
-   "approved": true,
-   "lat": 37.14502,
-   "lng": 29.508884
-  },
-  {
-   "district": "Karamanlı",
-   "name": "Pazar Eczanesi",
-   "address": "Pazar Mah. Yeşilova Caddesi No:2",
-   "phone": "0505 220 2568",
-   "dutyStart": "2026-10-31T18:00:00+03:00",
-   "dutyEnd": "2026-11-01T08:00:00+03:00",
-   "approved": true,
-   "lat": 37.370262,
-   "lng": 29.82218
-  },
-  {
-   "district": "Merkez",
-   "name": "Albayrak Eczanesi",
-   "address": "Yeni Mahalle Şehit Teğmen Halil Demirörs Caddesi No:8-A",
-   "phone": "0248 233 7777",
-   "dutyStart": "2026-10-31T18:30:00+03:00",
-   "dutyEnd": "2026-11-01T08:00:00+03:00",
-   "approved": true,
-   "lat": 37.72308,
-   "lng": 30.292459
-  },
-  {
-   "district": "Tefenni",
-   "name": "Tefenni Eczanesi",
-   "address": "YOKUŞ MAHALLESİ BURDUR CADDESİ NO:4",
-   "phone": "0248 491 2036",
-   "dutyStart": "2026-10-31T18:00:00+03:00",
-   "dutyEnd": "2026-11-01T08:00:00+03:00",
-   "approved": true,
-   "lat": 37.308556,
-   "lng": 29.774557
-  },
-  {
-   "district": "Yeşilova",
-   "name": "Sağlık Eczanesi",
-   "address": "Merkez Mahallesi Atatürk Caddesi İsmail Akıncı Apt. No:28/16",
-   "phone": "0248 618 1286",
-   "dutyStart": "2026-10-31T17:30:00+03:00",
-   "dutyEnd": "2026-11-01T08:30:00+03:00",
-   "approved": true,
-   "lat": 37.505207,
-   "lng": 29.754057
-  }
- ]
+ "pharmacies": [],
+ "unavailable": true,
+ "note": "class=\"warningContainer\">Seçilen zaman aralığı için nöbetçi eczane bulunamadı. Sayfa Sonu Bağlantıları e-Devlet Kapısı English Hak"
 }

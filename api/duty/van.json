@@ -1,53 +1,31 @@
 {
  "city": "Van",
  "code": 65,
- "dutyDay": "2026-10-31",
- "updatedAt": "2026-10-31T12:26:24.005Z",
+ "dutyDay": "2026-11-01",
+ "updatedAt": "2026-11-01T13:21:39.520Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
-   "district": "Çatak",
-   "name": "Çatak Eczanesi",
-   "address": "Cumhuriyet Mah. Atatürk Cad. Dış Kapı No:13D",
-   "phone": "0541 585 1006",
-   "dutyStart": "2026-10-31T18:00:00+03:00",
-   "dutyEnd": "2026-11-01T08:30:00+03:00",
+   "district": "Erciş",
+   "name": "Çelebi Eczanesi",
+   "address": "KIŞLA MAH.İNÖNÜ CADDDE NO:12",
+   "phone": "0432 351 7272",
+   "dutyStart": "2026-11-01T08:30:00+03:00",
+   "dutyEnd": "2026-11-02T08:30:00+03:00",
    "approved": true,
-   "lat": 38.008438,
-   "lng": 43.061832
+   "lat": 39.02803,
+   "lng": 43.358017
   },
   {
    "district": "Erciş",
-   "name": "Defne Eczanesi",
-   "address": "Vanyolu Mah. Kara Yusuf Bey Bulvarı Dış Kapı No:140B",
-   "phone": "0541 792 8497",
-   "dutyStart": "2026-10-31T13:00:00+03:00",
-   "dutyEnd": "2026-11-01T08:30:00+03:00",
+   "name": "Emek Eczanesi",
+   "address": "Kışla Mah. Şehitler Cad. Dış Kapı 91D",
+   "phone": "0545 975 4924",
+   "dutyStart": "2026-11-01T18:00:00+03:00",
+   "dutyEnd": "2026-11-02T08:30:00+03:00",
    "approved": true,
-   "lat": 39.027008,
-   "lng": 43.364048
-  },
-  {
-   "district": "Erciş",
-   "name": "Deva Eczanesi",
-   "address": "BEYAZIT MAH. ZEYLAN CAD. NO.24",
-   "phone": "0546 299 2120",
-   "dutyStart": "2026-10-31T13:00:00+03:00",
-   "dutyEnd": "2026-11-01T08:30:00+03:00",
-   "approved": true,
-   "lat": 39.030357,
-   "lng": 43.359257
-  },
-  {
-   "district": "Muradiye",
-   "name": "Gönül Eczanesi",
-   "address": "Yenişehir Mah. Hastane Cd. No:53",
-   "phone": "0432 451 2787",
-   "dutyStart": "2026-10-31T08:30:00+03:00",
-   "dutyEnd": "2026-11-01T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.989315,
-   "lng": 43.759918
+   "lat": 39.017109,
+   "lng": 43.352234
   }
  ]
 }

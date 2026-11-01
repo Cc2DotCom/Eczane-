@@ -1,15 +1,15 @@
 {
  "city": "Kilis",
  "code": 79,
- "dutyDay": "2026-10-31",
- "updatedAt": "2026-10-31T20:04:08.218Z",
+ "dutyDay": "2026-11-01",
+ "updatedAt": "2026-11-01T13:22:27.187Z",
  "source": "Gaziantep Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Polat Eczanesi",
-   "address": "CUMHURIYET CADDESI NO:17 (AKTÜRK TIP MERKEZİ KARŞISI)",
-   "phone": "03488132608",
+   "name": "Sipahi Eczanesi",
+   "address": "CUMHURIYET CAD.BAYTAZZADE ISHANI BITISIGI NO:46",
+   "phone": "03488133458",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
@@ -18,9 +18,9 @@
   },
   {
    "district": "Merkez",
-   "name": "Ergezen Eczanesi",
-   "address": "SEHIT SAKIP MAH. CUMHURIYET CAD. NO:240 (HACI CÜMBÜŞ CAMİ KARŞISI)",
-   "phone": "03488137787",
+   "name": "Mercimekler Eczanesi",
+   "address": "Karaali Mahallesi Türbedar Sokak No:4",
+   "phone": "05558904261",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,

@@ -1,10 +1,65 @@
 {
  "city": "Malatya",
  "code": 44,
- "dutyDay": "2026-10-31",
- "updatedAt": "2026-10-31T20:03:38.941Z",
- "source": "e-Devlet TİTCK",
- "pharmacies": [],
- "unavailable": true,
- "note": "class=\"warningContainer\">Seçilen zaman aralığı için nöbetçi eczane bulunamadı. Sayfa Sonu Bağlantıları e-Devlet Kapısı English Hak"
+ "dutyDay": "2026-11-01",
+ "updatedAt": "2026-11-01T13:19:56.581Z",
+ "source": "Malatya Eczacı Odası",
+ "pharmacies": [
+  {
+   "district": "Merkez",
+   "name": "Samet Eczanesi",
+   "address": "CEVHERİZADE MAH. ÖZDEN SOK. AİLE VE SOSYAL HİZM. İL MÜD. KARŞISI NO:40/A",
+   "phone": "04223234404",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": null,
+   "lng": null
+  },
+  {
+   "district": "Merkez",
+   "name": "Orhanoğlu Eczanesi",
+   "address": "Fırat Mahallesi , Yusuf Özal Caddesi (İnderesi Esenlik Market yanı) 14/D Battalgazi / Malatya",
+   "phone": "05335484625",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 38.3500879,
+   "lng": 38.3203723
+  },
+  {
+   "district": "Merkez",
+   "name": "Didem Eczanesi",
+   "address": "SITMAPINARI ZAPÇIOĞLU CAD. PERŞEMBE PAZARI GİRİŞİ ESKİ SAĞLIK MÜD. KARŞISI",
+   "phone": "04225275527",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": null,
+   "lng": null
+  },
+  {
+   "district": "Merkez",
+   "name": "Güngör Eczanesi",
+   "address": "GÜNGÖR CD. ÇEVREYOLU FAHRİ KAYAHAN GİRİŞİ PETROL OFİSİ KARŞISI ÇARŞI MARKET BİTİŞİĞİ KARAKAVAK MH.",
+   "phone": "04223256282",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 38.3400522,
+   "lng": 38.2635449
+  },
+  {
+   "district": "Battalgazi",
+   "name": "Aksu Eczanesi",
+   "address": "ALACAKAPI MAH. KIRKGÖZ CAD. 15/B BATTALGAZİ SEMT POLİKLİNİĞİ KARŞISI BATTALGAZİ/MALATYA",
+   "phone": "05064433444",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 38.4265267,
+   "lng": 38.3666997
+  }
+ ],
+ "sourceUrl": "https://www.malatyaeczaciodasi.org.tr/nobetci-eczaneler"
 }

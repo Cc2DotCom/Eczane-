@@ -1,42 +1,98 @@
 {
  "city": "Elazığ",
  "code": 23,
- "dutyDay": "2026-10-31",
- "updatedAt": "2026-10-31T20:02:13.027Z",
- "source": "e-Devlet TİTCK",
+ "dutyDay": "2026-11-01",
+ "updatedAt": "2026-11-01T13:16:53.117Z",
+ "source": "Elazığ Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Beray Eczanesi",
-   "address": "ÜNİVERSİTE MAH. YAHYA KEMAL CAD. NO:16/A",
-   "phone": "0424 233 1270",
-   "dutyStart": "2026-10-31T13:00:00+03:00",
-   "dutyEnd": "2026-11-01T08:30:00+03:00",
+   "name": "Miray Eczanesi",
+   "address": "ÖZEL MEDİLİNE HASTANESİ (eski MEDİKAL PARK HASTANESİ) KARŞISI RIZAIYE MAH. YUNUS EMRE BULVARI NO:134/D",
+   "phone": "04242331730",
+   "dutyStart": null,
+   "dutyEnd": null,
    "approved": true,
-   "lat": 38.676968,
-   "lng": 39.208015
+   "lat": 38.683587,
+   "lng": 39.225538
   },
   {
    "district": "Merkez",
-   "name": "Kübra Eczanesi",
-   "address": "Nailbey Mahallesi, Akın Sokak No:20A",
-   "phone": "0424 234 0504",
-   "dutyStart": "2026-10-31T13:00:00+03:00",
-   "dutyEnd": "2026-11-01T08:30:00+03:00",
+   "name": "İlkbahar Eczanesi",
+   "address": "HOZAT GARAJI HASTANE MİNÜBÜS DURAKLARI KARŞISI OPET YANI İCADİYE MAH. BALAKGAZİ CAD.NO:18/A",
+   "phone": "04242378492",
+   "dutyStart": null,
+   "dutyEnd": null,
    "approved": true,
-   "lat": 38.673729,
-   "lng": 39.219364
+   "lat": 38.675625,
+   "lng": 39.226011
   },
   {
    "district": "Merkez",
-   "name": "Yeni Hayat Eczanesi",
-   "address": "Rızaiye Mahallesi İnönü Caddesi No:70F",
-   "phone": "0424 218 1835",
-   "dutyStart": "2026-10-31T13:00:00+03:00",
-   "dutyEnd": "2026-11-01T08:30:00+03:00",
+   "name": "Baran Eczanesi",
+   "address": "ELAZIĞ BÖLGE ÇALIŞMA VE İŞ KURUMU YANI(İŞ KUR) GAZI CADDESI NO:70/D",
+   "phone": "04242334227",
+   "dutyStart": null,
+   "dutyEnd": null,
    "approved": true,
-   "lat": 38.681072,
-   "lng": 39.225422
+   "lat": 38.675583,
+   "lng": 39.215416
+  },
+  {
+   "district": "Merkez",
+   "name": "İrem Eczanesi",
+   "address": "ABDULLAHPAŞA PAZAR YERİ KARŞI ÜST KÖŞESİ ABDULLAHPAŞA MAH.273. SOKAK NO:2",
+   "phone": "04242480038",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 38.657278,
+   "lng": 39.144236
+  },
+  {
+   "district": "Karakoçan",
+   "name": "Sara Eczanesi",
+   "address": "YENİ MAH. KALECİK CAD.NO:9/E",
+   "phone": "04247115005",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 38.955383,
+   "lng": 40.039575
+  },
+  {
+   "district": "Keban",
+   "name": "Taşkın Eczanesi",
+   "address": "DEĞİRMENBAŞI MAH.GENERAL POLAT HAŞİMOV CAD. NO:10",
+   "phone": "04245712525",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 38.793133,
+   "lng": 38.74563
+  },
+  {
+   "district": "Kovancilar",
+   "name": "Akpinar Eczanesi",
+   "address": "ÇARŞIBAŞI MAH.AZİZ YILDIRIM CAD. NO:14",
+   "phone": "04246116054",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 38.71927,
+   "lng": 39.864431
+  },
+  {
+   "district": "Palu",
+   "name": "Yaşam Eczanesi",
+   "address": "KALEKENT MAH.ŞEHYŞAMİL BLV.NO:3/D",
+   "phone": "04245036934",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 38.693789,
+   "lng": 39.914233
   }
- ]
+ ],
+ "sourceUrl": "https://www.elazigeczaciodasi.org.tr/nobetci-eczaneler/elazig"
 }

@@ -1,64 +1,10 @@
 {
  "city": "Şırnak",
  "code": 73,
- "dutyDay": "2026-10-31",
- "updatedAt": "2026-10-31T12:26:47.923Z",
+ "dutyDay": "2026-11-01",
+ "updatedAt": "2026-11-01T13:22:09.613Z",
  "source": "e-Devlet TİTCK",
- "pharmacies": [
-  {
-   "district": "Cizre",
-   "name": "Kural Eczanesi",
-   "address": "Vatan Mahallesi Mem U Zin Bulvarı No:18/B",
-   "phone": "0545 903 5833",
-   "dutyStart": "2026-10-31T08:00:00+03:00",
-   "dutyEnd": "2026-11-01T08:00:00+03:00",
-   "approved": true,
-   "lat": 37.332043,
-   "lng": 42.184635
-  },
-  {
-   "district": "İdil",
-   "name": "Tekçe Eczanesi",
-   "address": "YUKARI MAH İSTİKLAL CAD NO:1/A",
-   "phone": "0546 894 2130",
-   "dutyStart": "2026-10-31T08:00:00+03:00",
-   "dutyEnd": "2026-11-01T08:00:00+03:00",
-   "approved": true,
-   "lat": 37.341427,
-   "lng": 41.892029
-  },
-  {
-   "district": "Merkez",
-   "name": "Onar Eczanesi",
-   "address": "Vakıfkent Mahallesi Sevgi Caddesi No:9/B",
-   "phone": "0534 731 2843",
-   "dutyStart": "2026-10-31T08:00:00+03:00",
-   "dutyEnd": "2026-11-01T08:00:00+03:00",
-   "approved": true,
-   "lat": 37.517056,
-   "lng": 42.456825
-  },
-  {
-   "district": "Silopi",
-   "name": "Derman Eczanesi",
-   "address": "Yeşiltepe Mahallesi 1. Cadde No:20/A",
-   "phone": "5 054 643 0658",
-   "dutyStart": "2026-10-31T08:00:00+03:00",
-   "dutyEnd": "2026-11-01T08:00:00+03:00",
-   "approved": true,
-   "lat": 37.248001,
-   "lng": 42.470646
-  },
-  {
-   "district": "Uludere",
-   "name": "Aslan Eczanesi",
-   "address": "YEŞİLYOVA MAHALLESİ VATAN CADDESİ NO:10/D ULUDERE/ŞIRNAK",
-   "phone": "0486 351 3030",
-   "dutyStart": "2026-10-31T08:00:00+03:00",
-   "dutyEnd": "2026-11-01T08:00:00+03:00",
-   "approved": true,
-   "lat": 37.446953,
-   "lng": 42.845585
-  }
- ]
+ "pharmacies": [],
+ "unavailable": true,
+ "note": "class=\"warningContainer\">Seçilen zaman aralığı için nöbetçi eczane bulunamadı. Sayfa Sonu Bağlantıları e-Devlet Kapısı English Hak"
 }

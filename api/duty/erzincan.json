@@ -1,8 +1,8 @@
 {
  "city": "Erzincan",
  "code": 24,
- "dutyDay": "2026-10-31",
- "updatedAt": "2026-10-31T12:20:54.656Z",
+ "dutyDay": "2026-11-01",
+ "updatedAt": "2026-11-01T13:16:57.679Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
@@ -10,8 +10,8 @@
    "name": "Çayırlı Eczanesi",
    "address": "ATATÜRK MAHALLESİ HÜKÜMET CADDESİ NO:19 ÇAYIRLI/ ERZİNCAN",
    "phone": "0446 311 3257",
-   "dutyStart": "2026-10-31T18:00:00+03:00",
-   "dutyEnd": "2026-11-01T08:00:00+03:00",
+   "dutyStart": "2026-11-01T08:00:00+03:00",
+   "dutyEnd": "2026-11-02T08:00:00+03:00",
    "approved": true,
    "lat": 39.807289,
    "lng": 40.037506
@@ -21,66 +21,66 @@
    "name": "Altinkent Eczanesi",
    "address": "ABDULLAHPAŞA MAH. HÜKÜMET CAD. AK PLAZA ZEMİN KAT NO: 1 İLİÇ/ERZİNCAN",
    "phone": "0446 711 2400",
-   "dutyStart": "2026-10-31T08:30:00+03:00",
-   "dutyEnd": "2026-11-01T08:30:00+03:00",
+   "dutyStart": "2026-11-01T08:30:00+03:00",
+   "dutyEnd": "2026-11-02T08:30:00+03:00",
    "approved": true,
    "lat": 39.456501,
    "lng": 38.564213
   },
   {
    "district": "Merkez",
-   "name": "Aktaş Eczanesi",
-   "address": "KARAAĞAÇ MAHALLESİ ŞEHİT YÜZBAŞI FATİH DEVRAVUT CADDESİ NO:13A MERKEZ/ERZİNCAN",
-   "phone": "0446 212 1811",
-   "dutyStart": "2026-10-31T18:00:00+03:00",
-   "dutyEnd": "2026-11-01T08:30:00+03:00",
+   "name": "Ferit Eczanesi",
+   "address": "ATATÜRK MAH. ALİ KEMALİ CAD. MER-PLAZA NO:1/Z3 ERZİNCAN",
+   "phone": "0446 224 2808",
+   "dutyStart": "2026-11-01T08:30:00+03:00",
+   "dutyEnd": "2026-11-02T08:30:00+03:00",
    "approved": true,
-   "lat": 39.745754,
-   "lng": 39.492886
+   "lat": 39.747005,
+   "lng": 39.494999
   },
   {
    "district": "Merkez",
-   "name": "Merkez Eczanesi",
-   "address": "Karaağaç Mahallesi Şehit Yüzbaşı Fatih Devravut Caddesi No : 17/B",
-   "phone": "0446 223 1615",
-   "dutyStart": "2026-10-31T18:00:00+03:00",
-   "dutyEnd": "2026-11-01T00:00:00+03:00",
+   "name": "Can Eczanesi",
+   "address": "ATATÜRK MAH. ORDU CAD. NO 6/B ERZİNCAN",
+   "phone": "0446 223 2910",
+   "dutyStart": "2026-11-01T12:00:00+03:00",
+   "dutyEnd": "2026-11-01T20:00:00+03:00",
    "approved": true,
-   "lat": 39.745602,
-   "lng": 39.493423
+   "lat": 39.747639,
+   "lng": 39.491505
   },
   {
    "district": "Refahiye",
-   "name": "Kübra Nur Eczanesi",
-   "address": "HÖKÜMET MAHALLESİ ŞEHİT METİN DAĞ SOKAK NO:4/B",
-   "phone": "0446 611 3238",
-   "dutyStart": "2026-10-31T17:00:00+03:00",
-   "dutyEnd": "2026-11-01T08:00:00+03:00",
+   "name": "Lokman Hekim Eczanesi",
+   "address": "KEMALİYE MAH. ERZİNCAN CAD. NO:8 REFAHİYE / ERZİNCAN",
+   "phone": "0446 611 2201",
+   "dutyStart": "2026-11-01T08:00:00+03:00",
+   "dutyEnd": "2026-11-02T08:00:00+03:00",
    "approved": true,
-   "lat": 39.89917,
-   "lng": 38.768185
+   "lat": 39.899727,
+   "lng": 38.768826
   },
   {
    "district": "Tercan",
-   "name": "Yeni Barış Eczanesi",
-   "address": "KAZIM KARABEKİR MAH. KERVANSARAY CAD. NO:13/C TERCAN/ERZİNCAN",
-   "phone": "0505 429 8717",
-   "dutyStart": "2026-10-31T12:00:00+03:00",
-   "dutyEnd": "2026-11-01T08:00:00+03:00",
+   "name": "Emrah Eczanesi",
+   "address": "KAZIM KARABEKİR MAH. KERVANSARAY CAD. NO:41/B TERCAN/ERZİNCAN",
+   "phone": "0446 441 2425",
+   "dutyStart": "2026-11-01T08:00:00+03:00",
+   "dutyEnd": "2026-11-02T08:00:00+03:00",
    "approved": true,
-   "lat": 39.778606,
-   "lng": 40.380493
+   "lat": 39.778683,
+   "lng": 40.380032
   },
   {
    "district": "Üzümlü",
-   "name": "Üzümlü Eczanesi",
-   "address": "FATİH MAH. ERZİNCAN BULVARI NO:112/B ÜZÜMLÜ / ERZİNCAN",
-   "phone": "0446 411 2313",
-   "dutyStart": "2026-10-31T18:00:00+03:00",
-   "dutyEnd": "2026-11-01T08:30:00+03:00",
+   "name": "Nur Eczanesi",
+   "address": "FATİH MAHALLESİ ERZİNCAN BULVARI 114/C ÜZÜMLÜ/ERZİNCAN",
+   "phone": "0446 502 4445",
+   "dutyStart": "2026-11-01T08:30:00+03:00",
+   "dutyEnd": "2026-11-02T08:30:00+03:00",
    "approved": true,
-   "lat": 39.697853,
-   "lng": 39.683887
+   "lat": 39.697678,
+   "lng": 39.683681
   }
  ]
 }
