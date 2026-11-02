@@ -1,10 +1,97 @@
 {
  "city": "Bitlis",
  "code": 13,
- "dutyDay": "2026-11-01",
- "updatedAt": "2026-11-01T18:26:27.590Z",
+ "dutyDay": "2026-11-02",
+ "updatedAt": "2026-11-02T15:42:29.046Z",
  "source": "e-Devlet TİTCK",
- "pharmacies": [],
- "unavailable": true,
- "note": "class=\"warningContainer\">Seçilen zaman aralığı için nöbetçi eczane bulunamadı. Sayfa Sonu Bağlantıları e-Devlet Kapısı English Hak"
+ "pharmacies": [
+  {
+   "district": "Adilcevaz",
+   "name": "Emre Eczanesi",
+   "address": "ATATÜRK MAH. HASTANE CAD. NO:46/D",
+   "phone": "0434 311 2020",
+   "dutyStart": "2026-11-02T18:00:00+03:00",
+   "dutyEnd": "2026-11-03T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.799091,
+   "lng": 42.762589
+  },
+  {
+   "district": "Ahlat",
+   "name": "Halk Eczanesi",
+   "address": "SELÇUKLU MAH. SELÇUKLU CAD. NO:94",
+   "phone": "0434 412 4930",
+   "dutyStart": "2026-11-02T18:00:00+03:00",
+   "dutyEnd": "2026-11-03T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.750927,
+   "lng": 42.477245
+  },
+  {
+   "district": "Güroymak",
+   "name": "Norşin Eczanesi",
+   "address": "Barış Mah. 1002.Sokak Kapı Numarası 8",
+   "phone": "0553 177 1547",
+   "dutyStart": "2026-11-02T17:30:00+03:00",
+   "dutyEnd": "2026-11-03T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.572765,
+   "lng": 42.027355
+  },
+  {
+   "district": "Hizan",
+   "name": "Sağlık Eczanesi",
+   "address": "Kültür Mah. Farukbekarlar Cad. No:3/E Hizan/BİTLİS",
+   "phone": "0546 921 3413",
+   "dutyStart": "2026-11-02T18:00:00+03:00",
+   "dutyEnd": "2026-11-03T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.225128,
+   "lng": 42.428188
+  },
+  {
+   "district": "Merkez",
+   "name": "Hayat Eczanesi",
+   "address": "GAZİ BEY MAH. BEDİÜZZAMAN SAİD-İ KÜRDİ CAD. SİT. NO:45 H",
+   "phone": "0434 226 0388",
+   "dutyStart": "2026-11-02T18:00:00+03:00",
+   "dutyEnd": "2026-11-03T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.402466,
+   "lng": 42.108299
+  },
+  {
+   "district": "Mutki",
+   "name": "Can Eczanesi",
+   "address": "PINARBAŞI MAH.ZEKİ ERGEZEN CAD.NO:29/C Mutki/BİTLİS",
+   "phone": "0434 611 2122",
+   "dutyStart": "2026-11-02T18:00:00+03:00",
+   "dutyEnd": "2026-11-03T08:00:00+03:00",
+   "approved": true,
+   "lat": 38.409554,
+   "lng": 41.921783
+  },
+  {
+   "district": "Tatvan",
+   "name": "Can Eczanesi",
+   "address": "Kültür Mah. Şehmus Zırhlı Cad. Efil Sok. No:1 B1",
+   "phone": "0434 502 1323",
+   "dutyStart": "2026-11-02T18:00:00+03:00",
+   "dutyEnd": "2026-11-03T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.505859,
+   "lng": 42.280354
+  },
+  {
+   "district": "Tatvan",
+   "name": "Zehra Eczanesi",
+   "address": "Karşıyaka Mah. Hastane Cad. Sağlık İş Merkezi No:20/L",
+   "phone": "0434 829 1252",
+   "dutyStart": "2026-11-02T18:00:00+03:00",
+   "dutyEnd": "2026-11-03T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.491123,
+   "lng": 42.186207
+  }
+ ]
 }

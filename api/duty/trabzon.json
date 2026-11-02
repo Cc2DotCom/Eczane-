@@ -1,10 +1,20 @@
 {
  "city": "Trabzon",
  "code": 61,
- "dutyDay": "2026-11-01",
- "updatedAt": "2026-11-01T20:33:43.774Z",
+ "dutyDay": "2026-11-02",
+ "updatedAt": "2026-11-02T15:47:44.923Z",
  "source": "e-Devlet TİTCK",
- "pharmacies": [],
- "unavailable": true,
- "note": "class=\"warningContainer\">Seçilen zaman aralığı için nöbetçi eczane bulunamadı. Sayfa Sonu Bağlantıları e-Devlet Kapısı English Hak"
+ "pharmacies": [
+  {
+   "district": "Akçaabat",
+   "name": "Merve Eczanesi",
+   "address": "Dürbinar Mah. Sigorta Sok. No:5/B Akçaabat/ Trabzon",
+   "phone": "0462 228 7700",
+   "dutyStart": "2026-11-02T17:00:00+03:00",
+   "dutyEnd": "2026-11-03T09:00:00+03:00",
+   "approved": true,
+   "lat": 41.021385,
+   "lng": 39.569405
+  }
+ ]
 }

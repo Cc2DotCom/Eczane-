@@ -1,42 +1,42 @@
 {
  "city": "Kırşehir",
  "code": 40,
- "dutyDay": "2026-11-01",
- "updatedAt": "2026-11-01T20:33:22.196Z",
- "source": "Aksaray-Kırşehir Eczacı Odası",
+ "dutyDay": "2026-11-02",
+ "updatedAt": "2026-11-02T15:45:54.929Z",
+ "source": "e-Devlet TİTCK, Aksaray-Kırşehir Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Erdogdu Eczanesi",
-   "address": "112 ACİL KARŞISI AHİ EVRAN MAH.ZÜBEYDE HANIM CAD.NO:23/D RIZA YAĞMUR APT ALTI. / 112 ACİL KARŞISI",
-   "phone": "03862134085",
-   "dutyStart": null,
-   "dutyEnd": null,
+   "name": "Merve Eczanesi",
+   "address": "KERVAN SARAY MAH.KAYA ÖZ SİTESİ NO:2 MERKEZ/ KIRŞEHİR",
+   "phone": "0386 214 4640",
+   "dutyStart": "2026-11-02T18:00:00+03:00",
+   "dutyEnd": "2026-11-03T08:00:00+03:00",
    "approved": true,
-   "lat": 39.15764,
-   "lng": 34.159683
+   "lat": 39.157032,
+   "lng": 34.163769
   },
   {
    "district": "Merkez",
-   "name": "Eda Eczanesi",
-   "address": "112 ACİL KARŞISI İNCİ DİŞ MERKEZİ YANI Ahi Evran Mah. Zübeyde Hanım Cad. Turan Apt. No:29/ İNCİ DİŞ HASTANESİ YANI",
-   "phone": "03862120705",
-   "dutyStart": null,
-   "dutyEnd": null,
+   "name": "Sibel Eczanesi",
+   "address": "KERVAN SARAY MAH. 2019 SOKAK KAYA ÖZ SİTESİ NO:18 MERKEZ / KIRŞEHİR",
+   "phone": "0386 212 2038",
+   "dutyStart": "2026-11-02T18:00:00+03:00",
+   "dutyEnd": "2026-11-03T08:00:00+03:00",
    "approved": true,
-   "lat": 39.158168,
-   "lng": 34.159721
+   "lat": 39.157127,
+   "lng": 34.163895
   },
   {
    "district": "Kaman",
-   "name": "Erdem Eczanesi",
-   "address": "YENI MAH.25 ARALIK CAD. NO :2 KAMAN",
-   "phone": "3867122173",
+   "name": "Aran Eczanesi",
+   "address": "ISTIKLAL CAD. NO:1",
+   "phone": "3867128191",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.359566,
-   "lng": 33.723219
+   "lat": 39.357669,
+   "lng": 33.724608
   }
  ],
  "sourceUrl": "https://www.aksarayeo.org.tr/nobetci-eczaneler"

@@ -1,10 +1,75 @@
 {
  "city": "Şırnak",
  "code": 73,
- "dutyDay": "2026-11-01",
- "updatedAt": "2026-11-01T18:27:50.784Z",
+ "dutyDay": "2026-11-02",
+ "updatedAt": "2026-11-02T15:48:30.998Z",
  "source": "e-Devlet TİTCK",
- "pharmacies": [],
- "unavailable": true,
- "note": "class=\"warningContainer\">Seçilen zaman aralığı için nöbetçi eczane bulunamadı. Sayfa Sonu Bağlantıları e-Devlet Kapısı English Hak"
+ "pharmacies": [
+  {
+   "district": "Beytüşşebap",
+   "name": "Semih Eczanesi",
+   "address": "Elki Mahallesi 5. Cadde No:41/B",
+   "phone": "0486 311 2145",
+   "dutyStart": "2026-11-02T18:00:00+03:00",
+   "dutyEnd": "2026-11-03T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.570911,
+   "lng": 43.167679
+  },
+  {
+   "district": "Cizre",
+   "name": "Medya Eczanesi",
+   "address": "Dağ Kapı Mahallesi Mir Abdal Caddesi No:7/1A",
+   "phone": "0486 616 3570",
+   "dutyStart": "2026-11-02T18:00:00+03:00",
+   "dutyEnd": "2026-11-03T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.322136,
+   "lng": 42.186935
+  },
+  {
+   "district": "İdil",
+   "name": "Sevgi Eczanesi",
+   "address": "Aşağı Mahalle Hastane Caddesi No:7/D",
+   "phone": "0486 551 2198",
+   "dutyStart": "2026-11-02T18:00:00+03:00",
+   "dutyEnd": "2026-11-03T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.340622,
+   "lng": 41.901379
+  },
+  {
+   "district": "Merkez",
+   "name": "Derman Eczanesi",
+   "address": "Atatürk Mahallesi Atatürk Bulvarı No:11/B",
+   "phone": "0486 502 5373",
+   "dutyStart": "2026-11-02T17:00:00+03:00",
+   "dutyEnd": "2026-11-03T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.522038,
+   "lng": 42.456867
+  },
+  {
+   "district": "Silopi",
+   "name": "Akasya Eczanesi",
+   "address": "Dicle Mahallesi 25.Cadde No:40/A",
+   "phone": "0486 518 6100",
+   "dutyStart": "2026-11-02T17:00:00+03:00",
+   "dutyEnd": "2026-11-03T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.244377,
+   "lng": 42.465954
+  },
+  {
+   "district": "Uludere",
+   "name": "Murat Eczanesi",
+   "address": "Yeşilyova Mahallesi Vatan Caddesi No:8/D",
+   "phone": "0486 351 2800",
+   "dutyStart": "2026-11-02T18:00:00+03:00",
+   "dutyEnd": "2026-11-03T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.446964,
+   "lng": 42.845818
+  }
+ ]
 }

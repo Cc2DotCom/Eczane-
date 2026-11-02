@@ -1,8 +1,8 @@
 {
  "city": "Ardahan",
  "code": 75,
- "dutyDay": "2026-11-01",
- "updatedAt": "2026-11-01T13:22:14.655Z",
+ "dutyDay": "2026-11-02",
+ "updatedAt": "2026-11-02T15:48:36.271Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
@@ -10,66 +10,77 @@
    "name": "Ayaz Eczanesi",
    "address": "Yeni Mahalle, Çıldırlı Aşık Şenlik Caddesi No:6/B Çıldır/Ardahan",
    "phone": "0552 409 6069",
-   "dutyStart": "2026-11-01T08:00:00+03:00",
-   "dutyEnd": "2026-11-02T08:00:00+03:00",
+   "dutyStart": "2026-11-02T17:00:00+03:00",
+   "dutyEnd": "2026-11-03T17:00:00+03:00",
    "approved": true,
    "lat": 41.122875,
    "lng": 43.137939
   },
   {
-   "district": "Göle",
-   "name": "Derman Eczanesi",
-   "address": "KAZIM KARABEKİR MAH. KARS CADDESİ NO:9/A",
-   "phone": "0478 411 2297",
-   "dutyStart": "2026-11-01T08:00:00+03:00",
-   "dutyEnd": "2026-11-02T08:00:00+03:00",
+   "district": "Damal",
+   "name": "Damal Eczanesi",
+   "address": "Konuksever Mahallesi Atatürk Caddesi No:32",
+   "phone": "0478 651 4460",
+   "dutyStart": "2026-11-02T18:00:00+03:00",
+   "dutyEnd": "2026-11-03T08:30:00+03:00",
    "approved": true,
-   "lat": 40.793278,
-   "lng": 42.610622
+   "lat": 41.341,
+   "lng": 42.839069
+  },
+  {
+   "district": "Göle",
+   "name": "Budak Eczanesi",
+   "address": "Kubilaybey Mahallesi Kars Caddesi 3. Sokak No:11",
+   "phone": "0478 411 3167",
+   "dutyStart": "2026-11-02T18:00:00+03:00",
+   "dutyEnd": "2026-11-03T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.792747,
+   "lng": 42.610119
   },
   {
    "district": "Hanak",
    "name": "Hanak Eczanesi",
    "address": "Hürriyet Mahallesi, Atatürk Caddesi No:82 Hanak/Ardahan",
    "phone": "0531 694 9725",
-   "dutyStart": "2026-11-01T08:00:00+03:00",
-   "dutyEnd": "2026-11-02T08:00:00+03:00",
+   "dutyStart": "2026-11-02T17:00:00+03:00",
+   "dutyEnd": "2026-11-03T08:00:00+03:00",
    "approved": true,
    "lat": 41.236973,
    "lng": 42.844879
   },
   {
    "district": "Merkez",
-   "name": "Dündar Eczanesi",
-   "address": "KAPTANPAŞA MAH. KONGRE CADDESİ NO:14",
-   "phone": "0478 211 3639",
-   "dutyStart": "2026-11-01T08:30:00+03:00",
-   "dutyEnd": "2026-11-02T08:30:00+03:00",
+   "name": "Pamuk Eczanesi",
+   "address": "KARAGÖL MAH. KONGRE CADDESİ NO: 68",
+   "phone": "0478 211 2999",
+   "dutyStart": "2026-11-02T18:00:00+03:00",
+   "dutyEnd": "2026-11-03T08:30:00+03:00",
    "approved": true,
-   "lat": 41.112995,
-   "lng": 42.702045
+   "lat": 41.112362,
+   "lng": 42.700321
   },
   {
    "district": "Merkez",
-   "name": "Dündar Eczanesi",
-   "address": "KAPTANPAŞA MAH. KONGRE CADDESİ NO:14",
-   "phone": "0478 211 3639",
-   "dutyStart": "2026-11-01T08:30:00+03:00",
-   "dutyEnd": "2026-11-02T08:30:00+03:00",
+   "name": "Pamuk Eczanesi",
+   "address": "KARAGÖL MAH. KONGRE CADDESİ NO: 68",
+   "phone": "0478 211 2999",
+   "dutyStart": "2026-11-02T18:00:00+03:00",
+   "dutyEnd": "2026-11-03T08:30:00+03:00",
    "approved": true,
-   "lat": 41.112995,
-   "lng": 42.702045
+   "lat": 41.112362,
+   "lng": 42.700321
   },
   {
    "district": "Merkez",
-   "name": "Dündar Eczanesi",
-   "address": "KAPTANPAŞA MAH. KONGRE CADDESİ NO:14",
-   "phone": "0478 211 3639",
-   "dutyStart": "2026-11-01T08:30:00+03:00",
-   "dutyEnd": "2026-11-02T08:30:00+03:00",
+   "name": "Pamuk Eczanesi",
+   "address": "KARAGÖL MAH. KONGRE CADDESİ NO: 68",
+   "phone": "0478 211 2999",
+   "dutyStart": "2026-11-02T18:00:00+03:00",
+   "dutyEnd": "2026-11-03T08:30:00+03:00",
    "approved": true,
-   "lat": 41.112995,
-   "lng": 42.702045
+   "lat": 41.112362,
+   "lng": 42.700321
   }
  ]
 }

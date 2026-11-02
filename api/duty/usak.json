@@ -1,10 +1,97 @@
 {
  "city": "Uşak",
  "code": 64,
- "dutyDay": "2026-11-01",
- "updatedAt": "2026-11-01T20:33:50.549Z",
+ "dutyDay": "2026-11-02",
+ "updatedAt": "2026-11-02T15:48:01.299Z",
  "source": "e-Devlet TİTCK",
- "pharmacies": [],
- "unavailable": true,
- "note": "class=\"warningContainer\">Seçilen zaman aralığı için nöbetçi eczane bulunamadı. Sayfa Sonu Bağlantıları e-Devlet Kapısı English Hak"
+ "pharmacies": [
+  {
+   "district": "Banaz",
+   "name": "Peker Eczanesi",
+   "address": "31 Ağustos mah. İbrahim Yıldız cad. No:4/C",
+   "phone": "0276 315 1539",
+   "dutyStart": "2026-11-02T08:30:00+03:00",
+   "dutyEnd": "2026-11-03T18:00:00+03:00",
+   "approved": true,
+   "lat": 38.742516,
+   "lng": 29.750299
+  },
+  {
+   "district": "Eşme",
+   "name": "Ersan Eczanesi",
+   "address": "ŞEHİT ALİBEY MH. DUMLUPINAR CD. NO:41 EŞME",
+   "phone": "0276 414 2625",
+   "dutyStart": "2026-11-02T08:30:00+03:00",
+   "dutyEnd": "2026-11-03T18:30:00+03:00",
+   "approved": true,
+   "lat": 38.400352,
+   "lng": 28.968784
+  },
+  {
+   "district": "Karahallı",
+   "name": "Hayat Eczanesi",
+   "address": "YENİ MH. İNÖNÜ CD. KADİFE SK. NO: 2/A",
+   "phone": "0276 517 1347",
+   "dutyStart": "2026-11-02T08:30:00+03:00",
+   "dutyEnd": "2026-11-03T18:30:00+03:00",
+   "approved": true,
+   "lat": 38.32111,
+   "lng": 29.5329
+  },
+  {
+   "district": "Merkez",
+   "name": "Dönmez Eczanesi",
+   "address": "KARAAĞAÇ MH. GEDİZ ULUYOLU NO: 117/A",
+   "phone": "0276 223 0018",
+   "dutyStart": "2026-11-02T08:30:00+03:00",
+   "dutyEnd": "2026-11-03T18:30:00+03:00",
+   "approved": true,
+   "lat": 38.681492,
+   "lng": 29.396795
+  },
+  {
+   "district": "Merkez",
+   "name": "Göksel Eczanesi",
+   "address": "MEHMET AKİF ERSOY MH.ŞEHİT İSMAİL ÇETİN CD. NO:44/B",
+   "phone": "0276 215 4004",
+   "dutyStart": "2026-11-02T08:30:00+03:00",
+   "dutyEnd": "2026-11-03T18:30:00+03:00",
+   "approved": true,
+   "lat": 38.680759,
+   "lng": 29.421288
+  },
+  {
+   "district": "Merkez",
+   "name": "Gülşifa Eczanesi",
+   "address": "ATATÜRK MH. 2.SAÇMA SK.NO:9/A",
+   "phone": "0276 231 0011",
+   "dutyStart": "2026-11-02T08:30:00+03:00",
+   "dutyEnd": "2026-11-03T18:30:00+03:00",
+   "approved": true,
+   "lat": 38.666389,
+   "lng": 29.420759
+  },
+  {
+   "district": "Sivaslı",
+   "name": "Azatçam Eczanesi",
+   "address": "ATATÜRK MH. OLGUN SK.NO:6 SİVASLI",
+   "phone": "0276 618 1313",
+   "dutyStart": "2026-11-02T08:30:00+03:00",
+   "dutyEnd": "2026-11-03T18:30:00+03:00",
+   "approved": true,
+   "lat": 38.500072,
+   "lng": 29.679026
+  },
+  {
+   "district": "Ulubey",
+   "name": "Toklu Eczanesi",
+   "address": "GÖLBAŞI MH. HÜRRİYET CD.NO:61/A ULUBEY",
+   "phone": "0276 716 2808",
+   "dutyStart": "2026-11-02T08:30:00+03:00",
+   "dutyEnd": "2026-11-03T18:30:00+03:00",
+   "approved": true,
+   "lat": 38.419922,
+   "lng": 29.290365
+  }
+ ]
 }

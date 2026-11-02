@@ -1,64 +1,64 @@
 {
  "city": "Bingöl",
  "code": 12,
- "dutyDay": "2026-11-01",
- "updatedAt": "2026-11-01T13:15:54.049Z",
+ "dutyDay": "2026-11-02",
+ "updatedAt": "2026-11-02T15:42:26.067Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Genç",
-   "name": "Yaşam Eczanesi",
-   "address": "CUMHURİYET MAH.CUMHURİYET CAD. NO:132 GENÇ/BİNGÖL",
-   "phone": "0426 411 2526",
-   "dutyStart": "2026-11-01T08:00:00+03:00",
-   "dutyEnd": "2026-11-02T08:00:00+03:00",
+   "name": "Sağlık Eczanesi",
+   "address": "KÜLTÜR MAHALLESİ BİNGÖL CAD. NO:28/B GENÇ/ BİNGÖL",
+   "phone": "0426 411 3602",
+   "dutyStart": "2026-11-02T18:00:00+03:00",
+   "dutyEnd": "2026-11-03T08:00:00+03:00",
    "approved": true,
-   "lat": 38.751152,
-   "lng": 40.560444
+   "lat": 38.749443,
+   "lng": 40.549507
   },
   {
    "district": "Karlıova",
-   "name": "Karliova Eczanesi",
-   "address": "Kanireş Mahallesi Hastanesi Caddesi No:18/A",
-   "phone": "0426 511 2499",
-   "dutyStart": "2026-11-01T08:00:00+03:00",
-   "dutyEnd": "2026-11-02T08:00:00+03:00",
+   "name": "Ruken Eczanesi",
+   "address": "Kanireş mah. hastane cad. No18/1A",
+   "phone": "0538 256 6712",
+   "dutyStart": "2026-11-02T18:00:00+03:00",
+   "dutyEnd": "2026-11-03T08:00:00+03:00",
    "approved": true,
-   "lat": 39.297707,
-   "lng": 41.012314
+   "lat": 39.297661,
+   "lng": 41.012283
   },
   {
    "district": "Merkez",
-   "name": "Baran Eczanesi",
-   "address": "İNÖNÜ MAH. GENÇ CAD. NO:40 MERKEZ/BİNGÖL",
-   "phone": "0426 213 5052",
-   "dutyStart": "2026-11-01T08:00:00+03:00",
-   "dutyEnd": "2026-11-02T08:00:00+03:00",
+   "name": "Cerrahpaşa Eczanesi",
+   "address": "Simani Mahallesi Mesnevi Caddesi No:52/A",
+   "phone": "0426 502 0072",
+   "dutyStart": "2026-11-02T18:00:00+03:00",
+   "dutyEnd": "2026-11-03T08:30:00+03:00",
    "approved": true,
-   "lat": 38.884846,
-   "lng": 40.497814
+   "lat": 38.909203,
+   "lng": 40.551834
   },
   {
    "district": "Merkez",
-   "name": "Düzağaç Eczanesi",
-   "address": "SARAY MAHALLESİ SAĞLIK CADDESİ NO:26/B",
-   "phone": "0426 216 0054",
-   "dutyStart": "2026-11-01T08:30:00+03:00",
-   "dutyEnd": "2026-11-02T08:30:00+03:00",
+   "name": "Şifa Eczanesi",
+   "address": "YENİŞEHİR MAH. HASTANE CAD. NO:45/C",
+   "phone": "0426 213 2292",
+   "dutyStart": "2026-11-02T18:00:00+03:00",
+   "dutyEnd": "2026-11-03T08:00:00+03:00",
    "approved": true,
-   "lat": 38.895943,
-   "lng": 40.514736
+   "lat": 38.883221,
+   "lng": 40.497856
   },
   {
    "district": "Solhan",
-   "name": "Vefa Eczanesi",
-   "address": "Yeni Mahalle Erbakan Caddesi No:3/C",
-   "phone": "0426 711 3344",
-   "dutyStart": "2026-11-01T08:00:00+03:00",
-   "dutyEnd": "2026-11-02T08:00:00+03:00",
+   "name": "Emre Eczanesi",
+   "address": "Yeni Mah. Erbakan Cad. no:30/c",
+   "phone": "0538 037 8611",
+   "dutyStart": "2026-11-02T18:00:00+03:00",
+   "dutyEnd": "2026-11-03T08:00:00+03:00",
    "approved": true,
-   "lat": 38.968307,
-   "lng": 41.056675
+   "lat": 38.968151,
+   "lng": 41.05447
   }
  ]
 }

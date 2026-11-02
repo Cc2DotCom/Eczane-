@@ -1,10 +1,185 @@
 {
  "city": "Çorum",
  "code": 19,
- "dutyDay": "2026-11-01",
- "updatedAt": "2026-11-01T18:26:38.260Z",
+ "dutyDay": "2026-11-02",
+ "updatedAt": "2026-11-02T15:43:03.055Z",
  "source": "e-Devlet TİTCK",
- "pharmacies": [],
- "unavailable": true,
- "note": "class=\"warningContainer\">Seçilen zaman aralığı için nöbetçi eczane bulunamadı. Sayfa Sonu Bağlantıları e-Devlet Kapısı English Hak"
+ "pharmacies": [
+  {
+   "district": "Alaca",
+   "name": "Bayrak Eczanesi",
+   "address": "GÜNHAN MAH.ZİLE CAD. NO:1",
+   "phone": "0364 411 5789",
+   "dutyStart": "2026-11-02T18:00:00+03:00",
+   "dutyEnd": "2026-11-03T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.169224,
+   "lng": 34.841965
+  },
+  {
+   "district": "Bayat",
+   "name": "Bayat Eczanesi",
+   "address": "YENİ MAHALLE BEYAZIT CADDESİ NO:6/B BAYAT/ÇORUM",
+   "phone": "0553 553 9328",
+   "dutyStart": "2026-11-02T18:00:00+03:00",
+   "dutyEnd": "2026-11-03T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.643002,
+   "lng": 34.259201
+  },
+  {
+   "district": "Boğazkale",
+   "name": "Boğazkale Eczanesi",
+   "address": "ÇARŞI MAH.HİTİT CAD.NO:10/A",
+   "phone": "0364 452 2978",
+   "dutyStart": "2026-11-02T18:00:00+03:00",
+   "dutyEnd": "2026-11-03T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.024273,
+   "lng": 34.608311
+  },
+  {
+   "district": "Dodurga",
+   "name": "Hayat Eczanesi",
+   "address": "ESENTEPE MAH.YUNUS EMRE BULVARI NO:34",
+   "phone": "0364 221 1289",
+   "dutyStart": "2026-11-02T18:00:00+03:00",
+   "dutyEnd": "2026-11-03T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.856552,
+   "lng": 34.813
+  },
+  {
+   "district": "İskilip",
+   "name": "Yüksel Eczanesi",
+   "address": "BAHABEY MAH. ÇORUM CAD. NO:26/A",
+   "phone": "0364 511 6624",
+   "dutyStart": "2026-11-02T18:00:00+03:00",
+   "dutyEnd": "2026-11-03T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.731579,
+   "lng": 34.473907
+  },
+  {
+   "district": "Kargı",
+   "name": "Şifa Eczanesi",
+   "address": "ORTA MAH.ATATÜRK CAD. NO:3/C",
+   "phone": "0364 651 3789",
+   "dutyStart": "2026-11-02T18:00:00+03:00",
+   "dutyEnd": "2026-11-03T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.13438,
+   "lng": 34.487148
+  },
+  {
+   "district": "Laçin",
+   "name": "Gözde Eczanesi",
+   "address": "YENİ MAH.OSMANCIK CAD.NO:27",
+   "phone": "0364 745 5504",
+   "dutyStart": "2026-11-02T18:00:00+03:00",
+   "dutyEnd": "2026-11-03T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.773937,
+   "lng": 34.886135
+  },
+  {
+   "district": "Mecitözü",
+   "name": "Danaci Eczanesi",
+   "address": "BAHÇELİEVLER MAH.BAHRİYE ÜÇOK CAD.NO:2/A",
+   "phone": "0364 461 2298",
+   "dutyStart": "2026-11-02T18:00:00+03:00",
+   "dutyEnd": "2026-11-03T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.520752,
+   "lng": 35.295116
+  },
+  {
+   "district": "Merkez",
+   "name": "Damla Gümüşağa Eczanesi",
+   "address": "ÇEPNİ MAHALLESİ FEN LİSESİ 4. CADDE NO:2/A",
+   "phone": "0364 213 7707",
+   "dutyStart": "2026-11-02T18:00:00+03:00",
+   "dutyEnd": "2026-11-03T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.532349,
+   "lng": 34.92305
+  },
+  {
+   "district": "Merkez",
+   "name": "Funda Eczanesi",
+   "address": "BAHÇELİEVLER MAH. MEHMET AKİF ERSOY CAD. NO:146/A",
+   "phone": "0364 221 5540",
+   "dutyStart": "2026-11-02T18:00:00+03:00",
+   "dutyEnd": "2026-11-03T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.538593,
+   "lng": 34.97488
+  },
+  {
+   "district": "Merkez",
+   "name": "Oya Eczanesi",
+   "address": "ULUKAVAK MAH. DR.SADIK AHMET CAD.NO:1/B",
+   "phone": "0364 213 8816",
+   "dutyStart": "2026-11-02T18:00:00+03:00",
+   "dutyEnd": "2026-11-03T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.570805,
+   "lng": 34.962788
+  },
+  {
+   "district": "Oğuzlar",
+   "name": "Şifa Eczanesi",
+   "address": "GÖLBAŞI MAHALLESİ FATİH CADDESİ NO:54A",
+   "phone": "0364 561 1561",
+   "dutyStart": "2026-11-02T18:00:00+03:00",
+   "dutyEnd": "2026-11-03T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.756767,
+   "lng": 34.701992
+  },
+  {
+   "district": "Ortaköy",
+   "name": "İnal Eczanesi",
+   "address": "CUMHURİYET MAH.ATATÜRK CAD.NO:26/A",
+   "phone": "0364 491 4044",
+   "dutyStart": "2026-11-02T18:00:00+03:00",
+   "dutyEnd": "2026-11-03T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.272942,
+   "lng": 35.249687
+  },
+  {
+   "district": "Osmancık",
+   "name": "Güneş Eczanesi",
+   "address": "YAZI MAH.ŞEHİT PİLOT ÜSTEĞMEN SEBAHATTİN ÖREMİŞ CAD.NO: 60/A",
+   "phone": "0364 611 4420",
+   "dutyStart": "2026-11-02T18:00:00+03:00",
+   "dutyEnd": "2026-11-03T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.972172,
+   "lng": 34.799633
+  },
+  {
+   "district": "Sungurlu",
+   "name": "Önder Eczanesi",
+   "address": "FEVZİPAŞA MAH. ŞEHİT HASAN ÜNAL CAD. NO:1/B",
+   "phone": "0364 311 5760",
+   "dutyStart": "2026-11-02T18:00:00+03:00",
+   "dutyEnd": "2026-11-03T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.164146,
+   "lng": 34.375835
+  },
+  {
+   "district": "Uğurludağ",
+   "name": "Ecem Eczanesi",
+   "address": "YENİCAMİ MAH. CUMHURİYET CAD. NO:77/C-D",
+   "phone": "0364 361 2095",
+   "dutyStart": "2026-11-02T18:00:00+03:00",
+   "dutyEnd": "2026-11-03T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.445969,
+   "lng": 34.448456
+  }
+ ]
 }

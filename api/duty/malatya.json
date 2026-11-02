@@ -1,15 +1,37 @@
 {
  "city": "Malatya",
  "code": 44,
- "dutyDay": "2026-11-01",
- "updatedAt": "2026-11-01T18:27:23.694Z",
+ "dutyDay": "2026-11-02",
+ "updatedAt": "2026-11-02T15:46:19.804Z",
  "source": "Malatya Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Samet Eczanesi",
-   "address": "CEVHERİZADE MAH. ÖZDEN SOK. AİLE VE SOSYAL HİZM. İL MÜD. KARŞISI NO:40/A",
-   "phone": "04223234404",
+   "name": "Murat Eczanesi",
+   "address": "BATTALGAZİ DEVLET HASTANESİ ACİL KARŞISI ZAFER MAH. VALİ KONAĞI CAD. ÜZERİ",
+   "phone": "04223710405",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 38.3483562,
+   "lng": 38.3335277
+  },
+  {
+   "district": "Merkez",
+   "name": "Dönmez Eczanesi",
+   "address": "CEVHERİZADE MAH. EMEKSİZ CD. ÖZDEN SOK. NO:45/B KÖK MOBİLYA YANI",
+   "phone": "05386190870",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 38.3438671,
+   "lng": 38.3126019
+  },
+  {
+   "district": "Merkez",
+   "name": "Gar Eczanesi",
+   "address": "İNÖNÜ MAH. İSTASYON CD. NO:30/C TREN GARI KARŞISI",
+   "phone": "05452586044",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
@@ -18,47 +40,25 @@
   },
   {
    "district": "Merkez",
-   "name": "Orhanoğlu Eczanesi",
-   "address": "Fırat Mahallesi , Yusuf Özal Caddesi (İnderesi Esenlik Market yanı) 14/D Battalgazi / Malatya",
-   "phone": "05335484625",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 38.3500879,
-   "lng": 38.3203723
-  },
-  {
-   "district": "Merkez",
-   "name": "Didem Eczanesi",
-   "address": "SITMAPINARI ZAPÇIOĞLU CAD. PERŞEMBE PAZARI GİRİŞİ ESKİ SAĞLIK MÜD. KARŞISI",
-   "phone": "04225275527",
+   "name": "Trend Park Eczanesi",
+   "address": "FAHRİ KAYAHAN NİKAH SARAYI GURMEHAN BALTA BURGER YANI",
+   "phone": "05377016634",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
    "lat": null,
    "lng": null
-  },
-  {
-   "district": "Merkez",
-   "name": "Güngör Eczanesi",
-   "address": "GÜNGÖR CD. ÇEVREYOLU FAHRİ KAYAHAN GİRİŞİ PETROL OFİSİ KARŞISI ÇARŞI MARKET BİTİŞİĞİ KARAKAVAK MH.",
-   "phone": "04223256282",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 38.3400522,
-   "lng": 38.2635449
   },
   {
    "district": "Battalgazi",
-   "name": "Aksu Eczanesi",
-   "address": "ALACAKAPI MAH. KIRKGÖZ CAD. 15/B BATTALGAZİ SEMT POLİKLİNİĞİ KARŞISI BATTALGAZİ/MALATYA",
-   "phone": "05064433444",
+   "name": "Menengiç Eczanesi",
+   "address": "Meydanbaşı Mah. Osman ATEŞ Cad . No:85 Menengiç Eczanesi Battalgazi/MALATYA",
+   "phone": "04229991023",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.4265267,
-   "lng": 38.3666997
+   "lat": 38.4138473,
+   "lng": 38.363356
   }
  ],
  "sourceUrl": "https://www.malatyaeczaciodasi.org.tr/nobetci-eczaneler"
