@@ -2,7 +2,7 @@
  "city": "Edirne",
  "code": 22,
  "dutyDay": "2026-11-02",
- "updatedAt": "2026-11-02T19:27:02.582Z",
+ "updatedAt": "2026-11-02T22:20:30.771Z",
  "source": "Edirne Eczacı Odası",
  "pharmacies": [
   {
@@ -15,17 +15,6 @@
    "approved": true,
    "lat": 41.669088,
    "lng": 26.585114
-  },
-  {
-   "district": "Merkez",
-   "name": "İnci Eczanesi",
-   "address": "SULTAN 1. MURAT DEVLET HASTANESİ KARŞISI FATİH MAH. ALPARSLAN TÜRKEŞ CAD.BİNA NO:14 İŞYERİ NO:79",
-   "phone": "02845020702",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 41.652729,
-   "lng": 26.605189
   },
   {
    "district": "Merkez",
