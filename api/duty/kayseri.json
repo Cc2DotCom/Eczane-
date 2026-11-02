@@ -2,20 +2,9 @@
  "city": "Kayseri",
  "code": 38,
  "dutyDay": "2026-11-02",
- "updatedAt": "2026-11-02T22:20:55.837Z",
+ "updatedAt": "2026-11-02T23:36:58.373Z",
  "source": "Kayseri Eczacı Odası",
  "pharmacies": [
-  {
-   "district": "Melikgazi",
-   "name": "Yonca Eczanesi",
-   "address": "SEYİDGAZİ MAH. SEYİDBURHANETTİN BULV. NO:49/A",
-   "phone": "03522222838",
-   "dutyStart": "2026-11-02T08:30:00+03:00",
-   "dutyEnd": "2026-11-03T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.716844,
-   "lng": 35.494401
-  },
   {
    "district": "Kocasinan",
    "name": "Kizilkaya Eczanesi",
@@ -59,6 +48,17 @@
    "approved": true,
    "lat": 38.722356,
    "lng": 35.480235
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Yonca Eczanesi",
+   "address": "SEYİDGAZİ MAH. SEYİDBURHANETTİN BULV. NO:49/A",
+   "phone": "03522222838",
+   "dutyStart": "2026-11-02T08:30:00+03:00",
+   "dutyEnd": "2026-11-03T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.716844,
+   "lng": 35.494401
   }
  ],
  "sourceUrl": "https://www.kayserieo.org.tr/nobetci-eczaneler"
