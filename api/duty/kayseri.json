@@ -2,20 +2,9 @@
  "city": "Kayseri",
  "code": 38,
  "dutyDay": "2026-11-02",
- "updatedAt": "2026-11-02T15:45:47.770Z",
+ "updatedAt": "2026-11-02T19:27:38.264Z",
  "source": "Kayseri Eczacı Odası",
  "pharmacies": [
-  {
-   "district": "Kocasinan",
-   "name": "Deva Eczanesi",
-   "address": "HACI SAKI MAH. ÇIMEN SOK. NO: 32/E-B (Devlet Hastanesi Poliklinik Karşısı)",
-   "phone": "03523204202",
-   "dutyStart": "2026-11-02T08:30:00+03:00",
-   "dutyEnd": "2026-11-03T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.725634,
-   "lng": 35.479606
-  },
   {
    "district": "Melikgazi",
    "name": "Yonca Eczanesi",
@@ -40,6 +29,17 @@
   },
   {
    "district": "Kocasinan",
+   "name": "Kizilkaya Eczanesi",
+   "address": "Kayseri Şehir Hastanesi Arkası Kadın Doğum Polikliniği ve Çocuk acil karşısı 3167. Sk Yılmaz Plaza",
+   "phone": "03525041506",
+   "dutyStart": "2026-11-02T08:30:00+03:00",
+   "dutyEnd": "2026-11-03T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.768168,
+   "lng": 35.405524
+  },
+  {
+   "district": "Kocasinan",
    "name": "Enar Eczanesi",
    "address": "HACI SAKI MAH.KENARCIK SOKAK N0:8/E",
    "phone": "03523364025",
@@ -51,36 +51,14 @@
   },
   {
    "district": "Kocasinan",
-   "name": "Kizilkaya Eczanesi",
-   "address": "Kayseri Şehir Hastanesi Arkası Kadın Doğum Polikliniği ve Çocuk acil karşısı 3167. Sk Yılmaz Plaza",
-   "phone": "03525041506",
+   "name": "Deva Eczanesi",
+   "address": "HACI SAKI MAH. ÇIMEN SOK. NO: 32/E-B (Devlet Hastanesi Poliklinik Karşısı)",
+   "phone": "03523204202",
    "dutyStart": "2026-11-02T08:30:00+03:00",
    "dutyEnd": "2026-11-03T08:30:00+03:00",
    "approved": true,
-   "lat": 38.768168,
-   "lng": 35.405524
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Kelebek Eczanesi",
-   "address": "Esenyurt Mah. Sakarya Cad. 53/A",
-   "phone": "03522258272",
-   "dutyStart": "2026-11-02T08:30:00+03:00",
-   "dutyEnd": "2026-11-03T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.698534,
-   "lng": 35.493099
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Vadi Eczanesi",
-   "address": "YENİKÖY MAH. LEFKE CAD. 1171. SOK NO:2/B",
-   "phone": "03527383458",
-   "dutyStart": "2026-11-02T08:30:00+03:00",
-   "dutyEnd": "2026-11-03T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.712582,
-   "lng": 35.45505
+   "lat": 38.725634,
+   "lng": 35.479606
   },
   {
    "district": "Melikgazi",
@@ -95,6 +73,17 @@
   },
   {
    "district": "Melikgazi",
+   "name": "Kelebek Eczanesi",
+   "address": "Esenyurt Mah. Sakarya Cad. 53/A",
+   "phone": "03522258272",
+   "dutyStart": "2026-11-02T08:30:00+03:00",
+   "dutyEnd": "2026-11-03T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.698534,
+   "lng": 35.493099
+  },
+  {
+   "district": "Melikgazi",
    "name": "Hayat Eczanesi",
    "address": "Osmanlı Mahallesi, Edip Bulvarı, 5/B",
    "phone": "03522317725",
@@ -103,17 +92,6 @@
    "approved": true,
    "lat": 38.689641,
    "lng": 35.475692
-  },
-  {
-   "district": "Talas",
-   "name": "Tuğba Şahin Eczanesi",
-   "address": "Kiçiköy Mah. Kayabağlar Cad. 2. Sk. N:3/B",
-   "phone": "03529995466",
-   "dutyStart": "2026-11-02T08:30:00+03:00",
-   "dutyEnd": "2026-11-03T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.692549,
-   "lng": 35.553528
   },
   {
    "district": "Talas",
@@ -127,26 +105,15 @@
    "lng": 35.559938
   },
   {
-   "district": "Kocasinan",
-   "name": "Cihangir Eczanesi",
-   "address": "Uğurevler Mah.19.Cad. No: 91/B",
-   "phone": "03528178181",
-   "dutyStart": "2026-11-02T08:30:00+03:00",
-   "dutyEnd": "2026-11-03T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.738415,
-   "lng": 35.526669
-  },
-  {
    "district": "Melikgazi",
-   "name": "Lokman Eczanesi",
-   "address": "Köşk Mahallesi, Köşk Caddesi, 53/A",
-   "phone": "03522351520",
+   "name": "Vadi Eczanesi",
+   "address": "YENİKÖY MAH. LEFKE CAD. 1171. SOK NO:2/B",
+   "phone": "03527383458",
    "dutyStart": "2026-11-02T08:30:00+03:00",
    "dutyEnd": "2026-11-03T01:00:00+03:00",
    "approved": true,
-   "lat": 38.719404,
-   "lng": 35.512246
+   "lat": 38.712582,
+   "lng": 35.45505
   },
   {
    "district": "Melikgazi",
@@ -158,6 +125,39 @@
    "approved": true,
    "lat": 38.74094,
    "lng": 35.400511
+  },
+  {
+   "district": "Kocasinan",
+   "name": "Cihangir Eczanesi",
+   "address": "Uğurevler Mah.19.Cad. No: 91/B",
+   "phone": "03528178181",
+   "dutyStart": "2026-11-02T08:30:00+03:00",
+   "dutyEnd": "2026-11-03T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.738415,
+   "lng": 35.526669
+  },
+  {
+   "district": "Talas",
+   "name": "Tuğba Şahin Eczanesi",
+   "address": "Kiçiköy Mah. Kayabağlar Cad. 2. Sk. N:3/B",
+   "phone": "03529995466",
+   "dutyStart": "2026-11-02T08:30:00+03:00",
+   "dutyEnd": "2026-11-03T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.692549,
+   "lng": 35.553528
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Lokman Eczanesi",
+   "address": "Köşk Mahallesi, Köşk Caddesi, 53/A",
+   "phone": "03522351520",
+   "dutyStart": "2026-11-02T08:30:00+03:00",
+   "dutyEnd": "2026-11-03T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.719404,
+   "lng": 35.512246
   }
  ],
  "sourceUrl": "https://www.kayserieo.org.tr/nobetci-eczaneler"
