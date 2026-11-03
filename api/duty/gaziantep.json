@@ -1,10 +1,75 @@
 {
  "city": "Gaziantep",
  "code": 27,
- "dutyDay": "2026-11-02",
- "updatedAt": "2026-11-02T23:36:46.245Z",
+ "dutyDay": "2026-11-03",
+ "updatedAt": "2026-11-03T14:07:23.857Z",
  "source": "e-Devlet TİTCK",
- "pharmacies": [],
- "unavailable": true,
- "note": "class=\"warningContainer\">Seçilen zaman aralığı için nöbetçi eczane bulunamadı. Sayfa Sonu Bağlantıları e-Devlet Kapısı English Hak"
+ "pharmacies": [
+  {
+   "district": "Araban",
+   "name": "Mehmet Doğru Eczanesi",
+   "address": "YEŞİLOVA MAHALLESİ DR. ASIM GÜZELBEY CADDESİ NO:27/A",
+   "phone": "0342 611 3178",
+   "dutyStart": "2026-11-03T08:30:00+03:00",
+   "dutyEnd": "2026-11-04T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.427231,
+   "lng": 37.68742
+  },
+  {
+   "district": "İslahiye",
+   "name": "Gamze Eczanesi",
+   "address": "AYDINLIK MAH. GÖZ CAD. NO:50A",
+   "phone": "0342 862 3642",
+   "dutyStart": "2026-11-03T08:30:00+03:00",
+   "dutyEnd": "2026-11-04T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.026939,
+   "lng": 36.628044
+  },
+  {
+   "district": "Nizip",
+   "name": "Gören Eczanesi",
+   "address": "FATİH SULTAN MAHALLESİ AHSEN SOKAK NO:7A-C-D",
+   "phone": "0539 740 5777",
+   "dutyStart": "2026-11-03T08:30:00+03:00",
+   "dutyEnd": "2026-11-04T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.009144,
+   "lng": 37.811172
+  },
+  {
+   "district": "Nurdağı",
+   "name": "Yildirim Eczanesi",
+   "address": "BAHÇELİEVLER MAH. HALİDE EDİP ADIVAR CAD. NO:51/Z01",
+   "phone": "0342 671 2777",
+   "dutyStart": "2026-11-03T08:30:00+03:00",
+   "dutyEnd": "2026-11-04T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.185623,
+   "lng": 36.733089
+  },
+  {
+   "district": "Oğuzeli",
+   "name": "Oğuzeli Sağlık Eczanesi",
+   "address": "OĞUZLAR MAH. VİLAYET CAD. NO: 5/A",
+   "phone": "0342 571 3144",
+   "dutyStart": "2026-11-03T08:30:00+03:00",
+   "dutyEnd": "2026-11-04T08:30:00+03:00",
+   "approved": true,
+   "lat": 36.965305,
+   "lng": 37.509998
+  },
+  {
+   "district": "Yavuzeli",
+   "name": "Kündeş Eczanesi",
+   "address": "SULTAN SELİM MAHALLESİ ARABAN CADDESİ NO:56/2D",
+   "phone": "0543 460 9498",
+   "dutyStart": "2026-11-03T17:30:00+03:00",
+   "dutyEnd": "2026-11-04T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.325092,
+   "lng": 37.559917
+  }
+ ]
 }

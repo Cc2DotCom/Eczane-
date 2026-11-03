@@ -1,75 +1,75 @@
 {
  "city": "Aksaray",
  "code": 68,
- "dutyDay": "2026-11-02",
- "updatedAt": "2026-11-02T15:48:13.800Z",
+ "dutyDay": "2026-11-03",
+ "updatedAt": "2026-11-03T14:11:55.486Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Ağaçören",
-   "name": "Yeni Ağaçören Eczanesi",
-   "address": "ZAFER MAH. ANKARA CAD. NO:68/A",
-   "phone": "0382 331 2323",
-   "dutyStart": "2026-11-02T18:00:00+03:00",
-   "dutyEnd": "2026-11-03T08:00:00+03:00",
+   "name": "Sağlık Eczanesi",
+   "address": "AĞAÇÖREN İLÇESİ ZAFER MAH. ANKARA CADDESİ NO:23 AKSARAY",
+   "phone": "0382 331 3165",
+   "dutyStart": "2026-11-03T18:00:00+03:00",
+   "dutyEnd": "2026-11-04T08:00:00+03:00",
    "approved": true,
-   "lat": 38.870731,
-   "lng": 33.914463
+   "lat": 38.870136,
+   "lng": 33.914715
   },
   {
    "district": "Eskil",
-   "name": "Eyüp Sultan Eczanesi",
-   "address": "MERKEZ MAHALLESİ MUHSİN YAZICIOĞLU CAD. NO:33",
-   "phone": "0382 411 4208",
-   "dutyStart": "2026-11-02T18:00:00+03:00",
-   "dutyEnd": "2026-11-03T08:00:00+03:00",
+   "name": "Selma Eczanesi",
+   "address": "MERKEZ MAH. ŞEHİT ÖMER HALİS DEMİR CAD. NO:30",
+   "phone": "0545 270 9827",
+   "dutyStart": "2026-11-03T18:00:00+03:00",
+   "dutyEnd": "2026-11-04T08:00:00+03:00",
    "approved": true,
-   "lat": 38.393692,
-   "lng": 33.419804
+   "lat": 38.396996,
+   "lng": 33.413418
   },
   {
    "district": "Merkez",
-   "name": "Erol Eczanesi",
-   "address": "SANAYİ MAH. 95. CAD. HACI FAİK APT. NO:41/B",
-   "phone": "0382 454 5455",
-   "dutyStart": "2026-11-02T18:00:00+03:00",
-   "dutyEnd": "2026-11-03T08:00:00+03:00",
+   "name": "Deva Eczanesi",
+   "address": "ZİNCİRLİ MAH.501. SOK. PASAJ NO:14 NO:Z.01/02/03",
+   "phone": "0382 213 1597",
+   "dutyStart": "2026-11-03T18:00:00+03:00",
+   "dutyEnd": "2026-11-04T08:00:00+03:00",
    "approved": true,
-   "lat": 38.378101,
-   "lng": 33.988174
+   "lat": 38.37318,
+   "lng": 34.027157
   },
   {
    "district": "Merkez",
-   "name": "Üçler Eczanesi",
-   "address": "Büyük Bölcek Mah. 2402. Sokak No:1/B",
-   "phone": "0382 216 1818",
-   "dutyStart": "2026-11-02T18:00:00+03:00",
-   "dutyEnd": "2026-11-03T08:00:00+03:00",
+   "name": "Sevgi Eczanesi",
+   "address": "ÇERDİĞİN MAH.NEVŞEHİR CAD.EĞRİ MİNARE KARŞISI NO:13/A AKSARAY",
+   "phone": "0382 214 2497",
+   "dutyStart": "2026-11-03T18:00:00+03:00",
+   "dutyEnd": "2026-11-04T08:00:00+03:00",
    "approved": true,
-   "lat": 38.374763,
-   "lng": 34.005535
+   "lat": 38.376621,
+   "lng": 34.028816
   },
   {
    "district": "Ortaköy",
-   "name": "Yildirim Eczanesi",
-   "address": "YENİ MAH. ŞEHİT ERSOY IRMAK CAD. 5010 SOKAK NO:38/AB",
-   "phone": "0382 351 5352",
-   "dutyStart": "2026-11-02T17:30:00+03:00",
-   "dutyEnd": "2026-11-03T08:00:00+03:00",
+   "name": "Mutlu Kardeş Eczanesi",
+   "address": "Plevne Mahallesi İhsan Özmen Bulvarı No:229/A",
+   "phone": "0382 351 4838",
+   "dutyStart": "2026-11-03T17:30:00+03:00",
+   "dutyEnd": "2026-11-04T08:00:00+03:00",
    "approved": true,
-   "lat": 38.737049,
-   "lng": 34.039616
+   "lat": 38.737228,
+   "lng": 34.039562
   },
   {
    "district": "Sultanhanı",
-   "name": "Umut Eczanesi",
-   "address": "İSTİKAMET MAH. REİS FAHRİ SOLAK CAD. NO:61/A",
-   "phone": "0382 242 3343",
-   "dutyStart": "2026-11-02T18:00:00+03:00",
-   "dutyEnd": "2026-11-03T08:00:00+03:00",
+   "name": "Ayşegül Eczanesi",
+   "address": "TÜRKİSTAN MAH.REİS ALİ SOLAK SOKAK NO:2B",
+   "phone": "0530 481 1556",
+   "dutyStart": "2026-11-03T18:00:00+03:00",
+   "dutyEnd": "2026-11-04T08:00:00+03:00",
    "approved": true,
-   "lat": 38.245155,
-   "lng": 33.542992
+   "lat": 38.246521,
+   "lng": 33.558167
   }
  ]
 }

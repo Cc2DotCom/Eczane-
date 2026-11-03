@@ -1,86 +1,86 @@
 {
  "city": "Osmaniye",
  "code": 80,
- "dutyDay": "2026-11-02",
- "updatedAt": "2026-11-02T15:48:58.050Z",
+ "dutyDay": "2026-11-03",
+ "updatedAt": "2026-11-03T14:12:36.941Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Bahçe",
-   "name": "Konuk Eczanesi",
-   "address": "Bahçelievler Mahallesi Dr. Devlet Bahçeli Bulvarı No:15/A",
-   "phone": "0542 233 6663",
-   "dutyStart": "2026-11-02T12:30:00+03:00",
-   "dutyEnd": "2026-11-03T08:00:00+03:00",
+   "name": "Lokman Hekim Eczanesi",
+   "address": "Bahçelievler Mahallesi Dr. Devlet Bahçeli Bulvarı No:57/A",
+   "phone": "0328 861 2066",
+   "dutyStart": "2026-11-03T12:30:00+03:00",
+   "dutyEnd": "2026-11-04T08:00:00+03:00",
    "approved": true,
-   "lat": 37.200317,
-   "lng": 36.577217
+   "lat": 37.197517,
+   "lng": 36.573917
   },
   {
    "district": "Düziçi",
-   "name": "Umut Eczanesi",
-   "address": "Üzümlü Mahallesi Refik Cesur Bulvarı No: 45/A",
-   "phone": "0328 876 5515",
-   "dutyStart": "2026-11-02T17:30:00+03:00",
-   "dutyEnd": "2026-11-03T08:00:00+03:00",
+   "name": "Yeşiller Eczanesi",
+   "address": "İrfanlı Mahallesi, Ahmet Lütfi Dağlar Bulvarı No:13/B",
+   "phone": "0328 876 2250",
+   "dutyStart": "2026-11-03T17:30:00+03:00",
+   "dutyEnd": "2026-11-04T08:00:00+03:00",
    "approved": true,
-   "lat": 37.230247,
-   "lng": 36.444744
+   "lat": 37.257545,
+   "lng": 36.454609
   },
   {
    "district": "Kadirli",
-   "name": "Demir Eczanesi",
-   "address": "TUFANPAŞA MAH. ATATÜRK CAD. NO:162/1",
-   "phone": "0328 718 1271",
-   "dutyStart": "2026-11-02T12:00:00+03:00",
-   "dutyEnd": "2026-11-03T08:30:00+03:00",
+   "name": "Doğa Eczanesi",
+   "address": "Savrun Mahallesi 1 Sokak No: 12-Z/1",
+   "phone": "0328 717 6477",
+   "dutyStart": "2026-11-03T12:00:00+03:00",
+   "dutyEnd": "2026-11-04T08:30:00+03:00",
    "approved": true,
-   "lat": 37.376629,
-   "lng": 36.096844
+   "lat": 37.370823,
+   "lng": 36.09621
   },
   {
    "district": "Merkez",
-   "name": "Burgaç Eczanesi",
-   "address": "Rahime Hatun Mahallesi 9039 Sokak No: 19/A",
-   "phone": "0544 880 2179",
-   "dutyStart": "2026-11-02T18:00:00+03:00",
-   "dutyEnd": "2026-11-03T08:00:00+03:00",
+   "name": "Bedirhan Eczanesi",
+   "address": "Adnan Menderes Mahallesi 19538 Sokak No: 4/A",
+   "phone": "0328 825 7013",
+   "dutyStart": "2026-11-03T18:00:00+03:00",
+   "dutyEnd": "2026-11-04T08:00:00+03:00",
    "approved": true,
-   "lat": 37.085228,
-   "lng": 36.248138
+   "lat": 37.063374,
+   "lng": 36.236237
   },
   {
    "district": "Merkez",
-   "name": "Çare Eczanesi",
-   "address": "Ahmet Yesevi Mahallesi Musa Şahin Bulvarı No: 410E",
-   "phone": "0545 376 5787",
-   "dutyStart": "2026-11-02T18:00:00+03:00",
-   "dutyEnd": "2026-11-03T08:00:00+03:00",
+   "name": "Karaman Eczanesi",
+   "address": "Mareşal Fevzi Çakmak Mahallesi Beycioğlu Ali Ağa Caddesi No: 92/1-A",
+   "phone": "0553 668 8006",
+   "dutyStart": "2026-11-03T18:00:00+03:00",
+   "dutyEnd": "2026-11-04T08:00:00+03:00",
    "approved": true,
-   "lat": 37.085968,
-   "lng": 36.277157
+   "lat": 37.089668,
+   "lng": 36.265839
   },
   {
    "district": "Merkez",
-   "name": "Eda Eczanesi",
-   "address": "Raufbey Mahallesi Atatürk Caddesi No: 284/A",
-   "phone": "0328 815 0290",
-   "dutyStart": "2026-11-02T18:00:00+03:00",
-   "dutyEnd": "2026-11-03T08:00:00+03:00",
+   "name": "Yaşam Eczanesi",
+   "address": "Alibeyli Mahallesi Dr. Devlet Bahçeli Bulvarı No: 29/A",
+   "phone": "0328 813 6059",
+   "dutyStart": "2026-11-03T18:00:00+03:00",
+   "dutyEnd": "2026-11-04T08:00:00+03:00",
    "approved": true,
-   "lat": 37.068584,
-   "lng": 36.242962
+   "lat": 37.071037,
+   "lng": 36.244995
   },
   {
    "district": "Toprakkale",
-   "name": "Doruk Eczanesi",
-   "address": "Fatih Sultan Mehmet Mahallesi Atatürk Caddesi No: 142/A",
-   "phone": "0553 350 4339",
-   "dutyStart": "2026-11-02T18:30:00+03:00",
-   "dutyEnd": "2026-11-03T08:00:00+03:00",
+   "name": "Nurten Eczanesi",
+   "address": "Fatih Sultan Mehmet Mahallesi Çamlıbel Sokak No: 11",
+   "phone": "0328 633 3196",
+   "dutyStart": "2026-11-03T18:30:00+03:00",
+   "dutyEnd": "2026-11-04T08:00:00+03:00",
    "approved": true,
-   "lat": 37.068085,
-   "lng": 36.144161
+   "lat": 37.070889,
+   "lng": 36.143784
   }
  ]
 }

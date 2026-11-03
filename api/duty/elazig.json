@@ -1,97 +1,108 @@
 {
  "city": "Elazığ",
  "code": 23,
- "dutyDay": "2026-11-02",
- "updatedAt": "2026-11-02T23:36:35.973Z",
+ "dutyDay": "2026-11-03",
+ "updatedAt": "2026-11-03T14:07:09.018Z",
  "source": "Elazığ Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Etem Eczanesi",
-   "address": "AĞIR BAKIM 300 M. AŞAĞISI BİMİN ALTI MUSTAFA PAŞA MAH.ÖMER SANAÇ SOK.NO:9/A",
-   "phone": "04242330707",
+   "name": "Geçgel Eczanesi",
+   "address": "MUSTAFA PAŞA MAH KAZIM KARABEKİR CAD NO: 31/A (GAZİ LİSESİ KARŞISI) KAZIM KARABEKIR CAD. NO:31/A",
+   "phone": "04242122945",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.673576,
-   "lng": 39.234973
+   "lat": 38.669155,
+   "lng": 39.233932
   },
   {
    "district": "Merkez",
-   "name": "Limon Eczanesi",
-   "address": "İZZETPAŞA MAH.ŞEHİT İLHANLAR CAD. NO:47/A (Eski Toplum Polisi ve Sıla Mis Pastanesi 50 mt Üstü;Pembe Köşk 100 mt Altı)",
-   "phone": "04242335515",
+   "name": "İsik Eczanesi",
+   "address": "ICADIYE MAH. BALAKGAZI CAD. NO:8/B",
+   "phone": "04242373040",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.67945,
-   "lng": 39.220609
+   "lat": 38.675021,
+   "lng": 39.225164
   },
   {
    "district": "Merkez",
-   "name": "Nurcan Eczanesi",
-   "address": "ÜNİVERSİTE MAH. YAHYA KEMAL CAD. NO:50/A",
-   "phone": "04242369202",
+   "name": "Gökler Eczanesi",
+   "address": "ÜNİVERSİTE HASTANESİ POLİKİLİNİK KARŞISI MİGROS JET BİTİŞİĞİ ÜNİVERSİTE MAH. YUNUS EMRE BULVARI NO:3/C",
+   "phone": "04242187950",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.680376,
-   "lng": 39.207198
+   "lat": 38.680039,
+   "lng": 39.207872
   },
   {
    "district": "Merkez",
-   "name": "Papatya Eczanesi",
-   "address": "ANADOLU HASTANESİ YANI ATAŞEHİR MAH. ZAHİTLER SOK. NO:4/A",
-   "phone": "04245025085",
+   "name": "Demet Eczanesi",
+   "address": "ÇAYDAÇIRA MAH.CİHANGÜL SOK.NO:36/A",
+   "phone": "04242470418",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.656754,
-   "lng": 39.157614
+   "lat": 38.678197,
+   "lng": 39.166987
+  },
+  {
+   "district": "Baskil",
+   "name": "Şifa Eczanesi",
+   "address": "CANBEYLER MAH.KIBRIS ŞEHİTLERİ CAD.NO:159/2",
+   "phone": "05444748723",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 38.56792,
+   "lng": 39.82365
   },
   {
    "district": "Karakoçan",
-   "name": "Nazli Eczanesi",
-   "address": "yeni mahalle cumhuriyet caddesi no:5 Karakoçan/Elazığ YENİ MAH.CUMHURİYET CAD.NO:5",
-   "phone": "05063377195",
+   "name": "Karakoçan Eczanesi",
+   "address": "YENI MAH. CARSI CAD. NO:62",
+   "phone": "04247113328",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.955112,
-   "lng": 40.037725
+   "lat": 38.955172,
+   "lng": 40.036909
   },
   {
    "district": "Keban",
-   "name": "Keban Eczanesi",
-   "address": "DEĞİRMENBAŞI MAH. ŞEHİT GENERAL POLAT HAŞİMOV CAD.NO:299",
-   "phone": "04245712300",
+   "name": "Taşkın Eczanesi",
+   "address": "DEĞİRMENBAŞI MAH.GENERAL POLAT HAŞİMOV CAD. NO:10",
+   "phone": "04245712525",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.793201,
-   "lng": 38.745569
+   "lat": 38.793133,
+   "lng": 38.74563
   },
   {
    "district": "Kovancilar",
-   "name": "Atas Eczanesi",
-   "address": "ÇARSIBASI MAH. ILHAMI ERTEM CAD. NO:53/A",
-   "phone": "04246115001",
+   "name": "Yağmur Eczanesi",
+   "address": "ÇARŞIBAŞI MAH.İLHAMİ ERTEM CAD.NO:30",
+   "phone": "04246113519",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.719916,
-   "lng": 39.864585
+   "lat": 38.719261,
+   "lng": 39.865381
   },
   {
    "district": "Palu",
-   "name": "Palu Eczanesi",
-   "address": "NUMUNE MAH.CUMHURİYET BLV.NO:16",
-   "phone": "04246512040",
+   "name": "Şifa Eczanesi",
+   "address": "KALEKENT MAH.58. CAD. NO:5/A",
+   "phone": "04245039619",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.693169,
-   "lng": 39.927802
+   "lat": 38.692536,
+   "lng": 39.912762
   }
  ],
  "sourceUrl": "https://www.elazigeczaciodasi.org.tr/nobetci-eczaneler/elazig"

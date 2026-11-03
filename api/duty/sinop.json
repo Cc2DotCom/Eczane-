@@ -1,86 +1,86 @@
 {
  "city": "Sinop",
  "code": 57,
- "dutyDay": "2026-11-02",
- "updatedAt": "2026-11-02T15:47:33.113Z",
+ "dutyDay": "2026-11-03",
+ "updatedAt": "2026-11-03T14:11:17.705Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Ayancık",
-   "name": "Güven Eczanesi",
-   "address": "YALI MAH. ATATÜRK CAD. NO:24/A",
-   "phone": "0368 613 3388",
-   "dutyStart": "2026-11-02T17:00:00+03:00",
-   "dutyEnd": "2026-11-03T09:00:00+03:00",
+   "name": "Merve Eczanesi",
+   "address": "YALI MAH. ATATÜRK CAD. NO:30/A",
+   "phone": "0368 613 4188",
+   "dutyStart": "2026-11-03T17:00:00+03:00",
+   "dutyEnd": "2026-11-04T09:00:00+03:00",
    "approved": true,
-   "lat": 41.943932,
-   "lng": 34.588242
+   "lat": 41.943466,
+   "lng": 34.588264
   },
   {
    "district": "Boyabat",
-   "name": "Şahin Eczanesi",
-   "address": "CAMİKEBİR MAH. ADNAN MENDERES BULVARI NO:35/B BOYABAT/SİNOP",
-   "phone": "0541 596 0554",
-   "dutyStart": "2026-11-02T18:00:00+03:00",
-   "dutyEnd": "2026-11-03T08:00:00+03:00",
+   "name": "Akay Eczanesi",
+   "address": "ÇAMLICA MAH. EROL DEMİRKOL CAD. NO:3/G",
+   "phone": "0368 315 1440",
+   "dutyStart": "2026-11-03T18:00:00+03:00",
+   "dutyEnd": "2026-11-04T08:00:00+03:00",
    "approved": true,
-   "lat": 41.466366,
-   "lng": 34.770935
+   "lat": 41.46339,
+   "lng": 34.783562
   },
   {
    "district": "Durağan",
-   "name": "Altinkaynak Eczanesi",
-   "address": "MERKEZ MAH. PLEVNE CAD. NO:17/2",
-   "phone": "0368 416 1451",
-   "dutyStart": "2026-11-02T18:00:00+03:00",
-   "dutyEnd": "2026-11-03T08:30:00+03:00",
+   "name": "Erdoğan Eczanesi",
+   "address": "MERKEZ MAH. YUSUF KEMAL TENGİRŞEK CD. NO: 30",
+   "phone": "0368 416 2277",
+   "dutyStart": "2026-11-03T18:00:00+03:00",
+   "dutyEnd": "2026-11-04T08:30:00+03:00",
    "approved": true,
-   "lat": 41.416012,
-   "lng": 35.056438
+   "lat": 41.419613,
+   "lng": 35.053459
   },
   {
    "district": "Erfelek",
-   "name": "Şifa Eczanesi",
-   "address": "MERKEZ MAH. CUMHURİYET CAD. NO:2",
-   "phone": "0368 511 2115",
-   "dutyStart": "2026-11-02T19:00:00+03:00",
-   "dutyEnd": "2026-11-03T08:00:00+03:00",
+   "name": "Çağlar Eczanesi",
+   "address": "MERKEZ MAH. CUMHURİYET CAD. NO:12/A",
+   "phone": "0368 511 2020",
+   "dutyStart": "2026-11-03T19:00:00+03:00",
+   "dutyEnd": "2026-11-04T08:00:00+03:00",
    "approved": true,
-   "lat": 41.879581,
-   "lng": 34.907822
+   "lat": 41.879681,
+   "lng": 34.907478
   },
   {
    "district": "Gerze",
-   "name": "Yumuk Eczanesi",
-   "address": "ÇARŞI MAH. GENERAL OSMAN PAMUKOĞLU CAD. NO:6",
-   "phone": "0368 718 4428",
-   "dutyStart": "2026-11-02T18:00:00+03:00",
-   "dutyEnd": "2026-11-03T08:30:00+03:00",
+   "name": "Seray Eczanesi",
+   "address": "ÇARŞI MAH CUMHURİYET MEYDANI NO:1/A",
+   "phone": "0368 718 2020",
+   "dutyStart": "2026-11-03T18:00:00+03:00",
+   "dutyEnd": "2026-11-04T08:30:00+03:00",
    "approved": true,
-   "lat": 41.80254,
-   "lng": 35.197929
+   "lat": 41.802628,
+   "lng": 35.198402
   },
   {
    "district": "Merkez",
-   "name": "Deniz Eczanesi",
-   "address": "YENİ MAH. ATATÜRK CADDESİ. NO:13/B",
-   "phone": "0368 261 8930",
-   "dutyStart": "2026-11-02T18:00:00+03:00",
-   "dutyEnd": "2026-11-03T08:00:00+03:00",
+   "name": "Cemre Eczanesi",
+   "address": "YENİ MH. OKULAK SK. NO: 15",
+   "phone": "0368 261 5705",
+   "dutyStart": "2026-11-03T18:00:00+03:00",
+   "dutyEnd": "2026-11-04T08:00:00+03:00",
    "approved": true,
-   "lat": 42.025604,
-   "lng": 35.151455
+   "lat": 42.023483,
+   "lng": 35.157097
   },
   {
    "district": "Türkeli",
-   "name": "Gizem Eczanesi",
-   "address": "GÜZELYURT MH. ALPARSLAN TÜRKEŞ CD. NO:9/A",
-   "phone": "0368 671 2792",
-   "dutyStart": "2026-11-02T18:00:00+03:00",
-   "dutyEnd": "2026-11-03T08:00:00+03:00",
+   "name": "Şifa Eczanesi",
+   "address": "CUMHURİYET CAD. NO:4/B",
+   "phone": "0368 671 2179",
+   "dutyStart": "2026-11-03T18:00:00+03:00",
+   "dutyEnd": "2026-11-04T08:00:00+03:00",
    "approved": true,
-   "lat": 41.947079,
-   "lng": 34.337921
+   "lat": 41.946568,
+   "lng": 34.336864
   }
  ]
 }

@@ -1,42 +1,42 @@
 {
  "city": "Kırşehir",
  "code": 40,
- "dutyDay": "2026-11-02",
- "updatedAt": "2026-11-02T23:37:01.219Z",
+ "dutyDay": "2026-11-03",
+ "updatedAt": "2026-11-03T14:09:42.842Z",
  "source": "e-Devlet TİTCK, Aksaray-Kırşehir Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Merve Eczanesi",
-   "address": "KERVAN SARAY MAH.KAYA ÖZ SİTESİ NO:2 MERKEZ/ KIRŞEHİR",
-   "phone": "0386 214 4640",
-   "dutyStart": "2026-11-02T18:00:00+03:00",
-   "dutyEnd": "2026-11-03T08:00:00+03:00",
+   "name": "Özgür Eczanesi",
+   "address": "KERVAN SARAY MAH.2019 SOKAK KAYA ÖZ SİTESİ B BLOK NO:13 KIRŞEHİR",
+   "phone": "0386 212 8586",
+   "dutyStart": "2026-11-03T18:00:00+03:00",
+   "dutyEnd": "2026-11-04T08:00:00+03:00",
    "approved": true,
-   "lat": 39.157032,
-   "lng": 34.163769
+   "lat": 39.157299,
+   "lng": 34.164276
   },
   {
    "district": "Merkez",
-   "name": "Sibel Eczanesi",
-   "address": "KERVAN SARAY MAH. 2019 SOKAK KAYA ÖZ SİTESİ NO:18 MERKEZ / KIRŞEHİR",
-   "phone": "0386 212 2038",
-   "dutyStart": "2026-11-02T18:00:00+03:00",
-   "dutyEnd": "2026-11-03T08:00:00+03:00",
+   "name": "Sultan Eczanesi",
+   "address": "KERVANSARAY MAH.2019 SOK.NO:1",
+   "phone": "0386 213 7540",
+   "dutyStart": "2026-11-03T18:00:00+03:00",
+   "dutyEnd": "2026-11-04T08:00:00+03:00",
    "approved": true,
-   "lat": 39.157127,
-   "lng": 34.163895
+   "lat": 39.157005,
+   "lng": 34.163631
   },
   {
-   "district": "Kaman",
-   "name": "Aran Eczanesi",
-   "address": "ISTIKLAL CAD. NO:1",
-   "phone": "3867128191",
+   "district": "Mucur",
+   "name": "Saglik Eczanesi",
+   "address": "YENICE MAH. ENVERPASA CAD. NO:5 MUCUR",
+   "phone": "3868124769",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.357669,
-   "lng": 33.724608
+   "lat": 39.063311,
+   "lng": 34.376217
   }
  ],
  "sourceUrl": "https://www.aksarayeo.org.tr/nobetci-eczaneler"

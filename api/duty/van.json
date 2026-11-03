@@ -1,20 +1,20 @@
 {
  "city": "Van",
  "code": 65,
- "dutyDay": "2026-11-02",
- "updatedAt": "2026-11-02T15:48:03.697Z",
+ "dutyDay": "2026-11-03",
+ "updatedAt": "2026-11-03T14:11:46.478Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Erciş",
-   "name": "Yeni Eczanesi",
-   "address": "Kışla Mah. Çınar Cad. 93/1",
-   "phone": "0432 351 6939",
-   "dutyStart": "2026-11-02T18:00:00+03:00",
-   "dutyEnd": "2026-11-03T08:30:00+03:00",
+   "name": "Yeni Kışla Eczanesi",
+   "address": "Latifiye Mahallesi İnönü Caddesi No:38/A",
+   "phone": "0432 351 2320",
+   "dutyStart": "2026-11-03T18:00:00+03:00",
+   "dutyEnd": "2026-11-04T08:30:00+03:00",
    "approved": true,
-   "lat": 39.017033,
-   "lng": 43.352253
+   "lat": 39.027969,
+   "lng": 43.357567
   }
  ]
 }
