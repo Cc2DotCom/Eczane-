@@ -2,20 +2,9 @@
  "city": "Malatya",
  "code": 44,
  "dutyDay": "2026-11-03",
- "updatedAt": "2026-11-03T17:00:26.824Z",
+ "updatedAt": "2026-11-03T20:08:30.924Z",
  "source": "Malatya Eczacı Odası",
  "pharmacies": [
-  {
-   "district": "Merkez",
-   "name": "Bakan Eczanesi",
-   "address": "Doğa cadde avm karşısı gözde hastanesi yanı",
-   "phone": "05010599454",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": null,
-   "lng": null
-  },
   {
    "district": "Merkez",
    "name": "Ahsen Eczanesi",
@@ -26,6 +15,17 @@
    "approved": true,
    "lat": 38.3559349,
    "lng": 38.3351011
+  },
+  {
+   "district": "Merkez",
+   "name": "Bakan Eczanesi",
+   "address": "Doğa cadde avm karşısı gözde hastanesi yanı",
+   "phone": "05010599454",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": null,
+   "lng": null
   },
   {
    "district": "Merkez",
