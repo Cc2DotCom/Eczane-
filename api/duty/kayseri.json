@@ -2,20 +2,9 @@
  "city": "Kayseri",
  "code": 38,
  "dutyDay": "2026-11-03",
- "updatedAt": "2026-11-03T20:08:19.755Z",
+ "updatedAt": "2026-11-03T21:49:26.295Z",
  "source": "Kayseri Eczacı Odası",
  "pharmacies": [
-  {
-   "district": "Kocasinan",
-   "name": "Çöl Eczanesi",
-   "address": "HACI SAKI MH.KENARCIK SK.ÖZAL APT.NO:6/E A BLOK",
-   "phone": "03523200919",
-   "dutyStart": "2026-11-03T08:30:00+03:00",
-   "dutyEnd": "2026-11-04T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.722412,
-   "lng": 35.480034
-  },
   {
    "district": "Kocasinan",
    "name": "Sümeyye Eczanesi",
@@ -39,15 +28,15 @@
    "lng": 35.59341
   },
   {
-   "district": "Melikgazi",
-   "name": "Dengiz Eczanesi",
-   "address": "TACETTIN VELI MAH. LALEZADE CAD.N0:39/5",
-   "phone": "03522229644",
+   "district": "Kocasinan",
+   "name": "Çöl Eczanesi",
+   "address": "HACI SAKI MH.KENARCIK SK.ÖZAL APT.NO:6/E A BLOK",
+   "phone": "03523200919",
    "dutyStart": "2026-11-03T08:30:00+03:00",
    "dutyEnd": "2026-11-04T08:30:00+03:00",
    "approved": true,
-   "lat": 38.713345,
-   "lng": 35.494776
+   "lat": 38.722412,
+   "lng": 35.480034
   },
   {
    "district": "Kocasinan",
@@ -62,6 +51,17 @@
   },
   {
    "district": "Melikgazi",
+   "name": "Dengiz Eczanesi",
+   "address": "TACETTIN VELI MAH. LALEZADE CAD.N0:39/5",
+   "phone": "03522229644",
+   "dutyStart": "2026-11-03T08:30:00+03:00",
+   "dutyEnd": "2026-11-04T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.713345,
+   "lng": 35.494776
+  },
+  {
+   "district": "Melikgazi",
    "name": "Sena Yalçıntaş Eczanesi",
    "address": "Alpaslan Mah. Bahar Cad. No: 20/C",
    "phone": "03522340303",
@@ -70,17 +70,6 @@
    "approved": true,
    "lat": 38.727264,
    "lng": 35.512822
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Yeni Hilal Eczanesi",
-   "address": "OSMANLI MAH. EDIP GEÇIDI 11/B",
-   "phone": "03523470102",
-   "dutyStart": "2026-11-03T08:30:00+03:00",
-   "dutyEnd": "2026-11-04T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.689571,
-   "lng": 35.475777
   },
   {
    "district": "Melikgazi",
@@ -94,17 +83,6 @@
    "lng": 35.541808
   },
   {
-   "district": "Kocasinan",
-   "name": "Burcu Eczanesi",
-   "address": "KAYABAŞI MAH. 6313 CAD. NO:173/A",
-   "phone": "03522409318",
-   "dutyStart": "2026-11-03T08:30:00+03:00",
-   "dutyEnd": "2026-11-04T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.746467,
-   "lng": 35.526417
-  },
-  {
    "district": "Melikgazi",
    "name": "Balim Eczanesi",
    "address": "SAKARYA MAH.DOĞANYURT CAD. 26/1",
@@ -116,15 +94,15 @@
    "lng": 35.409069
   },
   {
-   "district": "Kocasinan",
-   "name": "Fenercioğlu Eczanesi",
-   "address": "Erkilet Osmangazi Mah. 49. Sk. No:10/A Osmanlı Camii - Sağlık Ocağı Yanı",
-   "phone": "03524088838",
+   "district": "Melikgazi",
+   "name": "Yeni Hilal Eczanesi",
+   "address": "OSMANLI MAH. EDIP GEÇIDI 11/B",
+   "phone": "03523470102",
    "dutyStart": "2026-11-03T08:30:00+03:00",
    "dutyEnd": "2026-11-04T01:00:00+03:00",
    "approved": true,
-   "lat": 38.789186,
-   "lng": 35.45639
+   "lat": 38.689571,
+   "lng": 35.475777
   },
   {
    "district": "Talas",
@@ -138,15 +116,15 @@
    "lng": 35.54769
   },
   {
-   "district": "Melikgazi",
-   "name": "Arisoy Eczanesi",
-   "address": "Gültepe Mahallesi, Köşk Caddesi, 33/A",
-   "phone": "03523330202",
+   "district": "Kocasinan",
+   "name": "Burcu Eczanesi",
+   "address": "KAYABAŞI MAH. 6313 CAD. NO:173/A",
+   "phone": "03522409318",
    "dutyStart": "2026-11-03T08:30:00+03:00",
    "dutyEnd": "2026-11-04T01:00:00+03:00",
    "approved": true,
-   "lat": 38.717995,
-   "lng": 35.508571
+   "lat": 38.746467,
+   "lng": 35.526417
   },
   {
    "district": "Talas",
@@ -158,6 +136,28 @@
    "approved": true,
    "lat": 38.69256,
    "lng": 35.552907
+  },
+  {
+   "district": "Kocasinan",
+   "name": "Fenercioğlu Eczanesi",
+   "address": "Erkilet Osmangazi Mah. 49. Sk. No:10/A Osmanlı Camii - Sağlık Ocağı Yanı",
+   "phone": "03524088838",
+   "dutyStart": "2026-11-03T08:30:00+03:00",
+   "dutyEnd": "2026-11-04T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.789186,
+   "lng": 35.45639
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Arisoy Eczanesi",
+   "address": "Gültepe Mahallesi, Köşk Caddesi, 33/A",
+   "phone": "03523330202",
+   "dutyStart": "2026-11-03T08:30:00+03:00",
+   "dutyEnd": "2026-11-04T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.717995,
+   "lng": 35.508571
   }
  ],
  "sourceUrl": "https://www.kayserieo.org.tr/nobetci-eczaneler"
