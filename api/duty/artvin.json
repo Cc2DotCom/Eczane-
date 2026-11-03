@@ -2,19 +2,19 @@
  "city": "Artvin",
  "code": 8,
  "dutyDay": "2026-11-03",
- "updatedAt": "2026-11-03T14:05:37.555Z",
+ "updatedAt": "2026-11-03T16:59:24.632Z",
  "source": "Trabzon Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Demir Eczanesi",
-   "address": "ÇARŞI MAH. ŞEHİT DURSUN ACAR CADDESİ NO:48B",
-   "phone": "04662126692",
+   "name": "Akin Eczanesi",
+   "address": "İNÖNÜ CADDESİ BELEDİYE İŞHANI NO:5",
+   "phone": "04662127300",
    "dutyStart": "2026-11-03T18:00:00+03:00",
    "dutyEnd": "2026-11-04T08:00:00+03:00",
    "approved": true,
-   "lat": 41.182522,
-   "lng": 41.819629
+   "lat": 41.18047,
+   "lng": 41.819742
   },
   {
    "district": "Ardanuç",
@@ -51,14 +51,14 @@
   },
   {
    "district": "Hopa",
-   "name": "Altinpost Eczanesi",
-   "address": "KULEDİBİ MAH.TURGAY CİNER CAD.NO:6",
-   "phone": "04663516666",
+   "name": "Mihrap Eczanesi",
+   "address": "SUNDURA MAHALLESİ LİSE CADDESİ NO:68/A",
+   "phone": "04663513553",
    "dutyStart": "2026-11-03T18:00:00+03:00",
    "dutyEnd": "2026-11-04T08:00:00+03:00",
    "approved": true,
-   "lat": 41.395917,
-   "lng": 41.421713
+   "lat": 41.38706,
+   "lng": 41.42036
   },
   {
    "district": "Murgul",

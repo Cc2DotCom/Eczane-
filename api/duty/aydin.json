@@ -2,31 +2,9 @@
  "city": "Aydın",
  "code": 9,
  "dutyDay": "2026-11-03",
- "updatedAt": "2026-11-03T14:05:42.635Z",
+ "updatedAt": "2026-11-03T16:59:29.585Z",
  "source": "Aydın Eczacı Odası",
  "pharmacies": [
-  {
-   "district": "Merkez",
-   "name": "Çobanoğlu Eczanesi",
-   "address": "HASAN EFENDİ MAH. KIZILAY CAD. NO:8/B ( AYDIN DEVLET HASTANESİ ACİL ÇIKIŞI KARŞISI )",
-   "phone": "02562132393",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 37.848864,
-   "lng": 27.838068
-  },
-  {
-   "district": "Merkez",
-   "name": "Yildirim Eczanesi",
-   "address": "ZAFER MAH. PINARBAŞI CAD. NO:2A (ZAFER İLKOKULU KARŞISI - FİNAL DERSHANESİ YANI)",
-   "phone": "02562145051",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 37.849662,
-   "lng": 27.847382
-  },
   {
    "district": "Merkez",
    "name": "Pinar Eczanesi",
@@ -48,6 +26,28 @@
    "approved": true,
    "lat": 37.856612,
    "lng": 27.826891
+  },
+  {
+   "district": "Merkez",
+   "name": "Çobanoğlu Eczanesi",
+   "address": "HASAN EFENDİ MAH. KIZILAY CAD. NO:8/B ( AYDIN DEVLET HASTANESİ ACİL ÇIKIŞI KARŞISI )",
+   "phone": "02562132393",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 37.848864,
+   "lng": 27.838068
+  },
+  {
+   "district": "Merkez",
+   "name": "Yildirim Eczanesi",
+   "address": "ZAFER MAH. PINARBAŞI CAD. NO:2A (ZAFER İLKOKULU KARŞISI - FİNAL DERSHANESİ YANI)",
+   "phone": "02562145051",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 37.849662,
+   "lng": 27.847382
   },
   {
    "district": "Kuşadası",
