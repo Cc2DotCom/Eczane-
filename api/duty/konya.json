@@ -1,10 +1,10 @@
 {
  "city": "Konya",
  "code": 42,
- "dutyDay": "2026-11-03",
- "updatedAt": "2026-11-03T21:49:33.512Z",
+ "dutyDay": "2026-11-04",
+ "updatedAt": "2026-11-04T14:30:50.896Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [],
  "unavailable": true,
- "note": "class=\"warningContainer\">Seçilen zaman aralığı için nöbetçi eczane bulunamadı. Sayfa Sonu Bağlantıları e-Devlet Kapısı English Hak"
+ "note": "class=\"warningContainer\">Seçilen zaman aralığı için nöbetçi eczane bulunamadı. Sayfa Sonu Bağlantıları e-Devlet Kapısı English Hakk"
 }

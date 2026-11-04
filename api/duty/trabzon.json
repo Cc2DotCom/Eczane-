@@ -1,20 +1,20 @@
 {
  "city": "Trabzon",
  "code": 61,
- "dutyDay": "2026-11-03",
- "updatedAt": "2026-11-03T14:11:27.859Z",
+ "dutyDay": "2026-11-04",
+ "updatedAt": "2026-11-04T14:32:28.269Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Akçaabat",
-   "name": "Karaduman Eczanesi",
-   "address": "Dürbinar Mah. İnönü Cad. Tosun İş Hanı No:71A",
-   "phone": "0462 228 0523",
-   "dutyStart": "2026-11-03T17:00:00+03:00",
-   "dutyEnd": "2026-11-04T09:00:00+03:00",
+   "name": "Yağmur Ecz. Eczanesi",
+   "address": "Nefsipulathane Mahallesi Atatürk Bulvarı No:55G",
+   "phone": "0462 228 6752",
+   "dutyStart": "2026-11-04T17:00:00+03:00",
+   "dutyEnd": "2026-11-05T09:00:00+03:00",
    "approved": true,
-   "lat": 41.021427,
-   "lng": 39.571369
+   "lat": 41.025021,
+   "lng": 39.565262
   }
  ]
 }

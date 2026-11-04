@@ -1,75 +1,75 @@
 {
  "city": "Muş",
  "code": 49,
- "dutyDay": "2026-11-03",
- "updatedAt": "2026-11-03T21:49:41.722Z",
+ "dutyDay": "2026-11-04",
+ "updatedAt": "2026-11-04T14:31:39.066Z",
  "source": "Batman Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Bulut Eczanesi",
-   "address": "POLİSEVİ YUKARISI ŞEHİR PALAS OTELİ KARŞISI",
-   "phone": "04362126162",
+   "name": "Botanik Eczanesi",
+   "address": "MURAT PAŞA MAH. ESKİ CEZAEVİ KARŞISI",
+   "phone": "04362121612",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.734285,
-   "lng": 41.490953
+   "lat": 38.734031,
+   "lng": 41.486049
   },
   {
    "district": "Bulanık",
-   "name": "Yeni Doz Eczanesi",
-   "address": "ZAFER MAH.HASTANE CAD. NO:8A",
-   "phone": "04363114292",
+   "name": "Güneş Eczanesi",
+   "address": "ZAFER MAH.HASTANE CAD. NO:4/A MUŞ/BULANIK MUS/BULANIK",
+   "phone": "04363323108",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.094693,
-   "lng": 42.274764
+   "lat": 39.094842,
+   "lng": 42.274156
   },
   {
    "district": "Hasköy",
-   "name": "İstanbul Eczanesi",
-   "address": "YENİ HASKÖY DEVLET HASTANESİ KARŞISI, ALPARSLAN ORTAOKULU YANINDA",
-   "phone": "04364113400",
+   "name": "Şifa Eczanesi",
+   "address": "SUNAY MAHALLESİ GAZİ CADDESİ NO:1/A",
+   "phone": "04364112425",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.683305,
-   "lng": 41.692534
+   "lat": 38.683646,
+   "lng": 41.689746
   },
   {
    "district": "Korkut",
-   "name": "Korkut Eczanesi",
-   "address": "BAHÇELİEVLER MAH.İKİNCİ CAD.NO:11/C",
-   "phone": "04366116026",
+   "name": "Şifa Eczanesi",
+   "address": "ADNAN MENDERES MAH.2 CAD. NO:51/J",
+   "phone": "04366116769",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.738225,
-   "lng": 41.782945
+   "lat": 38.734309,
+   "lng": 41.776712
   },
   {
    "district": "Malazgirt",
-   "name": "Halk Eczanesi",
-   "address": "YILANKIRAN CAD MERKEZ CAMİ KARŞISI",
-   "phone": "04365113199",
+   "name": "Meydan Eczanesi",
+   "address": "MENGÜÇGAZİ MAH 109 SOK. NO:8/H",
+   "phone": "05524534950",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.14721,
-   "lng": 42.542723
+   "lat": 39.145617,
+   "lng": 42.541915
   },
   {
    "district": "Varto",
-   "name": "Güneş Eczanesi",
-   "address": "GÜMGÜM MAH. SAĞLIK SOK. NO:6",
-   "phone": "04365024181",
+   "name": "Bizim Eczanesi",
+   "address": "GÜMGÜM MAH. MUŞ CAD. NO:101/2",
+   "phone": "04367112130",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.170331,
-   "lng": 41.45576
+   "lat": 39.167877,
+   "lng": 41.455363
   }
  ],
  "sourceUrl": "https://www.batmaneczaciodasi.org.tr/nobetci-eczaneler"

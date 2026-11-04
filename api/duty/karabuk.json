@@ -1,75 +1,75 @@
 {
  "city": "Karabük",
  "code": 78,
- "dutyDay": "2026-11-03",
- "updatedAt": "2026-11-03T14:12:26.608Z",
+ "dutyDay": "2026-11-04",
+ "updatedAt": "2026-11-04T14:33:14.543Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Eflani",
-   "name": "Tuğba Eczanesi",
-   "address": "CANDAROĞULLARI MAH. HÜKÜMET CAD. NO: 71/B",
-   "phone": "0370 461 2427",
-   "dutyStart": "2026-11-03T18:30:00+03:00",
-   "dutyEnd": "2026-11-04T08:30:00+03:00",
+   "name": "Gülşen Eczanesi",
+   "address": "CANDAROĞULLARI MAH. HÜKÜMET CAD. NO:71/K",
+   "phone": "0370 461 2331",
+   "dutyStart": "2026-11-04T18:30:00+03:00",
+   "dutyEnd": "2026-11-05T08:30:00+03:00",
    "approved": true,
-   "lat": 41.423122,
-   "lng": 32.956795
+   "lat": 41.423168,
+   "lng": 32.957214
   },
   {
    "district": "Eskipazar",
-   "name": "Eskipazar Eczanesi",
-   "address": "MERKEZ MAH.CAMİ CAD. NO:16",
-   "phone": "0370 818 3737",
-   "dutyStart": "2026-11-03T19:00:00+03:00",
-   "dutyEnd": "2026-11-04T08:00:00+03:00",
+   "name": "Şifa Eczanesi",
+   "address": "MERKEZ MAH. İNÖNÜ CAD. NO: 39/F",
+   "phone": "0370 818 3500",
+   "dutyStart": "2026-11-04T19:00:00+03:00",
+   "dutyEnd": "2026-11-05T08:00:00+03:00",
    "approved": true,
-   "lat": 40.943947,
-   "lng": 32.531132
+   "lat": 40.943871,
+   "lng": 32.529564
   },
   {
    "district": "Merkez",
-   "name": "Asuman Eczanesi",
-   "address": "BAYIR MAH. FEVZİ FIRAT CAD. IŞITAN İŞHANI NO: 51/A",
-   "phone": "0370 413 1373",
-   "dutyStart": "2026-11-03T19:00:00+03:00",
-   "dutyEnd": "2026-11-04T08:30:00+03:00",
+   "name": "Doğa Eczanesi",
+   "address": "100.YIL MAH.KARABÜK KASTAMONU ÜSTÜ SOK. NO:59/D",
+   "phone": "0370 502 0052",
+   "dutyStart": "2026-11-04T19:00:00+03:00",
+   "dutyEnd": "2026-11-05T08:30:00+03:00",
    "approved": true,
-   "lat": 41.19632,
-   "lng": 32.610512
+   "lat": 41.217766,
+   "lng": 32.668083
   },
   {
    "district": "Merkez",
-   "name": "Uygar Eczanesi",
-   "address": "BEŞBİNEVLER 75. YIL MAH.29.CADDE NO:4/B",
-   "phone": "0370 433 6969",
-   "dutyStart": "2026-11-03T19:00:00+03:00",
-   "dutyEnd": "2026-11-04T08:30:00+03:00",
+   "name": "Ömür Eczanesi",
+   "address": "BAYIR MAH. KEMAL GÜNEŞ CAD. NO:167/A",
+   "phone": "0370 424 5714",
+   "dutyStart": "2026-11-04T19:00:00+03:00",
+   "dutyEnd": "2026-11-05T08:30:00+03:00",
    "approved": true,
-   "lat": 41.22871,
-   "lng": 32.661804
+   "lat": 41.194927,
+   "lng": 32.618378
   },
   {
    "district": "Safranbolu",
-   "name": "Safran Eczanesi",
-   "address": "ATATÜRK MAH. AKTER SOK. DEVRİM SİT. C BLOK NO: 6/B",
-   "phone": "0370 712 8262",
-   "dutyStart": "2026-11-03T19:00:00+03:00",
-   "dutyEnd": "2026-11-04T08:30:00+03:00",
+   "name": "Canan Aslan Eczanesi",
+   "address": "ATATÜRK MAH.SAĞLIK SOK. NO:38/1-C SAFRANBOLU/KARABÜK",
+   "phone": "0370 712 1226",
+   "dutyStart": "2026-11-04T19:00:00+03:00",
+   "dutyEnd": "2026-11-05T08:30:00+03:00",
    "approved": true,
-   "lat": 41.251606,
-   "lng": 32.683819
+   "lat": 41.252239,
+   "lng": 32.684589
   },
   {
    "district": "Yenice",
-   "name": "Gözde Eczanesi",
-   "address": "İSMETPAŞA MAH. DORUK SOK. NO: 4/A/ Yenice",
-   "phone": "0370 766 3383",
-   "dutyStart": "2026-11-03T18:30:00+03:00",
-   "dutyEnd": "2026-11-04T08:30:00+03:00",
+   "name": "Betül Eczanesi",
+   "address": "Merkez Mah. İnönü Cad. No:11A",
+   "phone": "0370 766 3737",
+   "dutyStart": "2026-11-04T18:30:00+03:00",
+   "dutyEnd": "2026-11-05T08:30:00+03:00",
    "approved": true,
-   "lat": 41.209454,
-   "lng": 32.305386
+   "lat": 41.199841,
+   "lng": 32.330284
   }
  ]
 }

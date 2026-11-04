@@ -1,10 +1,75 @@
 {
  "city": "Rize",
  "code": 53,
- "dutyDay": "2026-11-03",
- "updatedAt": "2026-11-03T21:49:46.539Z",
+ "dutyDay": "2026-11-04",
+ "updatedAt": "2026-11-04T14:31:53.404Z",
  "source": "e-Devlet TİTCK",
- "pharmacies": [],
- "unavailable": true,
- "note": "class=\"warningContainer\">Seçilen zaman aralığı için nöbetçi eczane bulunamadı. Sayfa Sonu Bağlantıları e-Devlet Kapısı English Hakk"
+ "pharmacies": [
+  {
+   "district": "Ardeşen",
+   "name": "Işık Eczanesi",
+   "address": "MERKEZ MAHALLESİ ATATÜRK CADDESİ NO:169 A ARDEŞEN/RİZE",
+   "phone": "0464 715 2050",
+   "dutyStart": "2026-11-04T18:00:00+03:00",
+   "dutyEnd": "2026-11-05T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.192612,
+   "lng": 40.994331
+  },
+  {
+   "district": "Çayeli",
+   "name": "Yeni Öztürk Eczanesi",
+   "address": "SÜLEYMAN SABİT İSHAKOĞLU CADDESİ NO:21/B",
+   "phone": "0464 532 1663",
+   "dutyStart": "2026-11-04T17:30:00+03:00",
+   "dutyEnd": "2026-11-05T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.090385,
+   "lng": 40.726013
+  },
+  {
+   "district": "Fındıklı",
+   "name": "Halk Eczanesi",
+   "address": "MERKEZ MAHALLESİ 2.CADDE NO:72",
+   "phone": "0464 511 3151",
+   "dutyStart": "2026-11-04T18:00:00+03:00",
+   "dutyEnd": "2026-11-05T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.271988,
+   "lng": 41.141762
+  },
+  {
+   "district": "Merkez",
+   "name": "Merve Eczanesi",
+   "address": "EMİNETTİN MAH.ATATÜRK CADDESİ NO:296/A RİZE",
+   "phone": "0464 213 3333",
+   "dutyStart": "2026-11-04T08:00:00+03:00",
+   "dutyEnd": "2026-11-05T18:00:00+03:00",
+   "approved": true,
+   "lat": 41.027496,
+   "lng": 40.514107
+  },
+  {
+   "district": "Merkez",
+   "name": "Fakülte Eczanesi",
+   "address": "İSLAMPAŞA MAHALLESİ 2 NOLU ŞEHİTLER CADDESİ 41/H MERKEZ/RİZE",
+   "phone": "0464 214 7538",
+   "dutyStart": "2026-11-04T18:00:00+03:00",
+   "dutyEnd": "2026-11-05T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.039097,
+   "lng": 40.573193
+  },
+  {
+   "district": "Pazar",
+   "name": "Işıl Eczanesi",
+   "address": "Pazar Mahallesi Prof.Dr. Mehmet HABERAL Caddesi No:84 A",
+   "phone": "0536 821 1126",
+   "dutyStart": "2026-11-04T18:00:00+03:00",
+   "dutyEnd": "2026-11-05T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.180374,
+   "lng": 40.883224
+  }
+ ]
 }

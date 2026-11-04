@@ -1,108 +1,108 @@
 {
  "city": "Elazığ",
  "code": 23,
- "dutyDay": "2026-11-03",
- "updatedAt": "2026-11-03T21:49:08.453Z",
- "source": "Elazığ Eczacı Odası",
+ "dutyDay": "2026-11-04",
+ "updatedAt": "2026-11-04T14:28:01.554Z",
+ "source": "e-Devlet TİTCK, Elazığ Eczacı Odası",
  "pharmacies": [
   {
-   "district": "Merkez",
-   "name": "Geçgel Eczanesi",
-   "address": "MUSTAFA PAŞA MAH KAZIM KARABEKİR CAD NO: 31/A (GAZİ LİSESİ KARŞISI) KAZIM KARABEKIR CAD. NO:31/A",
-   "phone": "04242122945",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 38.669155,
-   "lng": 39.233932
-  },
-  {
-   "district": "Merkez",
-   "name": "İsik Eczanesi",
-   "address": "ICADIYE MAH. BALAKGAZI CAD. NO:8/B",
-   "phone": "04242373040",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 38.675021,
-   "lng": 39.225164
-  },
-  {
-   "district": "Merkez",
-   "name": "Gökler Eczanesi",
-   "address": "ÜNİVERSİTE HASTANESİ POLİKİLİNİK KARŞISI MİGROS JET BİTİŞİĞİ ÜNİVERSİTE MAH. YUNUS EMRE BULVARI NO:3/C",
-   "phone": "04242187950",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 38.680039,
-   "lng": 39.207872
-  },
-  {
-   "district": "Merkez",
-   "name": "Demet Eczanesi",
-   "address": "ÇAYDAÇIRA MAH.CİHANGÜL SOK.NO:36/A",
-   "phone": "04242470418",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 38.678197,
-   "lng": 39.166987
-  },
-  {
    "district": "Baskil",
-   "name": "Şifa Eczanesi",
-   "address": "CANBEYLER MAH.KIBRIS ŞEHİTLERİ CAD.NO:159/2",
-   "phone": "05444748723",
-   "dutyStart": null,
-   "dutyEnd": null,
+   "name": "Baskil Eczanesi",
+   "address": "Canbeyler Mah. Elazığ Cad. No:21/A",
+   "phone": "0424 511 2233",
+   "dutyStart": "2026-11-04T18:00:00+03:00",
+   "dutyEnd": "2026-11-05T08:30:00+03:00",
    "approved": true,
-   "lat": 38.56792,
-   "lng": 39.82365
+   "lat": 38.56749,
+   "lng": 38.823189
+  },
+  {
+   "district": "Merkez",
+   "name": "Elazığ Eczanesi",
+   "address": "ÇARŞI MAH. HÜRRİYET CAD. NO:4",
+   "phone": "0424 212 7969",
+   "dutyStart": "2026-11-04T18:30:00+03:00",
+   "dutyEnd": "2026-11-05T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.674435,
+   "lng": 39.224174
+  },
+  {
+   "district": "Merkez",
+   "name": "İzgi Eczanesi",
+   "address": "Doğukent Mahallesi Seyda Molla Bahri Bulvarı 98/B",
+   "phone": "4 242 251 143_",
+   "dutyStart": "2026-11-04T18:30:00+03:00",
+   "dutyEnd": "2026-11-05T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.680779,
+   "lng": 39.256458
+  },
+  {
+   "district": "Merkez",
+   "name": "Leyla Eczanesi",
+   "address": "CUMHURİYET MAHALLESİ 170. SOKAK NO:38/AA ELAZIĞ",
+   "phone": "4 242 380 949_",
+   "dutyStart": "2026-11-04T18:30:00+03:00",
+   "dutyEnd": "2026-11-05T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.667747,
+   "lng": 39.154274
+  },
+  {
+   "district": "Merkez",
+   "name": "Yeni Munzur Eczanesi",
+   "address": "Fevzi Çakmak Mahallesi Özen Sokak 13/B-3",
+   "phone": "0533 421 9793",
+   "dutyStart": "2026-11-04T18:30:00+03:00",
+   "dutyEnd": "2026-11-05T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.687504,
+   "lng": 39.216175
   },
   {
    "district": "Karakoçan",
-   "name": "Karakoçan Eczanesi",
-   "address": "YENI MAH. CARSI CAD. NO:62",
-   "phone": "04247113328",
+   "name": "Bulutoglu Eczanesi",
+   "address": "karakoçan elazığ TEPE MAH. HAN ÇESMESI SOK. NO:11",
+   "phone": "04247113836",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.955172,
-   "lng": 40.036909
+   "lat": 38.955773,
+   "lng": 40.03583
   },
   {
    "district": "Keban",
-   "name": "Taşkın Eczanesi",
-   "address": "DEĞİRMENBAŞI MAH.GENERAL POLAT HAŞİMOV CAD. NO:10",
-   "phone": "04245712525",
+   "name": "Keban Eczanesi",
+   "address": "DEĞİRMENBAŞI MAH. ŞEHİT GENERAL POLAT HAŞİMOV CAD.NO:299",
+   "phone": "04245712300",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.793133,
-   "lng": 38.74563
+   "lat": 38.793201,
+   "lng": 38.745569
   },
   {
    "district": "Kovancilar",
-   "name": "Yağmur Eczanesi",
-   "address": "ÇARŞIBAŞI MAH.İLHAMİ ERTEM CAD.NO:30",
-   "phone": "04246113519",
+   "name": "Akpinar Eczanesi",
+   "address": "ÇARŞIBAŞI MAH.AZİZ YILDIRIM CAD. NO:14",
+   "phone": "04246116054",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.719261,
-   "lng": 39.865381
+   "lat": 38.71927,
+   "lng": 39.864431
   },
   {
    "district": "Palu",
-   "name": "Şifa Eczanesi",
-   "address": "KALEKENT MAH.58. CAD. NO:5/A",
-   "phone": "04245039619",
+   "name": "Onur Eczanesi",
+   "address": "NUMUNE MAH CUMHURİYET BULVARI PALU BELEDİYESİ HİZMET BİNASI BLOK NO:4/5",
+   "phone": "04246512310",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.692536,
-   "lng": 39.912762
+   "lat": 38.693661,
+   "lng": 39.928305
   }
  ],
  "sourceUrl": "https://www.elazigeczaciodasi.org.tr/nobetci-eczaneler/elazig"

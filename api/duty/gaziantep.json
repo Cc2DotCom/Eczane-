@@ -1,75 +1,64 @@
 {
  "city": "Gaziantep",
  "code": 27,
- "dutyDay": "2026-11-03",
- "updatedAt": "2026-11-03T14:07:23.857Z",
+ "dutyDay": "2026-11-04",
+ "updatedAt": "2026-11-04T14:28:14.955Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
-   "district": "Araban",
-   "name": "Mehmet Doğru Eczanesi",
-   "address": "YEŞİLOVA MAHALLESİ DR. ASIM GÜZELBEY CADDESİ NO:27/A",
-   "phone": "0342 611 3178",
-   "dutyStart": "2026-11-03T08:30:00+03:00",
-   "dutyEnd": "2026-11-04T08:30:00+03:00",
-   "approved": true,
-   "lat": 37.427231,
-   "lng": 37.68742
-  },
-  {
    "district": "İslahiye",
-   "name": "Gamze Eczanesi",
-   "address": "AYDINLIK MAH. GÖZ CAD. NO:50A",
-   "phone": "0342 862 3642",
-   "dutyStart": "2026-11-03T08:30:00+03:00",
-   "dutyEnd": "2026-11-04T08:30:00+03:00",
+   "name": "Atici Eczanesi",
+   "address": "ÇAMLICA MAHALLESİ KEMAL BALIKESİRLİ CADDESİ NO:28C",
+   "phone": "0531 880 3896",
+   "dutyStart": "2026-11-04T08:30:00+03:00",
+   "dutyEnd": "2026-11-05T08:30:00+03:00",
    "approved": true,
-   "lat": 37.026939,
-   "lng": 36.628044
+   "lat": 37.026539,
+   "lng": 36.636257
   },
   {
    "district": "Nizip",
-   "name": "Gören Eczanesi",
-   "address": "FATİH SULTAN MAHALLESİ AHSEN SOKAK NO:7A-C-D",
-   "phone": "0539 740 5777",
-   "dutyStart": "2026-11-03T08:30:00+03:00",
-   "dutyEnd": "2026-11-04T08:30:00+03:00",
+   "name": "İlkay Eczanesi",
+   "address": "MİMAR SİNAN MAH. GÜL SOK. NO:1A/1B",
+   "phone": "0342 512 0050",
+   "dutyStart": "2026-11-04T08:30:00+03:00",
+   "dutyEnd": "2026-11-05T08:30:00+03:00",
    "approved": true,
-   "lat": 37.009144,
-   "lng": 37.811172
+   "lat": 37.015106,
+   "lng": 37.806583
   },
   {
    "district": "Nurdağı",
-   "name": "Yildirim Eczanesi",
-   "address": "BAHÇELİEVLER MAH. HALİDE EDİP ADIVAR CAD. NO:51/Z01",
-   "phone": "0342 671 2777",
-   "dutyStart": "2026-11-03T08:30:00+03:00",
-   "dutyEnd": "2026-11-04T08:30:00+03:00",
+   "name": "Karanfil Eczanesi",
+   "address": "BAHÇELİEVLER MAH. HİLMİ KUTLUBAY CAD. NO:19 İÇ KAPI :1",
+   "phone": "0342 671 2010",
+   "dutyStart": "2026-11-04T08:30:00+03:00",
+   "dutyEnd": "2026-11-05T08:30:00+03:00",
    "approved": true,
-   "lat": 37.185623,
-   "lng": 36.733089
+   "lat": 37.183586,
+   "lng": 36.739925
   },
   {
    "district": "Oğuzeli",
-   "name": "Oğuzeli Sağlık Eczanesi",
-   "address": "OĞUZLAR MAH. VİLAYET CAD. NO: 5/A",
-   "phone": "0342 571 3144",
-   "dutyStart": "2026-11-03T08:30:00+03:00",
-   "dutyEnd": "2026-11-04T08:30:00+03:00",
+   "name": "Karadağ Eczanesi",
+   "address": "OĞUZLAR MAHALLESİ KARPUZATAN CADDESİ NO:11/A",
+   "phone": "0342 571 2100",
+   "dutyStart": "2026-11-04T08:30:00+03:00",
+   "dutyEnd": "2026-11-05T08:30:00+03:00",
    "approved": true,
-   "lat": 36.965305,
-   "lng": 37.509998
+   "lat": 36.962532,
+   "lng": 37.508392
   },
   {
    "district": "Yavuzeli",
-   "name": "Kündeş Eczanesi",
-   "address": "SULTAN SELİM MAHALLESİ ARABAN CADDESİ NO:56/2D",
-   "phone": "0543 460 9498",
-   "dutyStart": "2026-11-03T17:30:00+03:00",
-   "dutyEnd": "2026-11-04T08:30:00+03:00",
+   "name": "Anka Eczanesi",
+   "address": "SULTAN SELİM MAHALLESİ ARABAN CADDESİ NO:42B/BA",
+   "phone": "0545 970 3250",
+   "dutyStart": "2026-11-04T17:30:00+03:00",
+   "dutyEnd": "2026-11-05T08:30:00+03:00",
    "approved": true,
-   "lat": 37.325092,
-   "lng": 37.559917
+   "lat": 37.319614,
+   "lng": 37.566566
   }
  ]
 }
