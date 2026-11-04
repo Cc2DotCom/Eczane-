@@ -2,9 +2,20 @@
  "city": "Kayseri",
  "code": 38,
  "dutyDay": "2026-11-04",
- "updatedAt": "2026-11-04T20:26:50.833Z",
+ "updatedAt": "2026-11-04T21:56:05.581Z",
  "source": "Kayseri Eczacı Odası",
  "pharmacies": [
+  {
+   "district": "Kocasinan",
+   "name": "Güngören Eczanesi",
+   "address": "ŞEKER MAH. MUHSİN YAZICIOĞLU BULV. NO:74/D",
+   "phone": "03523366200",
+   "dutyStart": "2026-11-04T08:30:00+03:00",
+   "dutyEnd": "2026-11-05T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.769946,
+   "lng": 35.413188
+  },
   {
    "district": "Kocasinan",
    "name": "Göktürk Eczanesi",
@@ -39,17 +50,6 @@
    "lng": 35.4926
   },
   {
-   "district": "Kocasinan",
-   "name": "Güngören Eczanesi",
-   "address": "ŞEKER MAH. MUHSİN YAZICIOĞLU BULV. NO:74/D",
-   "phone": "03523366200",
-   "dutyStart": "2026-11-04T08:30:00+03:00",
-   "dutyEnd": "2026-11-05T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.769946,
-   "lng": 35.413188
-  },
-  {
    "district": "Melikgazi",
    "name": "Pirilti Eczanesi",
    "address": "Gesi Fatih Mah. Uygar Sk. No:3",
@@ -59,6 +59,17 @@
    "approved": true,
    "lat": 38.785125,
    "lng": 35.602787
+  },
+  {
+   "district": "Talas",
+   "name": "Bakan Eczanesi",
+   "address": "Mevlana Mah. İkbal Cad. No:13/B Talas/Kayseri",
+   "phone": "03529991454",
+   "dutyStart": "2026-11-04T08:30:00+03:00",
+   "dutyEnd": "2026-11-05T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.700755,
+   "lng": 35.569196
   },
   {
    "district": "Melikgazi",
@@ -83,6 +94,17 @@
    "lng": 35.475183
   },
   {
+   "district": "Talas",
+   "name": "Koza Eczanesi",
+   "address": "Yenidoğan Mah. Çimenli Cad. No:33/C",
+   "phone": "03525032228",
+   "dutyStart": "2026-11-04T08:30:00+03:00",
+   "dutyEnd": "2026-11-05T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.701469,
+   "lng": 35.543882
+  },
+  {
    "district": "Kocasinan",
    "name": "Akin Eczanesi",
    "address": "HOCA AHMET YESEVİ MAH. MEHMET CANTÜRK SOK. NO:30 KOCASİNAN/KAYSERİ",
@@ -92,6 +114,17 @@
    "approved": true,
    "lat": 38.749417,
    "lng": 35.488757
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Furkan Eczanesi",
+   "address": "KÖSK MAH. KISLA CAD. 51/A",
+   "phone": "3522374393",
+   "dutyStart": "2026-11-04T08:30:00+03:00",
+   "dutyEnd": "2026-11-05T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.723154,
+   "lng": 35.517472
   },
   {
    "district": "Melikgazi",
@@ -106,39 +139,6 @@
   },
   {
    "district": "Melikgazi",
-   "name": "Hilal Eczanesi",
-   "address": "KEMERALTI MAH.NAZIMBEY CAD.NO:62/C",
-   "phone": "03523200884",
-   "dutyStart": "2026-11-04T08:30:00+03:00",
-   "dutyEnd": "2026-11-05T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.715676,
-   "lng": 35.477331
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Furkan Eczanesi",
-   "address": "KÖSK MAH. KISLA CAD. 51/A",
-   "phone": "3522374393",
-   "dutyStart": "2026-11-04T08:30:00+03:00",
-   "dutyEnd": "2026-11-05T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.723154,
-   "lng": 35.517472
-  },
-  {
-   "district": "Talas",
-   "name": "Bakan Eczanesi",
-   "address": "Mevlana Mah. İkbal Cad. No:13/B Talas/Kayseri",
-   "phone": "03529991454",
-   "dutyStart": "2026-11-04T08:30:00+03:00",
-   "dutyEnd": "2026-11-05T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.700755,
-   "lng": 35.569196
-  },
-  {
-   "district": "Melikgazi",
    "name": "Mayis Eczanesi",
    "address": "Selçuklu Mah. Alagöz Sk. 98/A",
    "phone": "03523477000",
@@ -149,15 +149,15 @@
    "lng": 35.470011
   },
   {
-   "district": "Talas",
-   "name": "Koza Eczanesi",
-   "address": "Yenidoğan Mah. Çimenli Cad. No:33/C",
-   "phone": "03525032228",
+   "district": "Melikgazi",
+   "name": "Hilal Eczanesi",
+   "address": "KEMERALTI MAH.NAZIMBEY CAD.NO:62/C",
+   "phone": "03523200884",
    "dutyStart": "2026-11-04T08:30:00+03:00",
    "dutyEnd": "2026-11-05T01:00:00+03:00",
    "approved": true,
-   "lat": 38.701469,
-   "lng": 35.543882
+   "lat": 38.715676,
+   "lng": 35.477331
   }
  ],
  "sourceUrl": "https://www.kayserieo.org.tr/nobetci-eczaneler"
