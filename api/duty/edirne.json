@@ -2,7 +2,7 @@
  "city": "Edirne",
  "code": 22,
  "dutyDay": "2026-11-05",
- "updatedAt": "2026-11-05T20:41:13.938Z",
+ "updatedAt": "2026-11-05T22:05:01.797Z",
  "source": "Edirne Eczacı Odası",
  "pharmacies": [
   {
@@ -26,17 +26,6 @@
    "approved": true,
    "lat": 41.652633,
    "lng": 26.605255
-  },
-  {
-   "district": "Merkez",
-   "name": "Şifa Eczanesi",
-   "address": "ÇAVUŞBEY MAH. ATATÜRK BULVARI NO:342/8 EDİRNE",
-   "phone": "02842254636",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 41.677022,
-   "lng": 26.551144
   },
   {
    "district": "Enez",
