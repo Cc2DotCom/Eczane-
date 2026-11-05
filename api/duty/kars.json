@@ -1,20 +1,20 @@
 {
  "city": "Kars",
  "code": 36,
- "dutyDay": "2026-11-04",
- "updatedAt": "2026-11-04T14:30:18.157Z",
+ "dutyDay": "2026-11-05",
+ "updatedAt": "2026-11-05T14:37:51.248Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "İlay Eczanesi",
-   "address": "Merkez Mah. Faikbey Cad. No:105/A",
-   "phone": "0541 290 7993",
-   "dutyStart": "2026-11-04T18:30:00+03:00",
-   "dutyEnd": "2026-11-05T08:00:00+03:00",
+   "name": "Faikbey Eczanesi",
+   "address": "Ortakapı Mah. Faikbey Cad. No:74/A",
+   "phone": "0474 223 4765",
+   "dutyStart": "2026-11-05T18:30:00+03:00",
+   "dutyEnd": "2026-11-06T08:00:00+03:00",
    "approved": true,
-   "lat": 40.607651,
-   "lng": 43.099495
+   "lat": 40.605804,
+   "lng": 43.09779
   }
  ]
 }

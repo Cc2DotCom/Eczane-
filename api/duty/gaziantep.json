@@ -1,64 +1,86 @@
 {
  "city": "Gaziantep",
  "code": 27,
- "dutyDay": "2026-11-04",
- "updatedAt": "2026-11-04T14:28:14.955Z",
+ "dutyDay": "2026-11-05",
+ "updatedAt": "2026-11-05T14:35:51.208Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
-   "district": "İslahiye",
-   "name": "Atici Eczanesi",
-   "address": "ÇAMLICA MAHALLESİ KEMAL BALIKESİRLİ CADDESİ NO:28C",
-   "phone": "0531 880 3896",
-   "dutyStart": "2026-11-04T08:30:00+03:00",
-   "dutyEnd": "2026-11-05T08:30:00+03:00",
+   "district": "Araban",
+   "name": "Muhtar Eczanesi",
+   "address": "MEHMET GÖKÇEK MAH. DR. ASIM GÜZELBEY CAD. NO: 32A",
+   "phone": "0342 611 3234",
+   "dutyStart": "2026-11-05T08:30:00+03:00",
+   "dutyEnd": "2026-11-06T08:30:00+03:00",
    "approved": true,
-   "lat": 37.026539,
-   "lng": 36.636257
+   "lat": 37.425385,
+   "lng": 37.689556
+  },
+  {
+   "district": "İslahiye",
+   "name": "Hilal Eczanesi",
+   "address": "ÇAMLICA MAH. EMNİYET CAD. NO:6F",
+   "phone": "0554 970 7999",
+   "dutyStart": "2026-11-05T08:30:00+03:00",
+   "dutyEnd": "2026-11-06T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.027016,
+   "lng": 36.635693
   },
   {
    "district": "Nizip",
-   "name": "İlkay Eczanesi",
-   "address": "MİMAR SİNAN MAH. GÜL SOK. NO:1A/1B",
-   "phone": "0342 512 0050",
-   "dutyStart": "2026-11-04T08:30:00+03:00",
-   "dutyEnd": "2026-11-05T08:30:00+03:00",
+   "name": "Uygur Eczanesi",
+   "address": "FATİH SULTAN MAHALLESİ . BARAK SOKAK NO:49 A - 49B",
+   "phone": "0342 517 9988",
+   "dutyStart": "2026-11-05T08:30:00+03:00",
+   "dutyEnd": "2026-11-06T08:30:00+03:00",
    "approved": true,
-   "lat": 37.015106,
-   "lng": 37.806583
+   "lat": 37.00843,
+   "lng": 37.801437
   },
   {
    "district": "Nurdağı",
-   "name": "Karanfil Eczanesi",
-   "address": "BAHÇELİEVLER MAH. HİLMİ KUTLUBAY CAD. NO:19 İÇ KAPI :1",
-   "phone": "0342 671 2010",
-   "dutyStart": "2026-11-04T08:30:00+03:00",
-   "dutyEnd": "2026-11-05T08:30:00+03:00",
+   "name": "Yiğit Eczanesi",
+   "address": "BAHÇELİEVLER MAH. HİLMİ KUTLUBAY CAD. NO:51/39",
+   "phone": "0544 586 8918",
+   "dutyStart": "2026-11-05T08:30:00+03:00",
+   "dutyEnd": "2026-11-06T08:30:00+03:00",
    "approved": true,
-   "lat": 37.183586,
-   "lng": 36.739925
+   "lat": 37.184799,
+   "lng": 36.734974
   },
   {
    "district": "Oğuzeli",
-   "name": "Karadağ Eczanesi",
-   "address": "OĞUZLAR MAHALLESİ KARPUZATAN CADDESİ NO:11/A",
-   "phone": "0342 571 2100",
-   "dutyStart": "2026-11-04T08:30:00+03:00",
-   "dutyEnd": "2026-11-05T08:30:00+03:00",
+   "name": "Oğuzeli Eczanesi",
+   "address": "OĞUZLAR MAHALLESİ VİLAYET CADDESİ NO:13/A-13/B",
+   "phone": "0342 571 3143",
+   "dutyStart": "2026-11-05T08:30:00+03:00",
+   "dutyEnd": "2026-11-06T08:30:00+03:00",
    "approved": true,
-   "lat": 36.962532,
-   "lng": 37.508392
+   "lat": 36.96524,
+   "lng": 37.509769
+  },
+  {
+   "district": "Şehitkamil",
+   "name": "Ayşegül Ekiz Eczanesi",
+   "address": "DEĞİRMİÇEM MAHALLESİ MARAŞAL FEVZİ ÇAKMAK BULVARI NO:32A",
+   "phone": "0536 241 8181",
+   "dutyStart": "2026-11-05T08:30:00+03:00",
+   "dutyEnd": "2026-11-06T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.065041,
+   "lng": 37.362907
   },
   {
    "district": "Yavuzeli",
-   "name": "Anka Eczanesi",
-   "address": "SULTAN SELİM MAHALLESİ ARABAN CADDESİ NO:42B/BA",
-   "phone": "0545 970 3250",
-   "dutyStart": "2026-11-04T17:30:00+03:00",
-   "dutyEnd": "2026-11-05T08:30:00+03:00",
+   "name": "Öznur Eczanesi",
+   "address": "SULTAN SELİM MAHALLESİ HACI SAİT KORKMAZ CADDESİ NO:1/B-28",
+   "phone": "0554 007 2147",
+   "dutyStart": "2026-11-05T17:30:00+03:00",
+   "dutyEnd": "2026-11-06T08:30:00+03:00",
    "approved": true,
-   "lat": 37.319614,
-   "lng": 37.566566
+   "lat": 37.318485,
+   "lng": 37.566517
   }
  ]
 }

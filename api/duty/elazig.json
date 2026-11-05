@@ -1,8 +1,8 @@
 {
  "city": "Elazığ",
  "code": 23,
- "dutyDay": "2026-11-04",
- "updatedAt": "2026-11-04T21:55:51.791Z",
+ "dutyDay": "2026-11-05",
+ "updatedAt": "2026-11-05T14:35:34.000Z",
  "source": "e-Devlet TİTCK, Elazığ Eczacı Odası",
  "pharmacies": [
   {
@@ -62,47 +62,47 @@
   },
   {
    "district": "Karakoçan",
-   "name": "Bulutoglu Eczanesi",
-   "address": "karakoçan elazığ TEPE MAH. HAN ÇESMESI SOK. NO:11",
-   "phone": "04247113836",
+   "name": "Cannur Eczanesi",
+   "address": "YENI MAHALLE HÜKÜMET MEYDANI NO:6/1",
+   "phone": "04247115252",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.955773,
-   "lng": 40.03583
+   "lat": 38.954102,
+   "lng": 40.037537
   },
   {
    "district": "Keban",
-   "name": "Keban Eczanesi",
-   "address": "DEĞİRMENBAŞI MAH. ŞEHİT GENERAL POLAT HAŞİMOV CAD.NO:299",
-   "phone": "04245712300",
+   "name": "Taşkın Eczanesi",
+   "address": "DEĞİRMENBAŞI MAH.GENERAL POLAT HAŞİMOV CAD. NO:10",
+   "phone": "04245712525",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.793201,
-   "lng": 38.745569
+   "lat": 38.793133,
+   "lng": 38.74563
   },
   {
    "district": "Kovancilar",
-   "name": "Akpinar Eczanesi",
-   "address": "ÇARŞIBAŞI MAH.AZİZ YILDIRIM CAD. NO:14",
-   "phone": "04246116054",
+   "name": "Özkeser Eczanesi",
+   "address": "Gültepe Mah.Lokman Sok. No:3",
+   "phone": "04246112529",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.71927,
-   "lng": 39.864431
+   "lat": 38.721908,
+   "lng": 39.856264
   },
   {
    "district": "Palu",
-   "name": "Onur Eczanesi",
-   "address": "NUMUNE MAH CUMHURİYET BULVARI PALU BELEDİYESİ HİZMET BİNASI BLOK NO:4/5",
-   "phone": "04246512310",
+   "name": "Eylül Eczanesi",
+   "address": "NUMUNE MAH.15 TEMMUZ DİRİLİŞ CAD. NO:20/1",
+   "phone": "04246512569",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.693661,
-   "lng": 39.928305
+   "lat": 38.693205,
+   "lng": 39.927578
   }
  ],
  "sourceUrl": "https://www.elazigeczaciodasi.org.tr/nobetci-eczaneler/elazig"

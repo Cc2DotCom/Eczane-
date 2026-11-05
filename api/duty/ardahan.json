@@ -1,8 +1,8 @@
 {
  "city": "Ardahan",
  "code": 75,
- "dutyDay": "2026-11-04",
- "updatedAt": "2026-11-04T14:33:07.563Z",
+ "dutyDay": "2026-11-05",
+ "updatedAt": "2026-11-05T14:40:44.067Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
@@ -10,8 +10,8 @@
    "name": "Ayaz Eczanesi",
    "address": "Yeni Mahalle, Çıldırlı Aşık Şenlik Caddesi No:6/B Çıldır/Ardahan",
    "phone": "0552 409 6069",
-   "dutyStart": "2026-11-04T17:00:00+03:00",
-   "dutyEnd": "2026-11-05T17:00:00+03:00",
+   "dutyStart": "2026-11-05T17:00:00+03:00",
+   "dutyEnd": "2026-11-06T17:00:00+03:00",
    "approved": true,
    "lat": 41.122875,
    "lng": 43.137939
@@ -21,77 +21,66 @@
    "name": "Damal Eczanesi",
    "address": "Konuksever Mahallesi Atatürk Caddesi No:32",
    "phone": "0478 651 4460",
-   "dutyStart": "2026-11-04T18:00:00+03:00",
-   "dutyEnd": "2026-11-05T08:30:00+03:00",
+   "dutyStart": "2026-11-05T18:00:00+03:00",
+   "dutyEnd": "2026-11-06T08:30:00+03:00",
    "approved": true,
    "lat": 41.341,
    "lng": 42.839069
   },
   {
    "district": "Göle",
-   "name": "Emek Eczanesi",
-   "address": "Kubilay bey Mah. Kars Cad. No:10 Göle/ARDAHAN",
-   "phone": "0478 411 3019",
-   "dutyStart": "2026-11-04T18:00:00+03:00",
-   "dutyEnd": "2026-11-05T08:00:00+03:00",
+   "name": "Yeni Göle Eczanesi",
+   "address": "Salim Bey Mahallesi, Oltu Caddesi No:36 Göle/ Ardahan",
+   "phone": "0554 380 1097",
+   "dutyStart": "2026-11-05T18:00:00+03:00",
+   "dutyEnd": "2026-11-06T08:00:00+03:00",
    "approved": true,
-   "lat": 40.793171,
-   "lng": 42.610214
+   "lat": 40.793003,
+   "lng": 42.607552
   },
   {
    "district": "Hanak",
-   "name": "Hanak Eczanesi",
-   "address": "Hürriyet Mahallesi, Atatürk Caddesi No:82 Hanak/Ardahan",
-   "phone": "0531 694 9725",
-   "dutyStart": "2026-11-04T17:00:00+03:00",
-   "dutyEnd": "2026-11-05T08:00:00+03:00",
+   "name": "Uygar Eczanesi",
+   "address": "Hürriye Mahallesi, Atatürk Caddesi No:89/A Hanak/Ardahan",
+   "phone": "0501 525 9116",
+   "dutyStart": "2026-11-05T17:00:00+03:00",
+   "dutyEnd": "2026-11-06T08:00:00+03:00",
    "approved": true,
-   "lat": 41.236973,
-   "lng": 42.844879
+   "lat": 41.23756,
+   "lng": 42.843979
   },
   {
    "district": "Merkez",
-   "name": "Arzu Eczanesi",
-   "address": "KAPTANPAŞA MAH. KONGRE CADDESİ NO: 32/A",
-   "phone": "0478 211 2389",
-   "dutyStart": "2026-11-04T18:00:00+03:00",
-   "dutyEnd": "2026-11-05T08:30:00+03:00",
+   "name": "Derman Eczanesi",
+   "address": "KARAGÖL MAHALLESİ KONGRE CADDESİ NO: 63",
+   "phone": "0478 211 4076",
+   "dutyStart": "2026-11-05T18:00:00+03:00",
+   "dutyEnd": "2026-11-06T08:30:00+03:00",
    "approved": true,
-   "lat": 41.112827,
-   "lng": 42.701633
+   "lat": 41.112202,
+   "lng": 42.700661
   },
   {
    "district": "Merkez",
-   "name": "Arzu Eczanesi",
-   "address": "KAPTANPAŞA MAH. KONGRE CADDESİ NO: 32/A",
-   "phone": "0478 211 2389",
-   "dutyStart": "2026-11-04T18:00:00+03:00",
-   "dutyEnd": "2026-11-05T08:30:00+03:00",
+   "name": "Derman Eczanesi",
+   "address": "KARAGÖL MAHALLESİ KONGRE CADDESİ NO: 63",
+   "phone": "0478 211 4076",
+   "dutyStart": "2026-11-05T18:00:00+03:00",
+   "dutyEnd": "2026-11-06T08:30:00+03:00",
    "approved": true,
-   "lat": 41.112827,
-   "lng": 42.701633
+   "lat": 41.112202,
+   "lng": 42.700661
   },
   {
    "district": "Merkez",
-   "name": "Arzu Eczanesi",
-   "address": "KAPTANPAŞA MAH. KONGRE CADDESİ NO: 32/A",
-   "phone": "0478 211 2389",
-   "dutyStart": "2026-11-04T18:00:00+03:00",
-   "dutyEnd": "2026-11-05T08:30:00+03:00",
+   "name": "Derman Eczanesi",
+   "address": "KARAGÖL MAHALLESİ KONGRE CADDESİ NO: 63",
+   "phone": "0478 211 4076",
+   "dutyStart": "2026-11-05T18:00:00+03:00",
+   "dutyEnd": "2026-11-06T08:30:00+03:00",
    "approved": true,
-   "lat": 41.112827,
-   "lng": 42.701633
-  },
-  {
-   "district": "Merkez",
-   "name": "Büyük Eczanesi",
-   "address": "KARAGÖL MAH. KONGRE CADDESİ NO:103",
-   "phone": "0478 211 5999",
-   "dutyStart": "2026-11-04T18:00:00+03:00",
-   "dutyEnd": "2026-11-05T08:00:00+03:00",
-   "approved": true,
-   "lat": 41.111732,
-   "lng": 42.699398
+   "lat": 41.112202,
+   "lng": 42.700661
   }
  ]
 }

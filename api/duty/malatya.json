@@ -1,15 +1,37 @@
 {
  "city": "Malatya",
  "code": 44,
- "dutyDay": "2026-11-04",
- "updatedAt": "2026-11-04T21:56:16.057Z",
+ "dutyDay": "2026-11-05",
+ "updatedAt": "2026-11-05T14:38:31.747Z",
  "source": "Malatya Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Tolgahan Eczanesi",
-   "address": "ZAFER MAH. GÜNDOĞDU CD. FIRAT SAĞLIK OCAĞI ÜSTÜ. TURGUT ÖZAL CAMİSİ (BATTALGAZİ DEVLET HAST.) ALTI",
-   "phone": "05344840506",
+   "name": "Ömür Eczanesi",
+   "address": "KIŞLA CAD. NO:65/C",
+   "phone": "04223214215",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 38.3489236,
+   "lng": 38.323586
+  },
+  {
+   "district": "Merkez",
+   "name": "Saadet Eczanesi",
+   "address": "SITMAPINARI GÖZDE HASTANESİ ARKASI ACİL KARŞISI",
+   "phone": "04223238912",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 38.3473046,
+   "lng": 38.3050064
+  },
+  {
+   "district": "Merkez",
+   "name": "Durak Eczanesi",
+   "address": "İNÖNÜ MAH. İSTASYON CAD. EMNİYET KAVŞAĞI, MALATYA DEVLET HASTANESİ CİVARI, TREN GARI GİRİŞİ NO :30/B SELÇUK APT.",
+   "phone": "05315029698",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
@@ -18,47 +40,25 @@
   },
   {
    "district": "Merkez",
-   "name": "Park Eczanesi",
-   "address": "İNÖNÜ CAD. DOĞA CADDE KARŞISI. GÖZDE HASTANESİ YANI",
-   "phone": "04223233311",
+   "name": "Taşdemir Eczanesi",
+   "address": "GEDİK MAH.YEŞİLYURT HASAN ÇALIK DEVLET HASTANESİ KARŞISI",
+   "phone": "04224814340",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": null,
-   "lng": null
-  },
-  {
-   "district": "Merkez",
-   "name": "Özalper Eczanesi",
-   "address": "ÖZALPER MAH. ÖZALPER SEMT KONAĞI KARŞISI, RABİA PARKI VE GELGÖR AVM AŞAĞISI",
-   "phone": "04222110202",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 38.3362305,
-   "lng": 38.2851244
-  },
-  {
-   "district": "Merkez",
-   "name": "Melike Eczanesi",
-   "address": "FAHRİ KAYAHAN BULV. ÇARŞI MARKET KARŞISI MİGROS YANI",
-   "phone": "04225021005",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": null,
-   "lng": null
+   "lat": 38.3034973,
+   "lng": 38.2509474
   },
   {
    "district": "Battalgazi",
-   "name": "Ari Eczanesi",
-   "address": "Alacakapı Mahallesi Kırkgöz Caddesi Eskimalatya semt polikliniği Karşısı",
-   "phone": "05346863703",
+   "name": "Atalan Eczanesi",
+   "address": "ALACAKAPI MAH. KIRKGÖZ CAD. NO 15/A ESKİMALATYA SEMT POLK. KARŞISI BATTALGAZİ/MALATYA",
+   "phone": "05343370444",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.4251199,
-   "lng": 38.3668399
+   "lat": 38.4267751,
+   "lng": 38.3668196
   }
  ],
  "sourceUrl": "https://www.malatyaeczaciodasi.org.tr/nobetci-eczaneler"

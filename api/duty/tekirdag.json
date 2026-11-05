@@ -1,10 +1,251 @@
 {
  "city": "Tekirdağ",
  "code": 59,
- "dutyDay": "2026-11-04",
- "updatedAt": "2026-11-04T21:56:25.083Z",
+ "dutyDay": "2026-11-05",
+ "updatedAt": "2026-11-05T14:39:51.041Z",
  "source": "e-Devlet TİTCK",
- "pharmacies": [],
- "unavailable": true,
- "note": "class=\"warningContainer\">Seçilen zaman aralığı için nöbetçi eczane bulunamadı. Sayfa Sonu Bağlantıları e-Devlet Kapısı English Hakk"
+ "pharmacies": [
+  {
+   "district": "Çerkezköy",
+   "name": "Buket Eczanesi",
+   "address": "Fatih Mahallesi Sedef Sokak No:13 A-B",
+   "phone": "0542 640 1742",
+   "dutyStart": "2026-11-05T18:00:00+03:00",
+   "dutyEnd": "2026-11-06T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.286831,
+   "lng": 28.011349
+  },
+  {
+   "district": "Çerkezköy",
+   "name": "Eylül Eczanesi",
+   "address": "Fevzipaşa Mahallesi Sonbahar Sokak No:52/D",
+   "phone": "0282 726 6068",
+   "dutyStart": "2026-11-05T18:00:00+03:00",
+   "dutyEnd": "2026-11-05T23:59:00+03:00",
+   "approved": true,
+   "lat": 41.284576,
+   "lng": 27.988237
+  },
+  {
+   "district": "Çerkezköy",
+   "name": "Uzunköprü Eczanesi",
+   "address": "Kızılpınar Atatürk Mahallesi Hürriyet Caddesi No:8-10A Çerkezköy/TEKİRDAĞ",
+   "phone": "0533 226 5998",
+   "dutyStart": "2026-11-05T18:00:00+03:00",
+   "dutyEnd": "2026-11-05T23:59:00+03:00",
+   "approved": true,
+   "lat": 41.266163,
+   "lng": 27.965221
+  },
+  {
+   "district": "Çerkezköy",
+   "name": "Zade Eczanesi",
+   "address": "G.M.K.P. Mah. Atatürk Cad. İnan Sok. No:17 A Çerkezköy",
+   "phone": "0282 725 2640",
+   "dutyStart": "2026-11-05T18:00:00+03:00",
+   "dutyEnd": "2026-11-06T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.290443,
+   "lng": 27.999338
+  },
+  {
+   "district": "Çorlu",
+   "name": "Aslı Eczanesi",
+   "address": "Şeyh Sinan Mahallesi Özgürler Caddesi No:53/B",
+   "phone": "0530 236 9910",
+   "dutyStart": "2026-11-05T08:00:00+03:00",
+   "dutyEnd": "2026-11-05T23:59:00+03:00",
+   "approved": true,
+   "lat": 41.149239,
+   "lng": 27.781496
+  },
+  {
+   "district": "Çorlu",
+   "name": "Dünya Eczanesi",
+   "address": "Muhittin Mah.Çetin Emeç Bulvarı No:21/F Çorlu/TEKİRDAĞ",
+   "phone": "0282 653 8426",
+   "dutyStart": "2026-11-05T08:00:00+03:00",
+   "dutyEnd": "2026-11-06T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.152885,
+   "lng": 27.815973
+  },
+  {
+   "district": "Çorlu",
+   "name": "Hürrem Eczanesi",
+   "address": "Zafer Mahallesi Cumhuriyet Bulvarı No:23/B",
+   "phone": "0282 651 4287",
+   "dutyStart": "2026-11-05T08:00:00+03:00",
+   "dutyEnd": "2026-11-06T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.15913,
+   "lng": 27.803951
+  },
+  {
+   "district": "Çorlu",
+   "name": "Hürriyet Eczanesi",
+   "address": "Hürriyet Mah. Çamlıbel Cad. No:27/1C",
+   "phone": "0536 799 0574",
+   "dutyStart": "2026-11-05T08:00:00+03:00",
+   "dutyEnd": "2026-11-06T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.157703,
+   "lng": 27.8454
+  },
+  {
+   "district": "Ergene",
+   "name": "Kübra Güney Eczanesi",
+   "address": "Cumhuriyet Mah. İstiklal Marşı Cad. No:7/A",
+   "phone": "0282 686 4767",
+   "dutyStart": "2026-11-05T08:00:00+03:00",
+   "dutyEnd": "2026-11-05T23:45:00+03:00",
+   "approved": true,
+   "lat": 41.193989,
+   "lng": 27.782099
+  },
+  {
+   "district": "Hayrabolu",
+   "name": "Erez Eczanesi",
+   "address": "İlyas Mah. Malkara Cad. No:2A Hayrabolu/Tekirdağ",
+   "phone": "0282 315 1128",
+   "dutyStart": "2026-11-05T18:00:00+03:00",
+   "dutyEnd": "2026-11-06T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.213589,
+   "lng": 27.106544
+  },
+  {
+   "district": "Kapaklı",
+   "name": "Görkem Eczanesi",
+   "address": "Cumhuriyet Mahallesi Zengin Caddesi No:30C",
+   "phone": "0541 357 5676",
+   "dutyStart": "2026-11-05T18:00:00+03:00",
+   "dutyEnd": "2026-11-06T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.329502,
+   "lng": 27.980974
+  },
+  {
+   "district": "Kapaklı",
+   "name": "Güneş Eczanesi",
+   "address": "Atatürk Mah. İstiklal Cad. No:65D",
+   "phone": "0541 191 5357",
+   "dutyStart": "2026-11-05T18:00:00+03:00",
+   "dutyEnd": "2026-11-06T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.336197,
+   "lng": 27.975254
+  },
+  {
+   "district": "Malkara",
+   "name": "Yurdakul Eczanesi",
+   "address": "Camiatik Mah. Pınar Cad. No:1/F Malkara/TEKİRDAĞ",
+   "phone": "0282 427 7446",
+   "dutyStart": "2026-11-05T18:00:00+03:00",
+   "dutyEnd": "2026-11-06T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.884338,
+   "lng": 26.930141
+  },
+  {
+   "district": "Marmaraereğlisi",
+   "name": "Şifa Eczanesi",
+   "address": "Bahçelievler Mahallesi Rahmi Özcan Bulvarı No:53A Marmaraereğlisi",
+   "phone": "0282 613 2650",
+   "dutyStart": "2026-11-05T08:00:00+03:00",
+   "dutyEnd": "2026-11-06T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.973225,
+   "lng": 27.948975
+  },
+  {
+   "district": "Marmaraereğlisi",
+   "name": "Senem Eczanesi",
+   "address": "Yeniçiftlik Mahallesi Atatürk 38 Sokak No: 10 Marmaraereğlisi",
+   "phone": "0282 644 2353",
+   "dutyStart": "2026-11-05T18:00:00+03:00",
+   "dutyEnd": "2026-11-05T23:59:00+03:00",
+   "approved": true,
+   "lat": 41.00655,
+   "lng": 27.849934
+  },
+  {
+   "district": "Muratlı",
+   "name": "Tokgöz Eczanesi",
+   "address": "Fatih Mahallesi Hasan Çelikkol Caddesi No:1/B Muratlı/TEKİRDAĞ",
+   "phone": "0282 361 2406",
+   "dutyStart": "2026-11-05T18:00:00+03:00",
+   "dutyEnd": "2026-11-06T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.172733,
+   "lng": 27.496004
+  },
+  {
+   "district": "Saray",
+   "name": "Saray Eczanesi",
+   "address": "Ayaspaşa Mahallesi Gürselpaşa Caddesi No:23/B Saray/TEKİRDAĞ",
+   "phone": "0282 768 1323",
+   "dutyStart": "2026-11-05T18:00:00+03:00",
+   "dutyEnd": "2026-11-06T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.441406,
+   "lng": 27.92141
+  },
+  {
+   "district": "Süleymanpaşa",
+   "name": "Cem Eczanesi",
+   "address": "Orta Cami Mah. Kolordu Cad. No:35/A Süleymanpaşa/TEKİRDAĞ",
+   "phone": "0538 450 7088",
+   "dutyStart": "2026-11-05T18:00:00+03:00",
+   "dutyEnd": "2026-11-06T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.979828,
+   "lng": 27.512959
+  },
+  {
+   "district": "Süleymanpaşa",
+   "name": "Gölge Eczanesi",
+   "address": "100.Yıl Mah. Burhan Felek Sokak No:36 Süleymanpaşa/ Tekirdağ",
+   "phone": "0282 261 0990",
+   "dutyStart": "2026-11-05T18:00:00+03:00",
+   "dutyEnd": "2026-11-06T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.966305,
+   "lng": 27.494068
+  },
+  {
+   "district": "Süleymanpaşa",
+   "name": "Güneyer Eczanesi",
+   "address": "Çınarlı Mah. Şehit Osman Cad. No:7A Süleymanpaşa/Tekirdağ",
+   "phone": "0282 263 8964",
+   "dutyStart": "2026-11-05T18:00:00+03:00",
+   "dutyEnd": "2026-11-06T01:00:00+03:00",
+   "approved": true,
+   "lat": 40.977749,
+   "lng": 27.502687
+  },
+  {
+   "district": "Süleymanpaşa",
+   "name": "Nehir Eczanesi",
+   "address": "Hürriyet Mah. Müjgan Kalelioğlu Cad. No:7A",
+   "phone": "0282 293 9383",
+   "dutyStart": "2026-11-05T18:00:00+03:00",
+   "dutyEnd": "2026-11-06T01:00:00+03:00",
+   "approved": true,
+   "lat": 40.987282,
+   "lng": 27.559681
+  },
+  {
+   "district": "Şarköy",
+   "name": "Yasemin Eczanesi",
+   "address": "İstiklal Mahallesi İsmail Hakkı Özgen Caddesi No:85/A-B Şarköy/TEKİRDAĞ",
+   "phone": "0282 518 9789",
+   "dutyStart": "2026-11-05T18:00:00+03:00",
+   "dutyEnd": "2026-11-06T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.613667,
+   "lng": 27.108404
+  }
+ ]
 }
