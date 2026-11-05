@@ -2,7 +2,7 @@
  "city": "Kayseri",
  "code": 38,
  "dutyDay": "2026-11-05",
- "updatedAt": "2026-11-05T17:21:23.843Z",
+ "updatedAt": "2026-11-05T20:41:30.303Z",
  "source": "Kayseri Eczacı Odası",
  "pharmacies": [
   {
@@ -15,17 +15,6 @@
    "approved": true,
    "lat": 38.718675,
    "lng": 35.492366
-  },
-  {
-   "district": "Melikgazi",
-   "name": "İldem Kahraman Eczanesi",
-   "address": "İldem Cumhuriyet Mahallesi, Vatan 1. Sokak, No:2/B (İldem-4 tramvay durağı karşısı)",
-   "phone": "03522908803",
-   "dutyStart": "2026-11-05T08:30:00+03:00",
-   "dutyEnd": "2026-11-06T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.785773,
-   "lng": 35.618219
   },
   {
    "district": "Kocasinan",
@@ -61,26 +50,37 @@
    "lng": 35.480086
   },
   {
-   "district": "Kocasinan",
-   "name": "Güçlü Eczanesi",
-   "address": "FATIH MAH.AHMET PASA CAD.NO:66/A",
-   "phone": "03522312324",
+   "district": "Melikgazi",
+   "name": "İldem Kahraman Eczanesi",
+   "address": "İldem Cumhuriyet Mahallesi, Vatan 1. Sokak, No:2/B (İldem-4 tramvay durağı karşısı)",
+   "phone": "03522908803",
    "dutyStart": "2026-11-05T08:30:00+03:00",
-   "dutyEnd": "2026-11-06T01:00:00+03:00",
+   "dutyEnd": "2026-11-06T08:30:00+03:00",
    "approved": true,
-   "lat": 38.729889,
-   "lng": 35.489671
+   "lat": 38.785773,
+   "lng": 35.618219
   },
   {
    "district": "Melikgazi",
-   "name": "Narin Eczanesi",
-   "address": "KEYKUBAT MAH. KULE CAD. 15/B",
-   "phone": "03523320088",
+   "name": "Tuğba Eczanesi",
+   "address": "OSMANLI MAH. EDIP GEÇIDI N0:5",
+   "phone": "03523474030",
    "dutyStart": "2026-11-05T08:30:00+03:00",
    "dutyEnd": "2026-11-06T01:00:00+03:00",
    "approved": true,
-   "lat": 38.743215,
-   "lng": 35.411403
+   "lat": 38.689621,
+   "lng": 35.475615
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Önder Eczanesi",
+   "address": "CUMHURIYET MH.SULTANHAMAM CD.N0:12",
+   "phone": "03522316810",
+   "dutyStart": "2026-11-05T08:30:00+03:00",
+   "dutyEnd": "2026-11-06T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.719198,
+   "lng": 35.489679
   },
   {
    "district": "Melikgazi",
@@ -92,17 +92,6 @@
    "approved": true,
    "lat": 38.740359,
    "lng": 35.577178
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Handenaz Eczanesi",
-   "address": "Alpaslan Mah. Gökçefidan Sk. 11/A",
-   "phone": "03522202044",
-   "dutyStart": "2026-11-05T08:30:00+03:00",
-   "dutyEnd": "2026-11-06T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.724443,
-   "lng": 35.514333
   },
   {
    "district": "Talas",
@@ -117,14 +106,14 @@
   },
   {
    "district": "Melikgazi",
-   "name": "Tuğba Eczanesi",
-   "address": "OSMANLI MAH. EDIP GEÇIDI N0:5",
-   "phone": "03523474030",
+   "name": "Narin Eczanesi",
+   "address": "KEYKUBAT MAH. KULE CAD. 15/B",
+   "phone": "03523320088",
    "dutyStart": "2026-11-05T08:30:00+03:00",
    "dutyEnd": "2026-11-06T01:00:00+03:00",
    "approved": true,
-   "lat": 38.689621,
-   "lng": 35.475615
+   "lat": 38.743215,
+   "lng": 35.411403
   },
   {
    "district": "Talas",
@@ -138,15 +127,26 @@
    "lng": 35.545428
   },
   {
-   "district": "Melikgazi",
-   "name": "Önder Eczanesi",
-   "address": "CUMHURIYET MH.SULTANHAMAM CD.N0:12",
-   "phone": "03522316810",
+   "district": "Kocasinan",
+   "name": "Güçlü Eczanesi",
+   "address": "FATIH MAH.AHMET PASA CAD.NO:66/A",
+   "phone": "03522312324",
    "dutyStart": "2026-11-05T08:30:00+03:00",
    "dutyEnd": "2026-11-06T01:00:00+03:00",
    "approved": true,
-   "lat": 38.719198,
-   "lng": 35.489679
+   "lat": 38.729889,
+   "lng": 35.489671
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Handenaz Eczanesi",
+   "address": "Alpaslan Mah. Gökçefidan Sk. 11/A",
+   "phone": "03522202044",
+   "dutyStart": "2026-11-05T08:30:00+03:00",
+   "dutyEnd": "2026-11-06T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.724443,
+   "lng": 35.514333
   },
   {
    "district": "Melikgazi",
