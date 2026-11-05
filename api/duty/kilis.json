@@ -1,15 +1,15 @@
 {
  "city": "Kilis",
  "code": 79,
- "dutyDay": "2026-11-04",
- "updatedAt": "2026-11-04T21:56:28.496Z",
+ "dutyDay": "2026-11-05",
+ "updatedAt": "2026-11-05T17:21:55.656Z",
  "source": "Gaziantep Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Belgin Eczanesi",
-   "address": "KARTALBEY MAH.MUSTAFA BAYTAZ CAD. NO: 27/A (KİLİS LİSESİ CİVARI)",
-   "phone": "03488132741",
+   "name": "Bilge Eczanesi",
+   "address": "Albay İbrahim Karaoğlanoğlu Mah. Ömer Halisdemir cd. No:31 E (Yeni Hastane Yolu Üzeri)",
+   "phone": "03488139464",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
