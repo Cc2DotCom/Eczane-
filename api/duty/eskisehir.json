@@ -2,20 +2,9 @@
  "city": "Eskişehir",
  "code": 26,
  "dutyDay": "2026-11-06",
- "updatedAt": "2026-11-06T14:13:23.682Z",
+ "updatedAt": "2026-11-06T16:43:44.856Z",
  "source": "Eskişehir Eczacı Odası",
  "pharmacies": [
-  {
-   "district": "Odunpazari",
-   "name": "Lavanta Eczanesi",
-   "address": "VİŞNELİK MAH. ÖĞRETMENLER CAD. NO.76/A (Vişnelik Tramvay Durağı İlerisi, Küçük Migros Karşısı)",
-   "phone": "02222241999",
-   "dutyStart": "2026-11-06T18:30:00+03:00",
-   "dutyEnd": "2026-11-07T10:00:00+03:00",
-   "approved": true,
-   "lat": 39.767712,
-   "lng": 30.504259
-  },
   {
    "district": "Odunpazari",
    "name": "Adalar Eczanesi",
@@ -50,6 +39,28 @@
    "lng": 30.554448
   },
   {
+   "district": "Odunpazari",
+   "name": "Lavanta Eczanesi",
+   "address": "VİŞNELİK MAH. ÖĞRETMENLER CAD. NO.76/A (Vişnelik Tramvay Durağı İlerisi, Küçük Migros Karşısı)",
+   "phone": "02222241999",
+   "dutyStart": "2026-11-06T18:30:00+03:00",
+   "dutyEnd": "2026-11-07T10:00:00+03:00",
+   "approved": true,
+   "lat": 39.767712,
+   "lng": 30.504259
+  },
+  {
+   "district": "Tepebaşı",
+   "name": "Yaşam Eczanesi",
+   "address": "BAHÇELİEVLER MAH. PROF. DR. ORHAN OĞUZ CAD. NO:27/A",
+   "phone": "02223223057",
+   "dutyStart": "2026-11-06T18:30:00+03:00",
+   "dutyEnd": "2026-11-07T10:00:00+03:00",
+   "approved": true,
+   "lat": 39.789456,
+   "lng": 30.516279
+  },
+  {
    "district": "Tepebaşı",
    "name": "Gözdem Eczanesi",
    "address": "ÇAMLICA MAH. ULUSAL EGEMENLİK BULVARI NO:135/A",
@@ -70,17 +81,6 @@
    "approved": true,
    "lat": 39.783643,
    "lng": 30.492782
-  },
-  {
-   "district": "Tepebaşı",
-   "name": "Yaşam Eczanesi",
-   "address": "BAHÇELİEVLER MAH. PROF. DR. ORHAN OĞUZ CAD. NO:27/A",
-   "phone": "02223223057",
-   "dutyStart": "2026-11-06T18:30:00+03:00",
-   "dutyEnd": "2026-11-07T10:00:00+03:00",
-   "approved": true,
-   "lat": 39.789456,
-   "lng": 30.516279
   },
   {
    "district": "Alpu",
