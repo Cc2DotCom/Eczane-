@@ -1,75 +1,75 @@
 {
  "city": "Kırıkkale",
  "code": 71,
- "dutyDay": "2026-11-05",
- "updatedAt": "2026-11-05T14:40:29.996Z",
+ "dutyDay": "2026-11-06",
+ "updatedAt": "2026-11-06T14:17:40.493Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Delice",
-   "name": "Delice Eczanesi",
-   "address": "CUMHURİYET MAH. ATATÜRK BULVARI NO:6/C DELİCE/KIRIKKALE",
-   "phone": "0318 618 5609",
-   "dutyStart": "2026-11-05T18:00:00+03:00",
-   "dutyEnd": "2026-11-06T08:30:00+03:00",
+   "name": "Cennet Eczanesi",
+   "address": "CUMHURİYET MAH.ANKARA CAD.NO:34/A DELİCE/KIRIKKALE",
+   "phone": "0318 618 5433",
+   "dutyStart": "2026-11-06T18:00:00+03:00",
+   "dutyEnd": "2026-11-07T08:30:00+03:00",
    "approved": true,
-   "lat": 39.94426,
-   "lng": 34.032265
+   "lat": 39.943676,
+   "lng": 34.032204
   },
   {
    "district": "Karakeçili",
-   "name": "Metin Eczanesi",
-   "address": "KURTULUŞ MAH.İNÖNÜ CAD. NO:1/C KARAKEÇİLİ/KIRIKKALE",
-   "phone": "0318 474 3033",
-   "dutyStart": "2026-11-05T18:30:00+03:00",
-   "dutyEnd": "2026-11-06T08:30:00+03:00",
+   "name": "Karakeçili Eczanesi",
+   "address": "Fatih Sultan Mehmet Mahallesi Hürriyet Caddesi No:4/A Karakeçili / Kırıkkale",
+   "phone": "0505 681 7381",
+   "dutyStart": "2026-11-06T18:30:00+03:00",
+   "dutyEnd": "2026-11-07T08:30:00+03:00",
    "approved": true,
-   "lat": 39.59354,
-   "lng": 33.378311
+   "lat": 39.593029,
+   "lng": 33.378559
   },
   {
    "district": "Keskin",
-   "name": "Keskin Merkez Eczanesi",
-   "address": "YENİCE MAH. PROF. DR. BEŞİR ATALAY CADDESİ NO.18/A KESKİN/KIRIKKALE",
-   "phone": "0533 425 0405",
-   "dutyStart": "2026-11-05T18:30:00+03:00",
-   "dutyEnd": "2026-11-06T08:30:00+03:00",
+   "name": "Mert Eczanesi",
+   "address": "BOZKURT MAH.MERT SOK.NO:32 KESKİN/K.KALE",
+   "phone": "0318 515 4760",
+   "dutyStart": "2026-11-06T18:30:00+03:00",
+   "dutyEnd": "2026-11-07T08:30:00+03:00",
    "approved": true,
-   "lat": 39.673607,
-   "lng": 33.615318
+   "lat": 39.673637,
+   "lng": 33.615711
   },
   {
    "district": "Merkez",
-   "name": "Acarlar Eczanesi",
-   "address": "Kaletepe Mahallesi 1023. Sokak No:10/B Merkez/Kırıkkale",
-   "phone": "0531 083 8471",
-   "dutyStart": "2026-11-05T18:30:00+03:00",
-   "dutyEnd": "2026-11-06T08:30:00+03:00",
+   "name": "Şeyma Eczanesi",
+   "address": "YAYLACIK MAH. 367.SOK. NO:1/A KIRIKKALE",
+   "phone": "0318 224 0346",
+   "dutyStart": "2026-11-06T18:30:00+03:00",
+   "dutyEnd": "2026-11-07T08:30:00+03:00",
    "approved": true,
-   "lat": 39.85482,
-   "lng": 33.507202
+   "lat": 39.842731,
+   "lng": 33.498112
   },
   {
    "district": "Merkez",
-   "name": "Semih Eczanesi",
-   "address": "Kurtuluş Mahallesi Menderes Caddesi No: 80/B KIRIKKALE",
-   "phone": "0318 218 4266",
-   "dutyStart": "2026-11-05T18:30:00+03:00",
-   "dutyEnd": "2026-11-06T08:30:00+03:00",
+   "name": "Utku Eczanesi",
+   "address": "TEPEBAŞI MAH. M.AKİF CAD. NO:57/B KIRIKKALE",
+   "phone": "0318 225 1286",
+   "dutyStart": "2026-11-06T18:30:00+03:00",
+   "dutyEnd": "2026-11-07T08:30:00+03:00",
    "approved": true,
-   "lat": 39.840439,
-   "lng": 33.513908
+   "lat": 39.844734,
+   "lng": 33.511486
   },
   {
    "district": "Yahşihan",
-   "name": "Yenişehir Eczanesi",
-   "address": "Yenişehir Mah. Fevzi Çakmak Cad. No: 32/B Yahşihan/KIRIKKALE",
-   "phone": "0505 149 8056",
-   "dutyStart": "2026-11-05T18:00:00+03:00",
-   "dutyEnd": "2026-11-06T08:30:00+03:00",
+   "name": "Seymen Eczanesi",
+   "address": "Yenişehir Mahallesi Dr. Melike Sargın Sokak No: 1/B Yahşihan/KIRIKKALE",
+   "phone": "_ 318 502 3131",
+   "dutyStart": "2026-11-06T18:00:00+03:00",
+   "dutyEnd": "2026-11-07T08:30:00+03:00",
    "approved": true,
-   "lat": 39.869286,
-   "lng": 33.456795
+   "lat": 39.869904,
+   "lng": 33.455002
   }
  ]
 }

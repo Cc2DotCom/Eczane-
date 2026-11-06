@@ -1,20 +1,20 @@
 {
  "city": "Trabzon",
  "code": 61,
- "dutyDay": "2026-11-05",
- "updatedAt": "2026-11-05T14:39:55.986Z",
+ "dutyDay": "2026-11-06",
+ "updatedAt": "2026-11-06T14:17:03.750Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Akçaabat",
-   "name": "Güner Eczanesi",
-   "address": "DÜRBİNAR MAH. İNÖNÜ CAD. NO:103A",
-   "phone": "0462 228 1328",
-   "dutyStart": "2026-11-05T17:00:00+03:00",
-   "dutyEnd": "2026-11-06T09:00:00+03:00",
+   "name": "Akçaabat Merkez Eczanesi",
+   "address": "Akçaabat İlçesi Dürbinar Mahallesi İnönü Caddesi Kasap Sokak No:5/A",
+   "phone": "0462 228 3419",
+   "dutyStart": "2026-11-06T17:00:00+03:00",
+   "dutyEnd": "2026-11-07T09:00:00+03:00",
    "approved": true,
-   "lat": 41.022148,
-   "lng": 39.569042
+   "lat": 41.021015,
+   "lng": 39.571991
   }
  ]
 }

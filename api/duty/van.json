@@ -1,20 +1,20 @@
 {
  "city": "Van",
  "code": 65,
- "dutyDay": "2026-11-05",
- "updatedAt": "2026-11-05T14:40:13.794Z",
+ "dutyDay": "2026-11-06",
+ "updatedAt": "2026-11-06T14:17:21.071Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Erciş",
-   "name": "Akilli Eczanesi",
-   "address": "KIŞLA MAHALLESİ İNÖNÜ CADDESİ DIŞ KAPI NO:1 B BLOK İÇ KAPI NO:8",
-   "phone": "0432 354 3192",
-   "dutyStart": "2026-11-05T18:00:00+03:00",
-   "dutyEnd": "2026-11-06T08:30:00+03:00",
+   "name": "Arjin Eczanesi",
+   "address": "BEYAZIT MAHALLE TUGAY YOLU CADDE NO:1",
+   "phone": "0432 351 1174",
+   "dutyStart": "2026-11-06T18:00:00+03:00",
+   "dutyEnd": "2026-11-07T08:30:00+03:00",
    "approved": true,
-   "lat": 39.02861,
-   "lng": 43.359108
+   "lat": 39.030724,
+   "lng": 43.359318
   }
  ]
 }

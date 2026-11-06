@@ -1,64 +1,64 @@
 {
  "city": "Hakkari",
  "code": 30,
- "dutyDay": "2026-11-05",
- "updatedAt": "2026-11-05T22:05:13.037Z",
+ "dutyDay": "2026-11-06",
+ "updatedAt": "2026-11-06T14:13:36.000Z",
  "source": "Van Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Zagros Eczanesi",
-   "address": "PEHLİVAN MAH.ÇEVREYOLU CAD. SALİHOĞULLARI APT. 14/C",
-   "phone": "04382114000",
+   "name": "Akboğa Eczanesi",
+   "address": "pehlivan Mah. Çölemerik Cad.Halil İbrahim Şen Apt.No:1/D",
+   "phone": "05078309530",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.573397,
-   "lng": 43.731741
+   "lat": 37.577988,
+   "lng": 43.733745
   },
   {
    "district": "Yüksekova",
-   "name": "Bartin Eczanesi",
-   "address": "İNANLI MAH.İNANLI CAD.NO:317/D",
-   "phone": "04383513534",
+   "name": "Ali Eczanesi",
+   "address": "Cengiz Topel Cad No : 22/A",
+   "phone": "04383512555",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.567242,
-   "lng": 44.229403
+   "lat": 37.571757,
+   "lng": 44.28196
   },
   {
    "district": "Yüksekova",
-   "name": "Akdogan Eczanesi",
-   "address": "Cengiz Topel Cad.No:4/A Ziraat Bankası Yanı",
-   "phone": "04383516050",
+   "name": "Bulutlar Eczanesi",
+   "address": "YÜKSEKOVA DEVLET HAST.KARŞ.NO:1/1",
+   "phone": "",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.572445,
-   "lng": 44.280913
+   "lat": 37.56754,
+   "lng": 44.229473
   },
   {
    "district": "Şemdinli",
-   "name": "Yaşam Eczanesi",
-   "address": "Yeni Mah.Cumhuriyet Cad.No:70/B",
-   "phone": "04384113357",
+   "name": "Derman Eczanesi",
+   "address": "KARŞIYAKA MAH. ÇEVREYOLU CAD. NO:60/4-E",
+   "phone": "04384113274",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.307227,
-   "lng": 44.572463
+   "lat": 37.3087,
+   "lng": 44.569983
   },
   {
    "district": "Şemdinli",
-   "name": "Aki Eczanesi",
-   "address": "MERKEZ MAH. VATAN CADDESİ NO:12/A",
-   "phone": "04384613320",
+   "name": "Bahar Eczanesi",
+   "address": "MERKEZ MAH. VATAN CAD.NO:17/A",
+   "phone": "04384613122",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.080915,
-   "lng": 44.310193
+   "lat": 37.306194,
+   "lng": 44.573294
   }
  ],
  "sourceUrl": "https://www.vaneczaciodasi.org.tr/nobetci-eczaneler"

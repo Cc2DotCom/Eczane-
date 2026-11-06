@@ -1,42 +1,42 @@
 {
  "city": "Tunceli",
  "code": 62,
- "dutyDay": "2026-11-05",
- "updatedAt": "2026-11-05T14:39:57.832Z",
+ "dutyDay": "2026-11-06",
+ "updatedAt": "2026-11-06T14:17:05.472Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Cihanser Eczanesi",
-   "address": "ATATÜRK MAH. 4.SOK NO:14/2 MAĞAZA 2 TUNCELİ",
-   "phone": "0428 212 2363",
-   "dutyStart": "2026-11-05T18:30:00+03:00",
-   "dutyEnd": "2026-11-06T08:30:00+03:00",
+   "name": "Boran Eczanesi",
+   "address": "MOĞULTAY MAHALLESİ CUMHURİYET CADDESİ NO:20/A/TUNCELİ",
+   "phone": "0428 212 4383",
+   "dutyStart": "2026-11-06T18:30:00+03:00",
+   "dutyEnd": "2026-11-07T08:30:00+03:00",
    "approved": true,
-   "lat": 39.088535,
-   "lng": 39.537155
+   "lat": 39.105999,
+   "lng": 39.548332
   },
   {
    "district": "Merkez",
-   "name": "Cihanser Eczanesi",
-   "address": "ATATÜRK MAH. 4.SOK NO:14/2 MAĞAZA 2 TUNCELİ",
-   "phone": "0428 212 2363",
-   "dutyStart": "2026-11-05T18:30:00+03:00",
-   "dutyEnd": "2026-11-06T08:30:00+03:00",
+   "name": "Boran Eczanesi",
+   "address": "MOĞULTAY MAHALLESİ CUMHURİYET CADDESİ NO:20/A/TUNCELİ",
+   "phone": "0428 212 4383",
+   "dutyStart": "2026-11-06T18:30:00+03:00",
+   "dutyEnd": "2026-11-07T08:30:00+03:00",
    "approved": true,
-   "lat": 39.088535,
-   "lng": 39.537155
+   "lat": 39.105999,
+   "lng": 39.548332
   },
   {
    "district": "Pertek",
-   "name": "Güven Eczanesi",
-   "address": "İstiklal Mahallesi Uğur Mumcu Caddesi No:7/A Pertek/TUNCELİ",
-   "phone": "0428 651 3228",
-   "dutyStart": "2026-11-05T18:00:00+03:00",
-   "dutyEnd": "2026-11-06T08:30:00+03:00",
+   "name": "Ekin Eczanesi",
+   "address": "İstiklal Mahallesi Uğur Mumcu Caddesi No:10-E Pertek/ TUNCELİ",
+   "phone": "0543 669 3699",
+   "dutyStart": "2026-11-06T18:00:00+03:00",
+   "dutyEnd": "2026-11-07T08:30:00+03:00",
    "approved": true,
-   "lat": 38.867722,
-   "lng": 39.319466
+   "lat": 38.867825,
+   "lng": 39.322376
   }
  ]
 }

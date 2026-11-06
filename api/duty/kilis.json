@@ -1,20 +1,20 @@
 {
  "city": "Kilis",
  "code": 79,
- "dutyDay": "2026-11-05",
- "updatedAt": "2026-11-05T22:05:38.282Z",
+ "dutyDay": "2026-11-06",
+ "updatedAt": "2026-11-06T14:18:02.858Z",
  "source": "Gaziantep Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Bilge Eczanesi",
-   "address": "Albay İbrahim Karaoğlanoğlu Mah. Ömer Halisdemir cd. No:31 E (Yeni Hastane Yolu Üzeri)",
-   "phone": "03488139464",
+   "name": "Burcu Eczanesi",
+   "address": "Mehmet Rıfat Kazancıoğlu Mahallesi Turgut Özal Caddesi nO:23/B (KAYABAŞ CAMİ YANI)",
+   "phone": "03488136333",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": null,
-   "lng": null
+   "lat": 36.7085971,
+   "lng": 37.135774
   }
  ],
  "sourceUrl": "https://www.gaziantepeo.org.tr/nobetci-eczaneler"

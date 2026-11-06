@@ -1,86 +1,86 @@
 {
  "city": "Osmaniye",
  "code": 80,
- "dutyDay": "2026-11-05",
- "updatedAt": "2026-11-05T14:40:56.979Z",
+ "dutyDay": "2026-11-06",
+ "updatedAt": "2026-11-06T14:18:11.419Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Bahçe",
-   "name": "Eylül Eczanesi",
-   "address": "Bahçelievler Mahallesi Devlet Bahçeli Bulvarı No: 11/B",
-   "phone": "0328 861 2728",
-   "dutyStart": "2026-11-05T12:30:00+03:00",
-   "dutyEnd": "2026-11-06T08:00:00+03:00",
+   "name": "Açıkgöz Eczanesi",
+   "address": "Bahçelievler Mah.Devlet Bahçeli Bulvarı No:11/C",
+   "phone": "0328 861 4433",
+   "dutyStart": "2026-11-06T12:00:00+03:00",
+   "dutyEnd": "2026-11-07T08:00:00+03:00",
    "approved": true,
-   "lat": 37.200565,
-   "lng": 36.577446
+   "lat": 37.200596,
+   "lng": 36.577488
   },
   {
    "district": "Düziçi",
-   "name": "Yilmaz Eczanesi",
-   "address": "Yeşilova Mahallesi Aydınlar Caddesi No: 94/B",
-   "phone": "0507 690 7526",
-   "dutyStart": "2026-11-05T17:30:00+03:00",
-   "dutyEnd": "2026-11-06T08:00:00+03:00",
+   "name": "Yiğit Eczanesi",
+   "address": "Boğaziçi Mah. Hastane Sok. No:10/A",
+   "phone": "0507 064 1414",
+   "dutyStart": "2026-11-06T17:30:00+03:00",
+   "dutyEnd": "2026-11-07T08:00:00+03:00",
    "approved": true,
-   "lat": 37.244705,
-   "lng": 36.454014
+   "lat": 37.2439,
+   "lng": 36.461678
   },
   {
    "district": "Kadirli",
-   "name": "Güzin Eczanesi",
-   "address": "TUFANPAŞA MAH. 69 SOK. NO:1/1",
-   "phone": "0328 717 8117",
-   "dutyStart": "2026-11-05T12:00:00+03:00",
-   "dutyEnd": "2026-11-06T08:30:00+03:00",
+   "name": "Çaparoğlu Eczanesi",
+   "address": "Bağ Mah. Turgut Özal Cad. No:70/B",
+   "phone": "0506 683 5175",
+   "dutyStart": "2026-11-06T12:00:00+03:00",
+   "dutyEnd": "2026-11-07T08:30:00+03:00",
    "approved": true,
-   "lat": 37.379253,
-   "lng": 36.097309
+   "lat": 37.373657,
+   "lng": 36.098484
   },
   {
    "district": "Merkez",
-   "name": "Bilir Eczanesi",
-   "address": "Mehmet Akif Ersoy Mahallesi 8010 Sokak No: 3/A",
-   "phone": "0328 777 0030",
-   "dutyStart": "2026-11-05T18:00:00+03:00",
-   "dutyEnd": "2026-11-06T08:00:00+03:00",
+   "name": "Dağlı Eczanesi",
+   "address": "Ahmet Yesevi Mahallesi Musa Şahin Bulvarı No: 410/G",
+   "phone": "0545 285 6058",
+   "dutyStart": "2026-11-06T18:00:00+03:00",
+   "dutyEnd": "2026-11-07T08:00:00+03:00",
    "approved": true,
-   "lat": 37.062176,
-   "lng": 36.239563
+   "lat": 37.086056,
+   "lng": 36.277191
   },
   {
    "district": "Merkez",
-   "name": "Gül Eczanesi",
-   "address": "İstiklal Mahallesi Atatürk Caddesi No: 86/A",
-   "phone": "0328 813 9818",
-   "dutyStart": "2026-11-05T18:00:00+03:00",
-   "dutyEnd": "2026-11-06T08:00:00+03:00",
+   "name": "Topal Eczanesi",
+   "address": "Yediocak Mahallesi Akyar Caddesi No: 93",
+   "phone": "0328 812 0217",
+   "dutyStart": "2026-11-06T18:00:00+03:00",
+   "dutyEnd": "2026-11-07T08:00:00+03:00",
    "approved": true,
-   "lat": 37.074505,
-   "lng": 36.25629
+   "lat": 37.069614,
+   "lng": 36.249996
   },
   {
    "district": "Merkez",
-   "name": "Hastane Eczanesi",
-   "address": "Gebeli Mah. 3625 Sok. No:15/E",
-   "phone": "0328 813 8040",
-   "dutyStart": "2026-11-05T18:00:00+03:00",
-   "dutyEnd": "2026-11-06T08:00:00+03:00",
+   "name": "Yasin Eczanesi",
+   "address": "Adnan Menderes Mahallesi 19538 Sokak No:10/A",
+   "phone": "0328 825 6818",
+   "dutyStart": "2026-11-06T18:00:00+03:00",
+   "dutyEnd": "2026-11-07T08:00:00+03:00",
    "approved": true,
-   "lat": 37.084057,
-   "lng": 36.276485
+   "lat": 37.063766,
+   "lng": 36.235859
   },
   {
    "district": "Toprakkale",
-   "name": "Arslantaş Eczanesi",
-   "address": "Fatih Sultan Mehmet Mah. Çamlıbel Sok. No:19/D",
-   "phone": "0545 628 6033",
-   "dutyStart": "2026-11-05T18:30:00+03:00",
-   "dutyEnd": "2026-11-06T08:00:00+03:00",
+   "name": "Doruk Eczanesi",
+   "address": "Fatih Sultan Mehmet Mahallesi Atatürk Caddesi No: 142/A",
+   "phone": "0553 350 4339",
+   "dutyStart": "2026-11-06T18:30:00+03:00",
+   "dutyEnd": "2026-11-07T08:00:00+03:00",
    "approved": true,
-   "lat": 37.070683,
-   "lng": 36.144207
+   "lat": 37.068085,
+   "lng": 36.144161
   }
  ]
 }
