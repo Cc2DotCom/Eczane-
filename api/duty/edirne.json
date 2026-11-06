@@ -2,20 +2,9 @@
  "city": "Edirne",
  "code": 22,
  "dutyDay": "2026-11-06",
- "updatedAt": "2026-11-06T19:58:05.642Z",
+ "updatedAt": "2026-11-06T21:33:15.829Z",
  "source": "Edirne Eczacı Odası",
  "pharmacies": [
-  {
-   "district": "Merkez",
-   "name": "Ömür Eczanesi",
-   "address": "ÇILINGIRLER ÇARSISI NO:10/A",
-   "phone": "2842252511",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 41.675354,
-   "lng": 26.554312
-  },
   {
    "district": "Merkez",
    "name": "Gölet Eczanesi",
