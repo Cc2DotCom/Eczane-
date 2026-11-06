@@ -2,30 +2,19 @@
  "city": "Kayseri",
  "code": 38,
  "dutyDay": "2026-11-06",
- "updatedAt": "2026-11-06T16:43:53.914Z",
+ "updatedAt": "2026-11-06T19:58:22.986Z",
  "source": "Kayseri Eczacı Odası",
  "pharmacies": [
   {
    "district": "Kocasinan",
-   "name": "Çiftlik Eczanesi",
-   "address": "ÖRNEKEVLER MH.ATATÜRK BULVARI ÖLÇÜM APT.N0:256/A-B",
-   "phone": "03522317426",
+   "name": "Selin Erdem Eczanesi",
+   "address": "Şeker Mah. Muhsin Yazıcıoğlu Bulv. No:72/F",
+   "phone": "03522227778",
    "dutyStart": "2026-11-06T08:30:00+03:00",
    "dutyEnd": "2026-11-07T08:30:00+03:00",
    "approved": true,
-   "lat": 38.728805,
-   "lng": 35.478961
-  },
-  {
-   "district": "Kocasinan",
-   "name": "Aydemir Eczanesi",
-   "address": "ÖRNEKEVLER MAH. SALIH AVGUN PASA CAD. NO:26/A",
-   "phone": "03522223634",
-   "dutyStart": "2026-11-06T08:30:00+03:00",
-   "dutyEnd": "2026-11-07T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.727581,
-   "lng": 35.480672
+   "lat": 38.76979,
+   "lng": 35.413195
   },
   {
    "district": "Melikgazi",
@@ -40,14 +29,14 @@
   },
   {
    "district": "Kocasinan",
-   "name": "Selin Erdem Eczanesi",
-   "address": "Şeker Mah. Muhsin Yazıcıoğlu Bulv. No:72/F",
-   "phone": "03522227778",
+   "name": "Aydemir Eczanesi",
+   "address": "ÖRNEKEVLER MAH. SALIH AVGUN PASA CAD. NO:26/A",
+   "phone": "03522223634",
    "dutyStart": "2026-11-06T08:30:00+03:00",
    "dutyEnd": "2026-11-07T08:30:00+03:00",
    "approved": true,
-   "lat": 38.76979,
-   "lng": 35.413195
+   "lat": 38.727581,
+   "lng": 35.480672
   },
   {
    "district": "Melikgazi",
@@ -61,26 +50,15 @@
    "lng": 35.604299
   },
   {
-   "district": "Melikgazi",
-   "name": "Cingil Eczanesi",
-   "address": "Sakarya Mahallesi, Eren Yıldırım Bulvarı, No:31/E",
-   "phone": "03523269489",
+   "district": "Kocasinan",
+   "name": "Çiftlik Eczanesi",
+   "address": "ÖRNEKEVLER MH.ATATÜRK BULVARI ÖLÇÜM APT.N0:256/A-B",
+   "phone": "03522317426",
    "dutyStart": "2026-11-06T08:30:00+03:00",
-   "dutyEnd": "2026-11-07T01:00:00+03:00",
+   "dutyEnd": "2026-11-07T08:30:00+03:00",
    "approved": true,
-   "lat": 38.74108,
-   "lng": 35.400613
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Zirve Eczanesi",
-   "address": "Yıldırım Beyazıt Mah. Sunay Sok. 13/B",
-   "phone": "03525023538",
-   "dutyStart": "2026-11-06T08:30:00+03:00",
-   "dutyEnd": "2026-11-07T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.731123,
-   "lng": 35.544903
+   "lat": 38.728805,
+   "lng": 35.478961
   },
   {
    "district": "Melikgazi",
@@ -92,6 +70,17 @@
    "approved": true,
    "lat": 38.675406,
    "lng": 35.474616
+  },
+  {
+   "district": "Talas",
+   "name": "Biraderoğlu Eczanesi",
+   "address": "Mevlana Mahallesi, Mehmet Timuçin Caddesi, No:16/G",
+   "phone": "05058833137",
+   "dutyStart": "2026-11-06T08:30:00+03:00",
+   "dutyEnd": "2026-11-07T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.70802,
+   "lng": 35.560359
   },
   {
    "district": "Melikgazi",
@@ -106,36 +95,14 @@
   },
   {
    "district": "Kocasinan",
-   "name": "Yeni Eczanesi",
-   "address": "MEVLANA MH.10 CD.N0:56/A",
-   "phone": "03523384343",
+   "name": "İnci Eczanesi",
+   "address": "Mimarsinan Mah. Murat Cad. No: 27/A",
+   "phone": "03522355656",
    "dutyStart": "2026-11-06T08:30:00+03:00",
    "dutyEnd": "2026-11-07T01:00:00+03:00",
    "approved": true,
-   "lat": 38.739397,
-   "lng": 35.48395
-  },
-  {
-   "district": "Talas",
-   "name": "Biraderoğlu Eczanesi",
-   "address": "Mevlana Mahallesi, Mehmet Timuçin Caddesi, No:16/G",
-   "phone": "05058833137",
-   "dutyStart": "2026-11-06T08:30:00+03:00",
-   "dutyEnd": "2026-11-07T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.70802,
-   "lng": 35.560359
-  },
-  {
-   "district": "Talas",
-   "name": "Meltem Eczanesi",
-   "address": "YENI DOGAN MAH.TIMUÇIN CAD. N0:6/E",
-   "phone": "3524376720",
-   "dutyStart": "2026-11-06T08:30:00+03:00",
-   "dutyEnd": "2026-11-07T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.696708,
-   "lng": 35.545298
+   "lat": 38.732838,
+   "lng": 35.510118
   },
   {
    "district": "Melikgazi",
@@ -149,15 +116,48 @@
    "lng": 35.508115
   },
   {
-   "district": "Kocasinan",
-   "name": "İnci Eczanesi",
-   "address": "Mimarsinan Mah. Murat Cad. No: 27/A",
-   "phone": "03522355656",
+   "district": "Melikgazi",
+   "name": "Zirve Eczanesi",
+   "address": "Yıldırım Beyazıt Mah. Sunay Sok. 13/B",
+   "phone": "03525023538",
    "dutyStart": "2026-11-06T08:30:00+03:00",
    "dutyEnd": "2026-11-07T01:00:00+03:00",
    "approved": true,
-   "lat": 38.732838,
-   "lng": 35.510118
+   "lat": 38.731123,
+   "lng": 35.544903
+  },
+  {
+   "district": "Talas",
+   "name": "Meltem Eczanesi",
+   "address": "YENI DOGAN MAH.TIMUÇIN CAD. N0:6/E",
+   "phone": "3524376720",
+   "dutyStart": "2026-11-06T08:30:00+03:00",
+   "dutyEnd": "2026-11-07T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.696708,
+   "lng": 35.545298
+  },
+  {
+   "district": "Kocasinan",
+   "name": "Yeni Eczanesi",
+   "address": "MEVLANA MH.10 CD.N0:56/A",
+   "phone": "03523384343",
+   "dutyStart": "2026-11-06T08:30:00+03:00",
+   "dutyEnd": "2026-11-07T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.739397,
+   "lng": 35.48395
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Cingil Eczanesi",
+   "address": "Sakarya Mahallesi, Eren Yıldırım Bulvarı, No:31/E",
+   "phone": "03523269489",
+   "dutyStart": "2026-11-06T08:30:00+03:00",
+   "dutyEnd": "2026-11-07T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.74108,
+   "lng": 35.400613
   }
  ],
  "sourceUrl": "https://www.kayserieo.org.tr/nobetci-eczaneler"
