@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-07T13:00:57.920Z",
+ "generatedAt": "2026-11-07T15:39:11.683Z",
  "source": "e-Devlet TİTCK",
  "cities": [
   {
@@ -63,7 +63,7 @@
    "slug": "artvin",
    "code": 8,
    "dutyDay": "2026-11-07",
-   "updatedAt": "2026-11-07T12:54:40.451Z",
+   "updatedAt": "2026-11-07T15:38:07.562Z",
    "count": 9
   },
   {
@@ -71,8 +71,8 @@
    "slug": "aydin",
    "code": 9,
    "dutyDay": "2026-11-07",
-   "updatedAt": "2026-11-07T12:54:45.370Z",
-   "count": 34
+   "updatedAt": "2026-11-07T15:38:12.221Z",
+   "count": 33
   },
   {
    "city": "Balıkesir",
@@ -119,7 +119,7 @@
    "slug": "burdur",
    "code": 15,
    "dutyDay": "2026-11-07",
-   "updatedAt": "2026-11-07T12:55:12.703Z",
+   "updatedAt": "2026-11-07T15:38:23.586Z",
    "count": 0
   },
   {
@@ -175,7 +175,7 @@
    "slug": "edirne",
    "code": 22,
    "dutyDay": "2026-11-07",
-   "updatedAt": "2026-11-07T12:55:50.519Z",
+   "updatedAt": "2026-11-07T15:38:26.987Z",
    "count": 11
   },
   {
@@ -183,7 +183,7 @@
    "slug": "elazig",
    "code": 23,
    "dutyDay": "2026-11-07",
-   "updatedAt": "2026-11-07T12:55:53.536Z",
+   "updatedAt": "2026-11-07T15:38:29.721Z",
    "count": 9
   },
   {
@@ -207,7 +207,7 @@
    "slug": "eskisehir",
    "code": 26,
    "dutyDay": "2026-11-07",
-   "updatedAt": "2026-11-07T12:56:03.407Z",
+   "updatedAt": "2026-11-07T15:38:34.189Z",
    "count": 14
   },
   {
@@ -254,8 +254,8 @@
    "city": "Isparta",
    "slug": "isparta",
    "code": 32,
-   "dutyDay": "2026-11-06",
-   "updatedAt": "2026-11-06T14:13:48.431Z",
+   "dutyDay": "2026-11-07",
+   "updatedAt": "2026-11-07T15:38:44.018Z",
    "count": 9
   },
   {
@@ -303,7 +303,7 @@
    "slug": "kayseri",
    "code": 38,
    "dutyDay": "2026-11-07",
-   "updatedAt": "2026-11-07T12:57:58.996Z",
+   "updatedAt": "2026-11-07T15:38:48.586Z",
    "count": 16
   },
   {
@@ -319,7 +319,7 @@
    "slug": "kirsehir",
    "code": 40,
    "dutyDay": "2026-11-07",
-   "updatedAt": "2026-11-07T12:58:06.027Z",
+   "updatedAt": "2026-11-07T15:38:51.288Z",
    "count": 4
   },
   {
@@ -351,7 +351,7 @@
    "slug": "malatya",
    "code": 44,
    "dutyDay": "2026-11-07",
-   "updatedAt": "2026-11-07T12:58:37.711Z",
+   "updatedAt": "2026-11-07T15:38:55.739Z",
    "count": 5
   },
   {
@@ -390,9 +390,9 @@
    "city": "Muş",
    "slug": "mus",
    "code": 49,
-   "dutyDay": "2026-11-06",
-   "updatedAt": "2026-11-06T21:33:50.743Z",
-   "count": 6
+   "dutyDay": "2026-11-07",
+   "updatedAt": "2026-11-07T15:39:00.048Z",
+   "count": 7
   },
   {
    "city": "Nevşehir",
@@ -406,8 +406,8 @@
    "city": "Niğde",
    "slug": "nigde",
    "code": 51,
-   "dutyDay": "2026-11-06",
-   "updatedAt": "2026-11-06T14:16:25.613Z",
+   "dutyDay": "2026-11-07",
+   "updatedAt": "2026-11-07T15:39:02.854Z",
    "count": 7
   },
   {
@@ -422,9 +422,9 @@
    "city": "Rize",
    "slug": "rize",
    "code": 53,
-   "dutyDay": "2026-11-06",
-   "updatedAt": "2026-11-06T14:16:31.370Z",
-   "count": 6
+   "dutyDay": "2026-11-07",
+   "updatedAt": "2026-11-07T15:39:05.740Z",
+   "count": 8
   },
   {
    "city": "Sakarya",
@@ -631,7 +631,7 @@
    "slug": "kilis",
    "code": 79,
    "dutyDay": "2026-11-07",
-   "updatedAt": "2026-11-07T13:00:45.161Z",
+   "updatedAt": "2026-11-07T15:39:09.176Z",
    "count": 2
   },
   {

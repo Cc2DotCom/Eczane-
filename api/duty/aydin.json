@@ -2,7 +2,7 @@
  "city": "Aydın",
  "code": 9,
  "dutyDay": "2026-11-07",
- "updatedAt": "2026-11-07T12:54:45.370Z",
+ "updatedAt": "2026-11-07T15:38:12.221Z",
  "source": "Aydın Eczacı Odası",
  "pharmacies": [
   {
@@ -290,17 +290,6 @@
    "approved": true,
    "lat": 37.556036,
    "lng": 27.835806
-  },
-  {
-   "district": "Köşk",
-   "name": "Elif Eczanesi",
-   "address": "ÇARSI MAH.ESKI AYDIN NAZILLI CAD.NO.4",
-   "phone": "02564613832",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 37.853694,
-   "lng": 28.051938
   },
   {
    "district": "Köşk",
