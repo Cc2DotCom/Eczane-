@@ -2,7 +2,7 @@
  "city": "Hakkari",
  "code": 30,
  "dutyDay": "2026-11-07",
- "updatedAt": "2026-11-07T12:56:17.313Z",
+ "updatedAt": "2026-11-07T18:03:49.197Z",
  "source": "Van Eczacı Odası",
  "pharmacies": [
   {
@@ -18,17 +18,6 @@
   },
   {
    "district": "Yüksekova",
-   "name": "Avaşin Eczanesi",
-   "address": "HOTEL GRAND YILMAZ KARŞISI CENGİZ TOPEL CAD.106 Sok. No:108",
-   "phone": "05431930730",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 37.569368,
-   "lng": 44.284916
-  },
-  {
-   "district": "Yüksekova",
    "name": "Şalvacı Eczanesi",
    "address": "YENİ MAH.DAĞLICA CAD.NO:48/C",
    "phone": "04383510022",
@@ -37,6 +26,17 @@
    "approved": true,
    "lat": 37.560045,
    "lng": 44.270362
+  },
+  {
+   "district": "Yüksekova",
+   "name": "Avaşin Eczanesi",
+   "address": "HOTEL GRAND YILMAZ KARŞISI CENGİZ TOPEL CAD.106 Sok. No:108",
+   "phone": "05431930730",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 37.569368,
+   "lng": 44.284916
   },
   {
    "district": "Şemdinli",
