@@ -1,8 +1,8 @@
 {
  "city": "Amasya",
  "code": 5,
- "dutyDay": "2026-11-06",
- "updatedAt": "2026-11-06T14:11:25.242Z",
+ "dutyDay": "2026-11-07",
+ "updatedAt": "2026-11-07T12:54:06.662Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
@@ -10,88 +10,88 @@
    "name": "Evren Eczanesi",
    "address": "YENİ MAH. YOZGAT CAD. NO:67/A",
    "phone": "0358 615 2525",
-   "dutyStart": "2026-11-06T08:00:00+03:00",
-   "dutyEnd": "2026-11-07T08:00:00+03:00",
+   "dutyStart": "2026-11-07T08:00:00+03:00",
+   "dutyEnd": "2026-11-08T08:00:00+03:00",
    "approved": true,
    "lat": 40.391914,
    "lng": 35.521545
   },
   {
    "district": "Gümüşhacıköy",
-   "name": "Burçin Eczanesi",
-   "address": "Hacıyahya Mah. Cumhuriyet Meydanı No:2/ZA",
-   "phone": "0358 717 4050",
-   "dutyStart": "2026-11-06T08:00:00+03:00",
-   "dutyEnd": "2026-11-07T08:00:00+03:00",
+   "name": "Şifa Eczanesi",
+   "address": "CUMARA MAH. MEHMET PAŞA CADDESİ NO:29",
+   "phone": "0358 717 1222",
+   "dutyStart": "2026-11-07T08:00:00+03:00",
+   "dutyEnd": "2026-11-08T08:00:00+03:00",
    "approved": true,
-   "lat": 40.873711,
-   "lng": 35.215294
+   "lat": 40.873543,
+   "lng": 35.216553
   },
   {
    "district": "Hamamözü",
    "name": "Ömür Eczanesi",
    "address": "ARTUKBEY MAH. ÇORUM CAD. NO:9/1",
    "phone": "0358 787 6202",
-   "dutyStart": "2026-11-06T08:00:00+03:00",
-   "dutyEnd": "2026-11-07T08:00:00+03:00",
+   "dutyStart": "2026-11-07T08:00:00+03:00",
+   "dutyEnd": "2026-11-08T08:00:00+03:00",
    "approved": true,
    "lat": 40.781593,
    "lng": 35.022079
   },
   {
    "district": "Merkez",
-   "name": "Hale Eczanesi",
-   "address": "Fethiye Mahallesi Tabip Sokak No:37/A",
-   "phone": "0358 252 8441",
-   "dutyStart": "2026-11-06T08:00:00+03:00",
-   "dutyEnd": "2026-11-07T08:00:00+03:00",
+   "name": "Şenel Eczanesi",
+   "address": "HIZIRPAŞA MAHALLESİ ŞEHİT HÜSEYİN HATİPOĞLU CADDESİ NO:86",
+   "phone": "0358 218 6797",
+   "dutyStart": "2026-11-07T08:00:00+03:00",
+   "dutyEnd": "2026-11-08T08:00:00+03:00",
    "approved": true,
-   "lat": 40.648495,
-   "lng": 35.83313
+   "lat": 40.655701,
+   "lng": 35.809048
   },
   {
    "district": "Merkez",
-   "name": "Sağlık Eczanesi",
-   "address": "ŞEYHCUİ MAH. NENEHATUN SOK. ASOS APT. B BLOK NO:4/A",
-   "phone": "0358 252 6058",
-   "dutyStart": "2026-11-06T08:00:00+03:00",
-   "dutyEnd": "2026-11-07T08:00:00+03:00",
+   "name": "Vitamin Eczanesi",
+   "address": "DERE MAH. MUSTAFA KEMAL PAŞA CADDESİ NO:6/B",
+   "phone": "0358 218 5444",
+   "dutyStart": "2026-11-07T08:00:00+03:00",
+   "dutyEnd": "2026-11-08T08:00:00+03:00",
    "approved": true,
-   "lat": 40.652702,
-   "lng": 35.802017
+   "lat": 40.651546,
+   "lng": 35.833408
   },
   {
    "district": "Merzifon",
-   "name": "Hayat Eczanesi",
-   "address": "BAHÇELİEVLER MAHALLESİ DEMOKRASİ CADDESİ UFUK SİTESİ NO:2 G BLOK DAİRE NO:1",
-   "phone": "0358 514 8105",
-   "dutyStart": "2026-11-06T08:00:00+03:00",
-   "dutyEnd": "2026-11-07T08:00:00+03:00",
+   "name": "Bensu Eczanesi",
+   "address": "Sofular Mahallesi Dede Sokak No:2/B",
+   "phone": "0358 513 2075",
+   "dutyStart": "2026-11-07T08:00:00+03:00",
+   "dutyEnd": "2026-11-08T08:00:00+03:00",
    "approved": true,
-   "lat": 40.868336,
-   "lng": 35.437233
+   "lat": 40.875908,
+   "lng": 35.459461
   },
   {
    "district": "Suluova",
-   "name": "Hatipoğlu Eczanesi",
-   "address": "Orta Mah. Atatürk Bulvarı No:278/Z04A",
-   "phone": "0358 417 1086",
-   "dutyStart": "2026-11-06T08:00:00+03:00",
-   "dutyEnd": "2026-11-07T08:00:00+03:00",
+   "name": "Serpil Eczanesi",
+   "address": "ŞEKER MAH. NAZLI SOK. NO:16/A",
+   "phone": "0358 418 0357",
+   "dutyStart": "2026-11-07T08:00:00+03:00",
+   "dutyEnd": "2026-11-08T08:00:00+03:00",
    "approved": true,
-   "lat": 40.834679,
-   "lng": 35.645771
+   "lat": 40.825386,
+   "lng": 35.644157
   },
   {
    "district": "Taşova",
-   "name": "Taşova Eczanesi",
-   "address": "YEŞİLIRMAK MAH. ÇAĞPAR CAD. NO:22",
-   "phone": "0358 312 1252",
-   "dutyStart": "2026-11-06T08:00:00+03:00",
-   "dutyEnd": "2026-11-07T08:00:00+03:00",
+   "name": "Aydinlar Eczanesi",
+   "address": "YEŞİLIRMAK MAH. ÇAĞPAR CAD. NO:4A",
+   "phone": "0358 312 1458",
+   "dutyStart": "2026-11-07T08:00:00+03:00",
+   "dutyEnd": "2026-11-08T08:00:00+03:00",
    "approved": true,
-   "lat": 40.759998,
-   "lng": 36.322929
+   "lat": 40.760483,
+   "lng": 36.322628
   }
  ]
 }

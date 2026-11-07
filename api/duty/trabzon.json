@@ -1,20 +1,20 @@
 {
  "city": "Trabzon",
  "code": 61,
- "dutyDay": "2026-11-06",
- "updatedAt": "2026-11-06T14:17:03.750Z",
+ "dutyDay": "2026-11-07",
+ "updatedAt": "2026-11-07T12:59:47.348Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Akçaabat",
-   "name": "Akçaabat Merkez Eczanesi",
-   "address": "Akçaabat İlçesi Dürbinar Mahallesi İnönü Caddesi Kasap Sokak No:5/A",
-   "phone": "0462 228 3419",
-   "dutyStart": "2026-11-06T17:00:00+03:00",
-   "dutyEnd": "2026-11-07T09:00:00+03:00",
+   "name": "Nuhoğlu Eczanesi",
+   "address": "ORTA MAHALLE İNÖNÜ CADDESİ NO:141/A",
+   "phone": "0462 228 1340",
+   "dutyStart": "2026-11-07T08:00:00+03:00",
+   "dutyEnd": "2026-11-08T08:00:00+03:00",
    "approved": true,
-   "lat": 41.021015,
-   "lng": 39.571991
+   "lat": 41.023033,
+   "lng": 39.56694
   }
  ]
 }

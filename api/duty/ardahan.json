@@ -1,8 +1,8 @@
 {
  "city": "Ardahan",
  "code": 75,
- "dutyDay": "2026-11-06",
- "updatedAt": "2026-11-06T14:17:53.116Z",
+ "dutyDay": "2026-11-07",
+ "updatedAt": "2026-11-07T13:00:33.961Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
@@ -10,8 +10,8 @@
    "name": "Ayaz Eczanesi",
    "address": "Yeni Mahalle, Çıldırlı Aşık Şenlik Caddesi No:6/B Çıldır/Ardahan",
    "phone": "0552 409 6069",
-   "dutyStart": "2026-11-06T17:00:00+03:00",
-   "dutyEnd": "2026-11-07T17:00:00+03:00",
+   "dutyStart": "2026-11-07T08:00:00+03:00",
+   "dutyEnd": "2026-11-08T08:00:00+03:00",
    "approved": true,
    "lat": 41.122875,
    "lng": 43.137939
@@ -21,44 +21,44 @@
    "name": "Damal Eczanesi",
    "address": "Konuksever Mahallesi Atatürk Caddesi No:32",
    "phone": "0478 651 4460",
-   "dutyStart": "2026-11-06T18:00:00+03:00",
-   "dutyEnd": "2026-11-07T08:30:00+03:00",
+   "dutyStart": "2026-11-07T08:30:00+03:00",
+   "dutyEnd": "2026-11-08T08:30:00+03:00",
    "approved": true,
    "lat": 41.341,
    "lng": 42.839069
   },
   {
    "district": "Göle",
-   "name": "Derman Eczanesi",
-   "address": "KAZIM KARABEKİR MAH. KARS CADDESİ NO:9/A",
-   "phone": "0478 411 2297",
-   "dutyStart": "2026-11-06T18:00:00+03:00",
-   "dutyEnd": "2026-11-07T08:00:00+03:00",
+   "name": "Budak Eczanesi",
+   "address": "Kubilaybey Mahallesi Kars Caddesi 3. Sokak No:11",
+   "phone": "0478 411 3167",
+   "dutyStart": "2026-11-07T08:00:00+03:00",
+   "dutyEnd": "2026-11-08T08:00:00+03:00",
    "approved": true,
-   "lat": 40.793278,
-   "lng": 42.610622
+   "lat": 40.792747,
+   "lng": 42.610119
   },
   {
    "district": "Hanak",
    "name": "Uygar Eczanesi",
    "address": "Hürriye Mahallesi, Atatürk Caddesi No:89/A Hanak/Ardahan",
    "phone": "0501 525 9116",
-   "dutyStart": "2026-11-06T17:00:00+03:00",
-   "dutyEnd": "2026-11-07T08:00:00+03:00",
+   "dutyStart": "2026-11-07T08:00:00+03:00",
+   "dutyEnd": "2026-11-08T08:00:00+03:00",
    "approved": true,
    "lat": 41.23756,
    "lng": 42.843979
   },
   {
    "district": "Merkez",
-   "name": "Yeni Eczanesi",
-   "address": "KAPTANPAŞA MAHALLESİ KONGRE CADDESİ NO:47",
-   "phone": "0478 211 3174",
-   "dutyStart": "2026-11-06T18:00:00+03:00",
-   "dutyEnd": "2026-11-07T08:30:00+03:00",
+   "name": "Merkez Eczanesi",
+   "address": "KARAGÖL MAHALLESİ KONGRE CADDESİ NO: 76/2",
+   "phone": "0544 585 1985",
+   "dutyStart": "2026-11-07T08:30:00+03:00",
+   "dutyEnd": "2026-11-08T08:30:00+03:00",
    "approved": true,
-   "lat": 41.112427,
-   "lng": 42.701057
+   "lat": 41.112228,
+   "lng": 42.700024
   }
  ]
 }

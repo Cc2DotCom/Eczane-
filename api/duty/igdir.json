@@ -1,31 +1,42 @@
 {
  "city": "Iğdır",
  "code": 76,
- "dutyDay": "2026-11-06",
- "updatedAt": "2026-11-06T14:17:54.862Z",
+ "dutyDay": "2026-11-07",
+ "updatedAt": "2026-11-07T13:00:36.338Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Aralık",
-   "name": "Can Eczanesi",
-   "address": "Karşıyaka Mh. Milli Egemenlik Cd. No:37/C",
-   "phone": "0551 230 5253",
-   "dutyStart": "2026-11-06T18:30:00+03:00",
-   "dutyEnd": "2026-11-07T08:00:00+03:00",
+   "name": "Özlem Eczanesi",
+   "address": "Köprüler Mahallesi, Atatürk Caddesi, No: 29/A",
+   "phone": "0476 411 2244",
+   "dutyStart": "2026-11-07T13:00:00+03:00",
+   "dutyEnd": "2026-11-08T08:00:00+03:00",
    "approved": true,
-   "lat": 39.871346,
-   "lng": 44.514355
+   "lat": 39.874458,
+   "lng": 44.515343
+  },
+  {
+   "district": "Merkez",
+   "name": "Nimet Eczanesi",
+   "address": "Bağlar Mahallesi, İbrahim Bozyel Caddesi, No:20",
+   "phone": "0476 227 7899",
+   "dutyStart": "2026-11-07T13:00:00+03:00",
+   "dutyEnd": "2026-11-08T08:00:00+03:00",
+   "approved": true,
+   "lat": 39.922138,
+   "lng": 44.043968
   },
   {
    "district": "Tuzluca",
-   "name": "İrem Eczanesi",
-   "address": "Cumhuriyet Mh. Yakup Ulutaş Cd. No:6/4",
-   "phone": "0507 714 4357",
-   "dutyStart": "2026-11-06T18:00:00+03:00",
-   "dutyEnd": "2026-11-07T07:30:00+03:00",
+   "name": "Aydin Eczanesi",
+   "address": "Cumhuriyet mahallesi , sağlık ocağı yolu sokak No: 14",
+   "phone": "0538 983 0845",
+   "dutyStart": "2026-11-07T13:00:00+03:00",
+   "dutyEnd": "2026-11-08T08:00:00+03:00",
    "approved": true,
-   "lat": 40.040417,
-   "lng": 43.662785
+   "lat": 40.040909,
+   "lng": 43.663303
   }
  ]
 }

@@ -1,20 +1,31 @@
 {
  "city": "Van",
  "code": 65,
- "dutyDay": "2026-11-06",
- "updatedAt": "2026-11-06T14:17:21.071Z",
+ "dutyDay": "2026-11-07",
+ "updatedAt": "2026-11-07T13:00:03.252Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Erciş",
-   "name": "Arjin Eczanesi",
-   "address": "BEYAZIT MAHALLE TUGAY YOLU CADDE NO:1",
-   "phone": "0432 351 1174",
-   "dutyStart": "2026-11-06T18:00:00+03:00",
-   "dutyEnd": "2026-11-07T08:30:00+03:00",
+   "name": "Çiçek Eczanesi",
+   "address": "Vanyolu Mah. Kara Yusuf Bey Bulvarı Dış Kapı No:105B",
+   "phone": "0545 497 8021",
+   "dutyStart": "2026-11-07T13:00:00+03:00",
+   "dutyEnd": "2026-11-08T08:30:00+03:00",
    "approved": true,
-   "lat": 39.030724,
-   "lng": 43.359318
+   "lat": 39.023895,
+   "lng": 43.3703
+  },
+  {
+   "district": "Erciş",
+   "name": "Öz Yaşam Eczanesi",
+   "address": "LATİFİYE MAHALLESİ BİLİCİLER CADDESİ EBUBEKİR ÇİFTÇİ BULVARI NO:2",
+   "phone": "0432 351 9092",
+   "dutyStart": "2026-11-07T13:00:00+03:00",
+   "dutyEnd": "2026-11-08T08:30:00+03:00",
+   "approved": true,
+   "lat": 39.029751,
+   "lng": 43.357983
   }
  ]
 }

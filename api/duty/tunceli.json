@@ -1,42 +1,42 @@
 {
  "city": "Tunceli",
  "code": 62,
- "dutyDay": "2026-11-06",
- "updatedAt": "2026-11-06T14:17:05.472Z",
+ "dutyDay": "2026-11-07",
+ "updatedAt": "2026-11-07T12:59:49.139Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Boran Eczanesi",
-   "address": "MOĞULTAY MAHALLESİ CUMHURİYET CADDESİ NO:20/A/TUNCELİ",
-   "phone": "0428 212 4383",
-   "dutyStart": "2026-11-06T18:30:00+03:00",
-   "dutyEnd": "2026-11-07T08:30:00+03:00",
+   "name": "Meltem Eczanesi",
+   "address": "Moğultay Mah. Nupelda Ayaz Güloğlu Cad. 12/A",
+   "phone": "0428 212 3476",
+   "dutyStart": "2026-11-07T08:30:00+03:00",
+   "dutyEnd": "2026-11-08T08:30:00+03:00",
    "approved": true,
-   "lat": 39.105999,
-   "lng": 39.548332
+   "lat": 39.107147,
+   "lng": 39.548561
   },
   {
    "district": "Merkez",
-   "name": "Boran Eczanesi",
-   "address": "MOĞULTAY MAHALLESİ CUMHURİYET CADDESİ NO:20/A/TUNCELİ",
-   "phone": "0428 212 4383",
-   "dutyStart": "2026-11-06T18:30:00+03:00",
-   "dutyEnd": "2026-11-07T08:30:00+03:00",
+   "name": "Meltem Eczanesi",
+   "address": "Moğultay Mah. Nupelda Ayaz Güloğlu Cad. 12/A",
+   "phone": "0428 212 3476",
+   "dutyStart": "2026-11-07T08:30:00+03:00",
+   "dutyEnd": "2026-11-08T08:30:00+03:00",
    "approved": true,
-   "lat": 39.105999,
-   "lng": 39.548332
+   "lat": 39.107147,
+   "lng": 39.548561
   },
   {
    "district": "Pertek",
-   "name": "Ekin Eczanesi",
-   "address": "İstiklal Mahallesi Uğur Mumcu Caddesi No:10-E Pertek/ TUNCELİ",
-   "phone": "0543 669 3699",
-   "dutyStart": "2026-11-06T18:00:00+03:00",
-   "dutyEnd": "2026-11-07T08:30:00+03:00",
+   "name": "Güven Eczanesi",
+   "address": "İstiklal Mahallesi Uğur Mumcu Caddesi No:7/A Pertek/TUNCELİ",
+   "phone": "0428 651 3228",
+   "dutyStart": "2026-11-07T13:00:00+03:00",
+   "dutyEnd": "2026-11-08T08:30:00+03:00",
    "approved": true,
-   "lat": 38.867825,
-   "lng": 39.322376
+   "lat": 38.867722,
+   "lng": 39.319466
   }
  ]
 }

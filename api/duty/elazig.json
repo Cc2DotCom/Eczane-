@@ -1,8 +1,8 @@
 {
  "city": "Elazığ",
  "code": 23,
- "dutyDay": "2026-11-06",
- "updatedAt": "2026-11-06T21:33:21.664Z",
+ "dutyDay": "2026-11-07",
+ "updatedAt": "2026-11-07T12:55:53.536Z",
  "source": "e-Devlet TİTCK, Elazığ Eczacı Odası",
  "pharmacies": [
   {
@@ -62,47 +62,47 @@
   },
   {
    "district": "Karakoçan",
-   "name": "Sağlık Eczanesi",
-   "address": "KIRKPINAR MAH.HASTANE CAD.NO:12",
-   "phone": "04247112525",
+   "name": "Sara Eczanesi",
+   "address": "YENİ MAH. KALECİK CAD.NO:9/E",
+   "phone": "04247115005",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.946633,
-   "lng": 40.048619
+   "lat": 38.955383,
+   "lng": 40.039575
   },
   {
    "district": "Keban",
-   "name": "Keban Eczanesi",
-   "address": "DEĞİRMENBAŞI MAH. ŞEHİT GENERAL POLAT HAŞİMOV CAD.NO:299",
-   "phone": "04245712300",
+   "name": "Taşkın Eczanesi",
+   "address": "DEĞİRMENBAŞI MAH.GENERAL POLAT HAŞİMOV CAD. NO:10",
+   "phone": "04245712525",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.793201,
-   "lng": 38.745569
+   "lat": 38.793133,
+   "lng": 38.74563
   },
   {
    "district": "Kovancilar",
-   "name": "Sağlık Eczanesi",
-   "address": "GÜLTEPE MAH. LOKMAN SOK. NO:3/B",
-   "phone": "04246113111",
+   "name": "Yilmaz Eczanesi",
+   "address": "İSMETPAŞA MAH.ASLAN CAD. NO:46/A",
+   "phone": "04246115200",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.721834,
-   "lng": 39.8563
+   "lat": 38.725741,
+   "lng": 39.876719
   },
   {
    "district": "Palu",
-   "name": "Yaşam Eczanesi",
-   "address": "KALEKENT MAH.ŞEHYŞAMİL BLV.NO:3/D",
-   "phone": "04245036934",
+   "name": "Palu Eczanesi",
+   "address": "NUMUNE MAH.CUMHURİYET BLV.NO:16",
+   "phone": "04246512040",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.693789,
-   "lng": 39.914233
+   "lat": 38.693169,
+   "lng": 39.927802
   }
  ],
  "sourceUrl": "https://www.elazigeczaciodasi.org.tr/nobetci-eczaneler/elazig"

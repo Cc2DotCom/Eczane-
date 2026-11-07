@@ -1,64 +1,64 @@
 {
  "city": "Hakkari",
  "code": 30,
- "dutyDay": "2026-11-06",
- "updatedAt": "2026-11-06T21:33:31.907Z",
+ "dutyDay": "2026-11-07",
+ "updatedAt": "2026-11-07T12:56:17.313Z",
  "source": "Van Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Akboğa Eczanesi",
-   "address": "pehlivan Mah. Çölemerik Cad.Halil İbrahim Şen Apt.No:1/D",
-   "phone": "05078309530",
+   "name": "Taha Eczanesi",
+   "address": "BULAK MAH.ALTAY CAD.NO:6/B",
+   "phone": "04382113034",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.577988,
-   "lng": 43.733745
+   "lat": 37.576461,
+   "lng": 43.737388
   },
   {
    "district": "Yüksekova",
-   "name": "Ali Eczanesi",
-   "address": "Cengiz Topel Cad No : 22/A",
-   "phone": "04383512555",
+   "name": "Avaşin Eczanesi",
+   "address": "HOTEL GRAND YILMAZ KARŞISI CENGİZ TOPEL CAD.106 Sok. No:108",
+   "phone": "05431930730",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.571757,
-   "lng": 44.28196
+   "lat": 37.569368,
+   "lng": 44.284916
   },
   {
    "district": "Yüksekova",
-   "name": "Bulutlar Eczanesi",
-   "address": "YÜKSEKOVA DEVLET HAST.KARŞ.NO:1/1",
-   "phone": "",
+   "name": "Şalvacı Eczanesi",
+   "address": "YENİ MAH.DAĞLICA CAD.NO:48/C",
+   "phone": "04383510022",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.56754,
-   "lng": 44.229473
+   "lat": 37.560045,
+   "lng": 44.270362
   },
   {
    "district": "Şemdinli",
-   "name": "Derman Eczanesi",
-   "address": "KARŞIYAKA MAH. ÇEVREYOLU CAD. NO:60/4-E",
-   "phone": "04384113274",
+   "name": "Mavi Eczanesi",
+   "address": "BEŞEVLER MAH.CUMHURİYET CAD.NO:96/A",
+   "phone": "05312972080",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.3087,
-   "lng": 44.569983
+   "lat": 37.308802,
+   "lng": 44.570835
   },
   {
    "district": "Şemdinli",
-   "name": "Bahar Eczanesi",
-   "address": "MERKEZ MAH. VATAN CAD.NO:17/A",
-   "phone": "04384613122",
+   "name": "Derecik Eczanesi",
+   "address": "MERKEZ MAH.VATAN CAD.NO:19/A",
+   "phone": "05380443717",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.306194,
-   "lng": 44.573294
+   "lat": 37.080721,
+   "lng": 44.310393
   }
  ],
  "sourceUrl": "https://www.vaneczaciodasi.org.tr/nobetci-eczaneler"

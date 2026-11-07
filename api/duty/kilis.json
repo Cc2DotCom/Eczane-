@@ -1,20 +1,31 @@
 {
  "city": "Kilis",
  "code": 79,
- "dutyDay": "2026-11-06",
- "updatedAt": "2026-11-06T21:33:55.824Z",
+ "dutyDay": "2026-11-07",
+ "updatedAt": "2026-11-07T13:00:45.161Z",
  "source": "Gaziantep Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Burcu Eczanesi",
-   "address": "Mehmet Rıfat Kazancıoğlu Mahallesi Turgut Özal Caddesi nO:23/B (KAYABAŞ CAMİ YANI)",
-   "phone": "03488136333",
+   "name": "Deniz Eczanesi",
+   "address": "Yedi Aralık Mahallesi. Murtaza Caddesi. 30/A",
+   "phone": "03488143271",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 36.7085971,
-   "lng": 37.135774
+   "lat": 36.7186698,
+   "lng": 37.1115295
+  },
+  {
+   "district": "Merkez",
+   "name": "Ömür Eczanesi",
+   "address": "KANUNI SULTAN SÜLEYMAN MAHALLESI SÖRHABIL CADDESI NO:94",
+   "phone": "03488132053",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": null,
+   "lng": null
   }
  ],
  "sourceUrl": "https://www.gaziantepeo.org.tr/nobetci-eczaneler"

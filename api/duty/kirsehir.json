@@ -1,53 +1,53 @@
 {
  "city": "Kırşehir",
  "code": 40,
- "dutyDay": "2026-11-06",
- "updatedAt": "2026-11-06T21:33:40.367Z",
+ "dutyDay": "2026-11-07",
+ "updatedAt": "2026-11-07T12:58:06.027Z",
  "source": "e-Devlet TİTCK, Aksaray-Kırşehir Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Özge Eczanesi",
-   "address": "KUŞDİLİ MAH. TERME CAD. NO:74 MERKEZ / KIRŞEHİR",
-   "phone": "0386 213 0473",
-   "dutyStart": "2026-11-06T18:00:00+03:00",
-   "dutyEnd": "2026-11-07T08:00:00+03:00",
+   "name": "Sezenler Eczanesi",
+   "address": "KERVANSARAY MAH. 2019. SOK. KAYAÖZ SİTESİ A BLOK NO:19",
+   "phone": "0507 261 4255",
+   "dutyStart": "2026-11-07T13:00:00+03:00",
+   "dutyEnd": "2026-11-08T08:00:00+03:00",
    "approved": true,
-   "lat": 39.137707,
-   "lng": 34.154789
+   "lat": 39.157169,
+   "lng": 34.163971
   },
   {
    "district": "Merkez",
-   "name": "Tabiat Eczanesi",
-   "address": "Yenice Mah. Atatürk Cad. Metin Çobanoğlu Sk. No:4",
-   "phone": "0386 212 3243",
-   "dutyStart": "2026-11-06T18:00:00+03:00",
-   "dutyEnd": "2026-11-07T08:00:00+03:00",
+   "name": "Yaşam Eczanesi",
+   "address": "KERVANSARAY MAH.2019 SOKAK KAYAÖZ SİTESİ A. BLOK NO:4/20",
+   "phone": "0386 213 0404",
+   "dutyStart": "2026-11-07T13:00:00+03:00",
+   "dutyEnd": "2026-11-08T08:00:00+03:00",
    "approved": true,
-   "lat": 39.142445,
-   "lng": 34.162811
+   "lat": 39.157211,
+   "lng": 34.164097
   },
   {
    "district": "Kaman",
-   "name": "Erdem Eczanesi",
-   "address": "YENI MAH.25 ARALIK CAD. NO :2 KAMAN",
-   "phone": "3867122173",
+   "name": "Hayat Eczanesi",
+   "address": "CUMHURIYET MEYDANI NO:38 KAMAN",
+   "phone": "3867127210",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.359566,
-   "lng": 33.723219
+   "lat": 39.358003,
+   "lng": 33.724385
   },
   {
    "district": "Mucur",
-   "name": "Emin Eczanesi",
-   "address": "Hamidiye Mah.İnönü Cad. No:16",
-   "phone": "03868126027",
+   "name": "Hendek Eczanesi",
+   "address": "YENİCE MAH.ENVERPAŞA CAD.NO:29",
+   "phone": "03868122223",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.062735,
-   "lng": 34.376231
+   "lat": 39.064625,
+   "lng": 34.376816
   }
  ],
  "sourceUrl": "https://www.aksarayeo.org.tr/nobetci-eczaneler"
