@@ -1,26 +1,26 @@
 {
  "city": "Kilis",
  "code": 79,
- "dutyDay": "2026-11-07",
- "updatedAt": "2026-11-07T20:16:30.390Z",
+ "dutyDay": "2026-11-08",
+ "updatedAt": "2026-11-08T13:23:21.005Z",
  "source": "Gaziantep Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Deniz Eczanesi",
-   "address": "Yedi Aralık Mahallesi. Murtaza Caddesi. 30/A",
-   "phone": "03488143271",
+   "name": "Pazar Eczanesi",
+   "address": "CANPOLAT PASA MAHALLESI SABAH PAZARI CADDESI NO:2 KİLİS",
+   "phone": "03488133460",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 36.7186698,
-   "lng": 37.1115295
+   "lat": null,
+   "lng": null
   },
   {
    "district": "Merkez",
-   "name": "Ömür Eczanesi",
-   "address": "KANUNI SULTAN SÜLEYMAN MAHALLESI SÖRHABIL CADDESI NO:94",
-   "phone": "03488132053",
+   "name": "Ergezen Eczanesi",
+   "address": "SEHIT SAKIP MAH. CUMHURIYET CAD. NO:240 (HACI CÜMBÜŞ CAMİ KARŞISI)",
+   "phone": "03488137787",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,

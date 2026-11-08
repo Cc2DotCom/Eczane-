@@ -1,8 +1,8 @@
 {
  "city": "Erzincan",
  "code": 24,
- "dutyDay": "2026-11-07",
- "updatedAt": "2026-11-07T12:55:57.137Z",
+ "dutyDay": "2026-11-08",
+ "updatedAt": "2026-11-08T13:18:53.243Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
@@ -10,8 +10,8 @@
    "name": "Güliz Eczanesi",
    "address": "ATATÜRK MAH. HÜKÜMET CAD. NO:17 ÇAYIRLI /ERZİNCAN",
    "phone": "0446 311 3403",
-   "dutyStart": "2026-11-07T18:00:00+03:00",
-   "dutyEnd": "2026-11-08T08:00:00+03:00",
+   "dutyStart": "2026-11-08T08:00:00+03:00",
+   "dutyEnd": "2026-11-09T08:00:00+03:00",
    "approved": true,
    "lat": 39.807327,
    "lng": 40.037361
@@ -21,66 +21,66 @@
    "name": "Fatma Eczanesi",
    "address": "ABDULLAH PAŞA MAH. HÜKÜMET CAD. NO:17/B",
    "phone": "0446 711 2844",
-   "dutyStart": "2026-11-07T08:30:00+03:00",
-   "dutyEnd": "2026-11-08T08:30:00+03:00",
+   "dutyStart": "2026-11-08T08:30:00+03:00",
+   "dutyEnd": "2026-11-09T08:30:00+03:00",
    "approved": true,
    "lat": 39.455162,
    "lng": 38.562801
   },
   {
    "district": "Merkez",
-   "name": "Gazi Eczanesi",
-   "address": "BAŞBAĞLAR MAH. HACI ALİ AKIN CAD. NO:41/C-D ERZİNCAN",
-   "phone": "0446 212 1020",
-   "dutyStart": "2026-11-07T18:00:00+03:00",
-   "dutyEnd": "2026-11-08T00:00:00+03:00",
+   "name": "Yeni Nil Eczanesi",
+   "address": "FATİH MAHALLESİ 700.SOKAK NO: 11 ERZİNCAN",
+   "phone": "0446 214 5252",
+   "dutyStart": "2026-11-08T08:30:00+03:00",
+   "dutyEnd": "2026-11-09T08:30:00+03:00",
    "approved": true,
-   "lat": 39.761543,
-   "lng": 39.509068
+   "lat": 39.746647,
+   "lng": 39.509899
   },
   {
    "district": "Merkez",
-   "name": "Murat Eczanesi",
-   "address": "BAŞBAĞLAR MAH. HACI ALİ AKIN CAD. 1430.SOK NO:41/B ERZİNCAN",
-   "phone": "0446 224 1103",
-   "dutyStart": "2026-11-07T18:00:00+03:00",
-   "dutyEnd": "2026-11-08T08:30:00+03:00",
+   "name": "Özkaya Eczanesi",
+   "address": "İZZETPAŞA MAHALLESİ 836. SOKAK NO :34 ERZİNCAN",
+   "phone": "0446 226 3370",
+   "dutyStart": "2026-11-08T12:00:00+03:00",
+   "dutyEnd": "2026-11-08T20:00:00+03:00",
    "approved": true,
-   "lat": 39.761543,
-   "lng": 39.508999
+   "lat": 39.738022,
+   "lng": 39.510609
   },
   {
    "district": "Refahiye",
-   "name": "Lokman Hekim Eczanesi",
-   "address": "KEMALİYE MAH. ERZİNCAN CAD. NO:8 REFAHİYE / ERZİNCAN",
-   "phone": "0446 611 2201",
-   "dutyStart": "2026-11-07T17:00:00+03:00",
-   "dutyEnd": "2026-11-08T08:00:00+03:00",
+   "name": "Refahiye Eczanesi",
+   "address": "Yenidoğan Mahallesi 500. sokak No:5-A",
+   "phone": "0446 611 2322",
+   "dutyStart": "2026-11-08T08:00:00+03:00",
+   "dutyEnd": "2026-11-09T08:00:00+03:00",
    "approved": true,
-   "lat": 39.899727,
-   "lng": 38.768826
+   "lat": 39.90052,
+   "lng": 38.769875
   },
   {
    "district": "Tercan",
-   "name": "Emrah Eczanesi",
-   "address": "KAZIM KARABEKİR MAH. KERVANSARAY CAD. NO:41/B TERCAN/ERZİNCAN",
-   "phone": "0446 441 2425",
-   "dutyStart": "2026-11-07T12:00:00+03:00",
-   "dutyEnd": "2026-11-08T08:00:00+03:00",
+   "name": "Algül Eczanesi",
+   "address": "KAZIM KARABEKİR MAHALLESİ KERVANSARAY CAD. DIŞ KAPI NO:99 İÇ KAPI NO:2 TERCAN/ERZİNCAN",
+   "phone": "0541 319 3117",
+   "dutyStart": "2026-11-08T08:00:00+03:00",
+   "dutyEnd": "2026-11-09T08:00:00+03:00",
    "approved": true,
-   "lat": 39.778683,
-   "lng": 40.380032
+   "lat": 39.778496,
+   "lng": 40.380863
   },
   {
    "district": "Üzümlü",
-   "name": "Nur Eczanesi",
-   "address": "FATİH MAHALLESİ ERZİNCAN BULVARI 114/C ÜZÜMLÜ/ERZİNCAN",
-   "phone": "0446 502 4445",
-   "dutyStart": "2026-11-07T18:00:00+03:00",
-   "dutyEnd": "2026-11-08T08:30:00+03:00",
+   "name": "Güven Eczanesi",
+   "address": "Fatih Mahallesi Erzincan Bulvarı No:114/A Üzümlü Erzincan",
+   "phone": "0505 429 9575",
+   "dutyStart": "2026-11-08T08:30:00+03:00",
+   "dutyEnd": "2026-11-09T08:30:00+03:00",
    "approved": true,
-   "lat": 39.697678,
-   "lng": 39.683681
+   "lat": 39.697781,
+   "lng": 39.683838
   }
  ]
 }

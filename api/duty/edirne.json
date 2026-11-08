@@ -1,97 +1,97 @@
 {
  "city": "Edirne",
  "code": 22,
- "dutyDay": "2026-11-07",
- "updatedAt": "2026-11-07T20:15:57.960Z",
+ "dutyDay": "2026-11-08",
+ "updatedAt": "2026-11-08T13:18:48.081Z",
  "source": "Edirne Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Edirne Cent Eczanesi",
-   "address": "SABUNİ MAH. ÇİLİNGİRLER CAD. NO:25-Z09 EDİRNE",
-   "phone": "02842252003",
+   "name": "Tülın Eczanesi",
+   "address": "NISANCI PASA MAH. KIYIK CAD. NO:1",
+   "phone": "2842120757",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 41.675101,
-   "lng": 26.55425
+   "lat": 41.677566,
+   "lng": 26.56631
   },
   {
    "district": "Merkez",
-   "name": "Şentürk Eczanesi",
-   "address": "FATİH MAHALLESİ ÜMRAN AKKAN CADDESİ NO:17/B ESENTEPE MİGROS YANI",
-   "phone": "02842351923",
+   "name": "Rukiye Kantar Eczanesi",
+   "address": "ŞÜKRÜPAŞA MAH. PROF. ÖMER LÜTFÜ BERKAN CAD. NO:1 EDİRNE",
+   "phone": "02842134647",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 41.660169,
-   "lng": 26.596166
+   "lat": 41.673327,
+   "lng": 26.584532
   },
   {
    "district": "Merkez",
-   "name": "Gülden Eczanesi",
-   "address": "I.MURAT MAH. GÜNGÖR MAZLUM CAD.ZÜBEYDE HANIM SITESI A.BLOK NO:11 (AĞIZ VE DİŞ HASTANESİ YANI)",
-   "phone": "02842352800",
+   "name": "Kutlutaş Eczanesi",
+   "address": "KOCASINAN MAH. ÇAMLIK KONUTLARI C BLOK NO:11 EDİRNE",
+   "phone": "02842350085",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 41.663505,
-   "lng": 26.585282
+   "lat": 41.65103,
+   "lng": 26.59391
   },
   {
    "district": "Enez",
-   "name": "Saygin Eczanesi",
-   "address": "GAZI ÖMERBEY MAH. KALE CAD. NO:11",
-   "phone": "2848116147",
+   "name": "Hayat Eczanesi",
+   "address": "YENI MAH.MILLI EGEMENLIK CAD. NO:9/A",
+   "phone": "2848116564",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 40.724814,
-   "lng": 26.084344
+   "lat": 40.724876,
+   "lng": 26.086899
   },
   {
    "district": "Havsa",
-   "name": "Gün Eczanesi",
-   "address": "HACI ISA MAH.23 KASIM CAD. NO:22/F",
-   "phone": "05334610130",
+   "name": "Petek Eczanesi",
+   "address": "CUMHURİYET MAH. FATİH CAD. NO:95/F",
+   "phone": "02843361122",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 41.549489,
-   "lng": 26.821152
+   "lat": 41.545963,
+   "lng": 26.829652
   },
   {
    "district": "İpsala",
-   "name": "Coskun Eczanesi",
-   "address": "BAYRAMBEY MAH.ENEZ CAD NO:2",
-   "phone": "2846161050",
+   "name": "İpsala Taş Eczanesi",
+   "address": "bayrambey mah. dr sadık ahmet caddesı 75/b",
+   "phone": "02846162284",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 40.922143,
-   "lng": 26.383545
+   "lat": 40.917259,
+   "lng": 26.380692
   },
   {
    "district": "Keşan",
-   "name": "Yeni Eczanesi",
-   "address": "BÜYÜKCAMİ MAH. İNÖNÜ CAD. NO:21 KEŞAN",
-   "phone": "02847144430",
+   "name": "Gölemen Eczanesi",
+   "address": "DEMIRCILER CAD. NO:25",
+   "phone": "02847145711",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 40.853674,
-   "lng": 26.631175
+   "lat": 40.853182,
+   "lng": 26.632476
   },
   {
    "district": "Lalapaşa",
-   "name": "Yaren Eczanesi",
-   "address": "MERKEZ MAH. ŞEHİT ER AHMET BİNGÖL SOK. NO:1/D LALAPAŞA",
-   "phone": "02843214082",
+   "name": "Sevil Eczanesi",
+   "address": "CUMHURIYET CAD.NO:36/B",
+   "phone": "2843214032",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 41.839159,
-   "lng": 26.735825
+   "lat": 41.839311,
+   "lng": 26.732826
   },
   {
    "district": "Meriç",
@@ -106,14 +106,14 @@
   },
   {
    "district": "Uzunköprü",
-   "name": "Bizim Eczanesi",
-   "address": "KAVAK MAH.BÜLENT ÇAKIR CAD.NO:52/1",
-   "phone": "2845131756",
+   "name": "Arzu Eczanesi",
+   "address": "CAMİİ MURADİYE MAH. KURTULUŞ CADDESİ NO: 11 /B",
+   "phone": "02845139722",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 41.271051,
-   "lng": 26.703906
+   "lat": 41.269641,
+   "lng": 26.685157
   },
   {
    "district": "Süloğlu",

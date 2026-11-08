@@ -1,42 +1,42 @@
 {
  "city": "Kırşehir",
  "code": 40,
- "dutyDay": "2026-11-07",
- "updatedAt": "2026-11-07T20:16:15.622Z",
+ "dutyDay": "2026-11-08",
+ "updatedAt": "2026-11-08T13:20:48.695Z",
  "source": "e-Devlet TİTCK, Aksaray-Kırşehir Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Sezenler Eczanesi",
-   "address": "KERVANSARAY MAH. 2019. SOK. KAYAÖZ SİTESİ A BLOK NO:19",
-   "phone": "0507 261 4255",
-   "dutyStart": "2026-11-07T13:00:00+03:00",
-   "dutyEnd": "2026-11-08T08:00:00+03:00",
+   "name": "Çelik Eczanesi",
+   "address": "MEDRESE MAH.92.SOK.YILMAZ APT.ALTI NO:8/13",
+   "phone": "3 862 143 370_",
+   "dutyStart": "2026-11-08T08:00:00+03:00",
+   "dutyEnd": "2026-11-09T08:00:00+03:00",
    "approved": true,
-   "lat": 39.157169,
-   "lng": 34.163971
+   "lat": 39.142876,
+   "lng": 34.162651
   },
   {
    "district": "Merkez",
-   "name": "Yaşam Eczanesi",
-   "address": "KERVANSARAY MAH.2019 SOKAK KAYAÖZ SİTESİ A. BLOK NO:4/20",
-   "phone": "0386 213 0404",
-   "dutyStart": "2026-11-07T13:00:00+03:00",
-   "dutyEnd": "2026-11-08T08:00:00+03:00",
+   "name": "Yeni Eczane Eczanesi",
+   "address": "MEDRESE MAH. 92. SOK. MELİK GAZİ APT. NO:4/A MERKEZ KIRŞEHİR",
+   "phone": "0386 214 2221",
+   "dutyStart": "2026-11-08T08:00:00+03:00",
+   "dutyEnd": "2026-11-09T08:00:00+03:00",
    "approved": true,
-   "lat": 39.157211,
-   "lng": 34.164097
+   "lat": 39.143166,
+   "lng": 34.162624
   },
   {
    "district": "Kaman",
-   "name": "Hayat Eczanesi",
-   "address": "CUMHURIYET MEYDANI NO:38 KAMAN",
-   "phone": "3867127210",
+   "name": "Eren Eczanesi",
+   "address": "Yeni Mah. 25 Aralık Cad. No: 5",
+   "phone": "03867127988",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.358003,
-   "lng": 33.724385
+   "lat": 39.359839,
+   "lng": 33.723075
   },
   {
    "district": "Mucur",

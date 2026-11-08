@@ -1,31 +1,31 @@
 {
  "city": "Van",
  "code": 65,
- "dutyDay": "2026-11-07",
- "updatedAt": "2026-11-07T13:00:03.252Z",
+ "dutyDay": "2026-11-08",
+ "updatedAt": "2026-11-08T13:22:41.514Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Erciş",
-   "name": "Çiçek Eczanesi",
-   "address": "Vanyolu Mah. Kara Yusuf Bey Bulvarı Dış Kapı No:105B",
-   "phone": "0545 497 8021",
-   "dutyStart": "2026-11-07T13:00:00+03:00",
-   "dutyEnd": "2026-11-08T08:30:00+03:00",
+   "name": "Ketmen Eczanesi",
+   "address": "Vanyolu Mah. Lütfi Güvenir Cad. Dış Kapı No:41B",
+   "phone": "0535 594 7073",
+   "dutyStart": "2026-11-08T08:30:00+03:00",
+   "dutyEnd": "2026-11-09T08:30:00+03:00",
    "approved": true,
-   "lat": 39.023895,
-   "lng": 43.3703
+   "lat": 39.024452,
+   "lng": 43.365456
   },
   {
    "district": "Erciş",
-   "name": "Öz Yaşam Eczanesi",
-   "address": "LATİFİYE MAHALLESİ BİLİCİLER CADDESİ EBUBEKİR ÇİFTÇİ BULVARI NO:2",
-   "phone": "0432 351 9092",
-   "dutyStart": "2026-11-07T13:00:00+03:00",
-   "dutyEnd": "2026-11-08T08:30:00+03:00",
+   "name": "Vitamin Eczanesi",
+   "address": "Vanyolu Mah. Karayusuf Bey Bulvarı No: 99-B",
+   "phone": "0543 244 7572",
+   "dutyStart": "2026-11-08T08:30:00+03:00",
+   "dutyEnd": "2026-11-09T08:30:00+03:00",
    "approved": true,
-   "lat": 39.029751,
-   "lng": 43.357983
+   "lat": 39.023823,
+   "lng": 43.370651
   }
  ]
 }

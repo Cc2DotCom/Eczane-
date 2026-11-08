@@ -1,163 +1,163 @@
 {
  "city": "Aydın",
  "code": 9,
- "dutyDay": "2026-11-07",
- "updatedAt": "2026-11-07T20:15:41.237Z",
+ "dutyDay": "2026-11-08",
+ "updatedAt": "2026-11-08T13:17:42.883Z",
  "source": "Aydın Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Pehlivan Eczanesi",
-   "address": "MESRUTIYET MAH. GENÇLIK CAD. NO: 94 ( AYDIN LİSESİ KARŞI SOKAĞINDAN GİRİLECEK - 12 NOLU ASM YANI )",
-   "phone": "02562251624",
+   "name": "Esin Eczanesi",
+   "address": "GIRNE MAH. 2177.SK.NO: 34/A ( MALAZGİRT MEYDANI/9 NOLU ASM KARŞISI )",
+   "phone": "02562198099",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.851702,
-   "lng": 27.830211
+   "lat": 37.851464,
+   "lng": 27.82328
   },
   {
    "district": "Merkez",
-   "name": "Karataş Eczanesi",
-   "address": "HASAN EFENDİ MAH. HASTANE CAD. NO:1 ( AYDIN DEVLET HASTANESİ ACİL SERVİS ALTI-TREN YOLU KENARI )",
-   "phone": "02562156133",
+   "name": "Üniversite Eczanesi",
+   "address": "DOĞU GAZİ BUL. ORTA MAH. NO:202/C ( ADÜ RAMPA ÇIKIŞI )",
+   "phone": "02562252232",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.848104,
-   "lng": 27.837051
+   "lat": 37.847849,
+   "lng": 27.858251
   },
   {
    "district": "Merkez",
-   "name": "Efeler Eczanesi",
-   "address": "ZAFER MAH. DOĞU GAZİ BULV. NO:183/A ( CADDE PLUS CAFE YANI )",
-   "phone": "02565022619",
+   "name": "Giray Eczanesi",
+   "address": "CUMHURİYET MAH. VALİ KONAĞI BULV. NO:30/D ( ATATÜRK DEVLET HASTANESİ ÇAPRAZ KARŞISI )",
+   "phone": "02562123292",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.848021,
-   "lng": 27.853408
+   "lat": 37.842053,
+   "lng": 27.83941
   },
   {
    "district": "Merkez",
-   "name": "Karabulut Eczanesi",
-   "address": "CUMHURİYET MAH. VALİ KONAĞI BLV. NO:28/A ( ATATÜRK DEVLET HASTANESİ ÇAPRAZI - KOZDİBİ MEYDANI-CAN PİDE KARŞISI )",
-   "phone": "02562257867",
+   "name": "Menderes Eczanesi",
+   "address": "HASANEFEFNDI MAH.HASTANE CAD.NO.20 ( AYDIN DEVLET HASTANESİ ARKASI - TREN YOLU KARŞISI - GÖZLÜKÇÜLER YANI. )",
+   "phone": "02562256462",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.842486,
-   "lng": 27.839619
+   "lat": 37.84813,
+   "lng": 27.837165
   },
   {
    "district": "Kuşadası",
-   "name": "Ceren Eczanesi",
-   "address": "IKIÇESMELIK MAH. 601 SK. NO: 4 / A (2 NOLU ASM YANI)",
-   "phone": "02566121235",
+   "name": "Buket Eczanesi",
+   "address": "ADNAN MENDERES BULVARI NO: 45 (CUMA PAZARI KAVŞAĞINDAN ÇEVRE YOLUNA ÇIKARKEN YAŞINOĞLU SÜT ÜRÜNLERİ YANI)",
+   "phone": "02566142298",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.853384,
-   "lng": 27.27008
+   "lat": 37.856208,
+   "lng": 27.265896
   },
   {
    "district": "Kuşadası",
-   "name": "Ulusoy Eczanesi",
-   "address": "CUMHURİYET MAH. 1501 SOK. NO:7C ( GARANTİ BANKASI ÇARŞI ŞUBESİ YANI )",
-   "phone": "02566132233",
+   "name": "Poseidon Port Eczanesi",
+   "address": "CAMİKEBİR MAH. BARBAROS HAYRETTİN PAŞA BULV. NO:7 ( ÇARŞI GİRİŞİ - KERVANSARAY KARŞISI )",
+   "phone": "02565022535",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.857315,
-   "lng": 27.261322
+   "lat": 37.860588,
+   "lng": 27.257132
   },
   {
    "district": "Nazilli",
-   "name": "Güven Eczanesi",
-   "address": "KARAÇAY MAH. HÜRRİYET CAD. 266/A (ASKERLİK ŞUBESİ ÇAPRAZ KARŞISI)",
-   "phone": "02563157067",
+   "name": "Menderes Eczanesi",
+   "address": "YILDIZTEPE MAH. 81 / 2 SK. ÖZDEN SITESI D BLOK NO: 6 (8 NOLU ASM YANI)",
+   "phone": "02563181180",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.910637,
-   "lng": 28.324204
+   "lat": 37.921381,
+   "lng": 28.320039
   },
   {
    "district": "Nazilli",
-   "name": "Murat Eczanesi",
-   "address": "YEŞİL MAH. 729 SOK. NO:26/C (DEVLET HASTANESİ KARŞISI)",
-   "phone": "02563132325",
+   "name": "Buğra Eczanesi",
+   "address": "YENI MAH. SAGLIK CAD. NO:31/A YENİ MAHALLE SAĞLIK CADDESİ ESKİ DEVLET HASTANESİ",
+   "phone": "02563133016",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.920008,
-   "lng": 28.336792
+   "lat": 37.917248,
+   "lng": 28.319112
   },
   {
    "district": "Söke",
-   "name": "Sinem Eczanesi",
-   "address": "KEMALPAŞA MAH.FUTBOL SOK.NO:10/A (9 KARDEŞ BALIKÇILAR KARŞISI - ÇETMEN ÇAPRAZI)",
-   "phone": "02565131513",
+   "name": "Çetin Eczanesi",
+   "address": "YENİKENT MAH. 29. SOKAK NO:3/Z01 ( DEVLET HASTANESİ KARŞISI )",
+   "phone": "02565121419",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.75042,
-   "lng": 27.403787
+   "lat": 37.764428,
+   "lng": 27.402015
   },
   {
    "district": "Söke",
-   "name": "Sevindik Eczanesi",
-   "address": "FEVZİPAŞA MAH. FAİK KOCAGÖZ CAD. NO:32/A ( ESKİ DOĞUŞ ECZANESİ - FEVZİPAŞA IŞIKLAR )",
-   "phone": "02565128002",
+   "name": "Yiğit Eczanesi",
+   "address": "ATATÜRK MAH. BURDUR SOK. NO:14/A (5 NOLU ASM KARŞISI, DİŞ HASTANESİ ARKA SOKAĞI)",
+   "phone": "02565124667",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.762104,
-   "lng": 27.409715
+   "lat": 37.756579,
+   "lng": 27.409561
   },
   {
    "district": "Didim",
-   "name": "Çılga Eczanesi",
-   "address": "YENİ MAH. CUMHURİYET CAD. 118/A ( BELEDİYE KARŞISI - 1 NOLU ASM KARŞISI )",
-   "phone": "02568113239",
+   "name": "Hazal Eczanesi",
+   "address": "YENİ MAH. 824 SOK. NO:147 ( 3M MİGROS KARŞISI - DENİZBANK YANI )",
+   "phone": "02568110122",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.377736,
-   "lng": 27.269795
+   "lat": 37.374134,
+   "lng": 27.266527
   },
   {
    "district": "Acarlar",
-   "name": "İlayda Eczanesi",
-   "address": "ACARLAR MAH. ADNAN MENDERES BULV. NO:45/1A",
-   "phone": "02565958687",
+   "name": "Acarlar Eczanesi",
+   "address": "ACARLAR BELDESI CUMHURIYET MAH. ADNAN MENDERES BULV. NO: 204",
+   "phone": "02565957021",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.824908,
-   "lng": 27.749925
+   "lat": 37.825629,
+   "lng": 27.746585
   },
   {
    "district": "İncirliova",
-   "name": "Nesrin Eczanesi",
-   "address": "İSTİKLAL MAH. PROF. DR. TÜRKAN SAYLAN CAD. NO:87/B",
-   "phone": "02565855588",
+   "name": "Limon Eczanesi",
+   "address": "CUMHURİYET MAH. AYKUT OZAN CAD. NO:46/1B",
+   "phone": "02565022663",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.853815,
-   "lng": 27.719493
+   "lat": 37.849955,
+   "lng": 27.731416
   },
   {
    "district": "Akbük",
-   "name": "Yildirim Eczanesi",
-   "address": "AKBÜK MAH.3004 CADDE NO 22/A",
-   "phone": "02568564912",
+   "name": "Akbük Eczanesi",
+   "address": "AKBÜK MAH. 5855 CAD. NO: 2 / 3A",
+   "phone": "02568564258",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.391081,
-   "lng": 27.437947
+   "lat": 37.388106,
+   "lng": 27.432841
   },
   {
    "district": "Akçaova",
@@ -183,14 +183,14 @@
   },
   {
    "district": "Bağarası",
-   "name": "Gümüs Eczanesi",
-   "address": "BAĞARASI MAH. ÇALIŞLI CAD. 29. SOK. NO:39",
-   "phone": "02565441611",
+   "name": "Çağlayan Eczanesi",
+   "address": "BAĞARASI MAH. 29.SK. NO: 41/A",
+   "phone": "02565442565",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.713378,
-   "lng": 27.55227
+   "lat": 37.712216,
+   "lng": 27.554293
   },
   {
    "district": "Bozdoğan",
@@ -216,14 +216,14 @@
   },
   {
    "district": "Çine",
-   "name": "Akbay Eczanesi",
-   "address": "HAMİTABAT MAH. MEHMET YAVAŞ CAD. NO:44/B ( ÇARŞI CAMİİ ALTI )",
-   "phone": "02567116373",
+   "name": "Elit Eczanesi",
+   "address": "MEHMET YAVAS CAD. NO: 101",
+   "phone": "02567110084",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.614055,
-   "lng": 28.061081
+   "lat": 37.613448,
+   "lng": 28.061347
   },
   {
    "district": "Davutlar",
@@ -238,14 +238,14 @@
   },
   {
    "district": "Germencik",
-   "name": "Çapakçıoglu Eczanesi",
-   "address": "CAMİKEBİR MAHALLESİ ŞEHİT CAFER SOKAK NO:39/D GERMENCİK/AYDIN",
-   "phone": "02565631339",
+   "name": "Yilmaz Eczanesi",
+   "address": "CAMIKEBIR MAH.SEHIT CAFER CAD.NO.17/2C 1 NOLU SAĞLIK OCAĞI KARŞISI",
+   "phone": "02565634558",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.869571,
-   "lng": 27.600806
+   "lat": 37.870349,
+   "lng": 27.599719
   },
   {
    "district": "Güzelçamlı",
@@ -282,91 +282,91 @@
   },
   {
    "district": "Karpuzlu",
-   "name": "Zeytin Eczanesi",
-   "address": "YENİ MAH. BARBAROS CAD.36/B",
-   "phone": "02567412045",
+   "name": "Hekimoğlu Eczanesi",
+   "address": "YENİ MAH. BARBAROS CAD. NO:29/A KARPUZLU DEVLET HASTANESİ KARŞISI",
+   "phone": "02567411010",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.556036,
-   "lng": 27.835806
+   "lat": 37.556182,
+   "lng": 27.835884
   },
   {
    "district": "Köşk",
-   "name": "Akay Eczanesi",
-   "address": "ÇARŞI MAH. ESKİ AYDIN - NAZİLLİ CAD. NO:34/A ( YENİ TARIM KOOP. ALIŞVERİŞ MERKEZİ KARŞISI )",
-   "phone": "02564614141",
+   "name": "Sefagül Eczanesi",
+   "address": "SOGUKKUYU MAH. BASÇAYIR CAD. NO: 27",
+   "phone": "02564611188",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.854009,
-   "lng": 28.054386
+   "lat": 37.853751,
+   "lng": 28.052035
   },
   {
    "district": "Kuyucak",
-   "name": "Şifa Eczanesi",
-   "address": "FATİH MAH. İNÖNÜ CAD. NO:45/B",
-   "phone": "02563713311",
+   "name": "Pamuk Eczanesi",
+   "address": "FATİH MAH. İNÖNÜ CAD. NO:20",
+   "phone": "02563714101",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.913408,
-   "lng": 28.46457
+   "lat": 37.913804,
+   "lng": 28.462214
   },
   {
    "district": "Ortaklar",
-   "name": "Hayat Eczanesi",
-   "address": "ORTAKLAR BELDESI CUMHURIYET MAH. HÜRRIYET CAD. NO: 59",
-   "phone": "02565771079",
+   "name": "Korkmaz Eczanesi",
+   "address": "ORTAKLAR MAH. EVREN SOK. NO:3/1",
+   "phone": "02565773777",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.88753,
-   "lng": 27.502469
+   "lat": 37.888924,
+   "lng": 27.505711
   },
   {
    "district": "Sultanhisar",
-   "name": "Maden Eczanesi",
-   "address": "ZAFER MAH. ATATÜRK CAD. NO:36",
-   "phone": "02563513308",
+   "name": "Eker Eczanesi",
+   "address": "ZAFER MAH. ATATÜRK CAD. NO:63/A",
+   "phone": "02563513863",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.887788,
-   "lng": 28.154661
+   "lat": 37.888965,
+   "lng": 28.154374
   },
   {
    "district": "Umurlu",
-   "name": "Güzın Eczanesi",
-   "address": "UMURLU MAH. ADNAN MENDERES BUL.NOI:113A",
-   "phone": "02562512288",
+   "name": "Burcum Eczanesi",
+   "address": "ÇARŞI MAH. 2028 SOK. NO:3",
+   "phone": "02562197841",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.8511,
-   "lng": 27.960685
+   "lat": 37.850217,
+   "lng": 27.960109
   },
   {
    "district": "Yenipazar",
-   "name": "Özgün Eczanesi",
-   "address": "DOĞU MAH. LAVANTA SOK. NO:12/A",
-   "phone": "02563614323",
+   "name": "Yenipazar Eczanesi",
+   "address": "DOĞU MAH. LAVANTA SOK. NO:2",
+   "phone": "02563613053",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.824206,
-   "lng": 28.2054
+   "lat": 37.824119,
+   "lng": 28.20472
   },
   {
    "district": "Altinkum",
-   "name": "Yalçın Eczanesi",
-   "address": "ÇAMLIK MAH. ATATÜRK CAD. NO: 5",
-   "phone": "02568132329",
+   "name": "Özalp Eczanesi",
+   "address": "ÇAMLIK MAH. ÜÇ MEVSİM CAD. NO:30/A ( ALTINKUM SAĞLIK OCAĞI KARŞISI )",
+   "phone": "02565028400",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.356419,
-   "lng": 27.27571
+   "lat": 37.354487,
+   "lng": 27.268567
   }
  ],
  "sourceUrl": "https://www.aydineczaciodasi.org.tr/mobil/"

@@ -1,8 +1,8 @@
 {
  "city": "Amasya",
  "code": 5,
- "dutyDay": "2026-11-07",
- "updatedAt": "2026-11-07T12:54:06.662Z",
+ "dutyDay": "2026-11-08",
+ "updatedAt": "2026-11-08T13:17:00.409Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
@@ -10,88 +10,88 @@
    "name": "Evren Eczanesi",
    "address": "YENİ MAH. YOZGAT CAD. NO:67/A",
    "phone": "0358 615 2525",
-   "dutyStart": "2026-11-07T08:00:00+03:00",
-   "dutyEnd": "2026-11-08T08:00:00+03:00",
+   "dutyStart": "2026-11-08T08:00:00+03:00",
+   "dutyEnd": "2026-11-09T08:00:00+03:00",
    "approved": true,
    "lat": 40.391914,
    "lng": 35.521545
   },
   {
    "district": "Gümüşhacıköy",
-   "name": "Şifa Eczanesi",
-   "address": "CUMARA MAH. MEHMET PAŞA CADDESİ NO:29",
-   "phone": "0358 717 1222",
-   "dutyStart": "2026-11-07T08:00:00+03:00",
-   "dutyEnd": "2026-11-08T08:00:00+03:00",
+   "name": "Yarar Eczanesi",
+   "address": "HACIYAHYA MAH. CUMHURİYET MEYDANI NO:2N",
+   "phone": "0358 717 3977",
+   "dutyStart": "2026-11-08T08:00:00+03:00",
+   "dutyEnd": "2026-11-09T08:00:00+03:00",
    "approved": true,
-   "lat": 40.873543,
-   "lng": 35.216553
+   "lat": 40.873775,
+   "lng": 35.215054
   },
   {
    "district": "Hamamözü",
    "name": "Ömür Eczanesi",
    "address": "ARTUKBEY MAH. ÇORUM CAD. NO:9/1",
    "phone": "0358 787 6202",
-   "dutyStart": "2026-11-07T08:00:00+03:00",
-   "dutyEnd": "2026-11-08T08:00:00+03:00",
+   "dutyStart": "2026-11-08T08:00:00+03:00",
+   "dutyEnd": "2026-11-09T08:00:00+03:00",
    "approved": true,
    "lat": 40.781593,
    "lng": 35.022079
   },
   {
    "district": "Merkez",
-   "name": "Şenel Eczanesi",
-   "address": "HIZIRPAŞA MAHALLESİ ŞEHİT HÜSEYİN HATİPOĞLU CADDESİ NO:86",
-   "phone": "0358 218 6797",
-   "dutyStart": "2026-11-07T08:00:00+03:00",
-   "dutyEnd": "2026-11-08T08:00:00+03:00",
+   "name": "Eczane Saygin Eczanesi",
+   "address": "55 EVLER MAH. İLYASAĞA SOK. DÜLGER APT. NO:8/A",
+   "phone": "0358 212 2717",
+   "dutyStart": "2026-11-08T08:00:00+03:00",
+   "dutyEnd": "2026-11-09T08:00:00+03:00",
    "approved": true,
-   "lat": 40.655701,
-   "lng": 35.809048
+   "lat": 40.666939,
+   "lng": 35.845867
   },
   {
    "district": "Merkez",
-   "name": "Vitamin Eczanesi",
-   "address": "DERE MAH. MUSTAFA KEMAL PAŞA CADDESİ NO:6/B",
-   "phone": "0358 218 5444",
-   "dutyStart": "2026-11-07T08:00:00+03:00",
-   "dutyEnd": "2026-11-08T08:00:00+03:00",
+   "name": "Yasemin Eczanesi",
+   "address": "YÜZEVLER MAHALLESİ MUSTAFA KEMAL PAŞA CADDESİ NO:41/A",
+   "phone": "0358 218 4038",
+   "dutyStart": "2026-11-08T08:00:00+03:00",
+   "dutyEnd": "2026-11-09T08:00:00+03:00",
    "approved": true,
-   "lat": 40.651546,
-   "lng": 35.833408
+   "lat": 40.650074,
+   "lng": 35.829407
   },
   {
    "district": "Merzifon",
-   "name": "Bensu Eczanesi",
-   "address": "Sofular Mahallesi Dede Sokak No:2/B",
-   "phone": "0358 513 2075",
-   "dutyStart": "2026-11-07T08:00:00+03:00",
-   "dutyEnd": "2026-11-08T08:00:00+03:00",
+   "name": "Göksel Eczanesi",
+   "address": "YUNUS EMRE MAHALLESİ KARACA SOKAK NO:8",
+   "phone": "0358 502 4502",
+   "dutyStart": "2026-11-08T08:00:00+03:00",
+   "dutyEnd": "2026-11-09T08:00:00+03:00",
    "approved": true,
-   "lat": 40.875908,
-   "lng": 35.459461
+   "lat": 40.887379,
+   "lng": 35.452251
   },
   {
    "district": "Suluova",
-   "name": "Serpil Eczanesi",
-   "address": "ŞEKER MAH. NAZLI SOK. NO:16/A",
-   "phone": "0358 418 0357",
-   "dutyStart": "2026-11-07T08:00:00+03:00",
-   "dutyEnd": "2026-11-08T08:00:00+03:00",
+   "name": "Serkan Eczanesi",
+   "address": "YENİ MAH. ATATÜRK BULVARI NO:67/Z01",
+   "phone": "0358 417 2767",
+   "dutyStart": "2026-11-08T08:00:00+03:00",
+   "dutyEnd": "2026-11-09T08:00:00+03:00",
    "approved": true,
-   "lat": 40.825386,
-   "lng": 35.644157
+   "lat": 40.816372,
+   "lng": 35.659378
   },
   {
    "district": "Taşova",
-   "name": "Aydinlar Eczanesi",
-   "address": "YEŞİLIRMAK MAH. ÇAĞPAR CAD. NO:4A",
-   "phone": "0358 312 1458",
-   "dutyStart": "2026-11-07T08:00:00+03:00",
-   "dutyEnd": "2026-11-08T08:00:00+03:00",
+   "name": "Sağlık Eczanesi",
+   "address": "CUMHURİYET MAH.KORKMAZ CAD. NO:9",
+   "phone": "0358 312 0011",
+   "dutyStart": "2026-11-08T08:00:00+03:00",
+   "dutyEnd": "2026-11-09T08:00:00+03:00",
    "approved": true,
-   "lat": 40.760483,
-   "lng": 36.322628
+   "lat": 40.758907,
+   "lng": 36.321075
   }
  ]
 }

@@ -1,97 +1,98 @@
 {
  "city": "Batman",
  "code": 72,
- "dutyDay": "2026-11-07",
- "updatedAt": "2026-11-07T13:00:25.559Z",
- "source": "e-Devlet TİTCK",
+ "dutyDay": "2026-11-08",
+ "updatedAt": "2026-11-08T13:23:03.909Z",
+ "source": "e-Devlet TİTCK, Batman Eczacı Odası",
  "pharmacies": [
   {
    "district": "Beşiri",
-   "name": "Soylu Eczanesi",
-   "address": "BAĞDU MAH.YAŞAR KEMAL BULV.NO:13/A",
-   "phone": "0488 311 3303",
-   "dutyStart": "2026-11-07T13:00:00+03:00",
-   "dutyEnd": "2026-11-08T08:30:00+03:00",
+   "name": "Şifa Eczanesi",
+   "address": "Bağdu Mah. Yaşar Kemal Cad. No:11/A",
+   "phone": "0531 839 4838",
+   "dutyStart": "2026-11-08T08:30:00+03:00",
+   "dutyEnd": "2026-11-09T08:30:00+03:00",
    "approved": true,
-   "lat": 37.922363,
-   "lng": 41.290009
+   "lat": 37.922394,
+   "lng": 41.289978
   },
   {
    "district": "Gercüş",
-   "name": "Derman Eczanesi",
-   "address": "BAĞLARBAŞI MAH. HÜKÜMET CAD. NO:37/A",
-   "phone": "0488 341 3222",
-   "dutyStart": "2026-11-07T13:00:00+03:00",
-   "dutyEnd": "2026-11-08T08:00:00+03:00",
+   "name": "Ayşe Şen Eczanesi",
+   "address": "Bağlarbaşı Mah. Kazım Koyuncu Bulvarı No:18B",
+   "phone": "0488 711 3060",
+   "dutyStart": "2026-11-08T08:00:00+03:00",
+   "dutyEnd": "2026-11-09T08:00:00+03:00",
    "approved": true,
-   "lat": 37.566647,
-   "lng": 41.385212
-  },
-  {
-   "district": "Kozluk",
-   "name": "Gümüş Eczanesi",
-   "address": "Sağlık Mah. 2404 Sok. Yaşam Kent Sit. B Blok No:24/Z5",
-   "phone": "0551 364 4846",
-   "dutyStart": "2026-11-07T08:00:00+03:00",
-   "dutyEnd": "2026-11-08T08:00:00+03:00",
-   "approved": true,
-   "lat": 38.16341,
-   "lng": 41.499279
+   "lat": 37.568417,
+   "lng": 41.384647
   },
   {
    "district": "Merkez",
-   "name": "Aydin Eczanesi",
-   "address": "BELDE MAH. FIRAT CAD.NO:24/D",
-   "phone": "0488 221 4525",
-   "dutyStart": "2026-11-07T13:00:00+03:00",
-   "dutyEnd": "2026-11-08T08:30:00+03:00",
+   "name": "Cenk Eczanesi",
+   "address": "BELDE MAH.3246 SOK.NO:17/C MERKEZ/BATMAN",
+   "phone": "0488 215 7172",
+   "dutyStart": "2026-11-08T08:30:00+03:00",
+   "dutyEnd": "2026-11-09T08:30:00+03:00",
    "approved": true,
-   "lat": 37.911575,
-   "lng": 41.14019
+   "lat": 37.911472,
+   "lng": 41.139809
   },
   {
    "district": "Merkez",
-   "name": "Başaran Eczanesi",
-   "address": "BELDE MAH.ÖMER MUHTAR BULVARI NO:85/BC",
-   "phone": "0488 214 8595",
-   "dutyStart": "2026-11-07T13:00:00+03:00",
-   "dutyEnd": "2026-11-08T08:30:00+03:00",
+   "name": "Ekinci Eczanesi",
+   "address": "PINARBAŞI MAH.2209 SOK.NO:9/A",
+   "phone": "0488 213 9136",
+   "dutyStart": "2026-11-08T08:30:00+03:00",
+   "dutyEnd": "2026-11-09T08:30:00+03:00",
    "approved": true,
-   "lat": 37.900826,
-   "lng": 41.138454
+   "lat": 37.894215,
+   "lng": 41.128487
   },
   {
    "district": "Merkez",
-   "name": "İstanbul Eczanesi",
-   "address": "KÜLTÜR MAH.MAHATMA GANDİ CAD. NO:30/E MERKEZ BATMAN",
-   "phone": "0488 213 3737",
-   "dutyStart": "2026-11-07T13:00:00+03:00",
-   "dutyEnd": "2026-11-08T08:30:00+03:00",
+   "name": "İpekyüz Eczanesi",
+   "address": "SAĞLIK MAH. YUNUS EMRE CAD.NO:341/A MERKEZ/BATMAN",
+   "phone": "0488 215 0012",
+   "dutyStart": "2026-11-08T08:30:00+03:00",
+   "dutyEnd": "2026-11-09T08:30:00+03:00",
    "approved": true,
-   "lat": 37.897045,
-   "lng": 41.12645
+   "lat": 37.889954,
+   "lng": 41.124512
   },
   {
    "district": "Merkez",
-   "name": "Yeni Meydan Eczanesi",
-   "address": "ÇARŞI MAH. CUMHURİYET BULVARI NO:1",
-   "phone": "0488 214 0962",
-   "dutyStart": "2026-11-07T13:00:00+03:00",
-   "dutyEnd": "2026-11-08T08:30:00+03:00",
+   "name": "Mehmet Eczanesi",
+   "address": "BELDE MAH ÖMER MUHTAR BLV.NOVAPARK SİTESİ NO:85/BD",
+   "phone": "0488 212 0450",
+   "dutyStart": "2026-11-08T08:30:00+03:00",
+   "dutyEnd": "2026-11-09T08:30:00+03:00",
    "approved": true,
-   "lat": 37.879459,
-   "lng": 41.123302
+   "lat": 37.900864,
+   "lng": 41.138432
   },
   {
    "district": "Sason",
-   "name": "Hasan Eczanesi",
-   "address": "Aşağı Mah.Hastane Sok.No:10/B",
-   "phone": "0536 966 7066",
-   "dutyStart": "2026-11-07T08:30:00+03:00",
-   "dutyEnd": "2026-11-08T08:30:00+03:00",
+   "name": "Sason Eczanesi",
+   "address": "Orta Mah. Haluk İmga Cad. No:10/A",
+   "phone": "0546 256 5632",
+   "dutyStart": "2026-11-08T08:30:00+03:00",
+   "dutyEnd": "2026-11-09T08:30:00+03:00",
    "approved": true,
-   "lat": 38.339401,
-   "lng": 41.411961
+   "lat": 38.33493,
+   "lng": 41.419071
+  },
+  {
+   "district": "Kozluk",
+   "name": "Kozluk Eczanesi",
+   "address": "TEPCIK MAH. 2404 SOKAK NO-26",
+   "phone": "04884112127",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 38.163533,
+   "lng": 41.499343
   }
- ]
+ ],
+ "sourceUrl": "https://www.batmaneczaciodasi.org.tr/nobetci-eczaneler"
 }

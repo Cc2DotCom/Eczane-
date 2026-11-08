@@ -1,20 +1,20 @@
 {
  "city": "Kars",
  "code": 36,
- "dutyDay": "2026-11-07",
- "updatedAt": "2026-11-07T12:57:52.495Z",
+ "dutyDay": "2026-11-08",
+ "updatedAt": "2026-11-08T13:20:35.415Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Şifa Eczanesi",
-   "address": "ORTAKAPI MAH. KAZIM PAŞA CAD. NO:33",
-   "phone": "0474 212 4216",
-   "dutyStart": "2026-11-07T13:00:00+03:00",
-   "dutyEnd": "2026-11-08T08:30:00+03:00",
+   "name": "Meryem Eczanesi",
+   "address": "Şehitler Mah. Teyyare Meydan Sok. No:31/A",
+   "phone": "0505 706 2424",
+   "dutyStart": "2026-11-08T08:30:00+03:00",
+   "dutyEnd": "2026-11-09T08:30:00+03:00",
    "approved": true,
-   "lat": 40.606453,
-   "lng": 43.097115
+   "lat": 40.595013,
+   "lng": 43.089169
   }
  ]
 }
