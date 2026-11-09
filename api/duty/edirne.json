@@ -2,7 +2,7 @@
  "city": "Edirne",
  "code": 22,
  "dutyDay": "2026-11-09",
- "updatedAt": "2026-11-09T19:45:23.631Z",
+ "updatedAt": "2026-11-09T22:59:55.881Z",
  "source": "Edirne Eczacı Odası",
  "pharmacies": [
   {
@@ -15,17 +15,6 @@
    "approved": true,
    "lat": 41.660082,
    "lng": 26.584427
-  },
-  {
-   "district": "Merkez",
-   "name": "Serhat Eczanesi",
-   "address": "KIYIK CAD.NO:83/A",
-   "phone": "2842137849",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 41.678397,
-   "lng": 26.568084
   },
   {
    "district": "Merkez",
