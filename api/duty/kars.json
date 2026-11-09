@@ -1,20 +1,86 @@
 {
  "city": "Kars",
  "code": 36,
- "dutyDay": "2026-11-08",
- "updatedAt": "2026-11-08T13:20:35.415Z",
+ "dutyDay": "2026-11-09",
+ "updatedAt": "2026-11-09T16:11:24.389Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
-   "district": "Merkez",
-   "name": "Meryem Eczanesi",
-   "address": "Şehitler Mah. Teyyare Meydan Sok. No:31/A",
-   "phone": "0505 706 2424",
-   "dutyStart": "2026-11-08T08:30:00+03:00",
-   "dutyEnd": "2026-11-09T08:30:00+03:00",
+   "district": "Digor",
+   "name": "Çiğdem Eczanesi",
+   "address": "Merkez Mah. Kavaklar Sk. No:2/0",
+   "phone": "0474 311 2436",
+   "dutyStart": "2026-11-09T18:00:00+03:00",
+   "dutyEnd": "2026-11-10T08:30:00+03:00",
    "approved": true,
-   "lat": 40.595013,
-   "lng": 43.089169
+   "lat": 40.377205,
+   "lng": 43.412659
+  },
+  {
+   "district": "Digor",
+   "name": "Dağpınar Eczanesi",
+   "address": "Merkez Mah. 1. Küme Evler Muzafferoğulları Apt. No:45/A Dağpınar",
+   "phone": "0537 767 7202",
+   "dutyStart": "2026-11-09T18:00:00+03:00",
+   "dutyEnd": "2026-11-10T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.463486,
+   "lng": 43.326115
+  },
+  {
+   "district": "Kağızman",
+   "name": "Can Eczanesi",
+   "address": "Şahindere Mah. Milli Egemenlik Cad. No:14",
+   "phone": "0553 802 5913",
+   "dutyStart": "2026-11-09T17:00:00+03:00",
+   "dutyEnd": "2026-11-10T07:30:00+03:00",
+   "approved": true,
+   "lat": 40.141258,
+   "lng": 43.120571
+  },
+  {
+   "district": "Merkez",
+   "name": "Harakani Eczanesi",
+   "address": "Ortakapı Mahallesi Faikbey Caddesi No:10/A",
+   "phone": "0474 212 7200",
+   "dutyStart": "2026-11-09T18:30:00+03:00",
+   "dutyEnd": "2026-11-10T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.602692,
+   "lng": 43.094231
+  },
+  {
+   "district": "Sarıkamış",
+   "name": "Sarıkamış Eczanesi",
+   "address": "İNÖNÜ MAH.HALK CAD.NO.153-1 SARIKAMIŞ KARS",
+   "phone": "0474 413 4906",
+   "dutyStart": "2026-11-09T18:00:00+03:00",
+   "dutyEnd": "2026-11-10T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.332359,
+   "lng": 42.596348
+  },
+  {
+   "district": "Selim",
+   "name": "Akin Eczanesi",
+   "address": "ÇARŞI MAH.HALİTPAŞA CAD.NO.97/B SELİM KARS",
+   "phone": "0538 322 8055",
+   "dutyStart": "2026-11-09T18:00:00+03:00",
+   "dutyEnd": "2026-11-10T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.466721,
+   "lng": 42.789581
+  },
+  {
+   "district": "Susuz",
+   "name": "Can Eczanesi",
+   "address": "KAZİM KARABEKİR MAHALLE NO 116",
+   "phone": "0474 511 5722",
+   "dutyStart": "2026-11-09T00:00:00+03:00",
+   "dutyEnd": "2026-11-10T00:00:00+03:00",
+   "approved": true,
+   "lat": 40.78159,
+   "lng": 43.127258
   }
  ]
 }

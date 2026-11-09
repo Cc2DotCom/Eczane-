@@ -1,42 +1,42 @@
 {
  "city": "Tunceli",
  "code": 62,
- "dutyDay": "2026-11-08",
- "updatedAt": "2026-11-08T13:22:23.831Z",
+ "dutyDay": "2026-11-09",
+ "updatedAt": "2026-11-09T16:13:34.226Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Ezgi Eczanesi",
-   "address": "CUMHURİYET MAH. GÜNEŞ SOK. NO:1/2",
-   "phone": "0545 204 9546",
-   "dutyStart": "2026-11-08T08:30:00+03:00",
-   "dutyEnd": "2026-11-09T08:30:00+03:00",
+   "name": "Kaya Eczanesi",
+   "address": "ATATÜRK MAH. MAHMUT TAN SOK. MERCAN SİTESİ A BLOK NO:2 TUNCELİ",
+   "phone": "0428 212 1166",
+   "dutyStart": "2026-11-09T18:30:00+03:00",
+   "dutyEnd": "2026-11-10T08:30:00+03:00",
    "approved": true,
-   "lat": 39.10318,
-   "lng": 39.538868
+   "lat": 39.084949,
+   "lng": 39.538368
   },
   {
    "district": "Merkez",
-   "name": "Ezgi Eczanesi",
-   "address": "CUMHURİYET MAH. GÜNEŞ SOK. NO:1/2",
-   "phone": "0545 204 9546",
-   "dutyStart": "2026-11-08T08:30:00+03:00",
-   "dutyEnd": "2026-11-09T08:30:00+03:00",
+   "name": "Kaya Eczanesi",
+   "address": "ATATÜRK MAH. MAHMUT TAN SOK. MERCAN SİTESİ A BLOK NO:2 TUNCELİ",
+   "phone": "0428 212 1166",
+   "dutyStart": "2026-11-09T18:30:00+03:00",
+   "dutyEnd": "2026-11-10T08:30:00+03:00",
    "approved": true,
-   "lat": 39.10318,
-   "lng": 39.538868
+   "lat": 39.084949,
+   "lng": 39.538368
   },
   {
    "district": "Pertek",
-   "name": "Ekin Eczanesi",
-   "address": "İstiklal Mahallesi Uğur Mumcu Caddesi No:10-E Pertek/ TUNCELİ",
-   "phone": "0543 669 3699",
-   "dutyStart": "2026-11-08T08:30:00+03:00",
-   "dutyEnd": "2026-11-09T08:30:00+03:00",
+   "name": "Güven Eczanesi",
+   "address": "İstiklal Mahallesi Uğur Mumcu Caddesi No:7/A Pertek/TUNCELİ",
+   "phone": "0428 651 3228",
+   "dutyStart": "2026-11-09T18:00:00+03:00",
+   "dutyEnd": "2026-11-10T08:30:00+03:00",
    "approved": true,
-   "lat": 38.867825,
-   "lng": 39.322376
+   "lat": 38.867722,
+   "lng": 39.319466
   }
  ]
 }

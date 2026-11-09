@@ -1,53 +1,53 @@
 {
  "city": "Kırşehir",
  "code": 40,
- "dutyDay": "2026-11-08",
- "updatedAt": "2026-11-08T20:31:55.481Z",
+ "dutyDay": "2026-11-09",
+ "updatedAt": "2026-11-09T16:11:37.850Z",
  "source": "e-Devlet TİTCK, Aksaray-Kırşehir Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Çelik Eczanesi",
-   "address": "MEDRESE MAH.92.SOK.YILMAZ APT.ALTI NO:8/13",
-   "phone": "3 862 143 370_",
-   "dutyStart": "2026-11-08T08:00:00+03:00",
-   "dutyEnd": "2026-11-09T08:00:00+03:00",
+   "name": "Hayat Eczanesi",
+   "address": "AHİ EVRAN MAH.ANKARA CAD. ÜMİT APT. 15/D MERKEZ/KIRŞEHİR",
+   "phone": "0386 214 3341",
+   "dutyStart": "2026-11-09T18:00:00+03:00",
+   "dutyEnd": "2026-11-10T08:00:00+03:00",
    "approved": true,
-   "lat": 39.142876,
-   "lng": 34.162651
+   "lat": 39.148438,
+   "lng": 34.160027
   },
   {
    "district": "Merkez",
-   "name": "Yeni Eczane Eczanesi",
-   "address": "MEDRESE MAH. 92. SOK. MELİK GAZİ APT. NO:4/A MERKEZ KIRŞEHİR",
-   "phone": "0386 214 2221",
-   "dutyStart": "2026-11-08T08:00:00+03:00",
-   "dutyEnd": "2026-11-09T08:00:00+03:00",
+   "name": "Onur Eczanesi",
+   "address": "Ahi Evran Mahallesi Mehmet Ali Yapıcı Bulvarı Köker Apt.No:28/A Merkez / KIRŞEHİR",
+   "phone": "0386 213 5490",
+   "dutyStart": "2026-11-09T18:00:00+03:00",
+   "dutyEnd": "2026-11-10T08:00:00+03:00",
    "approved": true,
-   "lat": 39.143166,
-   "lng": 34.162624
+   "lat": 39.148125,
+   "lng": 34.160511
   },
   {
    "district": "Kaman",
-   "name": "Eren Eczanesi",
-   "address": "Yeni Mah. 25 Aralık Cad. No: 5",
-   "phone": "03867127988",
+   "name": "Defne Eczanesi",
+   "address": "Sarıuşağı Mah. Turgut Aslan Cad. 233.Sokak No:28",
+   "phone": "03867128208",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.359839,
-   "lng": 33.723075
+   "lat": 39.356283,
+   "lng": 33.726513
   },
   {
    "district": "Mucur",
-   "name": "Hendek Eczanesi",
-   "address": "YENİCE MAH.ENVERPAŞA CAD.NO:29",
-   "phone": "03868122223",
+   "name": "Mucur Eczanesi",
+   "address": "Yenice Mah. Enver Paşa Cad. No : 34/A",
+   "phone": "03868124588",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.064625,
-   "lng": 34.376816
+   "lat": 39.064548,
+   "lng": 34.377001
   }
  ],
  "sourceUrl": "https://www.aksarayeo.org.tr/nobetci-eczaneler"

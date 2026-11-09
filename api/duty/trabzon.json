@@ -1,20 +1,20 @@
 {
  "city": "Trabzon",
  "code": 61,
- "dutyDay": "2026-11-08",
- "updatedAt": "2026-11-08T13:22:21.966Z",
+ "dutyDay": "2026-11-09",
+ "updatedAt": "2026-11-09T16:13:32.347Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Akçaabat",
-   "name": "Yavuz Eczanesi",
-   "address": "ORTA MAH.İNÖNÜ CAD.NO.121/A",
-   "phone": "0462 228 4449",
-   "dutyStart": "2026-11-08T08:00:00+03:00",
-   "dutyEnd": "2026-11-09T08:00:00+03:00",
+   "name": "Sebat Eczanesi",
+   "address": "Dürbinar Mahallesi İnönü Caddesi No:89B",
+   "phone": "0462 228 6600",
+   "dutyStart": "2026-11-09T17:00:00+03:00",
+   "dutyEnd": "2026-11-10T09:00:00+03:00",
    "approved": true,
-   "lat": 41.022594,
-   "lng": 39.567898
+   "lat": 41.021915,
+   "lng": 39.569824
   }
  ]
 }

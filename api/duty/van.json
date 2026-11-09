@@ -1,31 +1,20 @@
 {
  "city": "Van",
  "code": 65,
- "dutyDay": "2026-11-08",
- "updatedAt": "2026-11-08T13:22:41.514Z",
+ "dutyDay": "2026-11-09",
+ "updatedAt": "2026-11-09T16:13:47.200Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Erciş",
-   "name": "Ketmen Eczanesi",
-   "address": "Vanyolu Mah. Lütfi Güvenir Cad. Dış Kapı No:41B",
-   "phone": "0535 594 7073",
-   "dutyStart": "2026-11-08T08:30:00+03:00",
-   "dutyEnd": "2026-11-09T08:30:00+03:00",
+   "name": "Arslan Eczanesi",
+   "address": "Kışla Mahalle İnönü Cadde Kentsel Dönüşüm Dükkanları No:B-2 5",
+   "phone": "0432 351 9491",
+   "dutyStart": "2026-11-09T18:00:00+03:00",
+   "dutyEnd": "2026-11-10T08:30:00+03:00",
    "approved": true,
-   "lat": 39.024452,
-   "lng": 43.365456
-  },
-  {
-   "district": "Erciş",
-   "name": "Vitamin Eczanesi",
-   "address": "Vanyolu Mah. Karayusuf Bey Bulvarı No: 99-B",
-   "phone": "0543 244 7572",
-   "dutyStart": "2026-11-08T08:30:00+03:00",
-   "dutyEnd": "2026-11-09T08:30:00+03:00",
-   "approved": true,
-   "lat": 39.023823,
-   "lng": 43.370651
+   "lat": 39.028507,
+   "lng": 43.359154
   }
  ]
 }
