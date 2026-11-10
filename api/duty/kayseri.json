@@ -2,20 +2,9 @@
  "city": "Kayseri",
  "code": 38,
  "dutyDay": "2026-11-10",
- "updatedAt": "2026-11-10T17:00:02.784Z",
+ "updatedAt": "2026-11-10T20:29:18.507Z",
  "source": "Kayseri Eczacı Odası",
  "pharmacies": [
-  {
-   "district": "Kocasinan",
-   "name": "Ekin Eczanesi",
-   "address": "ŞEKER MAHALLESİ MUHSİN YAZICIOĞLU BULVARI NO:74/B",
-   "phone": "03522220388",
-   "dutyStart": "2026-11-10T08:30:00+03:00",
-   "dutyEnd": "2026-11-11T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.770385,
-   "lng": 35.413231
-  },
   {
    "district": "Kocasinan",
    "name": "Demir Eczanesi",
@@ -26,17 +15,6 @@
    "approved": true,
    "lat": 38.780912,
    "lng": 35.454347
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Müftüoğlu Eczanesi",
-   "address": "Demokrasi Mahallesi, Celal Bayar Caddesi, No:33/B",
-   "phone": "05525302025",
-   "dutyStart": "2026-11-10T08:30:00+03:00",
-   "dutyEnd": "2026-11-11T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.756477,
-   "lng": 35.603045
   },
   {
    "district": "Kocasinan",
@@ -51,6 +29,28 @@
   },
   {
    "district": "Kocasinan",
+   "name": "Ekin Eczanesi",
+   "address": "ŞEKER MAHALLESİ MUHSİN YAZICIOĞLU BULVARI NO:74/B",
+   "phone": "03522220388",
+   "dutyStart": "2026-11-10T08:30:00+03:00",
+   "dutyEnd": "2026-11-11T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.770385,
+   "lng": 35.413231
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Müftüoğlu Eczanesi",
+   "address": "Demokrasi Mahallesi, Celal Bayar Caddesi, No:33/B",
+   "phone": "05525302025",
+   "dutyStart": "2026-11-10T08:30:00+03:00",
+   "dutyEnd": "2026-11-11T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.756477,
+   "lng": 35.603045
+  },
+  {
+   "district": "Kocasinan",
    "name": "Çilingir Eczanesi",
    "address": "GEVHER NESIBE MAH. HASTANE CAD. GÖKGEÇIDI SOK. SELAMET APT. 64/B",
    "phone": "03522220965",
@@ -59,83 +59,6 @@
    "approved": true,
    "lat": 38.725325,
    "lng": 35.480854
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Hilal İl Eczanesi",
-   "address": "Alpaslan Mah. Gökçefidan Sk.No: 13/D",
-   "phone": "03522362917",
-   "dutyStart": "2026-11-10T08:30:00+03:00",
-   "dutyEnd": "2026-11-11T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.724881,
-   "lng": 35.514175
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Zeki Eczanesi",
-   "address": "DÜVENÖNÜ INÖNÜ BUL. N0:5/A",
-   "phone": "03522321636",
-   "dutyStart": "2026-11-10T08:30:00+03:00",
-   "dutyEnd": "2026-11-11T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.720248,
-   "lng": 35.483104
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Buketin Eczanesi",
-   "address": "HÜRİRYET MAH. YUNUS EMRE GEÇİDİ NO:12/A",
-   "phone": "03523360534",
-   "dutyStart": "2026-11-10T08:30:00+03:00",
-   "dutyEnd": "2026-11-11T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.715624,
-   "lng": 35.465965
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Lidya Eczanesi",
-   "address": "DANİŞMENTGAZİ MAH. REŞADİYE SOKAK NO:30/D",
-   "phone": "",
-   "dutyStart": "2026-11-10T08:30:00+03:00",
-   "dutyEnd": "2026-11-11T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.675389,
-   "lng": 35.474662
-  },
-  {
-   "district": "Kocasinan",
-   "name": "Selçuk Eczanesi",
-   "address": "Serçeönü Mah. Sivad Cad. 15/C",
-   "phone": "03522203738",
-   "dutyStart": "2026-11-10T08:30:00+03:00",
-   "dutyEnd": "2026-11-11T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.723227,
-   "lng": 35.492211
-  },
-  {
-   "district": "Talas",
-   "name": "Cemre Çağıran Eczanesi",
-   "address": "Mevlana Mahallesi Tarif Sokak 40/A TALAS/KAYSERİ",
-   "phone": "05330929136",
-   "dutyStart": "2026-11-10T08:30:00+03:00",
-   "dutyEnd": "2026-11-11T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.716402,
-   "lng": 35.561871
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Germir Eczanesi",
-   "address": "Germir Mah. Mustafa Şimşek Cad. No:235 Yıldırım Beyazıt Karakolu İlerisi Koçtaş Arkası",
-   "phone": "05372120838",
-   "dutyStart": "2026-11-10T08:30:00+03:00",
-   "dutyEnd": "2026-11-11T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.737709,
-   "lng": 35.550516
   },
   {
    "district": "Melikgazi",
@@ -150,6 +73,61 @@
   },
   {
    "district": "Talas",
+   "name": "Cemre Çağıran Eczanesi",
+   "address": "Mevlana Mahallesi Tarif Sokak 40/A TALAS/KAYSERİ",
+   "phone": "05330929136",
+   "dutyStart": "2026-11-10T08:30:00+03:00",
+   "dutyEnd": "2026-11-11T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.716402,
+   "lng": 35.561871
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Buketin Eczanesi",
+   "address": "HÜRİRYET MAH. YUNUS EMRE GEÇİDİ NO:12/A",
+   "phone": "03523360534",
+   "dutyStart": "2026-11-10T08:30:00+03:00",
+   "dutyEnd": "2026-11-11T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.715624,
+   "lng": 35.465965
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Zeki Eczanesi",
+   "address": "DÜVENÖNÜ INÖNÜ BUL. N0:5/A",
+   "phone": "03522321636",
+   "dutyStart": "2026-11-10T08:30:00+03:00",
+   "dutyEnd": "2026-11-11T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.720248,
+   "lng": 35.483104
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Lidya Eczanesi",
+   "address": "DANİŞMENTGAZİ MAH. REŞADİYE SOKAK NO:30/D",
+   "phone": "",
+   "dutyStart": "2026-11-10T08:30:00+03:00",
+   "dutyEnd": "2026-11-11T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.675389,
+   "lng": 35.474662
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Hilal İl Eczanesi",
+   "address": "Alpaslan Mah. Gökçefidan Sk.No: 13/D",
+   "phone": "03522362917",
+   "dutyStart": "2026-11-10T08:30:00+03:00",
+   "dutyEnd": "2026-11-11T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.724881,
+   "lng": 35.514175
+  },
+  {
+   "district": "Talas",
    "name": "Sade Eczanesi",
    "address": "Yenidoğan mah.defne SK. Yörük24 ap. 11/B (Gezegen Armonia Düğün salonu arka sokağı)",
    "phone": "03525028282",
@@ -158,6 +136,28 @@
    "approved": true,
    "lat": 38.697617,
    "lng": 35.545331
+  },
+  {
+   "district": "Kocasinan",
+   "name": "Selçuk Eczanesi",
+   "address": "Serçeönü Mah. Sivad Cad. 15/C",
+   "phone": "03522203738",
+   "dutyStart": "2026-11-10T08:30:00+03:00",
+   "dutyEnd": "2026-11-11T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.723227,
+   "lng": 35.492211
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Germir Eczanesi",
+   "address": "Germir Mah. Mustafa Şimşek Cad. No:235 Yıldırım Beyazıt Karakolu İlerisi Koçtaş Arkası",
+   "phone": "05372120838",
+   "dutyStart": "2026-11-10T08:30:00+03:00",
+   "dutyEnd": "2026-11-11T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.737709,
+   "lng": 35.550516
   }
  ],
  "sourceUrl": "https://www.kayserieo.org.tr/nobetci-eczaneler"

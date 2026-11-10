@@ -2,20 +2,9 @@
  "city": "Malatya",
  "code": 44,
  "dutyDay": "2026-11-10",
- "updatedAt": "2026-11-10T17:00:10.505Z",
+ "updatedAt": "2026-11-10T20:29:26.457Z",
  "source": "Malatya Eczacı Odası",
  "pharmacies": [
-  {
-   "district": "Merkez",
-   "name": "Burcu Kiğılı Eczanesi",
-   "address": "İNÖNÜ CADDESİ KARAÖZLER PASTANESİ YANI YAYLAGÜL BÜFE BİTİŞİĞİ",
-   "phone": "04223258325",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 38.3482204,
-   "lng": 38.3155307
-  },
   {
    "district": "Merkez",
    "name": "Akademi Eczanesi",
@@ -26,6 +15,17 @@
    "approved": true,
    "lat": null,
    "lng": null
+  },
+  {
+   "district": "Merkez",
+   "name": "Burcu Kiğılı Eczanesi",
+   "address": "İNÖNÜ CADDESİ KARAÖZLER PASTANESİ YANI YAYLAGÜL BÜFE BİTİŞİĞİ",
+   "phone": "04223258325",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 38.3482204,
+   "lng": 38.3155307
   },
   {
    "district": "Merkez",
