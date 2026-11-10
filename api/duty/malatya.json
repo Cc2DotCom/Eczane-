@@ -2,20 +2,9 @@
  "city": "Malatya",
  "code": 44,
  "dutyDay": "2026-11-10",
- "updatedAt": "2026-11-10T14:52:53.057Z",
+ "updatedAt": "2026-11-10T17:00:10.505Z",
  "source": "Malatya Eczacı Odası",
  "pharmacies": [
-  {
-   "district": "Merkez",
-   "name": "Akademi Eczanesi",
-   "address": "FIRAT MAH HASTANE CAD NO:60 BATTALGAZİ DEVLET HASTANESİ KARŞISI",
-   "phone": "05443256121",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": null,
-   "lng": null
-  },
   {
    "district": "Merkez",
    "name": "Burcu Kiğılı Eczanesi",
@@ -26,6 +15,17 @@
    "approved": true,
    "lat": 38.3482204,
    "lng": 38.3155307
+  },
+  {
+   "district": "Merkez",
+   "name": "Akademi Eczanesi",
+   "address": "FIRAT MAH HASTANE CAD NO:60 BATTALGAZİ DEVLET HASTANESİ KARŞISI",
+   "phone": "05443256121",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": null,
+   "lng": null
   },
   {
    "district": "Merkez",
