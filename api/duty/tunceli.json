@@ -1,42 +1,42 @@
 {
  "city": "Tunceli",
  "code": 62,
- "dutyDay": "2026-11-09",
- "updatedAt": "2026-11-09T16:13:34.226Z",
+ "dutyDay": "2026-11-10",
+ "updatedAt": "2026-11-10T14:54:20.020Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Kaya Eczanesi",
-   "address": "ATATÜRK MAH. MAHMUT TAN SOK. MERCAN SİTESİ A BLOK NO:2 TUNCELİ",
-   "phone": "0428 212 1166",
-   "dutyStart": "2026-11-09T18:30:00+03:00",
-   "dutyEnd": "2026-11-10T08:30:00+03:00",
+   "name": "Doğan Eczanesi",
+   "address": "ATATÜRK MAHALLESİ MİMAR SİNAN CADDESİ NO:14/3 TUNCELİ",
+   "phone": "0428 213 1174",
+   "dutyStart": "2026-11-10T18:30:00+03:00",
+   "dutyEnd": "2026-11-11T08:30:00+03:00",
    "approved": true,
-   "lat": 39.084949,
-   "lng": 39.538368
+   "lat": 39.090282,
+   "lng": 39.536819
   },
   {
    "district": "Merkez",
-   "name": "Kaya Eczanesi",
-   "address": "ATATÜRK MAH. MAHMUT TAN SOK. MERCAN SİTESİ A BLOK NO:2 TUNCELİ",
-   "phone": "0428 212 1166",
-   "dutyStart": "2026-11-09T18:30:00+03:00",
-   "dutyEnd": "2026-11-10T08:30:00+03:00",
+   "name": "Doğan Eczanesi",
+   "address": "ATATÜRK MAHALLESİ MİMAR SİNAN CADDESİ NO:14/3 TUNCELİ",
+   "phone": "0428 213 1174",
+   "dutyStart": "2026-11-10T18:30:00+03:00",
+   "dutyEnd": "2026-11-11T08:30:00+03:00",
    "approved": true,
-   "lat": 39.084949,
-   "lng": 39.538368
+   "lat": 39.090282,
+   "lng": 39.536819
   },
   {
    "district": "Pertek",
-   "name": "Güven Eczanesi",
-   "address": "İstiklal Mahallesi Uğur Mumcu Caddesi No:7/A Pertek/TUNCELİ",
-   "phone": "0428 651 3228",
-   "dutyStart": "2026-11-09T18:00:00+03:00",
-   "dutyEnd": "2026-11-10T08:30:00+03:00",
+   "name": "Ekin Eczanesi",
+   "address": "İstiklal Mahallesi Uğur Mumcu Caddesi No:10-E Pertek/ TUNCELİ",
+   "phone": "0543 669 3699",
+   "dutyStart": "2026-11-10T18:00:00+03:00",
+   "dutyEnd": "2026-11-11T08:30:00+03:00",
    "approved": true,
-   "lat": 38.867722,
-   "lng": 39.319466
+   "lat": 38.867825,
+   "lng": 39.322376
   }
  ]
 }

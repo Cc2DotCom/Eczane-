@@ -1,53 +1,53 @@
 {
  "city": "Kırşehir",
  "code": 40,
- "dutyDay": "2026-11-09",
- "updatedAt": "2026-11-10T00:18:20.674Z",
+ "dutyDay": "2026-11-10",
+ "updatedAt": "2026-11-10T14:52:25.825Z",
  "source": "e-Devlet TİTCK, Aksaray-Kırşehir Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Hayat Eczanesi",
-   "address": "AHİ EVRAN MAH.ANKARA CAD. ÜMİT APT. 15/D MERKEZ/KIRŞEHİR",
-   "phone": "0386 214 3341",
-   "dutyStart": "2026-11-09T18:00:00+03:00",
-   "dutyEnd": "2026-11-10T08:00:00+03:00",
+   "name": "Begüm Eczanesi",
+   "address": "MEDRESE MAH.MELİH GAZİ CAD.TURAN İŞ HANI NO:12/A MERKEZ / KIRŞEHİR",
+   "phone": "0386 214 4008",
+   "dutyStart": "2026-11-10T18:00:00+03:00",
+   "dutyEnd": "2026-11-11T08:00:00+03:00",
    "approved": true,
-   "lat": 39.148438,
-   "lng": 34.160027
+   "lat": 39.144524,
+   "lng": 34.162041
   },
   {
    "district": "Merkez",
-   "name": "Onur Eczanesi",
-   "address": "Ahi Evran Mahallesi Mehmet Ali Yapıcı Bulvarı Köker Apt.No:28/A Merkez / KIRŞEHİR",
-   "phone": "0386 213 5490",
-   "dutyStart": "2026-11-09T18:00:00+03:00",
-   "dutyEnd": "2026-11-10T08:00:00+03:00",
+   "name": "Terme Eczanesi",
+   "address": "YENİCE MAH.TERME CAD.HUKUKCULAR APT.NO:14",
+   "phone": "3 862 123 618_",
+   "dutyStart": "2026-11-10T18:00:00+03:00",
+   "dutyEnd": "2026-11-11T08:00:00+03:00",
    "approved": true,
-   "lat": 39.148125,
-   "lng": 34.160511
+   "lat": 39.142708,
+   "lng": 34.159828
   },
   {
    "district": "Kaman",
-   "name": "Defne Eczanesi",
-   "address": "Sarıuşağı Mah. Turgut Aslan Cad. 233.Sokak No:28",
-   "phone": "03867128208",
+   "name": "Akdeniz Eczanesi",
+   "address": "CUMHURIYET MEYDANI NO:18",
+   "phone": "3867122646",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.356283,
-   "lng": 33.726513
+   "lat": 39.358501,
+   "lng": 33.724271
   },
   {
    "district": "Mucur",
-   "name": "Mucur Eczanesi",
-   "address": "Yenice Mah. Enver Paşa Cad. No : 34/A",
-   "phone": "03868124588",
+   "name": "Hendek Eczanesi",
+   "address": "YENİCE MAH.ENVERPAŞA CAD.NO:29",
+   "phone": "03868122223",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.064548,
-   "lng": 34.377001
+   "lat": 39.064625,
+   "lng": 34.376816
   }
  ],
  "sourceUrl": "https://www.aksarayeo.org.tr/nobetci-eczaneler"

@@ -1,86 +1,86 @@
 {
  "city": "Osmaniye",
  "code": 80,
- "dutyDay": "2026-11-09",
- "updatedAt": "2026-11-09T16:14:36.883Z",
+ "dutyDay": "2026-11-10",
+ "updatedAt": "2026-11-10T14:55:23.768Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Bahçe",
-   "name": "Lokman Hekim Eczanesi",
-   "address": "Bahçelievler Mahallesi Dr. Devlet Bahçeli Bulvarı No:57/A",
-   "phone": "0328 861 2066",
-   "dutyStart": "2026-11-09T12:30:00+03:00",
-   "dutyEnd": "2026-11-10T08:00:00+03:00",
+   "name": "Uğur Eczanesi",
+   "address": "Bahçelievler Mah. Devlet Bahçeli Bul. No: 11/A",
+   "phone": "0328 861 4147",
+   "dutyStart": "2026-11-10T12:30:00+03:00",
+   "dutyEnd": "2026-11-11T08:00:00+03:00",
    "approved": true,
-   "lat": 37.197517,
-   "lng": 36.573917
+   "lat": 37.200577,
+   "lng": 36.577454
   },
   {
    "district": "Düziçi",
-   "name": "Ali İren Eczanesi",
-   "address": "İrfanlı Mahallesi Ahmet Lütfi Dağlar Bulvarı No: 12/B",
-   "phone": "0328 876 1876",
-   "dutyStart": "2026-11-09T17:30:00+03:00",
-   "dutyEnd": "2026-11-10T08:00:00+03:00",
+   "name": "Aydın Eczanesi",
+   "address": "Yeşilova Mahallesi Aydınlar Caddesi No: 40",
+   "phone": "0541 203 8290",
+   "dutyStart": "2026-11-10T17:30:00+03:00",
+   "dutyEnd": "2026-11-11T08:00:00+03:00",
    "approved": true,
-   "lat": 37.257668,
-   "lng": 36.455402
+   "lat": 37.244717,
+   "lng": 36.453922
   },
   {
    "district": "Kadirli",
-   "name": "İnci Eczanesi",
-   "address": "Şehit Mehmet Delikuş Mahallesi Dr. Devlet Bahçeli Bulvarı No: 21-Z/1",
-   "phone": "0328 718 0550",
-   "dutyStart": "2026-11-09T12:00:00+03:00",
-   "dutyEnd": "2026-11-10T08:30:00+03:00",
+   "name": "Bayazıtoğlu Eczanesi",
+   "address": "Şehit Orhan Gök Mahallesi 931 Sokak No:4/H",
+   "phone": "0538 832 4364",
+   "dutyStart": "2026-11-10T12:00:00+03:00",
+   "dutyEnd": "2026-11-11T08:30:00+03:00",
    "approved": true,
-   "lat": 37.366371,
-   "lng": 36.096241
+   "lat": 37.345963,
+   "lng": 36.097115
   },
   {
    "district": "Merkez",
-   "name": "Deveci Eczanesi",
-   "address": "Eyüp Sultan Mah. 5550 Sokak No: 31/A",
-   "phone": "3 28  825 0065",
-   "dutyStart": "2026-11-09T18:00:00+03:00",
-   "dutyEnd": "2026-11-10T08:00:00+03:00",
+   "name": "Bayrak Eczanesi",
+   "address": "Ulaşlı Mah. 11507 Sok. No:6",
+   "phone": "0328 825 0825",
+   "dutyStart": "2026-11-10T18:00:00+03:00",
+   "dutyEnd": "2026-11-11T08:00:00+03:00",
    "approved": true,
-   "lat": 37.05875,
-   "lng": 36.256191
+   "lat": 37.055569,
+   "lng": 36.265678
   },
   {
    "district": "Merkez",
-   "name": "Velipaşaoğlu Eczanesi",
-   "address": "İstiklal Mahallesi Dr. Sadık Ahmet Caddesi No: 45/C",
-   "phone": "0507 916 5230",
-   "dutyStart": "2026-11-09T18:00:00+03:00",
-   "dutyEnd": "2026-11-10T08:00:00+03:00",
+   "name": "Cadde Park Avm Özlen Eczanesi",
+   "address": "Adnan Menderes Mahallesi 19537 Sok. Dış Kapı No:1/B",
+   "phone": "0328 826 0390",
+   "dutyStart": "2026-11-10T18:00:00+03:00",
+   "dutyEnd": "2026-11-11T08:00:00+03:00",
    "approved": true,
-   "lat": 37.073544,
-   "lng": 36.251232
+   "lat": 37.063114,
+   "lng": 36.237007
   },
   {
    "district": "Merkez",
-   "name": "Yüksek Eczanesi",
-   "address": "Mareşal Fevzi Çakmak Mahallesi Musa Şahin Bulvarı No: 569/B",
-   "phone": "0507 654 0496",
-   "dutyStart": "2026-11-09T18:00:00+03:00",
-   "dutyEnd": "2026-11-10T08:00:00+03:00",
+   "name": "Erdem Eczanesi",
+   "address": "Mareşal Fevzi Çakmak Mahallesi Beycioğlu Ali Ağa Caddesi No:90/C",
+   "phone": "0328 633 2055",
+   "dutyStart": "2026-11-10T18:00:00+03:00",
+   "dutyEnd": "2026-11-11T08:00:00+03:00",
    "approved": true,
-   "lat": 37.080624,
-   "lng": 36.261929
+   "lat": 37.089535,
+   "lng": 36.265648
   },
   {
    "district": "Toprakkale",
-   "name": "Arslantaş Eczanesi",
-   "address": "Fatih Sultan Mehmet Mah. Çamlıbel Sok. No:19/D",
-   "phone": "0545 628 6033",
-   "dutyStart": "2026-11-09T18:30:00+03:00",
-   "dutyEnd": "2026-11-10T08:00:00+03:00",
+   "name": "Doruk Eczanesi",
+   "address": "Fatih Sultan Mehmet Mahallesi Atatürk Caddesi No: 142/A",
+   "phone": "0553 350 4339",
+   "dutyStart": "2026-11-10T18:30:00+03:00",
+   "dutyEnd": "2026-11-11T08:00:00+03:00",
    "approved": true,
-   "lat": 37.070683,
-   "lng": 36.144207
+   "lat": 37.068085,
+   "lng": 36.144161
   }
  ]
 }

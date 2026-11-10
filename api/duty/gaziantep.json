@@ -1,75 +1,75 @@
 {
  "city": "Gaziantep",
  "code": 27,
- "dutyDay": "2026-11-09",
- "updatedAt": "2026-11-09T16:10:23.189Z",
+ "dutyDay": "2026-11-10",
+ "updatedAt": "2026-11-10T14:50:38.809Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Araban",
-   "name": "Murat Eczanesi",
-   "address": "TURGUT ÖZAL MAH. CEZAEVİ CAD. NO:43/A",
-   "phone": "0342 611 2243",
-   "dutyStart": "2026-11-09T08:30:00+03:00",
-   "dutyEnd": "2026-11-10T08:30:00+03:00",
+   "name": "Kemal Çoban Eczanesi",
+   "address": "MEHMET GÖKÇEK MAH. DR. ASIM GÜZELBEY CAD. NO:32B",
+   "phone": "0532 054 2455",
+   "dutyStart": "2026-11-10T08:30:00+03:00",
+   "dutyEnd": "2026-11-11T08:30:00+03:00",
    "approved": true,
-   "lat": 37.419521,
-   "lng": 37.683044
+   "lat": 37.427155,
+   "lng": 37.687805
   },
   {
    "district": "İslahiye",
-   "name": "Şifa Eczanesi",
-   "address": "CUMHURİYET MAHALLESİ HAKKI DEMİREL CADDESİ NO:54A",
-   "phone": "0342 862 4408",
-   "dutyStart": "2026-11-09T08:30:00+03:00",
-   "dutyEnd": "2026-11-10T08:30:00+03:00",
+   "name": "Zeliş Eczanesi",
+   "address": "ERENLER MAHALLESİ GAZİANTEP BULVARI NO:139B",
+   "phone": "0546 803 9060",
+   "dutyStart": "2026-11-10T08:30:00+03:00",
+   "dutyEnd": "2026-11-11T08:30:00+03:00",
    "approved": true,
-   "lat": 37.026299,
-   "lng": 36.633823
+   "lat": 37.044174,
+   "lng": 36.629784
   },
   {
    "district": "Nizip",
-   "name": "Babacan Eczanesi",
-   "address": "CUMHURİYET MAHALLESİ ATATÜRK BULVARI NO:17 A",
-   "phone": "0342 517 9281",
-   "dutyStart": "2026-11-09T08:30:00+03:00",
-   "dutyEnd": "2026-11-10T08:30:00+03:00",
+   "name": "Yunus Eczanesi",
+   "address": "FIRAT MAH. KIŞLA SOK. NO:61/A",
+   "phone": "0507 023 1533",
+   "dutyStart": "2026-11-10T08:30:00+03:00",
+   "dutyEnd": "2026-11-11T08:30:00+03:00",
    "approved": true,
-   "lat": 37.009953,
-   "lng": 37.791618
+   "lat": 37.019604,
+   "lng": 37.793743
   },
   {
    "district": "Nurdağı",
-   "name": "Eda Bolat Eczanesi",
-   "address": "YAVUZSELİM MAHALLESİ ÇELİKKAN CADDESİ NO:20C",
-   "phone": "0342 502 1864",
-   "dutyStart": "2026-11-09T08:30:00+03:00",
-   "dutyEnd": "2026-11-10T08:30:00+03:00",
+   "name": "Ünsalan Ömür Eczanesi",
+   "address": "ATATÜRK MAH. 303 NOLU SOK.NO:3/Z1",
+   "phone": "0531 883 2530",
+   "dutyStart": "2026-11-10T08:30:00+03:00",
+   "dutyEnd": "2026-11-11T08:30:00+03:00",
    "approved": true,
-   "lat": 37.181385,
-   "lng": 36.744427
+   "lat": 37.17765,
+   "lng": 36.740032
   },
   {
    "district": "Oğuzeli",
-   "name": "Çiğdem Eczanesi",
-   "address": "SUBAŞI MAHALLESİ ALPARSLAN TÜRKEŞ BULVARI NO:2/A",
-   "phone": "0533 703 3075",
-   "dutyStart": "2026-11-09T08:30:00+03:00",
-   "dutyEnd": "2026-11-10T08:30:00+03:00",
+   "name": "Hilal Eczanesi",
+   "address": "SUBAŞI MAHALLESİ ALPARSLAN TÜRKEŞ BULVARI NO:2/16",
+   "phone": "0342 571 3435",
+   "dutyStart": "2026-11-10T08:30:00+03:00",
+   "dutyEnd": "2026-11-11T08:30:00+03:00",
    "approved": true,
-   "lat": 36.965275,
-   "lng": 37.508034
+   "lat": 36.965378,
+   "lng": 37.508175
   },
   {
    "district": "Yavuzeli",
-   "name": "Anka Eczanesi",
-   "address": "SULTAN SELİM MAHALLESİ ARABAN CADDESİ NO:42B/BA",
-   "phone": "0545 970 3250",
-   "dutyStart": "2026-11-09T17:30:00+03:00",
-   "dutyEnd": "2026-11-10T08:30:00+03:00",
+   "name": "Öznur Eczanesi",
+   "address": "SULTAN SELİM MAHALLESİ HACI SAİT KORKMAZ CADDESİ NO:1/B-28",
+   "phone": "0554 007 2147",
+   "dutyStart": "2026-11-10T17:30:00+03:00",
+   "dutyEnd": "2026-11-11T08:30:00+03:00",
    "approved": true,
-   "lat": 37.319614,
-   "lng": 37.566566
+   "lat": 37.318485,
+   "lng": 37.566517
   }
  ]
 }

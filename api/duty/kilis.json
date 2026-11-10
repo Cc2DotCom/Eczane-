@@ -1,15 +1,15 @@
 {
  "city": "Kilis",
  "code": 79,
- "dutyDay": "2026-11-09",
- "updatedAt": "2026-11-10T00:18:33.695Z",
+ "dutyDay": "2026-11-10",
+ "updatedAt": "2026-11-10T14:55:15.908Z",
  "source": "Gaziantep Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Candemir Eczanesi",
-   "address": "Mehmet Rıfat Kazancıoğlu Mahallesi Sabit Erentürk Caddesi No:24/C",
-   "phone": "03488039091",
+   "name": "Dağaçıkan Eczanesi Kilis Eczanesi",
+   "address": "Namık Ünler Paşa Mahallesi Cahit Ulutaş Cd. No:4A (Çengel 112 Karşısı)",
+   "phone": "05303090079",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,

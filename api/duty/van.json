@@ -1,20 +1,20 @@
 {
  "city": "Van",
  "code": 65,
- "dutyDay": "2026-11-09",
- "updatedAt": "2026-11-09T16:13:47.200Z",
+ "dutyDay": "2026-11-10",
+ "updatedAt": "2026-11-10T14:54:35.982Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Erciş",
-   "name": "Arslan Eczanesi",
-   "address": "Kışla Mahalle İnönü Cadde Kentsel Dönüşüm Dükkanları No:B-2 5",
-   "phone": "0432 351 9491",
-   "dutyStart": "2026-11-09T18:00:00+03:00",
-   "dutyEnd": "2026-11-10T08:30:00+03:00",
+   "name": "Bilici Eczanesi",
+   "address": "Erciş İlçe Kışla Mah. Çınar Cad. 55. Sok. 9/1",
+   "phone": "0432 354 3200",
+   "dutyStart": "2026-11-10T18:00:00+03:00",
+   "dutyEnd": "2026-11-11T08:30:00+03:00",
    "approved": true,
-   "lat": 39.028507,
-   "lng": 43.359154
+   "lat": 39.017773,
+   "lng": 43.352558
   }
  ]
 }
