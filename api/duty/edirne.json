@@ -2,7 +2,7 @@
  "city": "Edirne",
  "code": 22,
  "dutyDay": "2026-11-10",
- "updatedAt": "2026-11-10T20:29:00.096Z",
+ "updatedAt": "2026-11-10T21:50:21.826Z",
  "source": "Edirne Eczacı Odası",
  "pharmacies": [
   {
@@ -15,17 +15,6 @@
    "approved": true,
    "lat": 41.665914,
    "lng": 26.598508
-  },
-  {
-   "district": "Merkez",
-   "name": "Uygar Eczanesi",
-   "address": "FATIH MAH. ALI RIZA ATAKTÜRK CAD. NO:1 EDİRNE",
-   "phone": "02842354212",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 41.662376,
-   "lng": 26.587455
   },
   {
    "district": "Merkez",
