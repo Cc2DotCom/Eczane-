@@ -2,19 +2,19 @@
  "city": "Kayseri",
  "code": 38,
  "dutyDay": "2026-11-09",
- "updatedAt": "2026-11-09T23:00:11.807Z",
+ "updatedAt": "2026-11-10T00:18:17.998Z",
  "source": "Kayseri Eczacı Odası",
  "pharmacies": [
   {
-   "district": "Kocasinan",
-   "name": "Özlem Eczanesi",
-   "address": "ÖRNEKEVLER MAH.SALIH AVGIN PASA CAD. N0:28/A (Devlet Hastanesi Karşısı)",
-   "phone": "03522223622",
+   "district": "Melikgazi",
+   "name": "Kiraz Eczanesi",
+   "address": "YEŞİLYURT MAH. ŞEHİT JANDARMA ONBAŞI HAKAN TÜRK CAD. NO:105/C",
+   "phone": "03525133196",
    "dutyStart": "2026-11-09T08:30:00+03:00",
    "dutyEnd": "2026-11-10T08:30:00+03:00",
    "approved": true,
-   "lat": 38.727456,
-   "lng": 35.480326
+   "lat": 38.791695,
+   "lng": 35.61981
   },
   {
    "district": "Kocasinan",
@@ -29,6 +29,17 @@
   },
   {
    "district": "Kocasinan",
+   "name": "Özlem Eczanesi",
+   "address": "ÖRNEKEVLER MAH.SALIH AVGIN PASA CAD. N0:28/A (Devlet Hastanesi Karşısı)",
+   "phone": "03522223622",
+   "dutyStart": "2026-11-09T08:30:00+03:00",
+   "dutyEnd": "2026-11-10T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.727456,
+   "lng": 35.480326
+  },
+  {
+   "district": "Kocasinan",
    "name": "Genç Eczanesi",
    "address": "ŞEKER MAH. MUHSİN YAZICIOĞLU BULV. NO:74/A",
    "phone": "03522352050",
@@ -37,17 +48,6 @@
    "approved": true,
    "lat": 38.770337,
    "lng": 35.413182
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Kiraz Eczanesi",
-   "address": "YEŞİLYURT MAH. ŞEHİT JANDARMA ONBAŞI HAKAN TÜRK CAD. NO:105/C",
-   "phone": "03525133196",
-   "dutyStart": "2026-11-09T08:30:00+03:00",
-   "dutyEnd": "2026-11-10T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.791695,
-   "lng": 35.61981
   },
   {
    "district": "Kocasinan",
