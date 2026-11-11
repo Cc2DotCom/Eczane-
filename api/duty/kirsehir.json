@@ -1,53 +1,53 @@
 {
  "city": "Kırşehir",
  "code": 40,
- "dutyDay": "2026-11-10",
- "updatedAt": "2026-11-10T21:50:43.685Z",
+ "dutyDay": "2026-11-11",
+ "updatedAt": "2026-11-11T14:15:24.413Z",
  "source": "e-Devlet TİTCK, Aksaray-Kırşehir Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Begüm Eczanesi",
-   "address": "MEDRESE MAH.MELİH GAZİ CAD.TURAN İŞ HANI NO:12/A MERKEZ / KIRŞEHİR",
-   "phone": "0386 214 4008",
-   "dutyStart": "2026-11-10T18:00:00+03:00",
-   "dutyEnd": "2026-11-11T08:00:00+03:00",
+   "name": "Akgül Eczanesi",
+   "address": "AŞIKPAŞA MAH.LİSE CAD.BULVAR APT.NO:8 MERKEZ/ KIRŞEHİR",
+   "phone": "0386 213 7000",
+   "dutyStart": "2026-11-11T18:00:00+03:00",
+   "dutyEnd": "2026-11-12T08:00:00+03:00",
    "approved": true,
-   "lat": 39.144524,
-   "lng": 34.162041
+   "lat": 39.146568,
+   "lng": 34.161358
   },
   {
    "district": "Merkez",
-   "name": "Terme Eczanesi",
-   "address": "YENİCE MAH.TERME CAD.HUKUKCULAR APT.NO:14",
-   "phone": "3 862 123 618_",
-   "dutyStart": "2026-11-10T18:00:00+03:00",
-   "dutyEnd": "2026-11-11T08:00:00+03:00",
+   "name": "Özkaya Eczanesi",
+   "address": "Nasuhdede Mahallesi Nur Sultan Nazar Bayev Bulvarı No:23/9",
+   "phone": "0386 213 9095",
+   "dutyStart": "2026-11-11T18:00:00+03:00",
+   "dutyEnd": "2026-11-12T08:00:00+03:00",
    "approved": true,
-   "lat": 39.142708,
-   "lng": 34.159828
+   "lat": 39.153824,
+   "lng": 34.150581
   },
   {
    "district": "Kaman",
-   "name": "Akdeniz Eczanesi",
-   "address": "CUMHURIYET MEYDANI NO:18",
-   "phone": "3867122646",
+   "name": "Hayat Eczanesi",
+   "address": "CUMHURIYET MEYDANI NO:38 KAMAN",
+   "phone": "3867127210",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.358501,
-   "lng": 33.724271
+   "lat": 39.358003,
+   "lng": 33.724385
   },
   {
    "district": "Mucur",
-   "name": "Hendek Eczanesi",
-   "address": "YENİCE MAH.ENVERPAŞA CAD.NO:29",
-   "phone": "03868122223",
+   "name": "Saglik Eczanesi",
+   "address": "YENICE MAH. ENVERPASA CAD. NO:5 MUCUR",
+   "phone": "3868124769",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.064625,
-   "lng": 34.376816
+   "lat": 39.063311,
+   "lng": 34.376217
   }
  ],
  "sourceUrl": "https://www.aksarayeo.org.tr/nobetci-eczaneler"

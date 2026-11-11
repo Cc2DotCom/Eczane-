@@ -1,20 +1,20 @@
 {
  "city": "Kilis",
  "code": 79,
- "dutyDay": "2026-11-10",
- "updatedAt": "2026-11-10T21:50:57.966Z",
+ "dutyDay": "2026-11-11",
+ "updatedAt": "2026-11-11T14:17:37.437Z",
  "source": "Gaziantep Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Dağaçıkan Eczanesi Kilis Eczanesi",
-   "address": "Namık Ünler Paşa Mahallesi Cahit Ulutaş Cd. No:4A (Çengel 112 Karşısı)",
-   "phone": "05303090079",
+   "name": "Deniz Eczanesi",
+   "address": "Yedi Aralık Mahallesi. Murtaza Caddesi. 30/A",
+   "phone": "03488143271",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": null,
-   "lng": null
+   "lat": 36.7186698,
+   "lng": 37.1115295
   }
  ],
  "sourceUrl": "https://www.gaziantepeo.org.tr/nobetci-eczaneler"

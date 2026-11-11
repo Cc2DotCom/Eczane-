@@ -1,64 +1,64 @@
 {
  "city": "Hakkari",
  "code": 30,
- "dutyDay": "2026-11-10",
- "updatedAt": "2026-11-10T21:50:35.760Z",
+ "dutyDay": "2026-11-11",
+ "updatedAt": "2026-11-11T14:13:45.404Z",
  "source": "Van Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Günes Eczanesi",
-   "address": "DAGGÖL MAH.HAKKARI VAN BULVAR CAD. 22/AHAKKKARI/MERKEZ",
-   "phone": "04382110040",
+   "name": "Derman Eczanesi Eczanesi",
+   "address": "PEHLİVAN MAH. HASTANE CAD. 814. SK TAHİR EĞE APT. 1 NO:1 MERKEZ HAKKARİ",
+   "phone": "04382118084",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.573564,
-   "lng": 43.733851
+   "lat": 37.572955,
+   "lng": 43.73206
   },
   {
    "district": "Yüksekova",
-   "name": "Gever Eczanesi",
-   "address": "YÜKSEKOVA DEVLET HASTANESİ KARŞISI NO:3",
-   "phone": "04383510004",
+   "name": "Dilan Eczanesi",
+   "address": "GÜNGÖR MAH.ANAFARTALAR CAD.NO:12",
+   "phone": "04383330669",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.567838,
-   "lng": 44.229582
+   "lat": 37.570471,
+   "lng": 44.282629
   },
   {
    "district": "Yüksekova",
-   "name": "Deva Eczanesi",
-   "address": "LC WAIKIKI KARŞISI(AVANTAJ ESKİ HALK BANKASI)",
-   "phone": "04383516611",
+   "name": "Gül Eczanesi",
+   "address": "İNANLI MAH.İNANLI CAD.NO:309/A",
+   "phone": "05555412930",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.571359,
-   "lng": 44.283606
+   "lat": 37.567986,
+   "lng": 44.229729
   },
   {
    "district": "Şemdinli",
-   "name": "Şemdinli Eczanesi",
-   "address": "Karşıyaka Mah. Çevreyolu Cad.No:5/C",
-   "phone": "05461501130",
+   "name": "Yaşam Eczanesi",
+   "address": "Yeni Mah.Cumhuriyet Cad.No:70/B",
+   "phone": "04384113357",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.308407,
-   "lng": 44.570159
+   "lat": 37.307227,
+   "lng": 44.572463
   },
   {
    "district": "Şemdinli",
-   "name": "Aki Eczanesi",
-   "address": "MERKEZ MAH. VATAN CADDESİ NO:12/A",
-   "phone": "04384613320",
+   "name": "Bahar Eczanesi",
+   "address": "MERKEZ MAH. VATAN CAD.NO:17/A",
+   "phone": "04384613122",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.080915,
-   "lng": 44.310193
+   "lat": 37.306194,
+   "lng": 44.573294
   }
  ],
  "sourceUrl": "https://www.vaneczaciodasi.org.tr/nobetci-eczaneler"

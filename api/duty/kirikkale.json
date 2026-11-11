@@ -1,75 +1,86 @@
 {
  "city": "Kırıkkale",
  "code": 71,
- "dutyDay": "2026-11-10",
- "updatedAt": "2026-11-10T14:54:52.618Z",
+ "dutyDay": "2026-11-11",
+ "updatedAt": "2026-11-11T14:17:16.236Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
-   "district": "Delice",
-   "name": "Cennet Eczanesi",
-   "address": "CUMHURİYET MAH.ANKARA CAD.NO:34/A DELİCE/KIRIKKALE",
-   "phone": "0318 618 5433",
-   "dutyStart": "2026-11-10T18:00:00+03:00",
-   "dutyEnd": "2026-11-11T08:30:00+03:00",
+   "district": "Balışeyh",
+   "name": "Feyza Eczanesi",
+   "address": "YENİ MAH. SAMSUN CAD. NO:21/A BALIŞEYH/KIRIKKALE",
+   "phone": "0536 292 6648",
+   "dutyStart": "2026-11-11T18:30:00+03:00",
+   "dutyEnd": "2026-11-12T08:30:00+03:00",
    "approved": true,
-   "lat": 39.943676,
-   "lng": 34.032204
+   "lat": 39.909851,
+   "lng": 33.717113
+  },
+  {
+   "district": "Delice",
+   "name": "Delice Eczanesi",
+   "address": "CUMHURİYET MAH. ATATÜRK BULVARI NO:6/C DELİCE/KIRIKKALE",
+   "phone": "0530 433 2265",
+   "dutyStart": "2026-11-11T18:00:00+03:00",
+   "dutyEnd": "2026-11-12T08:30:00+03:00",
+   "approved": true,
+   "lat": 39.94426,
+   "lng": 34.032265
   },
   {
    "district": "Karakeçili",
-   "name": "Karakeçili Eczanesi",
-   "address": "Fatih Sultan Mehmet Mahallesi Hürriyet Caddesi No:4/A Karakeçili / Kırıkkale",
-   "phone": "0505 681 7381",
-   "dutyStart": "2026-11-10T18:30:00+03:00",
-   "dutyEnd": "2026-11-11T08:30:00+03:00",
+   "name": "Metin Eczanesi",
+   "address": "KURTULUŞ MAH.İNÖNÜ CAD. NO:1/C KARAKEÇİLİ/KIRIKKALE",
+   "phone": "0318 474 3033",
+   "dutyStart": "2026-11-11T18:30:00+03:00",
+   "dutyEnd": "2026-11-12T08:30:00+03:00",
    "approved": true,
-   "lat": 39.593029,
-   "lng": 33.378559
+   "lat": 39.59354,
+   "lng": 33.378311
   },
   {
    "district": "Keskin",
-   "name": "Rana Eczanesi",
-   "address": "BOZKURT MAH.MERT SOK:NO:36 KESKİN/KIRIKKALE",
-   "phone": "3 185 153 257_",
-   "dutyStart": "2026-11-10T18:30:00+03:00",
-   "dutyEnd": "2026-11-11T08:30:00+03:00",
+   "name": "Keskin Merkez Eczanesi",
+   "address": "YENİCE MAH. PROF. DR. BEŞİR ATALAY CADDESİ NO.18/A KESKİN/KIRIKKALE",
+   "phone": "0533 425 0405",
+   "dutyStart": "2026-11-11T18:30:00+03:00",
+   "dutyEnd": "2026-11-12T08:30:00+03:00",
    "approved": true,
-   "lat": 39.67366,
-   "lng": 33.615814
+   "lat": 39.673607,
+   "lng": 33.615318
   },
   {
    "district": "Merkez",
-   "name": "Başkent Eczanesi",
-   "address": "YENİDOĞAN MAH.ZAFER CAD.NO:12/D",
-   "phone": "0318 225 1200",
-   "dutyStart": "2026-11-10T18:00:00+03:00",
-   "dutyEnd": "2026-11-11T08:30:00+03:00",
+   "name": "Kirikkale Eczanesi",
+   "address": "TEPEBAŞI MAH.RAUF DENKTAŞ BUL.NO:50/B KIRIKKALE",
+   "phone": "0318 256 6692",
+   "dutyStart": "2026-11-11T18:00:00+03:00",
+   "dutyEnd": "2026-11-12T08:30:00+03:00",
    "approved": true,
-   "lat": 39.840717,
-   "lng": 33.505863
+   "lat": 39.846203,
+   "lng": 33.508022
   },
   {
    "district": "Merkez",
-   "name": "Yeni Özdemir Eczanesi",
-   "address": "Ovacık Mahallesi Zafer Caddesi No: 131- A Merkez/KIRIKKALE",
-   "phone": "0505 669 2933",
-   "dutyStart": "2026-11-10T18:00:00+03:00",
-   "dutyEnd": "2026-11-11T08:30:00+03:00",
+   "name": "Özder Eczanesi",
+   "address": "Çalılıöz Mah. Alparslan Türkeş Blv. No: 20-C Merkez/KIRIKKALE",
+   "phone": "3 182 020 200_",
+   "dutyStart": "2026-11-11T18:00:00+03:00",
+   "dutyEnd": "2026-11-12T08:30:00+03:00",
    "approved": true,
-   "lat": 39.848885,
-   "lng": 33.50404
+   "lat": 39.85511,
+   "lng": 33.488796
   },
   {
    "district": "Yahşihan",
-   "name": "Erdal Eczanesi",
-   "address": "ALAATTİN MAH.60.SOK. NO:3/A YAHŞİHAN/KIRIKKALE",
-   "phone": "0543 833 0316",
-   "dutyStart": "2026-11-10T18:00:00+03:00",
-   "dutyEnd": "2026-11-11T08:30:00+03:00",
+   "name": "Hayat Eczanesi",
+   "address": "YENİŞEHİR MAH. 260.SOK. NO:2/D YAHŞİHAN/KIRIKKALE",
+   "phone": "0318 224 0660",
+   "dutyStart": "2026-11-11T18:00:00+03:00",
+   "dutyEnd": "2026-11-12T08:30:00+03:00",
    "approved": true,
-   "lat": 39.848072,
-   "lng": 33.452366
+   "lat": 39.869762,
+   "lng": 33.455738
   }
  ]
 }
