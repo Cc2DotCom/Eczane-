@@ -2,7 +2,7 @@
  "city": "Edirne",
  "code": 22,
  "dutyDay": "2026-11-11",
- "updatedAt": "2026-11-11T20:13:08.512Z",
+ "updatedAt": "2026-11-11T22:44:24.131Z",
  "source": "Edirne Eczacı Odası",
  "pharmacies": [
   {
@@ -15,17 +15,6 @@
    "approved": true,
    "lat": 41.665957,
    "lng": 26.570666
-  },
-  {
-   "district": "Merkez",
-   "name": "Akin Eczanesi",
-   "address": "SARAÇLAR CAD.NO:26",
-   "phone": "2842123906",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 41.676233,
-   "lng": 26.552803
   },
   {
    "district": "Merkez",
