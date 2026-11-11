@@ -2,20 +2,9 @@
  "city": "Malatya",
  "code": 44,
  "dutyDay": "2026-11-11",
- "updatedAt": "2026-11-11T17:04:43.920Z",
+ "updatedAt": "2026-11-11T20:13:33.610Z",
  "source": "Malatya Eczacı Odası",
  "pharmacies": [
-  {
-   "district": "Merkez",
-   "name": "Müge Eczanesi",
-   "address": "ÇEVRE YOLU YILDIZ BÜFE YANI EMEKSİZ ALTI",
-   "phone": "05537468423",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": null,
-   "lng": null
-  },
   {
    "district": "Merkez",
    "name": "Denizer Eczanesi",
@@ -26,6 +15,17 @@
    "approved": true,
    "lat": 38.3440137,
    "lng": 38.3286767
+  },
+  {
+   "district": "Merkez",
+   "name": "Müge Eczanesi",
+   "address": "ÇEVRE YOLU YILDIZ BÜFE YANI EMEKSİZ ALTI",
+   "phone": "05537468423",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": null,
+   "lng": null
   },
   {
    "district": "Merkez",
