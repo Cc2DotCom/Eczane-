@@ -1,8 +1,8 @@
 {
  "city": "Elazığ",
  "code": 23,
- "dutyDay": "2026-11-10",
- "updatedAt": "2026-11-10T21:50:26.147Z",
+ "dutyDay": "2026-11-11",
+ "updatedAt": "2026-11-11T17:04:19.791Z",
  "source": "e-Devlet TİTCK, Elazığ Eczacı Odası",
  "pharmacies": [
   {
@@ -62,47 +62,47 @@
   },
   {
    "district": "Karakoçan",
-   "name": "Bulutoglu Eczanesi",
-   "address": "karakoçan elazığ TEPE MAH. HAN ÇESMESI SOK. NO:11",
-   "phone": "04247113836",
+   "name": "Cannur Eczanesi",
+   "address": "YENI MAHALLE HÜKÜMET MEYDANI NO:6/1",
+   "phone": "04247115252",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.955773,
-   "lng": 40.03583
+   "lat": 38.954102,
+   "lng": 40.037537
   },
   {
    "district": "Keban",
-   "name": "Keban Eczanesi",
-   "address": "DEĞİRMENBAŞI MAH. ŞEHİT GENERAL POLAT HAŞİMOV CAD.NO:299",
-   "phone": "04245712300",
+   "name": "Taşkın Eczanesi",
+   "address": "DEĞİRMENBAŞI MAH.GENERAL POLAT HAŞİMOV CAD. NO:10",
+   "phone": "04245712525",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.793201,
-   "lng": 38.745569
+   "lat": 38.793133,
+   "lng": 38.74563
   },
   {
    "district": "Kovancilar",
-   "name": "Yilmaz Eczanesi",
-   "address": "İSMETPAŞA MAH.ASLAN CAD. NO:46/A",
-   "phone": "04246115200",
+   "name": "Derman Eczanesi",
+   "address": "ÇARŞIBAŞI MAH İLHAMİ ERTEM CAD. NO:14",
+   "phone": "04246115002",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.725741,
-   "lng": 39.876719
+   "lat": 38.718788,
+   "lng": 39.865831
   },
   {
    "district": "Palu",
-   "name": "Eylül Eczanesi",
-   "address": "NUMUNE MAH.15 TEMMUZ DİRİLİŞ CAD. NO:20/1",
-   "phone": "04246512569",
+   "name": "Yaşam Eczanesi",
+   "address": "KALEKENT MAH.ŞEHYŞAMİL BLV.NO:3/D",
+   "phone": "04245036934",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.693205,
-   "lng": 39.927578
+   "lat": 38.693789,
+   "lng": 39.914233
   }
  ],
  "sourceUrl": "https://www.elazigeczaciodasi.org.tr/nobetci-eczaneler/elazig"
