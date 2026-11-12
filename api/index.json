@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T17:33:30.139Z",
+ "generatedAt": "2026-11-12T20:51:03.812Z",
  "source": "e-Devlet TİTCK",
  "cities": [
   {
@@ -63,7 +63,7 @@
    "slug": "artvin",
    "code": 8,
    "dutyDay": "2026-11-12",
-   "updatedAt": "2026-11-12T15:05:58.825Z",
+   "updatedAt": "2026-11-12T20:50:05.872Z",
    "count": 9
   },
   {
@@ -71,7 +71,7 @@
    "slug": "aydin",
    "code": 9,
    "dutyDay": "2026-11-12",
-   "updatedAt": "2026-11-12T17:32:24.684Z",
+   "updatedAt": "2026-11-12T20:50:10.790Z",
    "count": 32
   },
   {
@@ -119,7 +119,7 @@
    "slug": "burdur",
    "code": 15,
    "dutyDay": "2026-11-12",
-   "updatedAt": "2026-11-12T17:32:36.573Z",
+   "updatedAt": "2026-11-12T20:50:23.326Z",
    "count": 0
   },
   {
@@ -175,7 +175,7 @@
    "slug": "edirne",
    "code": 22,
    "dutyDay": "2026-11-12",
-   "updatedAt": "2026-11-12T17:32:40.408Z",
+   "updatedAt": "2026-11-12T20:50:26.922Z",
    "count": 11
   },
   {
@@ -183,7 +183,7 @@
    "slug": "elazig",
    "code": 23,
    "dutyDay": "2026-11-12",
-   "updatedAt": "2026-11-12T17:32:43.393Z",
+   "updatedAt": "2026-11-12T20:50:29.948Z",
    "count": 9
   },
   {
@@ -207,7 +207,7 @@
    "slug": "eskisehir",
    "code": 26,
    "dutyDay": "2026-11-12",
-   "updatedAt": "2026-11-12T17:32:48.116Z",
+   "updatedAt": "2026-11-12T20:50:34.802Z",
    "count": 14
   },
   {
@@ -239,7 +239,7 @@
    "slug": "hakkari",
    "code": 30,
    "dutyDay": "2026-11-12",
-   "updatedAt": "2026-11-12T17:32:52.791Z",
+   "updatedAt": "2026-11-12T20:50:39.636Z",
    "count": 5
   },
   {
@@ -303,7 +303,7 @@
    "slug": "kayseri",
    "code": 38,
    "dutyDay": "2026-11-12",
-   "updatedAt": "2026-11-12T17:32:59.899Z",
+   "updatedAt": "2026-11-12T20:50:44.397Z",
    "count": 14
   },
   {
@@ -319,7 +319,7 @@
    "slug": "kirsehir",
    "code": 40,
    "dutyDay": "2026-11-12",
-   "updatedAt": "2026-11-12T17:33:02.756Z",
+   "updatedAt": "2026-11-12T20:50:47.197Z",
    "count": 4
   },
   {
@@ -351,7 +351,7 @@
    "slug": "malatya",
    "code": 44,
    "dutyDay": "2026-11-12",
-   "updatedAt": "2026-11-12T17:33:15.820Z",
+   "updatedAt": "2026-11-12T20:50:51.919Z",
    "count": 5
   },
   {
@@ -391,7 +391,7 @@
    "slug": "mus",
    "code": 49,
    "dutyDay": "2026-11-12",
-   "updatedAt": "2026-11-12T17:33:20.526Z",
+   "updatedAt": "2026-11-12T20:50:56.492Z",
    "count": 6
   },
   {
@@ -631,7 +631,7 @@
    "slug": "kilis",
    "code": 79,
    "dutyDay": "2026-11-12",
-   "updatedAt": "2026-11-12T17:33:27.528Z",
+   "updatedAt": "2026-11-12T20:51:01.038Z",
    "count": 1
   },
   {
