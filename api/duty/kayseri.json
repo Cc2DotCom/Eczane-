@@ -2,20 +2,9 @@
  "city": "Kayseri",
  "code": 38,
  "dutyDay": "2026-11-12",
- "updatedAt": "2026-11-12T15:09:05.306Z",
+ "updatedAt": "2026-11-12T17:32:59.899Z",
  "source": "Kayseri Eczacı Odası",
  "pharmacies": [
-  {
-   "district": "Melikgazi",
-   "name": "Çandır Eczanesi",
-   "address": "TACETTIN VELI MAH.DELIKTAS CAD.NO:23/B",
-   "phone": "03522251144",
-   "dutyStart": "2026-11-12T08:30:00+03:00",
-   "dutyEnd": "2026-11-13T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.712278,
-   "lng": 35.493037
-  },
   {
    "district": "Kocasinan",
    "name": "Özden Eczanesi",
@@ -26,6 +15,17 @@
    "approved": true,
    "lat": 38.770069,
    "lng": 35.413198
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Çandır Eczanesi",
+   "address": "TACETTIN VELI MAH.DELIKTAS CAD.NO:23/B",
+   "phone": "03522251144",
+   "dutyStart": "2026-11-12T08:30:00+03:00",
+   "dutyEnd": "2026-11-13T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.712278,
+   "lng": 35.493037
   },
   {
    "district": "Kocasinan",
@@ -62,17 +62,6 @@
   },
   {
    "district": "Melikgazi",
-   "name": "Başalp Eczanesi",
-   "address": "MELIKGAZI MAH.KIZILIRMAK CAD.N0:146/C",
-   "phone": "03522247950",
-   "dutyStart": "2026-11-12T08:30:00+03:00",
-   "dutyEnd": "2026-11-13T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.729952,
-   "lng": 35.525922
-  },
-  {
-   "district": "Melikgazi",
    "name": "Fatih Eczanesi",
    "address": "30 AGUSTOS MH.HASAN ESAT IŞIK BULV. 22/B",
    "phone": "03523269935",
@@ -83,48 +72,26 @@
    "lng": 35.391721
   },
   {
-   "district": "Talas",
-   "name": "Sevinç Eczanesi",
-   "address": "BAHÇELİEVLER MAH. TEPEBAĞLAR CAD. NO 44/D TALAS/KAYSERİ",
-   "phone": "03524377264",
+   "district": "Melikgazi",
+   "name": "Yildiz Ünal Eczanesi",
+   "address": "ALPARSLAN MAH. EMEL SOKAK N0:29/B",
+   "phone": "03522345054",
    "dutyStart": "2026-11-12T08:30:00+03:00",
    "dutyEnd": "2026-11-13T01:00:00+03:00",
    "approved": true,
-   "lat": 38.686123,
-   "lng": 35.546565
+   "lat": 38.725328,
+   "lng": 35.514251
   },
   {
    "district": "Melikgazi",
-   "name": "Beşyol Eczanesi",
-   "address": "AYDINLIKEVLER MAH. GÖKALP CAD. NO :4/A",
-   "phone": "03523207272",
+   "name": "Başalp Eczanesi",
+   "address": "MELIKGAZI MAH.KIZILIRMAK CAD.N0:146/C",
+   "phone": "03522247950",
    "dutyStart": "2026-11-12T08:30:00+03:00",
    "dutyEnd": "2026-11-13T01:00:00+03:00",
    "approved": true,
-   "lat": 38.720286,
-   "lng": 35.468351
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Nilgün Eczanesi",
-   "address": "Osmanlı Mah. Edip Çıkmaz Sk. No:1",
-   "phone": "03523470844",
-   "dutyStart": "2026-11-12T08:30:00+03:00",
-   "dutyEnd": "2026-11-13T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.689708,
-   "lng": 35.475269
-  },
-  {
-   "district": "Kocasinan",
-   "name": "Sahabiye Eczanesi",
-   "address": "Boylar sok. 38/A AKP İl başkanlığı altı Kocasinan/Kayseri",
-   "phone": "03522472020",
-   "dutyStart": "2026-11-12T08:30:00+03:00",
-   "dutyEnd": "2026-11-13T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.726488,
-   "lng": 35.4908
+   "lat": 38.729952,
+   "lng": 35.525922
   },
   {
    "district": "Talas",
@@ -149,15 +116,48 @@
    "lng": 35.448764
   },
   {
-   "district": "Melikgazi",
-   "name": "Yildiz Ünal Eczanesi",
-   "address": "ALPARSLAN MAH. EMEL SOKAK N0:29/B",
-   "phone": "03522345054",
+   "district": "Kocasinan",
+   "name": "Sahabiye Eczanesi",
+   "address": "Boylar sok. 38/A AKP İl başkanlığı altı Kocasinan/Kayseri",
+   "phone": "03522472020",
    "dutyStart": "2026-11-12T08:30:00+03:00",
    "dutyEnd": "2026-11-13T01:00:00+03:00",
    "approved": true,
-   "lat": 38.725328,
-   "lng": 35.514251
+   "lat": 38.726488,
+   "lng": 35.4908
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Nilgün Eczanesi",
+   "address": "Osmanlı Mah. Edip Çıkmaz Sk. No:1",
+   "phone": "03523470844",
+   "dutyStart": "2026-11-12T08:30:00+03:00",
+   "dutyEnd": "2026-11-13T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.689708,
+   "lng": 35.475269
+  },
+  {
+   "district": "Talas",
+   "name": "Sevinç Eczanesi",
+   "address": "BAHÇELİEVLER MAH. TEPEBAĞLAR CAD. NO 44/D TALAS/KAYSERİ",
+   "phone": "03524377264",
+   "dutyStart": "2026-11-12T08:30:00+03:00",
+   "dutyEnd": "2026-11-13T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.686123,
+   "lng": 35.546565
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Beşyol Eczanesi",
+   "address": "AYDINLIKEVLER MAH. GÖKALP CAD. NO :4/A",
+   "phone": "03523207272",
+   "dutyStart": "2026-11-12T08:30:00+03:00",
+   "dutyEnd": "2026-11-13T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.720286,
+   "lng": 35.468351
   }
  ],
  "sourceUrl": "https://www.kayserieo.org.tr/nobetci-eczaneler"
