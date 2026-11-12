@@ -2,7 +2,7 @@
  "city": "Edirne",
  "code": 22,
  "dutyDay": "2026-11-12",
- "updatedAt": "2026-11-12T20:50:26.922Z",
+ "updatedAt": "2026-11-12T22:16:19.542Z",
  "source": "Edirne Eczacı Odası",
  "pharmacies": [
   {
@@ -26,17 +26,6 @@
    "approved": true,
    "lat": 41.6523,
    "lng": 26.594302
-  },
-  {
-   "district": "Merkez",
-   "name": "Umut Eczanesi",
-   "address": "ŞÜKRÜPAŞA MAH. ŞEHİT ÜSTEĞMEN EFKAN YILDIRIM CAD. NO:14",
-   "phone": "02842141573",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 41.666607,
-   "lng": 26.584524
   },
   {
    "district": "Enez",
