@@ -1,64 +1,64 @@
 {
  "city": "Bingöl",
  "code": 12,
- "dutyDay": "2026-11-11",
- "updatedAt": "2026-11-11T14:12:28.871Z",
+ "dutyDay": "2026-11-12",
+ "updatedAt": "2026-11-12T15:06:22.942Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Genç",
-   "name": "Genç Derman Eczanesi",
-   "address": "Yenişehir Mah. 244. Sokak No: 4/A",
-   "phone": "0426 502 0203",
-   "dutyStart": "2026-11-11T18:00:00+03:00",
-   "dutyEnd": "2026-11-12T08:00:00+03:00",
+   "name": "Sağlık Eczanesi",
+   "address": "KÜLTÜR MAHALLESİ BİNGÖL CAD. NO:28/B GENÇ/ BİNGÖL",
+   "phone": "0426 411 3602",
+   "dutyStart": "2026-11-12T18:00:00+03:00",
+   "dutyEnd": "2026-11-13T08:00:00+03:00",
    "approved": true,
-   "lat": 38.754353,
-   "lng": 40.554482
+   "lat": 38.749443,
+   "lng": 40.549507
   },
   {
    "district": "Karlıova",
-   "name": "Nadiroğlu Eczanesi",
-   "address": "Yeşilyurt Mahallesi Fatih Caddesi No:52/B",
-   "phone": "0426 511 2595",
-   "dutyStart": "2026-11-11T18:00:00+03:00",
-   "dutyEnd": "2026-11-12T08:00:00+03:00",
+   "name": "Ruken Eczanesi",
+   "address": "Kanireş mah. hastane cad. No18/1A",
+   "phone": "0538 256 6712",
+   "dutyStart": "2026-11-12T18:00:00+03:00",
+   "dutyEnd": "2026-11-13T08:00:00+03:00",
    "approved": true,
-   "lat": 39.296528,
-   "lng": 41.012615
+   "lat": 39.297661,
+   "lng": 41.012283
   },
   {
    "district": "Merkez",
-   "name": "Büyük Eczanesi",
-   "address": "YENİŞEHİR MAH.GENÇ CAD. NO:7/A",
-   "phone": "0426 213 2082",
-   "dutyStart": "2026-11-11T18:00:00+03:00",
-   "dutyEnd": "2026-11-12T08:00:00+03:00",
+   "name": "Naz Eczanesi",
+   "address": "RECEP TAYYİP ERDOĞAN MAH. ÇAĞLA ARIN CADDESİ NO:26/1-D",
+   "phone": "0426 214 0703",
+   "dutyStart": "2026-11-12T18:00:00+03:00",
+   "dutyEnd": "2026-11-13T08:30:00+03:00",
    "approved": true,
-   "lat": 38.883766,
-   "lng": 40.498829
+   "lat": 38.902985,
+   "lng": 40.493996
   },
   {
    "district": "Merkez",
-   "name": "Volkan Eczanesi",
-   "address": "İnalı Mahallesi Belediye Meclis Üyesi Ahmet Kaya Caddesi Moda Kültür Evleri No:14/1B",
-   "phone": "0426 213 1636",
-   "dutyStart": "2026-11-11T18:00:00+03:00",
-   "dutyEnd": "2026-11-12T08:30:00+03:00",
+   "name": "Özgür Firat Eczanesi",
+   "address": "Bahçelievler Mahallesi Selahattin Kaya Caddesi Aybek Apartman No: 47",
+   "phone": "0426 213 1220",
+   "dutyStart": "2026-11-12T18:00:00+03:00",
+   "dutyEnd": "2026-11-13T08:00:00+03:00",
    "approved": true,
-   "lat": 38.877338,
-   "lng": 40.52298
+   "lat": 38.887218,
+   "lng": 40.493103
   },
   {
    "district": "Solhan",
-   "name": "Solhan Eczanesi",
-   "address": "YENİ MAH.345.SOK. NO:2/A",
-   "phone": "0426 711 2066",
-   "dutyStart": "2026-11-11T18:00:00+03:00",
-   "dutyEnd": "2026-11-12T08:00:00+03:00",
+   "name": "Vefa Eczanesi",
+   "address": "Yeni Mahalle Erbakan Caddesi No:3/C",
+   "phone": "0426 711 3344",
+   "dutyStart": "2026-11-12T18:00:00+03:00",
+   "dutyEnd": "2026-11-13T08:00:00+03:00",
    "approved": true,
-   "lat": 38.959194,
-   "lng": 41.039173
+   "lat": 38.968307,
+   "lng": 41.056675
   }
  ]
 }

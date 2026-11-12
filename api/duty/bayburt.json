@@ -1,31 +1,31 @@
 {
  "city": "Bayburt",
  "code": 69,
- "dutyDay": "2026-11-11",
- "updatedAt": "2026-11-11T14:17:10.258Z",
+ "dutyDay": "2026-11-12",
+ "updatedAt": "2026-11-12T15:11:04.368Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Demirözü",
-   "name": "Hayat Eczanesi",
-   "address": "Şirin Mh. Dr. Ülkü Güney Caddesi.No:44/D",
-   "phone": "0458 411 6465",
-   "dutyStart": "2026-11-11T18:00:00+03:00",
-   "dutyEnd": "2026-11-12T08:30:00+03:00",
+   "name": "Şimşek Eczanesi",
+   "address": "Şirin Mahallesi Dr.Ülkü Güney Caddesi No:29/B",
+   "phone": "0553 925 9878",
+   "dutyStart": "2026-11-12T18:00:00+03:00",
+   "dutyEnd": "2026-11-13T08:30:00+03:00",
    "approved": true,
-   "lat": 40.16544,
-   "lng": 39.893822
+   "lat": 40.164452,
+   "lng": 39.89312
   },
   {
    "district": "Merkez",
-   "name": "Hanecioğlu Eczanesi",
-   "address": "Şeyhhayran mah.Hoca Ahmet Yesevi Cad.No:3",
-   "phone": "0458 222 6934",
-   "dutyStart": "2026-11-11T18:00:00+03:00",
-   "dutyEnd": "2026-11-12T08:30:00+03:00",
+   "name": "Fatih Eczanesi",
+   "address": "CUMHURİYET CAD. CAMİİ KEBİR MAH. SAAT KULE MEYDANI NO:1/A",
+   "phone": "0458 211 7172",
+   "dutyStart": "2026-11-12T18:00:00+03:00",
+   "dutyEnd": "2026-11-13T08:30:00+03:00",
    "approved": true,
-   "lat": 40.260372,
-   "lng": 40.226788
+   "lat": 40.260521,
+   "lng": 40.226986
   }
  ]
 }

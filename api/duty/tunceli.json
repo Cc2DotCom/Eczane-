@@ -1,31 +1,31 @@
 {
  "city": "Tunceli",
  "code": 62,
- "dutyDay": "2026-11-11",
- "updatedAt": "2026-11-11T14:16:45.439Z",
+ "dutyDay": "2026-11-12",
+ "updatedAt": "2026-11-12T15:10:38.526Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Vereseli Gündoğan Eczanesi",
-   "address": "MOĞULTAY MAH.OKULLAR.CAD.NO.4/1 TUNCELİ",
-   "phone": "0428 212 1287",
-   "dutyStart": "2026-11-11T18:30:00+03:00",
-   "dutyEnd": "2026-11-12T08:30:00+03:00",
+   "name": "Serdar Eczanesi",
+   "address": "MOĞULTAY MAHALLESİ KIBRIS SOKAK NO:11 TUNCELİ",
+   "phone": "0428 212 1649",
+   "dutyStart": "2026-11-12T18:30:00+03:00",
+   "dutyEnd": "2026-11-13T08:30:00+03:00",
    "approved": true,
-   "lat": 39.106689,
-   "lng": 39.548481
+   "lat": 39.107388,
+   "lng": 39.548969
   },
   {
    "district": "Pertek",
-   "name": "Güven Eczanesi",
-   "address": "İstiklal Mahallesi Uğur Mumcu Caddesi No:7/A Pertek/TUNCELİ",
-   "phone": "0428 651 3228",
-   "dutyStart": "2026-11-11T18:00:00+03:00",
-   "dutyEnd": "2026-11-12T08:30:00+03:00",
+   "name": "Ekin Eczanesi",
+   "address": "İstiklal Mahallesi Uğur Mumcu Caddesi No:10-E Pertek/ TUNCELİ",
+   "phone": "0543 669 3699",
+   "dutyStart": "2026-11-12T18:00:00+03:00",
+   "dutyEnd": "2026-11-13T08:30:00+03:00",
    "approved": true,
-   "lat": 38.867722,
-   "lng": 39.319466
+   "lat": 38.867825,
+   "lng": 39.322376
   }
  ]
 }

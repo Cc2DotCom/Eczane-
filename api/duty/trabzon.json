@@ -1,20 +1,20 @@
 {
  "city": "Trabzon",
  "code": 61,
- "dutyDay": "2026-11-11",
- "updatedAt": "2026-11-11T14:16:43.699Z",
+ "dutyDay": "2026-11-12",
+ "updatedAt": "2026-11-12T15:10:36.761Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Akçaabat",
-   "name": "Hayat Pınarı Eczanesi",
-   "address": "Dürbinar Mah. İstiklal Cad. No:27/A",
-   "phone": "0462 512 1111",
-   "dutyStart": "2026-11-11T17:00:00+03:00",
-   "dutyEnd": "2026-11-12T09:00:00+03:00",
+   "name": "Aydin Eczanesi",
+   "address": "Ortamahalle Mahallesi İnönü Caddesi Holiday Times No: 117A",
+   "phone": "0462 228 1359",
+   "dutyStart": "2026-11-12T17:00:00+03:00",
+   "dutyEnd": "2026-11-13T09:00:00+03:00",
    "approved": true,
-   "lat": 41.021545,
-   "lng": 39.568745
+   "lat": 41.022507,
+   "lng": 39.567986
   }
  ]
 }

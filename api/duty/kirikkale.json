@@ -1,86 +1,86 @@
 {
  "city": "Kırıkkale",
  "code": 71,
- "dutyDay": "2026-11-11",
- "updatedAt": "2026-11-11T14:17:16.236Z",
+ "dutyDay": "2026-11-12",
+ "updatedAt": "2026-11-12T15:11:10.210Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Balışeyh",
-   "name": "Feyza Eczanesi",
-   "address": "YENİ MAH. SAMSUN CAD. NO:21/A BALIŞEYH/KIRIKKALE",
-   "phone": "0536 292 6648",
-   "dutyStart": "2026-11-11T18:30:00+03:00",
-   "dutyEnd": "2026-11-12T08:30:00+03:00",
+   "name": "Balışeyh Eczanesi",
+   "address": "Yeni Mah. 43. Sok. No:14/B Balışeyh/KIRIKKALE",
+   "phone": "0541 953 2755",
+   "dutyStart": "2026-11-12T18:30:00+03:00",
+   "dutyEnd": "2026-11-13T08:30:00+03:00",
    "approved": true,
-   "lat": 39.909851,
-   "lng": 33.717113
+   "lat": 39.916218,
+   "lng": 33.715801
   },
   {
    "district": "Delice",
-   "name": "Delice Eczanesi",
-   "address": "CUMHURİYET MAH. ATATÜRK BULVARI NO:6/C DELİCE/KIRIKKALE",
-   "phone": "0530 433 2265",
-   "dutyStart": "2026-11-11T18:00:00+03:00",
-   "dutyEnd": "2026-11-12T08:30:00+03:00",
+   "name": "Cennet Eczanesi",
+   "address": "CUMHURİYET MAH.ANKARA CAD.NO:34/A DELİCE/KIRIKKALE",
+   "phone": "0318 618 5433",
+   "dutyStart": "2026-11-12T18:00:00+03:00",
+   "dutyEnd": "2026-11-13T08:30:00+03:00",
    "approved": true,
-   "lat": 39.94426,
-   "lng": 34.032265
+   "lat": 39.943676,
+   "lng": 34.032204
   },
   {
    "district": "Karakeçili",
-   "name": "Metin Eczanesi",
-   "address": "KURTULUŞ MAH.İNÖNÜ CAD. NO:1/C KARAKEÇİLİ/KIRIKKALE",
-   "phone": "0318 474 3033",
-   "dutyStart": "2026-11-11T18:30:00+03:00",
-   "dutyEnd": "2026-11-12T08:30:00+03:00",
+   "name": "Karakeçili Eczanesi",
+   "address": "Fatih Sultan Mehmet Mahallesi Hürriyet Caddesi No:4/A Karakeçili / Kırıkkale",
+   "phone": "0505 681 7381",
+   "dutyStart": "2026-11-12T18:30:00+03:00",
+   "dutyEnd": "2026-11-13T08:30:00+03:00",
    "approved": true,
-   "lat": 39.59354,
-   "lng": 33.378311
+   "lat": 39.593029,
+   "lng": 33.378559
   },
   {
    "district": "Keskin",
-   "name": "Keskin Merkez Eczanesi",
-   "address": "YENİCE MAH. PROF. DR. BEŞİR ATALAY CADDESİ NO.18/A KESKİN/KIRIKKALE",
-   "phone": "0533 425 0405",
-   "dutyStart": "2026-11-11T18:30:00+03:00",
-   "dutyEnd": "2026-11-12T08:30:00+03:00",
+   "name": "Mert Eczanesi",
+   "address": "BOZKURT MAH.MERT SOK.NO:32 KESKİN/K.KALE",
+   "phone": "0318 515 4760",
+   "dutyStart": "2026-11-12T18:30:00+03:00",
+   "dutyEnd": "2026-11-13T08:30:00+03:00",
    "approved": true,
-   "lat": 39.673607,
-   "lng": 33.615318
+   "lat": 39.673637,
+   "lng": 33.615711
   },
   {
    "district": "Merkez",
-   "name": "Kirikkale Eczanesi",
-   "address": "TEPEBAŞI MAH.RAUF DENKTAŞ BUL.NO:50/B KIRIKKALE",
-   "phone": "0318 256 6692",
-   "dutyStart": "2026-11-11T18:00:00+03:00",
-   "dutyEnd": "2026-11-12T08:30:00+03:00",
+   "name": "Şahin Eczanesi",
+   "address": "FABRİKALAR MAH. 21.SOK. NO:10/B KIRIKKALE",
+   "phone": "0318 225 4722",
+   "dutyStart": "2026-11-12T18:00:00+03:00",
+   "dutyEnd": "2026-11-13T08:30:00+03:00",
    "approved": true,
-   "lat": 39.846203,
-   "lng": 33.508022
+   "lat": 39.837765,
+   "lng": 33.499332
   },
   {
    "district": "Merkez",
-   "name": "Özder Eczanesi",
-   "address": "Çalılıöz Mah. Alparslan Türkeş Blv. No: 20-C Merkez/KIRIKKALE",
-   "phone": "3 182 020 200_",
-   "dutyStart": "2026-11-11T18:00:00+03:00",
-   "dutyEnd": "2026-11-12T08:30:00+03:00",
+   "name": "Üçerler Eczanesi",
+   "address": "ZAFER CAD. NO:4/B MERKEZ/KIRIKKALE",
+   "phone": "0318 225 0264",
+   "dutyStart": "2026-11-12T18:00:00+03:00",
+   "dutyEnd": "2026-11-13T08:30:00+03:00",
    "approved": true,
-   "lat": 39.85511,
-   "lng": 33.488796
+   "lat": 39.840191,
+   "lng": 33.505581
   },
   {
    "district": "Yahşihan",
-   "name": "Hayat Eczanesi",
-   "address": "YENİŞEHİR MAH. 260.SOK. NO:2/D YAHŞİHAN/KIRIKKALE",
-   "phone": "0318 224 0660",
-   "dutyStart": "2026-11-11T18:00:00+03:00",
-   "dutyEnd": "2026-11-12T08:30:00+03:00",
+   "name": "Rabia Yılmaz Eczanesi",
+   "address": "Seyrantepe Mahallesi Şehit Onbaşı Murat Sıtkı Caddesi No:150/1C (43 numaralı ofis/ iş yeri) Yahşihan/Kırıkkale",
+   "phone": "0318 502 3636",
+   "dutyStart": "2026-11-12T18:00:00+03:00",
+   "dutyEnd": "2026-11-13T08:30:00+03:00",
    "approved": true,
-   "lat": 39.869762,
-   "lng": 33.455738
+   "lat": 39.85334,
+   "lng": 33.480648
   }
  ]
 }
