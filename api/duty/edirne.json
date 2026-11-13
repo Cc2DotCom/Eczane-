@@ -2,7 +2,7 @@
  "city": "Edirne",
  "code": 22,
  "dutyDay": "2026-11-13",
- "updatedAt": "2026-11-13T20:30:17.393Z",
+ "updatedAt": "2026-11-13T22:00:16.787Z",
  "source": "Edirne Eczacı Odası",
  "pharmacies": [
   {
@@ -26,17 +26,6 @@
    "approved": true,
    "lat": 41.669969,
    "lng": 26.563391
-  },
-  {
-   "district": "Merkez",
-   "name": "Sancakli Eczanesi",
-   "address": "DİLAVERBEY MAH. BALIKPAZARI CAD. NO:43/B (KALEİÇİ ÖZAR MARKET YANI)EDİRNE",
-   "phone": "02842120346",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 41.674016,
-   "lng": 26.551373
   },
   {
    "district": "Enez",
