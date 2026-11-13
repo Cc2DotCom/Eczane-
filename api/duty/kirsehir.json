@@ -1,53 +1,53 @@
 {
  "city": "Kırşehir",
  "code": 40,
- "dutyDay": "2026-11-12",
- "updatedAt": "2026-11-12T22:16:40.805Z",
+ "dutyDay": "2026-11-13",
+ "updatedAt": "2026-11-13T14:33:49.139Z",
  "source": "e-Devlet TİTCK, Aksaray-Kırşehir Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Özge Eczanesi",
-   "address": "KUŞDİLİ MAH. TERME CAD. NO:74 MERKEZ / KIRŞEHİR",
-   "phone": "0386 213 0473",
-   "dutyStart": "2026-11-12T18:00:00+03:00",
-   "dutyEnd": "2026-11-13T08:00:00+03:00",
+   "name": "Nazar Eczanesi",
+   "address": "Kervan Saray Mah. Boztepe Cad.2019 Sokak No:21",
+   "phone": "0386 212 3454",
+   "dutyStart": "2026-11-13T18:00:00+03:00",
+   "dutyEnd": "2026-11-14T08:00:00+03:00",
    "approved": true,
-   "lat": 39.137707,
-   "lng": 34.154789
+   "lat": 39.15723,
+   "lng": 34.164146
   },
   {
    "district": "Merkez",
-   "name": "Tabiat Eczanesi",
-   "address": "Yenice Mah. Atatürk Cad. Metin Çobanoğlu Sk. No:4",
-   "phone": "0386 212 3243",
-   "dutyStart": "2026-11-12T18:00:00+03:00",
-   "dutyEnd": "2026-11-13T08:00:00+03:00",
+   "name": "Sezenler Eczanesi",
+   "address": "KERVANSARAY MAH. 2019. SOK. KAYAÖZ SİTESİ A BLOK NO:19",
+   "phone": "0507 261 4255",
+   "dutyStart": "2026-11-13T18:00:00+03:00",
+   "dutyEnd": "2026-11-14T08:00:00+03:00",
    "approved": true,
-   "lat": 39.142445,
-   "lng": 34.162811
+   "lat": 39.157169,
+   "lng": 34.163971
   },
   {
    "district": "Kaman",
-   "name": "Aran Eczanesi",
-   "address": "ISTIKLAL CAD. NO:1",
-   "phone": "3867128191",
+   "name": "Berk Eczanesi",
+   "address": "25 ARALIK CAD.NO :28 KAMAN",
+   "phone": "3867122784",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.357669,
-   "lng": 33.724608
+   "lat": 39.359727,
+   "lng": 33.723424
   },
   {
    "district": "Mucur",
-   "name": "Kayis Eczanesi",
-   "address": "ENVERPASA CAD. NO:10",
-   "phone": "3868123770",
+   "name": "Sifa Eczanesi",
+   "address": "YENICE MAH. ENVERPASA CAD.NO:3/G",
+   "phone": "3868124065",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.063202,
-   "lng": 34.376335
+   "lat": 39.063197,
+   "lng": 34.376033
   }
  ],
  "sourceUrl": "https://www.aksarayeo.org.tr/nobetci-eczaneler"

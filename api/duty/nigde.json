@@ -1,86 +1,86 @@
 {
  "city": "Niğde",
  "code": 51,
- "dutyDay": "2026-11-12",
- "updatedAt": "2026-11-12T15:10:03.589Z",
+ "dutyDay": "2026-11-13",
+ "updatedAt": "2026-11-13T14:34:50.391Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Altunhisar",
-   "name": "Büşra Eczanesi",
-   "address": "İstiklal Mahallesi Şehit Abdulkadir Tanık Caddesi No:58B",
-   "phone": "0388 611 2424",
-   "dutyStart": "2026-11-12T17:00:00+03:00",
-   "dutyEnd": "2026-11-13T08:30:00+03:00",
+   "name": "Nazli Eczanesi",
+   "address": "İstiklal Mah. Şehit Abdulkadir Tanık Cad. No:13/1",
+   "phone": "0388 611 2121",
+   "dutyStart": "2026-11-13T17:00:00+03:00",
+   "dutyEnd": "2026-11-14T08:30:00+03:00",
    "approved": true,
-   "lat": 37.98378,
-   "lng": 34.374329
+   "lat": 37.984203,
+   "lng": 34.373482
   },
   {
    "district": "Bor",
-   "name": "Altundağ Eczanesi",
-   "address": "Selçuk Mah. Karaköprü Caddesi No:31B",
-   "phone": "0388 313 0303",
-   "dutyStart": "2026-11-12T18:30:00+03:00",
-   "dutyEnd": "2026-11-13T08:30:00+03:00",
+   "name": "Kıvanç Eczanesi",
+   "address": "Ahmet Kuddusi Mah. Doğan Baran Cad. No:72A",
+   "phone": "0388 313 0201",
+   "dutyStart": "2026-11-13T18:30:00+03:00",
+   "dutyEnd": "2026-11-14T08:30:00+03:00",
    "approved": true,
-   "lat": 37.894379,
-   "lng": 34.561665
+   "lat": 37.913673,
+   "lng": 34.560196
   },
   {
    "district": "Çamardı",
-   "name": "Çamardı Eczanesi",
-   "address": "Bereketli Mah. 100.Yıl Cad. No:16A",
-   "phone": "0388 711 2407",
-   "dutyStart": "2026-11-12T18:30:00+03:00",
-   "dutyEnd": "2026-11-13T08:30:00+03:00",
+   "name": "Uygun Eczanesi",
+   "address": "Bereketli Mah. 100. Yıl Cad. No:21",
+   "phone": "0388 279 4251",
+   "dutyStart": "2026-11-13T18:30:00+03:00",
+   "dutyEnd": "2026-11-14T08:30:00+03:00",
    "approved": true,
-   "lat": 37.833298,
-   "lng": 34.986794
+   "lat": 37.833641,
+   "lng": 34.986618
   },
   {
    "district": "Çiftlik",
-   "name": "Derya Eczanesi",
-   "address": "Çiftçi Mah.Cumhuriyet Cad.No:12/A",
-   "phone": "0388 411 2357",
-   "dutyStart": "2026-11-12T18:30:00+03:00",
-   "dutyEnd": "2026-11-13T08:30:00+03:00",
+   "name": "Ateş Eczanesi",
+   "address": "Çarşı Mahallesi Niğde Caddesi No:4/A",
+   "phone": "0388 411 2323",
+   "dutyStart": "2026-11-13T18:30:00+03:00",
+   "dutyEnd": "2026-11-14T08:30:00+03:00",
    "approved": true,
-   "lat": 38.176586,
-   "lng": 34.484558
+   "lat": 38.174427,
+   "lng": 34.485828
   },
   {
    "district": "Merkez",
-   "name": "Beste Eczanesi",
-   "address": "Kumluca Mah. Şifa Sokak No:18/19",
-   "phone": "0388 502 9999",
-   "dutyStart": "2026-11-12T18:30:00+03:00",
-   "dutyEnd": "2026-11-13T08:30:00+03:00",
+   "name": "Deva Eczanesi",
+   "address": "Selçuk Mah.Ethem Onbaşı Cad.No:18/B",
+   "phone": "0388 213 5304",
+   "dutyStart": "2026-11-13T18:30:00+03:00",
+   "dutyEnd": "2026-11-13T23:59:00+03:00",
    "approved": true,
-   "lat": 37.970634,
-   "lng": 34.648518
+   "lat": 37.963036,
+   "lng": 34.673206
   },
   {
    "district": "Merkez",
-   "name": "Eroğlu Eczanesi",
-   "address": "Kale Mah. Murat Zeren Cad. No:7B",
-   "phone": "0388 233 3001",
-   "dutyStart": "2026-11-12T18:30:00+03:00",
-   "dutyEnd": "2026-11-12T23:59:00+03:00",
+   "name": "Ufuk Eczanesi",
+   "address": "Kumluca Mah. Hastaneler Cad. No:17/11",
+   "phone": "0388 221 0909",
+   "dutyStart": "2026-11-13T18:30:00+03:00",
+   "dutyEnd": "2026-11-14T08:30:00+03:00",
    "approved": true,
-   "lat": 37.969364,
-   "lng": 34.678055
+   "lat": 37.969765,
+   "lng": 34.644131
   },
   {
    "district": "Ulukışla",
-   "name": "Menekşe Eczanesi",
-   "address": "Kemalpaşa Mah. İsmet İnönü Cad. No:64B",
-   "phone": "0388 511 2201",
-   "dutyStart": "2026-11-12T18:30:00+03:00",
-   "dutyEnd": "2026-11-13T08:30:00+03:00",
+   "name": "Sinem Eczanesi",
+   "address": "Kemalpaşa Mah. İsmet İnönü Cad. No:56A",
+   "phone": "0388 511 3131",
+   "dutyStart": "2026-11-13T18:30:00+03:00",
+   "dutyEnd": "2026-11-14T08:30:00+03:00",
    "approved": true,
-   "lat": 37.546429,
-   "lng": 34.48465
+   "lat": 37.546455,
+   "lng": 34.484184
   }
  ]
 }

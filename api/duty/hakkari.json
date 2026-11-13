@@ -1,64 +1,64 @@
 {
  "city": "Hakkari",
  "code": 30,
- "dutyDay": "2026-11-12",
- "updatedAt": "2026-11-12T22:16:32.737Z",
+ "dutyDay": "2026-11-13",
+ "updatedAt": "2026-11-13T14:32:16.691Z",
  "source": "Van Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Deva Eczanesi",
-   "address": "PEHLİVAN MAH.ÇÖLEMERİK CAD. ÇEVREYOLU YURTİÇİ KARGO YANI RÜYA PLAZA KARŞISI NO:39/B",
-   "phone": "04385020615",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 37.574994,
-   "lng": 43.731908
-  },
-  {
-   "district": "Yüksekova",
    "name": "Furkan Eczanesi",
-   "address": "İPEK YOLU CADDESİ HALK BANKASI YANI NO;175/C",
-   "phone": "04385020747",
+   "address": "PEHLİVAN MAH.ÇÖLEMERİK CAD.NO:20/D",
+   "phone": "04385020099",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.572318,
-   "lng": 44.280452
+   "lat": 37.576207,
+   "lng": 43.73184
   },
   {
    "district": "Yüksekova",
-   "name": "Hekimoğlu Eczanesi",
-   "address": "Yüksekova Devlet Hastanesi Karşısı No:315C",
-   "phone": "04383512998",
+   "name": "Gündüz Eczanesi",
+   "address": "ÇARŞI MERKEZİ KEĞİ İŞ MERKEZİ ALTI ESKİ HÜKÜMET KONAĞI KARŞISI",
+   "phone": "04383516554",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.567616,
-   "lng": 44.229502
+   "lat": 37.571905,
+   "lng": 44.28179
+  },
+  {
+   "district": "Yüksekova",
+   "name": "Özdemir Eczanesi",
+   "address": "HÜKÜMET KONAĞI KARŞISI ESENYURT MAH.1.BÖLGE 1.ETAP MZERALIK TOKİ KONUTLARI CAD.NO:13D",
+   "phone": "05453342775",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 37.573574,
+   "lng": 44.256511
   },
   {
    "district": "Şemdinli",
-   "name": "Derman Eczanesi",
-   "address": "KARŞIYAKA MAH. ÇEVREYOLU CAD. NO:60/4-E",
-   "phone": "04384113274",
+   "name": "Mavi Eczanesi",
+   "address": "BEŞEVLER MAH.CUMHURİYET CAD.NO:96/A",
+   "phone": "05312972080",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.3087,
-   "lng": 44.569983
+   "lat": 37.308802,
+   "lng": 44.570835
   },
   {
    "district": "Şemdinli",
-   "name": "Aki Eczanesi",
-   "address": "MERKEZ MAH. VATAN CADDESİ NO:12/A",
-   "phone": "04384613320",
+   "name": "Derecik Eczanesi",
+   "address": "MERKEZ MAH.VATAN CAD.NO:19/A",
+   "phone": "05380443717",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.080915,
-   "lng": 44.310193
+   "lat": 37.080721,
+   "lng": 44.310393
   }
  ],
  "sourceUrl": "https://www.vaneczaciodasi.org.tr/nobetci-eczaneler"
