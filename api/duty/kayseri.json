@@ -2,20 +2,9 @@
  "city": "Kayseri",
  "code": 38,
  "dutyDay": "2026-11-13",
- "updatedAt": "2026-11-13T17:10:11.284Z",
+ "updatedAt": "2026-11-13T20:30:36.340Z",
  "source": "Kayseri Eczacı Odası",
  "pharmacies": [
-  {
-   "district": "Melikgazi",
-   "name": "Yağcı Eczanesi",
-   "address": "TACETTIN VELI MAH.DELIKLITAS CAD. N0:23/A",
-   "phone": "03522258301",
-   "dutyStart": "2026-11-13T08:30:00+03:00",
-   "dutyEnd": "2026-11-14T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.712284,
-   "lng": 35.493096
-  },
   {
    "district": "Kocasinan",
    "name": "Marmara Eczanesi",
@@ -40,14 +29,14 @@
   },
   {
    "district": "Melikgazi",
-   "name": "Hande Eczanesi",
-   "address": "YEŞİLYURT MAHALLESİ 3220. CAD 8/2A",
-   "phone": "03525022012",
+   "name": "Yağcı Eczanesi",
+   "address": "TACETTIN VELI MAH.DELIKLITAS CAD. N0:23/A",
+   "phone": "03522258301",
    "dutyStart": "2026-11-13T08:30:00+03:00",
    "dutyEnd": "2026-11-14T08:30:00+03:00",
    "approved": true,
-   "lat": 38.792754,
-   "lng": 35.620991
+   "lat": 38.712284,
+   "lng": 35.493096
   },
   {
    "district": "Kocasinan",
@@ -61,48 +50,26 @@
    "lng": 35.479595
   },
   {
-   "district": "Talas",
-   "name": "Soncan Eczanesi",
-   "address": "HARMAN MAH. ERHAN CAD. NO: 96",
-   "phone": "3524379365",
+   "district": "Melikgazi",
+   "name": "Hande Eczanesi",
+   "address": "YEŞİLYURT MAHALLESİ 3220. CAD 8/2A",
+   "phone": "03525022012",
    "dutyStart": "2026-11-13T08:30:00+03:00",
-   "dutyEnd": "2026-11-14T01:00:00+03:00",
+   "dutyEnd": "2026-11-14T08:30:00+03:00",
    "approved": true,
-   "lat": 38.682458,
-   "lng": 35.561796
+   "lat": 38.792754,
+   "lng": 35.620991
   },
   {
    "district": "Melikgazi",
-   "name": "İstikbal Eczanesi",
-   "address": "OSMANLI MH.BATTALGAZI BUL.EDIP GEÇIDI N0:3 38050",
-   "phone": "03523473343",
+   "name": "Bal Eczanesi",
+   "address": "Gültepe Mh. Köşk Caddesi 25/A",
+   "phone": "03525028838",
    "dutyStart": "2026-11-13T08:30:00+03:00",
    "dutyEnd": "2026-11-14T01:00:00+03:00",
    "approved": true,
-   "lat": 38.689652,
-   "lng": 35.475507
-  },
-  {
-   "district": "Kocasinan",
-   "name": "Yakut Eczanesi",
-   "address": "YAKUT MAHALLESİ AKMESCİT CADDESİ 3843.SOKAK NO:17/B",
-   "phone": "03522223015",
-   "dutyStart": "2026-11-13T08:30:00+03:00",
-   "dutyEnd": "2026-11-14T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.741892,
-   "lng": 35.49451
-  },
-  {
-   "district": "Melikgazi",
-   "name": "İlhan Eczanesi",
-   "address": "Yıldırım Beyazıt Mahallesi Sunay Sokak 13/B Yıldırım Beyazıt Sağlık Ocağı Yanı",
-   "phone": "03522323230",
-   "dutyStart": "2026-11-13T08:30:00+03:00",
-   "dutyEnd": "2026-11-14T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.731063,
-   "lng": 35.544965
+   "lat": 38.71763,
+   "lng": 35.5074
   },
   {
    "district": "Melikgazi",
@@ -127,6 +94,17 @@
    "lng": 35.48861
   },
   {
+   "district": "Kocasinan",
+   "name": "Yakut Eczanesi",
+   "address": "YAKUT MAHALLESİ AKMESCİT CADDESİ 3843.SOKAK NO:17/B",
+   "phone": "03522223015",
+   "dutyStart": "2026-11-13T08:30:00+03:00",
+   "dutyEnd": "2026-11-14T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.741892,
+   "lng": 35.49451
+  },
+  {
    "district": "Talas",
    "name": "Emsal Eczanesi",
    "address": "MEVLANA MAH. 6085. SOK. NO:4/A TALAS/KAYSERİ (OSMAN NEYİRE AKGÖZ ASM KARŞISI)",
@@ -136,6 +114,28 @@
    "approved": true,
    "lat": 38.71025,
    "lng": 35.55253
+  },
+  {
+   "district": "Melikgazi",
+   "name": "İlhan Eczanesi",
+   "address": "Yıldırım Beyazıt Mahallesi Sunay Sokak 13/B Yıldırım Beyazıt Sağlık Ocağı Yanı",
+   "phone": "03522323230",
+   "dutyStart": "2026-11-13T08:30:00+03:00",
+   "dutyEnd": "2026-11-14T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.731063,
+   "lng": 35.544965
+  },
+  {
+   "district": "Melikgazi",
+   "name": "İstikbal Eczanesi",
+   "address": "OSMANLI MH.BATTALGAZI BUL.EDIP GEÇIDI N0:3 38050",
+   "phone": "03523473343",
+   "dutyStart": "2026-11-13T08:30:00+03:00",
+   "dutyEnd": "2026-11-14T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.689652,
+   "lng": 35.475507
   },
   {
    "district": "Kocasinan",
@@ -149,15 +149,15 @@
    "lng": 35.510048
   },
   {
-   "district": "Melikgazi",
-   "name": "Bal Eczanesi",
-   "address": "Gültepe Mh. Köşk Caddesi 25/A",
-   "phone": "03525028838",
+   "district": "Talas",
+   "name": "Soncan Eczanesi",
+   "address": "HARMAN MAH. ERHAN CAD. NO: 96",
+   "phone": "3524379365",
    "dutyStart": "2026-11-13T08:30:00+03:00",
    "dutyEnd": "2026-11-14T01:00:00+03:00",
    "approved": true,
-   "lat": 38.71763,
-   "lng": 35.5074
+   "lat": 38.682458,
+   "lng": 35.561796
   }
  ],
  "sourceUrl": "https://www.kayserieo.org.tr/nobetci-eczaneler"
