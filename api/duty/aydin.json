@@ -2,7 +2,7 @@
  "city": "Aydın",
  "code": 9,
  "dutyDay": "2026-11-14",
- "updatedAt": "2026-11-14T13:26:51.426Z",
+ "updatedAt": "2026-11-14T15:46:13.232Z",
  "source": "Aydın Eczacı Odası",
  "pharmacies": [
   {
@@ -290,17 +290,6 @@
    "approved": true,
    "lat": 37.556182,
    "lng": 27.835884
-  },
-  {
-   "district": "Köşk",
-   "name": "Büşra Eczanesi",
-   "address": "ÇARŞI MAH. OSMAN AKÇA SOK. NO:15/1 DAİ:1",
-   "phone": "02564611006",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 37.855583,
-   "lng": 28.060922
   },
   {
    "district": "Köşk",

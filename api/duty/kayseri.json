@@ -2,31 +2,9 @@
  "city": "Kayseri",
  "code": 38,
  "dutyDay": "2026-11-14",
- "updatedAt": "2026-11-14T13:29:42.830Z",
+ "updatedAt": "2026-11-14T15:46:56.132Z",
  "source": "Kayseri Eczacı Odası",
  "pharmacies": [
-  {
-   "district": "Melikgazi",
-   "name": "Funda Birol Eczanesi",
-   "address": "Toki Demokrasi Mah. Cumhuriyet Cad. Şehit Hikmet Gülnar Sk. No: 24/D",
-   "phone": "03529991896",
-   "dutyStart": "2026-11-14T08:30:00+03:00",
-   "dutyEnd": "2026-11-15T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.765894,
-   "lng": 35.604351
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Karakaya Eczanesi",
-   "address": "Bahçelievler Mah. 2139 Sk. No: 18/3",
-   "phone": "03525121256",
-   "dutyStart": "2026-11-14T08:30:00+03:00",
-   "dutyEnd": "2026-11-15T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.778649,
-   "lng": 35.593033
-  },
   {
    "district": "Kocasinan",
    "name": "Deniz Eczanesi",
@@ -48,6 +26,17 @@
    "approved": true,
    "lat": 38.727284,
    "lng": 35.480684
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Atalay Eczanesi",
+   "address": "TACETTIN VELI MAH.LALEZADE CAD.KARTAL IS MERKEZI 39/1",
+   "phone": "03522310633",
+   "dutyStart": "2026-11-14T08:30:00+03:00",
+   "dutyEnd": "2026-11-15T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.713502,
+   "lng": 35.494747
   },
   {
    "district": "Kocasinan",
@@ -73,14 +62,58 @@
   },
   {
    "district": "Melikgazi",
-   "name": "Atalay Eczanesi",
-   "address": "TACETTIN VELI MAH.LALEZADE CAD.KARTAL IS MERKEZI 39/1",
-   "phone": "03522310633",
+   "name": "Karakaya Eczanesi",
+   "address": "Bahçelievler Mah. 2139 Sk. No: 18/3",
+   "phone": "03525121256",
    "dutyStart": "2026-11-14T08:30:00+03:00",
    "dutyEnd": "2026-11-15T08:30:00+03:00",
    "approved": true,
-   "lat": 38.713502,
-   "lng": 35.494747
+   "lat": 38.778649,
+   "lng": 35.593033
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Funda Birol Eczanesi",
+   "address": "Toki Demokrasi Mah. Cumhuriyet Cad. Şehit Hikmet Gülnar Sk. No: 24/D",
+   "phone": "03529991896",
+   "dutyStart": "2026-11-14T08:30:00+03:00",
+   "dutyEnd": "2026-11-15T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.765894,
+   "lng": 35.604351
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Çisem Eczanesi",
+   "address": "Esenyurt Mah. Sakarya Cad. NO: 51/C",
+   "phone": "03522251225",
+   "dutyStart": "2026-11-14T08:30:00+03:00",
+   "dutyEnd": "2026-11-15T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.69869,
+   "lng": 35.493012
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Koru Eczanesi",
+   "address": "Germir Mah. Avanos Cad. No:188/B",
+   "phone": "03525131600",
+   "dutyStart": "2026-11-14T08:30:00+03:00",
+   "dutyEnd": "2026-11-15T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.720701,
+   "lng": 35.559512
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Ebru Eczanesi",
+   "address": "Melikgazi İlçesi, Yıldırım Beyazıt Mahallesi, Cırlavuk Sokak, 6/B",
+   "phone": "03524081313",
+   "dutyStart": "2026-11-14T08:30:00+03:00",
+   "dutyEnd": "2026-11-15T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.73008,
+   "lng": 35.536648
   },
   {
    "district": "Melikgazi",
@@ -92,6 +125,39 @@
    "approved": true,
    "lat": 38.744414,
    "lng": 35.575858
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Şifa Eczanesi",
+   "address": "Anafartalar Mah. Eren Yıldırım Cad. No: 24/A Belsin",
+   "phone": "03523262998",
+   "dutyStart": "2026-11-14T08:30:00+03:00",
+   "dutyEnd": "2026-11-15T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.741592,
+   "lng": 35.400122
+  },
+  {
+   "district": "Talas",
+   "name": "Nefes Eczanesi",
+   "address": "Bahçelievler Mah. Tepebağlar Cad. 46A",
+   "phone": "03524372200",
+   "dutyStart": "2026-11-14T08:30:00+03:00",
+   "dutyEnd": "2026-11-15T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.68617,
+   "lng": 35.546212
+  },
+  {
+   "district": "Kocasinan",
+   "name": "Şafak Eczanesi",
+   "address": "FEVZİÇAKMAK SAĞLIK OCAĞI KARŞISI FLAMİNGO DÜĞÜN SALONU ÇAPRAZI",
+   "phone": "03522358123",
+   "dutyStart": "2026-11-14T08:30:00+03:00",
+   "dutyEnd": "2026-11-15T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.733666,
+   "lng": 35.510719
   },
   {
    "district": "Melikgazi",
@@ -114,72 +180,6 @@
    "approved": true,
    "lat": 38.703943,
    "lng": 35.556721
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Çisem Eczanesi",
-   "address": "Esenyurt Mah. Sakarya Cad. NO: 51/C",
-   "phone": "03522251225",
-   "dutyStart": "2026-11-14T08:30:00+03:00",
-   "dutyEnd": "2026-11-15T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.69869,
-   "lng": 35.493012
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Ebru Eczanesi",
-   "address": "Melikgazi İlçesi, Yıldırım Beyazıt Mahallesi, Cırlavuk Sokak, 6/B",
-   "phone": "03524081313",
-   "dutyStart": "2026-11-14T08:30:00+03:00",
-   "dutyEnd": "2026-11-15T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.73008,
-   "lng": 35.536648
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Şifa Eczanesi",
-   "address": "Anafartalar Mah. Eren Yıldırım Cad. No: 24/A Belsin",
-   "phone": "03523262998",
-   "dutyStart": "2026-11-14T08:30:00+03:00",
-   "dutyEnd": "2026-11-15T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.741592,
-   "lng": 35.400122
-  },
-  {
-   "district": "Kocasinan",
-   "name": "Şafak Eczanesi",
-   "address": "FEVZİÇAKMAK SAĞLIK OCAĞI KARŞISI FLAMİNGO DÜĞÜN SALONU ÇAPRAZI",
-   "phone": "03522358123",
-   "dutyStart": "2026-11-14T08:30:00+03:00",
-   "dutyEnd": "2026-11-15T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.733666,
-   "lng": 35.510719
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Koru Eczanesi",
-   "address": "Germir Mah. Avanos Cad. No:188/B",
-   "phone": "03525131600",
-   "dutyStart": "2026-11-14T08:30:00+03:00",
-   "dutyEnd": "2026-11-15T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.720701,
-   "lng": 35.559512
-  },
-  {
-   "district": "Talas",
-   "name": "Nefes Eczanesi",
-   "address": "Bahçelievler Mah. Tepebağlar Cad. 46A",
-   "phone": "03524372200",
-   "dutyStart": "2026-11-14T08:30:00+03:00",
-   "dutyEnd": "2026-11-15T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.68617,
-   "lng": 35.546212
   }
  ],
  "sourceUrl": "https://www.kayserieo.org.tr/nobetci-eczaneler"
