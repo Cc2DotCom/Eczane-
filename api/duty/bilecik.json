@@ -1,64 +1,64 @@
 {
  "city": "Bilecik",
  "code": 11,
- "dutyDay": "2026-11-13",
- "updatedAt": "2026-11-13T17:09:47.937Z",
+ "dutyDay": "2026-11-14",
+ "updatedAt": "2026-11-14T13:27:07.505Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Bozüyük",
-   "name": "Melek Eczanesi",
-   "address": "KASIMPAŞA MAH. İSMET İNÖNÜ CAD. NO.17/A",
-   "phone": "0228 314 9091",
-   "dutyStart": "2026-11-13T18:00:00+03:00",
-   "dutyEnd": "2026-11-14T08:30:00+03:00",
+   "name": "İlker Eczanesi",
+   "address": "Kasımpaşa Mah. Eczacıbaşı Bulvarı No:7/B Bozüyük/Bilecik",
+   "phone": "0228 315 1552",
+   "dutyStart": "2026-11-14T08:30:00+03:00",
+   "dutyEnd": "2026-11-15T08:30:00+03:00",
    "approved": true,
-   "lat": 39.906361,
-   "lng": 30.038805
+   "lat": 39.902134,
+   "lng": 30.040245
   },
   {
    "district": "Gölpazarı",
-   "name": "Cebeci Eczanesi",
-   "address": "İSTİKLAL MAH. FEVZİ ÇAKMAK CAD. ÇİĞDEM SOKAK NO:1",
-   "phone": "0228 411 3393",
-   "dutyStart": "2026-11-13T18:30:00+03:00",
-   "dutyEnd": "2026-11-14T08:30:00+03:00",
+   "name": "Gölpazarı Eczanesi",
+   "address": "İSTİKLAL MAH. GAZİPAŞA MEYDANI NO:3/B",
+   "phone": "0228 411 3078",
+   "dutyStart": "2026-11-14T08:30:00+03:00",
+   "dutyEnd": "2026-11-15T08:30:00+03:00",
    "approved": true,
-   "lat": 40.282291,
-   "lng": 30.314161
+   "lat": 40.282585,
+   "lng": 30.314306
   },
   {
    "district": "Merkez",
-   "name": "Beler Eczanesi",
-   "address": "İSTİKLAL MAH. CUMHURİYET CAD. NO:6/A",
-   "phone": "0228 212 4042",
-   "dutyStart": "2026-11-13T18:30:00+03:00",
-   "dutyEnd": "2026-11-14T08:30:00+03:00",
+   "name": "Özkan Eczanesi",
+   "address": "Cumhuriyet Mah. Kızılay Cad. No:14/A Merkez/Bilecik",
+   "phone": "0554 028 1111",
+   "dutyStart": "2026-11-14T08:30:00+03:00",
+   "dutyEnd": "2026-11-15T08:30:00+03:00",
    "approved": true,
-   "lat": 40.144348,
-   "lng": 29.980036
+   "lat": 40.145313,
+   "lng": 29.982819
   },
   {
    "district": "Osmaneli",
-   "name": "Arslan Eczanesi",
-   "address": "Haceloğlu Mah. Hürriyet Cad. Karahan Apt. No:12/B",
-   "phone": "0541 380 8399",
-   "dutyStart": "2026-11-13T18:30:00+03:00",
-   "dutyEnd": "2026-11-14T08:30:00+03:00",
+   "name": "Sena Eczanesi",
+   "address": "Haceloğlu mah. Hürriyet cad. No:25/A Osmaneli",
+   "phone": "0228 202 2122",
+   "dutyStart": "2026-11-14T08:30:00+03:00",
+   "dutyEnd": "2026-11-15T08:30:00+03:00",
    "approved": true,
-   "lat": 40.36113,
-   "lng": 30.020252
+   "lat": 40.360363,
+   "lng": 30.017855
   },
   {
    "district": "Pazaryeri",
-   "name": "Pazaryeri Çiğdem Eczanesi",
-   "address": "DEREBOĞAZ MAH. ÇARŞI MEYDANI NO:8/A",
-   "phone": "0228 381 2139",
-   "dutyStart": "2026-11-13T18:00:00+03:00",
-   "dutyEnd": "2026-11-14T08:00:00+03:00",
+   "name": "Hayat Eczanesi",
+   "address": "ÇARŞI MAH. BAHATTİN ŞEKER CAD. NO:25/A",
+   "phone": "0228 381 2044",
+   "dutyStart": "2026-11-14T08:00:00+03:00",
+   "dutyEnd": "2026-11-15T08:00:00+03:00",
    "approved": true,
-   "lat": 39.995235,
-   "lng": 29.902828
+   "lat": 39.995583,
+   "lng": 29.90451
   }
  ]
 }

@@ -1,37 +1,15 @@
 {
  "city": "Malatya",
  "code": 44,
- "dutyDay": "2026-11-13",
- "updatedAt": "2026-11-13T22:00:45.108Z",
+ "dutyDay": "2026-11-14",
+ "updatedAt": "2026-11-14T13:30:17.077Z",
  "source": "Malatya Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Gürsoy Eczanesi",
-   "address": "B. Hüseyin Bey Mh Kışla cd. LCW binası bitişiği no:27/B Battalgazi Malatya",
-   "phone": "05323593869",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 38.3495447,
-   "lng": 38.3211603
-  },
-  {
-   "district": "Merkez",
-   "name": "Kernek Eczanesi",
-   "address": "FUZULİ CAD.FIRAT İLKÖĞRETİM OKULU YUKARISI no:82/A Battalgazi/Malatya",
-   "phone": "04223235099",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 38.343527,
-   "lng": 38.3229385
-  },
-  {
-   "district": "Merkez",
-   "name": "Yenipetek Eczanesi",
-   "address": "ANKARA ASFALTI EĞİTİM ARAŞTİRMA HASTANESİ KARŞISI",
-   "phone": "04222121812",
+   "name": "Sena Eczanesi",
+   "address": "FIRAT MAH. HASTANE CAD. NO:60/C BATTALGAZİ DEVLET HASTANESİ KARŞISI",
+   "phone": "04223363638",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
@@ -40,25 +18,47 @@
   },
   {
    "district": "Merkez",
-   "name": "İkizler Eczanesi",
-   "address": "GEDİK MAH. MEHMET KAVUK BULVARI NO:79/B HASAN ÇALIK DEVLET HASTANESİ KARŞ.",
-   "phone": "04224814144",
+   "name": "Nur Eczanesi",
+   "address": "YILDIZTEPE MH. YEŞİLÇAM CAD. YEŞİLÇAM SOSYAL TESİSİ KARŞISI NO:28",
+   "phone": "04225025555",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.3037774,
-   "lng": 38.2510691
+   "lat": 38.3595671,
+   "lng": 38.3500624
+  },
+  {
+   "district": "Merkez",
+   "name": "Canbay Eczanesi",
+   "address": "TECDE MAHALLESİ İSMETPAŞA CADDESİ TECDE ASM KARŞISI CİĞERCİ AYHAN YANI MAVİŞEHİR MODERN YAPI EVLERİ ALTI",
+   "phone": "05050685044",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": null,
+   "lng": null
+  },
+  {
+   "district": "Merkez",
+   "name": "Çağla Eczanesi",
+   "address": "Sıtmapınarı Halk Sağlığı Müdürlüğü karşısı Perşembe Pazarı girişi",
+   "phone": "05515302605",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": null,
+   "lng": null
   },
   {
    "district": "Battalgazi",
-   "name": "Betül Eczanesi",
-   "address": "Alacakapı mah kırkgöz caddesi hasırcılar yolu opet devamı",
-   "phone": "05343428444",
+   "name": "Ari Eczanesi",
+   "address": "Alacakapı Mahallesi Kırkgöz Caddesi Eskimalatya semt polikliniği Karşısı",
+   "phone": "05346863703",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.4293454,
-   "lng": 38.3625665
+   "lat": 38.4251199,
+   "lng": 38.3668399
   }
  ],
  "sourceUrl": "https://www.malatyaeczaciodasi.org.tr/nobetci-eczaneler"

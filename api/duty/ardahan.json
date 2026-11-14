@@ -1,8 +1,8 @@
 {
  "city": "Ardahan",
  "code": 75,
- "dutyDay": "2026-11-13",
- "updatedAt": "2026-11-13T14:36:13.061Z",
+ "dutyDay": "2026-11-14",
+ "updatedAt": "2026-11-14T13:31:53.294Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
@@ -10,8 +10,8 @@
    "name": "Ayaz Eczanesi",
    "address": "Yeni Mahalle, Çıldırlı Aşık Şenlik Caddesi No:6/B Çıldır/Ardahan",
    "phone": "0552 409 6069",
-   "dutyStart": "2026-11-13T17:00:00+03:00",
-   "dutyEnd": "2026-11-14T17:00:00+03:00",
+   "dutyStart": "2026-11-14T08:00:00+03:00",
+   "dutyEnd": "2026-11-15T08:00:00+03:00",
    "approved": true,
    "lat": 41.122875,
    "lng": 43.137939
@@ -21,44 +21,44 @@
    "name": "Damal Eczanesi",
    "address": "Konuksever Mahallesi Atatürk Caddesi No:32",
    "phone": "0478 651 4460",
-   "dutyStart": "2026-11-13T18:00:00+03:00",
-   "dutyEnd": "2026-11-14T08:30:00+03:00",
+   "dutyStart": "2026-11-14T08:30:00+03:00",
+   "dutyEnd": "2026-11-15T08:30:00+03:00",
    "approved": true,
    "lat": 41.341,
    "lng": 42.839069
   },
   {
    "district": "Göle",
-   "name": "Can Eczanesi",
-   "address": "Kazım Karabekir Mah. Kars Cad No:13 Göle/ARDAHAN",
-   "phone": "0478 411 2323",
-   "dutyStart": "2026-11-13T18:00:00+03:00",
-   "dutyEnd": "2026-11-14T08:00:00+03:00",
+   "name": "Emek Eczanesi",
+   "address": "Kubilay bey Mah. Kars Cad. No:10 Göle/ARDAHAN",
+   "phone": "0478 411 3019",
+   "dutyStart": "2026-11-14T08:00:00+03:00",
+   "dutyEnd": "2026-11-15T08:00:00+03:00",
    "approved": true,
-   "lat": 40.793186,
-   "lng": 42.610809
+   "lat": 40.793171,
+   "lng": 42.610214
   },
   {
    "district": "Hanak",
    "name": "Hanak Eczanesi",
    "address": "Hürriyet Mahallesi, Atatürk Caddesi No:82 Hanak/Ardahan",
    "phone": "0531 694 9725",
-   "dutyStart": "2026-11-13T17:00:00+03:00",
-   "dutyEnd": "2026-11-14T08:00:00+03:00",
+   "dutyStart": "2026-11-14T08:00:00+03:00",
+   "dutyEnd": "2026-11-15T08:00:00+03:00",
    "approved": true,
    "lat": 41.236973,
    "lng": 42.844879
   },
   {
    "district": "Merkez",
-   "name": "Tanış Eczanesi",
-   "address": "Sağlık Caddesi, B1 Blok No:3A Merkez/Ardahan",
-   "phone": "0478 411 3700",
-   "dutyStart": "2026-11-13T18:00:00+03:00",
-   "dutyEnd": "2026-11-14T08:30:00+03:00",
+   "name": "Dündar Eczanesi",
+   "address": "KAPTANPAŞA MAH. KONGRE CADDESİ NO:14",
+   "phone": "0478 211 3639",
+   "dutyStart": "2026-11-14T08:30:00+03:00",
+   "dutyEnd": "2026-11-15T08:30:00+03:00",
    "approved": true,
-   "lat": 41.093971,
-   "lng": 42.668308
+   "lat": 41.112995,
+   "lng": 42.702045
   }
  ]
 }
