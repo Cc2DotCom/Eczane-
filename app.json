@@ -2,7 +2,7 @@
   "expo": {
     "name": "Nöbetçi",
     "slug": "nobetci",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "automatic",
@@ -36,6 +36,15 @@
         "expo-location",
         {
           "locationWhenInUsePermission": "Sana en yakın nöbetçi eczaneyi gösterebilmek için konumunu kullanıyoruz."
+        }
+      ],
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "enableMinifyInReleaseBuilds": true,
+            "enableShrinkResourcesInReleaseBuilds": true
+          }
         }
       ]
     ]
