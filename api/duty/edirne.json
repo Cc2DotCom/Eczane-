@@ -2,20 +2,9 @@
  "city": "Edirne",
  "code": 22,
  "dutyDay": "2026-11-15",
- "updatedAt": "2026-11-15T19:23:06.620Z",
+ "updatedAt": "2026-11-15T21:04:32.028Z",
  "source": "Edirne Eczacı Odası",
  "pharmacies": [
-  {
-   "district": "Merkez",
-   "name": "Eren Savaşçı Eczanesi",
-   "address": "1. MURAT MAH. GÜNAYDIN SOK. ÇAKIR1 APT.NO:10(MARGİ OUTLET YANI) EDİRNE",
-   "phone": "02842366364",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 41.661304,
-   "lng": 26.582536
-  },
   {
    "district": "Merkez",
    "name": "Aytaç Eczanesi",

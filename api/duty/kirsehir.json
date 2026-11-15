@@ -2,30 +2,30 @@
  "city": "Kırşehir",
  "code": 40,
  "dutyDay": "2026-11-15",
- "updatedAt": "2026-11-15T19:23:25.918Z",
+ "updatedAt": "2026-11-15T21:04:58.462Z",
  "source": "e-Devlet TİTCK, Aksaray-Kırşehir Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Polat Eczanesi",
-   "address": "AŞIKPAŞA MAH.ZÜBEYDE HANIM CAD.NO:8/8 MERKEZ /KIRŞEHİR",
-   "phone": "_ 386 212 5353",
-   "dutyStart": "2026-11-15T08:00:00+03:00",
-   "dutyEnd": "2026-11-16T08:00:00+03:00",
+   "name": "Eda Eczanesi",
+   "address": "AHİ EVRAN MAH. ZÜBEYDE HANIM CAD. TURAN APT. NO:29/A MERKEZ KIRŞEHİR",
+   "phone": "0386 213 0705",
+   "dutyStart": "2026-11-16T18:00:00+03:00",
+   "dutyEnd": "2026-11-17T08:00:00+03:00",
    "approved": true,
-   "lat": 39.155834,
-   "lng": 34.159821
+   "lat": 39.158169,
+   "lng": 34.159721
   },
   {
    "district": "Merkez",
-   "name": "Yasemin Aslan Eczanesi",
-   "address": "AHİ EVRAN MAH.ZÜBEYDE HANIM CAD. GÜNDÜZ APT.ALTI NO:5/A KIRŞEHİR",
-   "phone": "0530 041 2385",
-   "dutyStart": "2026-11-15T08:00:00+03:00",
-   "dutyEnd": "2026-11-16T08:00:00+03:00",
+   "name": "Güneş Eczanesi",
+   "address": "KERVANSARAY MAH. 2216. SOKAK KILIÇOĞULLARI APT. NO:2 MERKEZ/KIRŞEHİR",
+   "phone": "0541 940 6133",
+   "dutyStart": "2026-11-16T18:00:00+03:00",
+   "dutyEnd": "2026-11-17T08:00:00+03:00",
    "approved": true,
-   "lat": 39.156128,
-   "lng": 34.159386
+   "lat": 39.156681,
+   "lng": 34.161785
   },
   {
    "district": "Kaman",
