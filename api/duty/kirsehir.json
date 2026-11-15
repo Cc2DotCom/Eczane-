@@ -1,42 +1,42 @@
 {
  "city": "Kırşehir",
  "code": 40,
- "dutyDay": "2026-11-14",
- "updatedAt": "2026-11-14T20:46:34.966Z",
+ "dutyDay": "2026-11-15",
+ "updatedAt": "2026-11-15T13:55:35.073Z",
  "source": "e-Devlet TİTCK, Aksaray-Kırşehir Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Merve Eczanesi",
-   "address": "KERVAN SARAY MAH.KAYA ÖZ SİTESİ NO:2 MERKEZ/ KIRŞEHİR",
-   "phone": "0386 214 4640",
-   "dutyStart": "2026-11-14T13:00:00+03:00",
-   "dutyEnd": "2026-11-15T08:00:00+03:00",
+   "name": "Polat Eczanesi",
+   "address": "AŞIKPAŞA MAH.ZÜBEYDE HANIM CAD.NO:8/8 MERKEZ /KIRŞEHİR",
+   "phone": "_ 386 212 5353",
+   "dutyStart": "2026-11-15T08:00:00+03:00",
+   "dutyEnd": "2026-11-16T08:00:00+03:00",
    "approved": true,
-   "lat": 39.157032,
-   "lng": 34.163769
+   "lat": 39.155834,
+   "lng": 34.159821
   },
   {
    "district": "Merkez",
-   "name": "Sultan Eczanesi",
-   "address": "KERVANSARAY MAH.2019 SOK.NO:1",
-   "phone": "0386 213 7540",
-   "dutyStart": "2026-11-14T13:00:00+03:00",
-   "dutyEnd": "2026-11-15T08:00:00+03:00",
+   "name": "Yasemin Aslan Eczanesi",
+   "address": "AHİ EVRAN MAH.ZÜBEYDE HANIM CAD. GÜNDÜZ APT.ALTI NO:5/A KIRŞEHİR",
+   "phone": "0530 041 2385",
+   "dutyStart": "2026-11-15T08:00:00+03:00",
+   "dutyEnd": "2026-11-16T08:00:00+03:00",
    "approved": true,
-   "lat": 39.157005,
-   "lng": 34.163631
+   "lat": 39.156128,
+   "lng": 34.159386
   },
   {
    "district": "Kaman",
-   "name": "Akdeniz Eczanesi",
-   "address": "CUMHURIYET MEYDANI NO:18",
-   "phone": "3867122646",
+   "name": "Defne Eczanesi",
+   "address": "Sarıuşağı Mah. Turgut Aslan Cad. 233.Sokak No:28",
+   "phone": "03867128208",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.358501,
-   "lng": 33.724271
+   "lat": 39.356283,
+   "lng": 33.726513
   },
   {
    "district": "Mucur",
