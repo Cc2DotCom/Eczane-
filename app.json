@@ -47,6 +47,12 @@
           }
         }
       ]
-    ]
+    ],
+    "owner": "cc2dotcom",
+    "extra": {
+      "eas": {
+        "projectId": "cb4a84d3-3be3-404d-b7cb-e34bf49f63c5"
+      }
+    }
   }
 }
