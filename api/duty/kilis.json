@@ -1,26 +1,15 @@
 {
  "city": "Kilis",
  "code": 79,
- "dutyDay": "2026-11-15",
- "updatedAt": "2026-11-15T21:05:12.797Z",
+ "dutyDay": "2026-11-16",
+ "updatedAt": "2026-11-16T15:42:20.801Z",
  "source": "Gaziantep Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Uygur Eczanesi",
-   "address": "Yaşar aktürk mh. Av. Mehmet abdi bulut cd. No:15/C Yeni hastane yolu üzeri KİLİS/Merkez",
-   "phone": "05075597879",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": null,
-   "lng": null
-  },
-  {
-   "district": "Merkez",
-   "name": "Bilge Eczanesi",
-   "address": "Albay İbrahim Karaoğlanoğlu Mah. Ömer Halisdemir cd. No:31 E (Yeni Hastane Yolu Üzeri)",
-   "phone": "03488139464",
+   "name": "Efe Eczanesi",
+   "address": "Yaşar Aktürk Mah. İnönü Bul. No:17/C (Adliye Karşısı) Kilis/Merkez",
+   "phone": "03488143738",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,

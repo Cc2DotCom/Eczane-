@@ -1,108 +1,119 @@
 {
  "city": "Edirne",
  "code": 22,
- "dutyDay": "2026-11-15",
- "updatedAt": "2026-11-15T21:04:32.028Z",
+ "dutyDay": "2026-11-16",
+ "updatedAt": "2026-11-16T15:38:16.974Z",
  "source": "Edirne Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Aytaç Eczanesi",
-   "address": "LONDRA ASFALTI NO:35",
-   "phone": "2842122424",
+   "name": "Nar Eczanesi",
+   "address": "FATİH MAH. ALPARSLAN TÜRKEŞ CAD. NO:14/76 1. MURAT DEV. HAST. KARŞISI",
+   "phone": "02842363435",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 41.676796,
-   "lng": 26.549706
+   "lat": 41.652773,
+   "lng": 26.605238
   },
   {
    "district": "Merkez",
-   "name": "Berkay Eczanesi",
-   "address": "FATİH MAH. ÜMRAN AKKAN CAD. 44.SOK. FATİH KONAKLARI NO:9",
-   "phone": "02842355041",
+   "name": "Seray Eczanesi",
+   "address": "ŞÜKRÜPAŞA MAH. BAHRİYE ÜÇOK CAD. NO:53/62 GÖLET MEVKİ İKİ KATLI ÖZAR MARKET YANI",
+   "phone": "02849991990",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 41.656973,
-   "lng": 26.598928
+   "lat": 41.669806,
+   "lng": 26.592806
+  },
+  {
+   "district": "Merkez",
+   "name": "Kaya Eczanesi",
+   "address": "SARICAPASA MAH.ÇUKURÇESME SOK.NO:7(ESKİ DEVLET HAST. KARŞISI)",
+   "phone": "02842137759",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 41.675058,
+   "lng": 26.561324
   },
   {
    "district": "Enez",
-   "name": "Saglik Eczanesi",
-   "address": "KALE CAD. NO:9/A",
-   "phone": "2848116090",
+   "name": "Saygin Eczanesi",
+   "address": "GAZI ÖMERBEY MAH. KALE CAD. NO:11",
+   "phone": "2848116147",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 40.724737,
-   "lng": 26.084178
+   "lat": 40.724814,
+   "lng": 26.084344
   },
   {
    "district": "Havsa",
-   "name": "Gün Eczanesi",
-   "address": "HACI ISA MAH.23 KASIM CAD. NO:22/F",
-   "phone": "05334610130",
+   "name": "Petek Eczanesi",
+   "address": "CUMHURİYET MAH. FATİH CAD. NO:95/F",
+   "phone": "02843361122",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 41.549489,
-   "lng": 26.821152
+   "lat": 41.545963,
+   "lng": 26.829652
   },
   {
    "district": "İpsala",
-   "name": "Uysal Eczanesi",
-   "address": "BAYRAMBEY MAH.HASTANE CAD. NO:5",
-   "phone": "2846161604",
+   "name": "Çitil Eczanesi",
+   "address": "KAPUCU MAH. KURTULUŞ CAD. NO:167/B İPSALA",
+   "phone": "02846164040",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 40.922008,
-   "lng": 26.38486
+   "lat": 40.928146,
+   "lng": 26.391578
   },
   {
    "district": "Keşan",
-   "name": "Mankaliye Eczanesi",
-   "address": "CUMHURİYET MAH. MUHTAR SOK.MUZAFFER GÜVEN APT.NO:6/A KEŞAN",
-   "phone": "02847146162",
+   "name": "Ugur Eczanesi",
+   "address": "FEVZI ÇAKMAK CAD. NO:1",
+   "phone": "2847147492",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 40.847304,
-   "lng": 26.640658
+   "lat": 40.854854,
+   "lng": 26.631829
   },
   {
    "district": "Lalapaşa",
-   "name": "Yaren Eczanesi",
-   "address": "MERKEZ MAH. ŞEHİT ER AHMET BİNGÖL SOK. NO:1/D LALAPAŞA",
-   "phone": "02843214082",
+   "name": "Sevil Eczanesi",
+   "address": "CUMHURIYET CAD.NO:36/B",
+   "phone": "2843214032",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 41.839159,
-   "lng": 26.735825
+   "lat": 41.839311,
+   "lng": 26.732826
   },
   {
    "district": "Meriç",
-   "name": "Öden Eczanesi",
-   "address": "CUMHURIYET CAD. NO:6",
-   "phone": "2844151419",
+   "name": "Ceyda Yilmaz Eczanesi",
+   "address": "BÜYÜKDOĞANCA MAH. ARTEZYEN CAD. NO:1",
+   "phone": "02844151051",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 41.190576,
-   "lng": 26.418861
+   "lat": 41.189905,
+   "lng": 26.418703
   },
   {
    "district": "Uzunköprü",
-   "name": "Hayat Eczanesi",
-   "address": "MURADIYE CAMI MAH.CUMHURIYET CAD. NO:22",
-   "phone": "2845131172",
+   "name": "Sözer Eczanesi",
+   "address": "GAZI CAD.NO:48",
+   "phone": "2845137833",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 41.268974,
-   "lng": 26.685256
+   "lat": 41.268454,
+   "lng": 26.685268
   },
   {
    "district": "Süloğlu",

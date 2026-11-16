@@ -1,75 +1,75 @@
 {
  "city": "Siirt",
  "code": 56,
- "dutyDay": "2026-11-15",
- "updatedAt": "2026-11-15T13:56:33.323Z",
+ "dutyDay": "2026-11-16",
+ "updatedAt": "2026-11-16T15:41:18.250Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Eruh",
-   "name": "Derman Eczanesi",
-   "address": "Fatih Mahallesi 105. Sok. 3/A",
-   "phone": "0535 011 4035",
-   "dutyStart": "2026-11-15T08:00:00+03:00",
-   "dutyEnd": "2026-11-16T08:00:00+03:00",
+   "name": "Sena Eczanesi",
+   "address": "Fatih Mahallesi Şırnak Caddesi No:101/A",
+   "phone": "0505 111 8942",
+   "dutyStart": "2026-11-16T18:00:00+03:00",
+   "dutyEnd": "2026-11-17T08:00:00+03:00",
    "approved": true,
-   "lat": 37.747746,
-   "lng": 42.179176
+   "lat": 37.747589,
+   "lng": 42.179611
   },
   {
    "district": "Kurtalan",
-   "name": "Huzur Eczanesi",
-   "address": "Cumhuriyet Mah. 206. Sok. No: 3/B",
-   "phone": "0484 411 3366",
-   "dutyStart": "2026-11-15T08:00:00+03:00",
-   "dutyEnd": "2026-11-16T08:00:00+03:00",
+   "name": "Yaşam Eczanesi",
+   "address": "Bahçelievler Mah. Dr. Yusuf Azizoğlu Cad. 1A/1",
+   "phone": "0544 520 0933",
+   "dutyStart": "2026-11-16T18:00:00+03:00",
+   "dutyEnd": "2026-11-17T08:00:00+03:00",
    "approved": true,
-   "lat": 37.927559,
-   "lng": 41.694046
+   "lat": 37.927135,
+   "lng": 41.704426
   },
   {
    "district": "Merkez",
-   "name": "Siirt Eczanesi",
-   "address": "Yeni Mah. Medine Cad. Güleryüz Apt. Altı 15/A SİİRT",
-   "phone": "0484 224 7303",
-   "dutyStart": "2026-11-15T08:00:00+03:00",
-   "dutyEnd": "2026-11-16T08:00:00+03:00",
+   "name": "Apari Eczanesi",
+   "address": "YENİ MAH. ŞEYH-EL HAZİN CADDESİ NO: 33/A SİİRT",
+   "phone": "0545 895 4232",
+   "dutyStart": "2026-11-16T18:00:00+03:00",
+   "dutyEnd": "2026-11-17T08:00:00+03:00",
    "approved": true,
-   "lat": 37.933907,
-   "lng": 41.942455
+   "lat": 37.928333,
+   "lng": 41.946461
   },
   {
    "district": "Merkez",
-   "name": "Şehir Eczanesi",
-   "address": "Hz. Fakirullah Cad. No: 11/B",
-   "phone": "0484 223 1542",
-   "dutyStart": "2026-11-15T08:00:00+03:00",
-   "dutyEnd": "2026-11-16T08:00:00+03:00",
+   "name": "Dicle Eczanesi",
+   "address": "KOOPERATİF MAH. HZ. FAKİRULLAH CAD. 141/A SİİRT",
+   "phone": "0484 224 8584",
+   "dutyStart": "2026-11-16T18:00:00+03:00",
+   "dutyEnd": "2026-11-17T08:00:00+03:00",
    "approved": true,
-   "lat": 37.927986,
-   "lng": 41.943073
+   "lat": 37.940666,
+   "lng": 41.936287
   },
   {
    "district": "Pervari",
-   "name": "Sağlık Eczanesi",
-   "address": "AYDIN MAH.BEYAZIT CAD. NO: 5/A PERVARİ",
-   "phone": "0484 361 2270",
-   "dutyStart": "2026-11-15T08:00:00+03:00",
-   "dutyEnd": "2026-11-16T08:00:00+03:00",
+   "name": "Emre Eczanesi",
+   "address": "Aydın Mahallesi Beyazıt Caddesi No:20/A",
+   "phone": "0545 402 4389",
+   "dutyStart": "2026-11-16T18:00:00+03:00",
+   "dutyEnd": "2026-11-17T08:00:00+03:00",
    "approved": true,
-   "lat": 37.93322,
-   "lng": 42.547058
+   "lat": 37.933094,
+   "lng": 42.546547
   },
   {
    "district": "Şirvan",
-   "name": "Sudem Eczanesi",
-   "address": "Hakkı Akyüz Cad. No: 31/C",
-   "phone": "0484 511 2107",
-   "dutyStart": "2026-11-15T08:00:00+03:00",
-   "dutyEnd": "2026-11-16T08:00:00+03:00",
+   "name": "Sena Eczanesi",
+   "address": "Küfre Mahallesi PTT Caddesi No:8/B",
+   "phone": "0541 264 6298",
+   "dutyStart": "2026-11-16T18:00:00+03:00",
+   "dutyEnd": "2026-11-17T08:00:00+03:00",
    "approved": true,
-   "lat": 38.062077,
-   "lng": 42.029873
+   "lat": 38.060928,
+   "lng": 42.029327
   }
  ]
 }
