@@ -2,7 +2,7 @@
  "city": "Edirne",
  "code": 22,
  "dutyDay": "2026-11-16",
- "updatedAt": "2026-11-16T19:32:35.279Z",
+ "updatedAt": "2026-11-16T22:54:43.620Z",
  "source": "Edirne Eczacı Odası",
  "pharmacies": [
   {
@@ -15,17 +15,6 @@
    "approved": true,
    "lat": 41.652773,
    "lng": 26.605238
-  },
-  {
-   "district": "Merkez",
-   "name": "Seray Eczanesi",
-   "address": "ŞÜKRÜPAŞA MAH. BAHRİYE ÜÇOK CAD. NO:53/62 GÖLET MEVKİ İKİ KATLI ÖZAR MARKET YANI",
-   "phone": "02849991990",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 41.669806,
-   "lng": 26.592806
   },
   {
    "district": "Merkez",
