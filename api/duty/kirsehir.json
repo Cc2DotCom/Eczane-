@@ -1,8 +1,8 @@
 {
  "city": "Kırşehir",
  "code": 40,
- "dutyDay": "2026-11-15",
- "updatedAt": "2026-11-15T21:04:58.462Z",
+ "dutyDay": "2026-11-16",
+ "updatedAt": "2026-11-16T19:32:58.805Z",
  "source": "e-Devlet TİTCK, Aksaray-Kırşehir Eczacı Odası",
  "pharmacies": [
   {
@@ -29,25 +29,25 @@
   },
   {
    "district": "Kaman",
-   "name": "Defne Eczanesi",
-   "address": "Sarıuşağı Mah. Turgut Aslan Cad. 233.Sokak No:28",
-   "phone": "03867128208",
+   "name": "Eren Eczanesi",
+   "address": "Yeni Mah. 25 Aralık Cad. No: 5",
+   "phone": "03867127988",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.356283,
-   "lng": 33.726513
+   "lat": 39.359839,
+   "lng": 33.723075
   },
   {
    "district": "Mucur",
-   "name": "Mucur Eczanesi",
-   "address": "Yenice Mah. Enver Paşa Cad. No : 34/A",
-   "phone": "03868124588",
+   "name": "Hendek Eczanesi",
+   "address": "YENİCE MAH.ENVERPAŞA CAD.NO:29",
+   "phone": "03868122223",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.064548,
-   "lng": 34.377001
+   "lat": 39.064625,
+   "lng": 34.376816
   }
  ],
  "sourceUrl": "https://www.aksarayeo.org.tr/nobetci-eczaneler"
