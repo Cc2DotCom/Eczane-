@@ -2,20 +2,9 @@
  "city": "Edirne",
  "code": 22,
  "dutyDay": "2026-11-17",
- "updatedAt": "2026-11-17T18:30:41.165Z",
+ "updatedAt": "2026-11-17T21:47:02.386Z",
  "source": "Edirne Eczacı Odası",
  "pharmacies": [
-  {
-   "district": "Merkez",
-   "name": "Edirne Cent Eczanesi",
-   "address": "SABUNİ MAH. ÇİLİNGİRLER CAD. NO:25-Z09 EDİRNE",
-   "phone": "02842252003",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 41.675101,
-   "lng": 26.55425
-  },
   {
    "district": "Merkez",
    "name": "Özgür Eczanesi",

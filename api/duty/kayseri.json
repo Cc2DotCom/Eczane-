@@ -2,20 +2,9 @@
  "city": "Kayseri",
  "code": 38,
  "dutyDay": "2026-11-17",
- "updatedAt": "2026-11-17T18:30:57.590Z",
+ "updatedAt": "2026-11-17T21:47:21.196Z",
  "source": "Kayseri Eczacı Odası",
  "pharmacies": [
-  {
-   "district": "Kocasinan",
-   "name": "Denizyıldızı Eczanesi",
-   "address": "ŞEKER MAH. MUHSİN YAZICIOĞLU BULVARI NO:74/H",
-   "phone": "05369678986",
-   "dutyStart": "2026-11-17T08:30:00+03:00",
-   "dutyEnd": "2026-11-18T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.770595,
-   "lng": 35.413178
-  },
   {
    "district": "Melikgazi",
    "name": "Reyhan Eczanesi",
@@ -26,6 +15,17 @@
    "approved": true,
    "lat": 38.779447,
    "lng": 35.593445
+  },
+  {
+   "district": "Kocasinan",
+   "name": "Denizyıldızı Eczanesi",
+   "address": "ŞEKER MAH. MUHSİN YAZICIOĞLU BULVARI NO:74/H",
+   "phone": "05369678986",
+   "dutyStart": "2026-11-17T08:30:00+03:00",
+   "dutyEnd": "2026-11-18T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.770595,
+   "lng": 35.413178
   },
   {
    "district": "Kocasinan",
@@ -61,15 +61,15 @@
    "lng": 35.482152
   },
   {
-   "district": "Melikgazi",
-   "name": "Candan Eczanesi",
-   "address": "Yıldırım Beyazıt Mah. Olgunla Cad. 9/A-B",
-   "phone": "03522249889",
+   "district": "Kocasinan",
+   "name": "Doğanyiğit Eczanesi",
+   "address": "Argıncık Mah. 6313. Cad. No: 130",
+   "phone": "03527912688",
    "dutyStart": "2026-11-17T08:30:00+03:00",
    "dutyEnd": "2026-11-18T01:00:00+03:00",
    "approved": true,
-   "lat": 38.730753,
-   "lng": 35.528607
+   "lat": 38.746163,
+   "lng": 35.52585
   },
   {
    "district": "Melikgazi",
@@ -83,37 +83,15 @@
    "lng": 35.476619
   },
   {
-   "district": "Melikgazi",
-   "name": "Ayşe Eczanesi",
-   "address": "Şirintepe Mahallesi,3139. Sokak, No:8 Melikgazi",
-   "phone": "03525028804",
+   "district": "Talas",
+   "name": "Tülay Poyraz Eczanesi",
+   "address": "BAHÇELİEVLER MAH. TEPEBAĞLAR CAD. NO:48/B",
+   "phone": "03525044684",
    "dutyStart": "2026-11-17T08:30:00+03:00",
    "dutyEnd": "2026-11-18T01:00:00+03:00",
    "approved": true,
-   "lat": 38.745152,
-   "lng": 35.575943
-  },
-  {
-   "district": "Kocasinan",
-   "name": "Doğanyiğit Eczanesi",
-   "address": "Argıncık Mah. 6313. Cad. No: 130",
-   "phone": "03527912688",
-   "dutyStart": "2026-11-17T08:30:00+03:00",
-   "dutyEnd": "2026-11-18T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.746163,
-   "lng": 35.52585
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Tuğba Eczanesi",
-   "address": "OSMANLI MAH. EDIP GEÇIDI N0:5",
-   "phone": "03523474030",
-   "dutyStart": "2026-11-17T08:30:00+03:00",
-   "dutyEnd": "2026-11-18T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.689621,
-   "lng": 35.475615
+   "lat": 38.686215,
+   "lng": 35.545562
   },
   {
    "district": "Talas",
@@ -128,14 +106,14 @@
   },
   {
    "district": "Melikgazi",
-   "name": "Ziya Eczanesi",
-   "address": "ANBAR MAH. 801. SOK. NO:3/A",
-   "phone": "03525133690",
+   "name": "Candan Eczanesi",
+   "address": "Yıldırım Beyazıt Mah. Olgunla Cad. 9/A-B",
+   "phone": "03522249889",
    "dutyStart": "2026-11-17T08:30:00+03:00",
    "dutyEnd": "2026-11-18T01:00:00+03:00",
    "approved": true,
-   "lat": 38.751922,
-   "lng": 35.373899
+   "lat": 38.730753,
+   "lng": 35.528607
   },
   {
    "district": "Kocasinan",
@@ -149,15 +127,37 @@
    "lng": 35.528078
   },
   {
-   "district": "Talas",
-   "name": "Tülay Poyraz Eczanesi",
-   "address": "BAHÇELİEVLER MAH. TEPEBAĞLAR CAD. NO:48/B",
-   "phone": "03525044684",
+   "district": "Melikgazi",
+   "name": "Ziya Eczanesi",
+   "address": "ANBAR MAH. 801. SOK. NO:3/A",
+   "phone": "03525133690",
    "dutyStart": "2026-11-17T08:30:00+03:00",
    "dutyEnd": "2026-11-18T01:00:00+03:00",
    "approved": true,
-   "lat": 38.686215,
-   "lng": 35.545562
+   "lat": 38.751922,
+   "lng": 35.373899
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Ayşe Eczanesi",
+   "address": "Şirintepe Mahallesi,3139. Sokak, No:8 Melikgazi",
+   "phone": "03525028804",
+   "dutyStart": "2026-11-17T08:30:00+03:00",
+   "dutyEnd": "2026-11-18T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.745152,
+   "lng": 35.575943
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Tuğba Eczanesi",
+   "address": "OSMANLI MAH. EDIP GEÇIDI N0:5",
+   "phone": "03523474030",
+   "dutyStart": "2026-11-17T08:30:00+03:00",
+   "dutyEnd": "2026-11-18T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.689621,
+   "lng": 35.475615
   }
  ],
  "sourceUrl": "https://www.kayserieo.org.tr/nobetci-eczaneler"

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T18:31:21.291Z",
+ "generatedAt": "2026-11-17T21:47:39.078Z",
  "source": "e-Devlet TİTCK",
  "cities": [
   {
@@ -63,7 +63,7 @@
    "slug": "artvin",
    "code": 8,
    "dutyDay": "2026-11-17",
-   "updatedAt": "2026-11-17T18:30:21.623Z",
+   "updatedAt": "2026-11-17T21:46:41.415Z",
    "count": 8
   },
   {
@@ -71,7 +71,7 @@
    "slug": "aydin",
    "code": 9,
    "dutyDay": "2026-11-17",
-   "updatedAt": "2026-11-17T18:30:26.399Z",
+   "updatedAt": "2026-11-17T21:46:46.809Z",
    "count": 32
   },
   {
@@ -175,15 +175,15 @@
    "slug": "edirne",
    "code": 22,
    "dutyDay": "2026-11-17",
-   "updatedAt": "2026-11-17T18:30:41.165Z",
-   "count": 11
+   "updatedAt": "2026-11-17T21:47:02.386Z",
+   "count": 10
   },
   {
    "city": "Elazığ",
    "slug": "elazig",
    "code": 23,
    "dutyDay": "2026-11-17",
-   "updatedAt": "2026-11-17T18:30:43.988Z",
+   "updatedAt": "2026-11-17T21:47:05.797Z",
    "count": 9
   },
   {
@@ -207,7 +207,7 @@
    "slug": "eskisehir",
    "code": 26,
    "dutyDay": "2026-11-17",
-   "updatedAt": "2026-11-17T18:30:48.510Z",
+   "updatedAt": "2026-11-17T21:47:10.980Z",
    "count": 14
   },
   {
@@ -239,7 +239,7 @@
    "slug": "hakkari",
    "code": 30,
    "dutyDay": "2026-11-17",
-   "updatedAt": "2026-11-17T18:30:53.080Z",
+   "updatedAt": "2026-11-17T21:47:16.080Z",
    "count": 5
   },
   {
@@ -303,7 +303,7 @@
    "slug": "kayseri",
    "code": 38,
    "dutyDay": "2026-11-17",
-   "updatedAt": "2026-11-17T18:30:57.590Z",
+   "updatedAt": "2026-11-17T21:47:21.196Z",
    "count": 14
   },
   {
@@ -319,7 +319,7 @@
    "slug": "kirsehir",
    "code": 40,
    "dutyDay": "2026-11-17",
-   "updatedAt": "2026-11-17T18:31:00.236Z",
+   "updatedAt": "2026-11-17T21:47:24.309Z",
    "count": 4
   },
   {
@@ -351,7 +351,7 @@
    "slug": "malatya",
    "code": 44,
    "dutyDay": "2026-11-17",
-   "updatedAt": "2026-11-17T18:31:04.570Z",
+   "updatedAt": "2026-11-17T21:47:29.600Z",
    "count": 5
   },
   {
@@ -631,7 +631,7 @@
    "slug": "kilis",
    "code": 79,
    "dutyDay": "2026-11-17",
-   "updatedAt": "2026-11-17T18:31:17.929Z",
+   "updatedAt": "2026-11-17T21:47:36.669Z",
    "count": 1
   },
   {
