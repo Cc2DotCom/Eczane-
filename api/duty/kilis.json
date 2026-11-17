@@ -1,15 +1,15 @@
 {
  "city": "Kilis",
  "code": 79,
- "dutyDay": "2026-11-16",
- "updatedAt": "2026-11-16T22:55:15.822Z",
+ "dutyDay": "2026-11-17",
+ "updatedAt": "2026-11-17T16:01:04.600Z",
  "source": "Gaziantep Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Efe Eczanesi",
-   "address": "Yaşar Aktürk Mah. İnönü Bul. No:17/C (Adliye Karşısı) Kilis/Merkez",
-   "phone": "03488143738",
+   "name": "Erdem Eczanesi",
+   "address": "EKREM ÇETİN MAHALLESİ TURGUT REİS CADDESİ NO:19/A (BEŞYÜZEVLER SAĞLIK OCAĞI KARŞISI)",
+   "phone": "05521777979",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,

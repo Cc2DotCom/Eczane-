@@ -1,20 +1,20 @@
 {
  "city": "Trabzon",
  "code": 61,
- "dutyDay": "2026-11-16",
- "updatedAt": "2026-11-16T15:41:32.470Z",
+ "dutyDay": "2026-11-17",
+ "updatedAt": "2026-11-17T16:00:12.199Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Akçaabat",
-   "name": "Ebru Eczanesi",
-   "address": "Orta Mah. İnönü Cad. No:115A",
-   "phone": "0462 228 8662",
-   "dutyStart": "2026-11-16T17:00:00+03:00",
-   "dutyEnd": "2026-11-17T09:00:00+03:00",
+   "name": "Bizim Eczanesi",
+   "address": "Nefsipulathane Mah. Bahçeli Sok. No:6/A",
+   "phone": "0462 227 0996",
+   "dutyStart": "2026-11-17T17:00:00+03:00",
+   "dutyEnd": "2026-11-18T09:00:00+03:00",
    "approved": true,
-   "lat": 41.022415,
-   "lng": 39.568256
+   "lat": 41.025799,
+   "lng": 39.563988
   }
  ]
 }

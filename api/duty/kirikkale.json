@@ -1,86 +1,86 @@
 {
  "city": "Kırıkkale",
  "code": 71,
- "dutyDay": "2026-11-16",
- "updatedAt": "2026-11-16T15:41:59.474Z",
+ "dutyDay": "2026-11-17",
+ "updatedAt": "2026-11-17T16:00:42.249Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Balışeyh",
-   "name": "Balışeyh Eczanesi",
-   "address": "Yeni Mah. 43. Sok. No:14/B Balışeyh/KIRIKKALE",
-   "phone": "0541 953 2755",
-   "dutyStart": "2026-11-16T18:30:00+03:00",
-   "dutyEnd": "2026-11-17T08:30:00+03:00",
+   "name": "Feyza Eczanesi",
+   "address": "YENİ MAH. SAMSUN CAD. NO:21/A BALIŞEYH/KIRIKKALE",
+   "phone": "0536 292 6648",
+   "dutyStart": "2026-11-17T18:30:00+03:00",
+   "dutyEnd": "2026-11-18T08:30:00+03:00",
    "approved": true,
-   "lat": 39.916218,
-   "lng": 33.715801
+   "lat": 39.909851,
+   "lng": 33.717113
   },
   {
    "district": "Delice",
-   "name": "Cennet Eczanesi",
-   "address": "CUMHURİYET MAH.ANKARA CAD.NO:34/A DELİCE/KIRIKKALE",
-   "phone": "0318 618 5433",
-   "dutyStart": "2026-11-16T18:00:00+03:00",
-   "dutyEnd": "2026-11-17T08:30:00+03:00",
+   "name": "Delice Eczanesi",
+   "address": "CUMHURİYET MAH. ATATÜRK BULVARI NO:6/C DELİCE/KIRIKKALE",
+   "phone": "0530 433 2265",
+   "dutyStart": "2026-11-17T18:00:00+03:00",
+   "dutyEnd": "2026-11-18T08:30:00+03:00",
    "approved": true,
-   "lat": 39.943676,
-   "lng": 34.032204
+   "lat": 39.94426,
+   "lng": 34.032265
   },
   {
    "district": "Karakeçili",
-   "name": "Karakeçili Eczanesi",
-   "address": "Fatih Sultan Mehmet Mahallesi Hürriyet Caddesi No:4/A Karakeçili / Kırıkkale",
-   "phone": "0505 681 7381",
-   "dutyStart": "2026-11-16T18:30:00+03:00",
-   "dutyEnd": "2026-11-17T08:30:00+03:00",
+   "name": "Metin Eczanesi",
+   "address": "KURTULUŞ MAH.İNÖNÜ CAD. NO:1/C KARAKEÇİLİ/KIRIKKALE",
+   "phone": "0318 474 3033",
+   "dutyStart": "2026-11-17T18:30:00+03:00",
+   "dutyEnd": "2026-11-18T08:30:00+03:00",
    "approved": true,
-   "lat": 39.593029,
-   "lng": 33.378559
+   "lat": 39.59354,
+   "lng": 33.378311
   },
   {
    "district": "Keskin",
-   "name": "Sağlam Eczanesi",
-   "address": "Yenice mah. Şehit Gökhun Mete Altunbaş cad. No:9A Keskin/Kırıkkale",
-   "phone": "0553 186 7207",
-   "dutyStart": "2026-11-16T18:30:00+03:00",
-   "dutyEnd": "2026-11-17T08:30:00+03:00",
+   "name": "Rana Eczanesi",
+   "address": "BOZKURT MAH.MERT SOK:NO:36 KESKİN/KIRIKKALE",
+   "phone": "3 185 153 257_",
+   "dutyStart": "2026-11-17T18:30:00+03:00",
+   "dutyEnd": "2026-11-18T08:30:00+03:00",
    "approved": true,
-   "lat": 39.673332,
-   "lng": 33.616444
+   "lat": 39.67366,
+   "lng": 33.615814
   },
   {
    "district": "Merkez",
-   "name": "Aylin Eczanesi",
-   "address": "OVACIK MH.İZMİR CAD.NO 113/A KIRIKKALE",
-   "phone": "0318 218 0608",
-   "dutyStart": "2026-11-16T18:00:00+03:00",
-   "dutyEnd": "2026-11-17T08:30:00+03:00",
+   "name": "Avundukluoğlu Eczanesi",
+   "address": "Bağlarbaşı Mahallesi Dr. Ahmet AY Caddesi No:8/C",
+   "phone": "0318 233 1313",
+   "dutyStart": "2026-11-17T18:00:00+03:00",
+   "dutyEnd": "2026-11-18T08:30:00+03:00",
    "approved": true,
-   "lat": 39.849678,
-   "lng": 33.503178
+   "lat": 39.861595,
+   "lng": 33.480175
   },
   {
    "district": "Merkez",
-   "name": "Aytekin Eczanesi",
-   "address": "Güzeltepe Mahallesi Hürriyet Caddesi No: 79-B Merkez/KIRIKKALE",
-   "phone": "0318 333 0071",
-   "dutyStart": "2026-11-16T18:00:00+03:00",
-   "dutyEnd": "2026-11-17T08:30:00+03:00",
+   "name": "Selma Eczanesi",
+   "address": "OVACIK MAHALLESİ HÜRRİYET CAD.NO:92/A MERKEZ/KIRIKKALE",
+   "phone": "0318 250 0105",
+   "dutyStart": "2026-11-17T18:00:00+03:00",
+   "dutyEnd": "2026-11-18T08:30:00+03:00",
    "approved": true,
-   "lat": 39.847492,
-   "lng": 33.502163
+   "lat": 39.847038,
+   "lng": 33.50264
   },
   {
    "district": "Yahşihan",
-   "name": "Vitamin Eczanesi",
-   "address": "Yenişehir Mah. Neşet Abalıoğlu Sok. No:3",
-   "phone": "0552 220 6276",
-   "dutyStart": "2026-11-16T18:00:00+03:00",
-   "dutyEnd": "2026-11-17T08:30:00+03:00",
+   "name": "Altan Eczanesi",
+   "address": "YENİŞEHİR MAH.İBN-İ SİNA CAD. NO:1/5 YAHŞİHAN/KIRIKKALE",
+   "phone": "0318 310 0123",
+   "dutyStart": "2026-11-17T18:00:00+03:00",
+   "dutyEnd": "2026-11-18T08:30:00+03:00",
    "approved": true,
-   "lat": 39.869469,
-   "lng": 33.454533
+   "lat": 39.870255,
+   "lng": 33.453411
   }
  ]
 }

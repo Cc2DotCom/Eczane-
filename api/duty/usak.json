@@ -1,86 +1,86 @@
 {
  "city": "Uşak",
  "code": 64,
- "dutyDay": "2026-11-16",
- "updatedAt": "2026-11-16T15:41:43.847Z",
+ "dutyDay": "2026-11-17",
+ "updatedAt": "2026-11-17T16:00:25.615Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Banaz",
-   "name": "Okyay Eczanesi",
-   "address": "Cumhuriyet Mah.Başaran Cd. No:47/A",
-   "phone": "0276 315 3418",
-   "dutyStart": "2026-11-16T08:30:00+03:00",
-   "dutyEnd": "2026-11-17T18:00:00+03:00",
+   "name": "Banaz Eczanesi",
+   "address": "CUMHURİYET MH. FEVZİ ÇAKMAK CD.NO:22/D BANAZ",
+   "phone": "0276 315 1480",
+   "dutyStart": "2026-11-17T08:30:00+03:00",
+   "dutyEnd": "2026-11-18T18:00:00+03:00",
    "approved": true,
-   "lat": 38.737465,
-   "lng": 29.754185
+   "lat": 38.739201,
+   "lng": 29.754025
   },
   {
    "district": "Eşme",
-   "name": "Yilmaz Eczanesi",
-   "address": "Şehit Alibey Mahallesi Kemer Caddesi No: 8",
-   "phone": "0276 414 1786",
-   "dutyStart": "2026-11-16T08:30:00+03:00",
-   "dutyEnd": "2026-11-17T18:30:00+03:00",
+   "name": "Erdoğan Eczanesi",
+   "address": "İSTASYON MH.SANAT OKULU CD.NO:27/B EŞME",
+   "phone": "0276 414 2664",
+   "dutyStart": "2026-11-17T08:30:00+03:00",
+   "dutyEnd": "2026-11-18T18:30:00+03:00",
    "approved": true,
-   "lat": 38.399483,
-   "lng": 28.969156
+   "lat": 38.398399,
+   "lng": 28.973936
   },
   {
    "district": "Karahallı",
-   "name": "Hayat Eczanesi",
-   "address": "YENİ MH. İNÖNÜ CD. KADİFE SK. NO: 2/A",
-   "phone": "0276 517 1347",
-   "dutyStart": "2026-11-16T08:30:00+03:00",
-   "dutyEnd": "2026-11-17T18:30:00+03:00",
+   "name": "Barış Eczanesi",
+   "address": "KONAK MH. AÇIK PAZAR MEYDANI NO:33",
+   "phone": "0276 517 1770",
+   "dutyStart": "2026-11-17T08:30:00+03:00",
+   "dutyEnd": "2026-11-18T18:30:00+03:00",
    "approved": true,
-   "lat": 38.32111,
-   "lng": 29.5329
+   "lat": 38.320847,
+   "lng": 29.531631
   },
   {
    "district": "Merkez",
-   "name": "Güneş Eczanesi",
-   "address": "DURAK MH. 3 YILDIZ SK. UK-1 B7 NO:8/C",
-   "phone": "0505 856 6662",
-   "dutyStart": "2026-11-16T08:30:00+03:00",
-   "dutyEnd": "2026-11-17T18:30:00+03:00",
+   "name": "Ahsen Eczanesi",
+   "address": "CUMHURİYET MH. UĞUR MUMCU CD. NO:134/A",
+   "phone": "0276 216 8090",
+   "dutyStart": "2026-11-17T08:30:00+03:00",
+   "dutyEnd": "2026-11-18T18:30:00+03:00",
    "approved": true,
-   "lat": 38.672421,
-   "lng": 29.417349
+   "lat": 38.654514,
+   "lng": 29.395008
   },
   {
    "district": "Merkez",
-   "name": "Özlem Eczanesi",
-   "address": "CUMHURİYET MH. BAHÇELİ SK. NO: 5/A",
-   "phone": "0276 224 1510",
-   "dutyStart": "2026-11-16T08:30:00+03:00",
-   "dutyEnd": "2026-11-17T18:30:00+03:00",
+   "name": "Serap Eczanesi",
+   "address": "ATATÜRK MH.2.SAÇMA SK.NO:5/A",
+   "phone": "0276 231 0034",
+   "dutyStart": "2026-11-17T08:30:00+03:00",
+   "dutyEnd": "2026-11-18T18:30:00+03:00",
    "approved": true,
-   "lat": 38.670204,
-   "lng": 29.407124
+   "lat": 38.666466,
+   "lng": 29.420509
   },
   {
    "district": "Merkez",
-   "name": "Umut Eczanesi",
-   "address": "ÜNALAN MH.ZÜBEYDE HANIM CD.NO:58/B",
-   "phone": "0276 223 0293",
-   "dutyStart": "2026-11-16T08:30:00+03:00",
-   "dutyEnd": "2026-11-17T18:30:00+03:00",
+   "name": "Zümrüt Eczanesi",
+   "address": "KARAAĞAÇ MH. ŞEHİT MEHMET ÖZEN SK. NO:8/A",
+   "phone": "0276 223 0657",
+   "dutyStart": "2026-11-17T08:30:00+03:00",
+   "dutyEnd": "2026-11-18T18:30:00+03:00",
    "approved": true,
-   "lat": 38.673409,
-   "lng": 29.401188
+   "lat": 38.681232,
+   "lng": 29.396818
   },
   {
    "district": "Ulubey",
-   "name": "Gamze Eczanesi",
-   "address": "Gölbaşı Mh. Atatürk Cd. No:6/A",
-   "phone": "0276 716 1039",
-   "dutyStart": "2026-11-16T08:30:00+03:00",
-   "dutyEnd": "2026-11-17T18:30:00+03:00",
+   "name": "Buket Eczanesi",
+   "address": "AŞAĞI MH. ARIKAN BEDÜK CD. NO:71/A",
+   "phone": "0276 502 3648",
+   "dutyStart": "2026-11-17T08:30:00+03:00",
+   "dutyEnd": "2026-11-18T18:30:00+03:00",
    "approved": true,
-   "lat": 38.419746,
-   "lng": 29.289986
+   "lat": 38.41777,
+   "lng": 29.282158
   }
  ]
 }

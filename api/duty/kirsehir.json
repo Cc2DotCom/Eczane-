@@ -1,53 +1,53 @@
 {
  "city": "Kırşehir",
  "code": 40,
- "dutyDay": "2026-11-16",
- "updatedAt": "2026-11-17T00:17:47.118Z",
+ "dutyDay": "2026-11-17",
+ "updatedAt": "2026-11-17T15:58:43.328Z",
  "source": "e-Devlet TİTCK, Aksaray-Kırşehir Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Eda Eczanesi",
-   "address": "AHİ EVRAN MAH. ZÜBEYDE HANIM CAD. TURAN APT. NO:29/A MERKEZ KIRŞEHİR",
-   "phone": "0386 213 0705",
-   "dutyStart": "2026-11-16T18:00:00+03:00",
-   "dutyEnd": "2026-11-17T08:00:00+03:00",
+   "name": "Esen Eczanesi",
+   "address": "YENİCE MAH. ATATÜRK CAD. KAYA APT. NO:37/8",
+   "phone": "0386 213 0951",
+   "dutyStart": "2026-11-17T18:00:00+03:00",
+   "dutyEnd": "2026-11-18T08:00:00+03:00",
    "approved": true,
-   "lat": 39.158169,
-   "lng": 34.159721
+   "lat": 39.142178,
+   "lng": 34.16259
   },
   {
    "district": "Merkez",
-   "name": "Güneş Eczanesi",
-   "address": "KERVANSARAY MAH. 2216. SOKAK KILIÇOĞULLARI APT. NO:2 MERKEZ/KIRŞEHİR",
-   "phone": "0541 940 6133",
-   "dutyStart": "2026-11-16T18:00:00+03:00",
-   "dutyEnd": "2026-11-17T08:00:00+03:00",
+   "name": "Yeni Eczane Eczanesi",
+   "address": "MEDRESE MAH. 92. SOK. MELİK GAZİ APT. NO:4/A MERKEZ KIRŞEHİR",
+   "phone": "0386 214 2221",
+   "dutyStart": "2026-11-17T18:00:00+03:00",
+   "dutyEnd": "2026-11-18T08:00:00+03:00",
    "approved": true,
-   "lat": 39.156681,
-   "lng": 34.161785
+   "lat": 39.143166,
+   "lng": 34.162624
   },
   {
    "district": "Kaman",
-   "name": "Eren Eczanesi",
-   "address": "Yeni Mah. 25 Aralık Cad. No: 5",
-   "phone": "03867127988",
+   "name": "Deva Eczanesi",
+   "address": "ORTA MAHALLE ISTIKLAL CAD. NO:92",
+   "phone": "3867122121",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.359839,
-   "lng": 33.723075
+   "lat": 39.357578,
+   "lng": 33.724427
   },
   {
    "district": "Mucur",
-   "name": "Hendek Eczanesi",
-   "address": "YENİCE MAH.ENVERPAŞA CAD.NO:29",
-   "phone": "03868122223",
+   "name": "Emin Eczanesi",
+   "address": "Hamidiye Mah.İnönü Cad. No:16",
+   "phone": "03868126027",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.064625,
-   "lng": 34.376816
+   "lat": 39.062735,
+   "lng": 34.376231
   }
  ],
  "sourceUrl": "https://www.aksarayeo.org.tr/nobetci-eczaneler"

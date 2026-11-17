@@ -1,86 +1,86 @@
 {
  "city": "Osmaniye",
  "code": 80,
- "dutyDay": "2026-11-16",
- "updatedAt": "2026-11-16T15:42:28.251Z",
+ "dutyDay": "2026-11-17",
+ "updatedAt": "2026-11-17T16:01:13.676Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Bahçe",
-   "name": "Uğur Eczanesi",
-   "address": "Bahçelievler Mah. Devlet Bahçeli Bul. No: 11/A",
-   "phone": "0328 861 4147",
-   "dutyStart": "2026-11-16T12:30:00+03:00",
-   "dutyEnd": "2026-11-17T08:00:00+03:00",
+   "name": "Eylül Eczanesi",
+   "address": "Bahçelievler Mahallesi Devlet Bahçeli Bulvarı No: 11/B",
+   "phone": "0328 861 2728",
+   "dutyStart": "2026-11-17T12:30:00+03:00",
+   "dutyEnd": "2026-11-18T08:00:00+03:00",
    "approved": true,
-   "lat": 37.200577,
-   "lng": 36.577454
+   "lat": 37.200565,
+   "lng": 36.577446
   },
   {
    "district": "Düziçi",
-   "name": "Elmas Eczanesi",
-   "address": "Yeşilova Mah. Aydınlar Sok. No:42",
-   "phone": "0543 261 3408",
-   "dutyStart": "2026-11-16T17:30:00+03:00",
-   "dutyEnd": "2026-11-17T08:00:00+03:00",
+   "name": "Fatih Eczanesi",
+   "address": "Boğaziçi Mahallesi Hastane Sokak Kapı No:10A",
+   "phone": "0328 876 4747",
+   "dutyStart": "2026-11-17T17:30:00+03:00",
+   "dutyEnd": "2026-11-18T08:00:00+03:00",
    "approved": true,
-   "lat": 37.244755,
-   "lng": 36.453777
+   "lat": 37.243942,
+   "lng": 36.461674
   },
   {
    "district": "Kadirli",
-   "name": "Vahapoğlu Eczanesi",
-   "address": "Şehit Kansu Küçükateş Mah. Kırcaali Cad. No:5/1",
-   "phone": "0328 717 7770",
-   "dutyStart": "2026-11-16T12:00:00+03:00",
-   "dutyEnd": "2026-11-17T08:30:00+03:00",
+   "name": "Bal Eczanesi",
+   "address": "PAZAR MAH. OSMAN NURİ SAYGILI CAD. NO:157",
+   "phone": "0328 718 0040",
+   "dutyStart": "2026-11-17T12:00:00+03:00",
+   "dutyEnd": "2026-11-18T08:30:00+03:00",
    "approved": true,
-   "lat": 37.372387,
-   "lng": 36.074619
+   "lat": 37.373882,
+   "lng": 36.096893
   },
   {
    "district": "Merkez",
-   "name": "Osmaniye Eczanesi",
-   "address": "Gebeli Mahallesi 3625 Sok. No:15/B",
-   "phone": "0542 390 2217",
-   "dutyStart": "2026-11-16T18:00:00+03:00",
-   "dutyEnd": "2026-11-17T08:00:00+03:00",
+   "name": "İnci Temel Eczanesi",
+   "address": "Kazım Karabekir Mahallesi 6560 Sokak No: 15/B",
+   "phone": "0328 814 1500",
+   "dutyStart": "2026-11-17T18:00:00+03:00",
+   "dutyEnd": "2026-11-18T08:00:00+03:00",
    "approved": true,
-   "lat": 37.084194,
-   "lng": 36.276405
+   "lat": 37.084953,
+   "lng": 36.273605
   },
   {
    "district": "Merkez",
-   "name": "Özgen Eczanesi",
-   "address": "İSTİKLAL MAH. ATATÜRK CAD. NO:182/B MERKEZ/OSMANİYE",
-   "phone": "0328 814 3601",
-   "dutyStart": "2026-11-16T18:00:00+03:00",
-   "dutyEnd": "2026-11-17T08:00:00+03:00",
+   "name": "Övünç Eczanesi",
+   "address": "Mehmet Akif Ersoy Mah. 8008 Sokak No: 5/A",
+   "phone": "0328 825 1919",
+   "dutyStart": "2026-11-17T18:00:00+03:00",
+   "dutyEnd": "2026-11-18T08:00:00+03:00",
    "approved": true,
-   "lat": 37.073509,
-   "lng": 36.251026
+   "lat": 37.061928,
+   "lng": 36.239117
   },
   {
    "district": "Merkez",
-   "name": "Şeyma Eczanesi",
-   "address": "Raufbey Mahallesi 9552 Sokak No: 15/C",
-   "phone": "0538 482 2407",
-   "dutyStart": "2026-11-16T18:00:00+03:00",
-   "dutyEnd": "2026-11-17T08:00:00+03:00",
+   "name": "Yedi Ocak Eczanesi",
+   "address": "Yediocak Mahallesi Dr. Devlet Bahçeli Bulvarı No: 62/B",
+   "phone": "0328 814 2051",
+   "dutyStart": "2026-11-17T18:00:00+03:00",
+   "dutyEnd": "2026-11-18T08:00:00+03:00",
    "approved": true,
-   "lat": 37.068111,
-   "lng": 36.237816
+   "lat": 37.067265,
+   "lng": 36.249069
   },
   {
    "district": "Toprakkale",
-   "name": "Toprakkale Eczanesi",
-   "address": "Fatih Sultan Mehmet Mah. Çamlıbel Sok. No:19/B",
-   "phone": "0328 633 2053",
-   "dutyStart": "2026-11-16T18:30:00+03:00",
-   "dutyEnd": "2026-11-17T08:00:00+03:00",
+   "name": "Arslantaş Eczanesi",
+   "address": "Fatih Sultan Mehmet Mah. Çamlıbel Sok. No:19/D",
+   "phone": "0545 628 6033",
+   "dutyStart": "2026-11-17T18:30:00+03:00",
+   "dutyEnd": "2026-11-18T08:00:00+03:00",
    "approved": true,
-   "lat": 37.070793,
-   "lng": 36.144039
+   "lat": 37.070683,
+   "lng": 36.144207
   }
  ]
 }

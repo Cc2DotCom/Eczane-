@@ -1,8 +1,8 @@
 {
  "city": "Karaman",
  "code": 70,
- "dutyDay": "2026-11-16",
- "updatedAt": "2026-11-16T15:41:56.915Z",
+ "dutyDay": "2026-11-17",
+ "updatedAt": "2026-11-17T16:00:39.733Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
@@ -10,8 +10,8 @@
    "name": "Başak Eczanesi",
    "address": "Dede Mah. Atatürk Cad. No:42",
    "phone": "0338 411 2838",
-   "dutyStart": "2026-11-16T18:00:00+03:00",
-   "dutyEnd": "2026-11-17T08:00:00+03:00",
+   "dutyStart": "2026-11-17T18:00:00+03:00",
+   "dutyEnd": "2026-11-18T08:00:00+03:00",
    "approved": true,
    "lat": 37.362217,
    "lng": 33.689968
@@ -21,66 +21,66 @@
    "name": "Kiraz Eczanesi",
    "address": "Şirindere Mah. Cumhuriyet Cad. No:149/B",
    "phone": "0338 351 6180",
-   "dutyStart": "2026-11-16T08:00:00+03:00",
-   "dutyEnd": "2026-11-17T08:00:00+03:00",
+   "dutyStart": "2026-11-17T08:00:00+03:00",
+   "dutyEnd": "2026-11-18T08:00:00+03:00",
    "approved": true,
    "lat": 36.751221,
    "lng": 32.68243
   },
   {
    "district": "Ermenek",
-   "name": "Güneyyurt Eczanesi",
-   "address": "Taşbaşı Mah. Cumhuriyet Cad. No:99/A",
-   "phone": "0338 716 1786",
-   "dutyStart": "2026-11-16T18:30:00+03:00",
-   "dutyEnd": "2026-11-17T08:00:00+03:00",
+   "name": "Yilmaz Eczanesi",
+   "address": "Çınarlısu Mah. Cumhuriyet Cad.No:101/E",
+   "phone": "0338 716 2212",
+   "dutyStart": "2026-11-17T18:30:00+03:00",
+   "dutyEnd": "2026-11-18T08:00:00+03:00",
    "approved": true,
-   "lat": 36.639256,
-   "lng": 32.889332
+   "lat": 36.639492,
+   "lng": 32.888996
   },
   {
    "district": "Kazımkarabekir",
    "name": "Kasaba Eczanesi",
    "address": "Pazar Mah. Kazım Karabekir Cad. No:3",
    "phone": "0338 311 2500",
-   "dutyStart": "2026-11-16T08:00:00+03:00",
-   "dutyEnd": "2026-11-17T08:00:00+03:00",
+   "dutyStart": "2026-11-17T08:00:00+03:00",
+   "dutyEnd": "2026-11-18T08:00:00+03:00",
    "approved": true,
    "lat": 37.226868,
    "lng": 32.959778
   },
   {
    "district": "Merkez",
-   "name": "Alper Karaardıç Eczanesi",
-   "address": "Üniversite Mah. Şehit Fethi Sekin Bulv. No:193/1A",
-   "phone": "0338 212 0050",
-   "dutyStart": "2026-11-16T18:00:00+03:00",
-   "dutyEnd": "2026-11-16T23:59:00+03:00",
+   "name": "Cemre Eczanesi",
+   "address": "Alişahane Mah. 182.Sk. No:2",
+   "phone": "0338 212 2454",
+   "dutyStart": "2026-11-17T18:00:00+03:00",
+   "dutyEnd": "2026-11-17T23:59:00+03:00",
    "approved": true,
-   "lat": 37.158611,
-   "lng": 33.26918
+   "lat": 37.184082,
+   "lng": 33.208618
   },
   {
    "district": "Merkez",
-   "name": "Kutay Eczanesi",
-   "address": "Tahsin Ünal Mahallesi 26. Sokak No:4/A",
-   "phone": "0338 213 2828",
-   "dutyStart": "2026-11-16T18:00:00+03:00",
-   "dutyEnd": "2026-11-17T08:00:00+03:00",
+   "name": "Gonca Eczanesi",
+   "address": "Mehmet Akif Ersoy Mah. Şehit Adnan Ateş Cad. No:40/A-B",
+   "phone": "0338 212 9119",
+   "dutyStart": "2026-11-17T18:00:00+03:00",
+   "dutyEnd": "2026-11-18T08:00:00+03:00",
    "approved": true,
-   "lat": 37.182766,
-   "lng": 33.215454
+   "lat": 37.163387,
+   "lng": 33.231949
   },
   {
    "district": "Sarıveliler",
-   "name": "Cafer Eczanesi",
-   "address": "Küçükkarapınar Mah. İmamhatip Sk. No:6/D",
-   "phone": "0338 441 2795",
-   "dutyStart": "2026-11-16T18:00:00+03:00",
-   "dutyEnd": "2026-11-17T08:30:00+03:00",
+   "name": "Talay Eczanesi",
+   "address": "Küçükkarapınar Mah. İmamhatip Sk. No:5/Z4",
+   "phone": "0338 441 2513",
+   "dutyStart": "2026-11-17T18:00:00+03:00",
+   "dutyEnd": "2026-11-18T08:30:00+03:00",
    "approved": true,
-   "lat": 36.693085,
-   "lng": 32.621941
+   "lat": 36.692032,
+   "lng": 32.621677
   }
  ]
 }
