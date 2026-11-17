@@ -2,7 +2,7 @@
  "city": "Kayseri",
  "code": 38,
  "dutyDay": "2026-11-16",
- "updatedAt": "2026-11-16T22:54:59.801Z",
+ "updatedAt": "2026-11-17T00:17:44.419Z",
  "source": "Kayseri Eczacı Odası",
  "pharmacies": [
   {
@@ -17,15 +17,15 @@
    "lng": 35.49466
   },
   {
-   "district": "Kocasinan",
-   "name": "Şimşek Eczanesi",
-   "address": "Şeker Mah. Muhsin Yazıcıoğlu Bulv. No:74",
-   "phone": "03523304878",
+   "district": "Melikgazi",
+   "name": "Şifa İldem Eczanesi",
+   "address": "Fatih Mah. Saffet Arıkan Bedük Cad. 70/A",
+   "phone": "03522472233",
    "dutyStart": "2026-11-16T08:30:00+03:00",
    "dutyEnd": "2026-11-17T08:30:00+03:00",
    "approved": true,
-   "lat": 38.770314,
-   "lng": 35.413245
+   "lat": 38.786942,
+   "lng": 35.602934
   },
   {
    "district": "Kocasinan",
@@ -50,15 +50,15 @@
    "lng": 35.479606
   },
   {
-   "district": "Melikgazi",
-   "name": "Şifa İldem Eczanesi",
-   "address": "Fatih Mah. Saffet Arıkan Bedük Cad. 70/A",
-   "phone": "03522472233",
+   "district": "Kocasinan",
+   "name": "Şimşek Eczanesi",
+   "address": "Şeker Mah. Muhsin Yazıcıoğlu Bulv. No:74",
+   "phone": "03523304878",
    "dutyStart": "2026-11-16T08:30:00+03:00",
    "dutyEnd": "2026-11-17T08:30:00+03:00",
    "approved": true,
-   "lat": 38.786942,
-   "lng": 35.602934
+   "lat": 38.770314,
+   "lng": 35.413245
   }
  ],
  "sourceUrl": "https://www.kayserieo.org.tr/nobetci-eczaneler"
