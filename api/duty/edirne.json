@@ -2,7 +2,7 @@
  "city": "Edirne",
  "code": 22,
  "dutyDay": "2026-11-18",
- "updatedAt": "2026-11-18T17:59:35.726Z",
+ "updatedAt": "2026-11-18T21:27:06.577Z",
  "source": "Edirne Eczacı Odası",
  "pharmacies": [
   {
@@ -15,17 +15,6 @@
    "approved": true,
    "lat": 41.675372,
    "lng": 26.554119
-  },
-  {
-   "district": "Merkez",
-   "name": "Baca Eczanesi",
-   "address": "KOCASINAN MAH.AKAN 3 APT NO:13",
-   "phone": "2842357322",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 41.658342,
-   "lng": 26.589177
   },
   {
    "district": "Merkez",
