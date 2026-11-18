@@ -2,7 +2,7 @@
  "city": "Malatya",
  "code": 44,
  "dutyDay": "2026-11-18",
- "updatedAt": "2026-11-18T15:38:28.486Z",
+ "updatedAt": "2026-11-18T18:00:02.016Z",
  "source": "Malatya Eczacı Odası",
  "pharmacies": [
   {
@@ -29,17 +29,6 @@
   },
   {
    "district": "Merkez",
-   "name": "Melis Eczanesi",
-   "address": "ÇAVUŞOĞLU MH BOZTEPE CD. NO:79 ÇAVUŞOĞLU ASM KARŞISI",
-   "phone": "04223231601",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": null,
-   "lng": null
-  },
-  {
-   "district": "Merkez",
    "name": "Güngör Eczanesi",
    "address": "GÜNGÖR CD. ÇEVREYOLU FAHRİ KAYAHAN GİRİŞİ PETROL OFİSİ KARŞISI ÇARŞI MARKET BİTİŞİĞİ KARAKAVAK MH.",
    "phone": "04223256282",
@@ -48,6 +37,17 @@
    "approved": true,
    "lat": 38.3400522,
    "lng": 38.2635449
+  },
+  {
+   "district": "Merkez",
+   "name": "Melis Eczanesi",
+   "address": "ÇAVUŞOĞLU MH BOZTEPE CD. NO:79 ÇAVUŞOĞLU ASM KARŞISI",
+   "phone": "04223231601",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": null,
+   "lng": null
   },
   {
    "district": "Battalgazi",
