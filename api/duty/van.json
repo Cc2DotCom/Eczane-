@@ -1,20 +1,20 @@
 {
  "city": "Van",
  "code": 65,
- "dutyDay": "2026-11-17",
- "updatedAt": "2026-11-17T16:00:27.531Z",
+ "dutyDay": "2026-11-18",
+ "updatedAt": "2026-11-18T15:39:54.708Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Erciş",
-   "name": "Çiçek Eczanesi",
-   "address": "Vanyolu Mah. Kara Yusuf Bey Bulvarı Dış Kapı No:105B",
-   "phone": "0545 497 8021",
-   "dutyStart": "2026-11-17T18:00:00+03:00",
-   "dutyEnd": "2026-11-18T08:30:00+03:00",
+   "name": "Defne Eczanesi",
+   "address": "Vanyolu Mah. Kara Yusuf Bey Bulvarı Dış Kapı No:140B",
+   "phone": "0541 792 8497",
+   "dutyStart": "2026-11-18T18:00:00+03:00",
+   "dutyEnd": "2026-11-19T08:30:00+03:00",
    "approved": true,
-   "lat": 39.023895,
-   "lng": 43.3703
+   "lat": 39.027008,
+   "lng": 43.364048
   }
  ]
 }

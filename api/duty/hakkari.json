@@ -1,64 +1,64 @@
 {
  "city": "Hakkari",
  "code": 30,
- "dutyDay": "2026-11-17",
- "updatedAt": "2026-11-17T23:32:26.178Z",
+ "dutyDay": "2026-11-18",
+ "updatedAt": "2026-11-18T15:36:30.787Z",
  "source": "Van Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Beyaz Eczanesi",
-   "address": "DAĞGÖL MAH.RECEP TAYİP ERDOĞAN BULVARI MUSA PALA BLOK NO:22C/1",
-   "phone": "05411153972",
+   "name": "Güven Eczanesi",
+   "address": "Pehlivan mah. Çölemerik cad. No:62/C Hakkari Merkez",
+   "phone": "04382112017",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.573517,
-   "lng": 43.734631
+   "lat": 37.573289,
+   "lng": 43.7317
   },
   {
    "district": "Yüksekova",
-   "name": "Şalvacı Eczanesi",
-   "address": "YENİ MAH.DAĞLICA CAD.NO:48/C",
-   "phone": "04383510022",
+   "name": "Rojda Eczanesi",
+   "address": "Güngör mah.5 Nolu sağlık ocağı yanı Übeydullah Camisi arkası 902.SK.NO:8A",
+   "phone": "05301125830",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.560045,
-   "lng": 44.270362
+   "lat": 37.565384,
+   "lng": 44.284367
   },
   {
    "district": "Yüksekova",
-   "name": "Nefes Eczanesi",
-   "address": "Cengiz Topel Caddesi Şehremini Fırını Karşısı No:54",
-   "phone": "04385020932",
+   "name": "Şifa Eczanesi",
+   "address": "AKALAN MAH.AKALIN CAD.NO:334",
+   "phone": "04383511010",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.570505,
-   "lng": 44.283471
+   "lat": 37.56651,
+   "lng": 44.228018
   },
   {
    "district": "Şemdinli",
-   "name": "Yaşam Eczanesi",
-   "address": "Yeni Mah.Cumhuriyet Cad.No:70/B",
-   "phone": "04384113357",
+   "name": "Derman Eczanesi",
+   "address": "KARŞIYAKA MAH. ÇEVREYOLU CAD. NO:60/4-E",
+   "phone": "04384113274",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.307227,
-   "lng": 44.572463
+   "lat": 37.3087,
+   "lng": 44.569983
   },
   {
    "district": "Şemdinli",
-   "name": "Derecik Eczanesi",
-   "address": "MERKEZ MAH.VATAN CAD.NO:19/A",
-   "phone": "05380443717",
+   "name": "Aki Eczanesi",
+   "address": "MERKEZ MAH. VATAN CADDESİ NO:12/A",
+   "phone": "04384613320",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.080721,
-   "lng": 44.310393
+   "lat": 37.080915,
+   "lng": 44.310193
   }
  ],
  "sourceUrl": "https://www.vaneczaciodasi.org.tr/nobetci-eczaneler"
