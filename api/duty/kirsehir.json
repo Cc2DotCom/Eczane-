@@ -1,53 +1,53 @@
 {
  "city": "Kırşehir",
  "code": 40,
- "dutyDay": "2026-11-18",
- "updatedAt": "2026-11-18T22:58:07.028Z",
+ "dutyDay": "2026-11-19",
+ "updatedAt": "2026-11-19T15:43:20.606Z",
  "source": "e-Devlet TİTCK, Aksaray-Kırşehir Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Gökbayrak Eczanesi",
-   "address": "Aşıkpaşa Mah. 1. Sokak. Paşa Konağı Apt. No: 22/B Merkez / Kırşehir",
-   "phone": "0505 226 9785",
-   "dutyStart": "2026-11-18T18:00:00+03:00",
-   "dutyEnd": "2026-11-19T08:00:00+03:00",
+   "name": "Sezenler Eczanesi",
+   "address": "KERVANSARAY MAH. 2019. SOK. KAYAÖZ SİTESİ A BLOK NO:19",
+   "phone": "0507 261 4255",
+   "dutyStart": "2026-11-19T18:00:00+03:00",
+   "dutyEnd": "2026-11-20T08:00:00+03:00",
    "approved": true,
-   "lat": 39.157043,
-   "lng": 34.162411
+   "lat": 39.157169,
+   "lng": 34.163971
   },
   {
    "district": "Merkez",
-   "name": "Uğur Eczanesi",
-   "address": "Aşıkpaşa Mah. Paşakonağı Apt.Altı No:8 Kırşehir",
-   "phone": "0386 212 2252",
-   "dutyStart": "2026-11-18T18:00:00+03:00",
-   "dutyEnd": "2026-11-19T08:00:00+03:00",
+   "name": "Sibel Eczanesi",
+   "address": "KERVAN SARAY MAH. 2019 SOKAK KAYA ÖZ SİTESİ NO:18 MERKEZ / KIRŞEHİR",
+   "phone": "0386 212 2038",
+   "dutyStart": "2026-11-19T18:00:00+03:00",
+   "dutyEnd": "2026-11-20T08:00:00+03:00",
    "approved": true,
-   "lat": 39.157021,
-   "lng": 34.162285
+   "lat": 39.157127,
+   "lng": 34.163895
   },
   {
    "district": "Kaman",
-   "name": "Emrah Eczanesi",
-   "address": "CUMHURIYET MEYDANI NO:17 KAMAN",
-   "phone": "03867126002",
+   "name": "Erdem Eczanesi",
+   "address": "YENI MAH.25 ARALIK CAD. NO :2 KAMAN",
+   "phone": "3867122173",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.35845,
-   "lng": 33.724499
+   "lat": 39.359566,
+   "lng": 33.723219
   },
   {
    "district": "Mucur",
-   "name": "Mucur Eczanesi",
-   "address": "Yenice Mah. Enver Paşa Cad. No : 34/A",
-   "phone": "03868124588",
+   "name": "Saglik Eczanesi",
+   "address": "YENICE MAH. ENVERPASA CAD. NO:5 MUCUR",
+   "phone": "3868124769",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.064548,
-   "lng": 34.377001
+   "lat": 39.063311,
+   "lng": 34.376217
   }
  ],
  "sourceUrl": "https://www.aksarayeo.org.tr/nobetci-eczaneler"

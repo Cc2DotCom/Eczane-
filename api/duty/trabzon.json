@@ -1,20 +1,20 @@
 {
  "city": "Trabzon",
  "code": 61,
- "dutyDay": "2026-11-18",
- "updatedAt": "2026-11-18T15:39:38.129Z",
+ "dutyDay": "2026-11-19",
+ "updatedAt": "2026-11-19T15:44:34.116Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Akçaabat",
-   "name": "Nuhoğlu Eczanesi",
-   "address": "ORTA MAHALLE İNÖNÜ CADDESİ NO:141/A",
-   "phone": "0462 228 1340",
-   "dutyStart": "2026-11-18T17:00:00+03:00",
-   "dutyEnd": "2026-11-19T09:00:00+03:00",
+   "name": "Gül Eczanesi",
+   "address": "ORTA MAH. İNÖNÜ CAD.NO:.127A",
+   "phone": "0462 228 8989",
+   "dutyStart": "2026-11-19T17:00:00+03:00",
+   "dutyEnd": "2026-11-20T09:00:00+03:00",
    "approved": true,
-   "lat": 41.023033,
-   "lng": 39.56694
+   "lat": 41.022701,
+   "lng": 39.567665
   }
  ]
 }

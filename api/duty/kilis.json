@@ -1,15 +1,15 @@
 {
  "city": "Kilis",
  "code": 79,
- "dutyDay": "2026-11-18",
- "updatedAt": "2026-11-18T22:58:21.435Z",
+ "dutyDay": "2026-11-19",
+ "updatedAt": "2026-11-19T15:45:23.090Z",
  "source": "Gaziantep Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Ergezen Eczanesi",
-   "address": "SEHIT SAKIP MAH. CUMHURIYET CAD. NO:240 (HACI CÜMBÜŞ CAMİ KARŞISI)",
-   "phone": "03488137787",
+   "name": "Eruçan Eczanesi",
+   "address": "Doğan Güreş Paşa Mah. Mustafa Eren Cad. No:75B merkez/KİLİS",
+   "phone": "03488141001",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
