@@ -2,7 +2,7 @@
  "city": "Edirne",
  "code": 22,
  "dutyDay": "2026-11-19",
- "updatedAt": "2026-11-19T18:13:13.947Z",
+ "updatedAt": "2026-11-19T21:37:37.977Z",
  "source": "Edirne Eczacı Odası",
  "pharmacies": [
   {
@@ -15,17 +15,6 @@
    "approved": true,
    "lat": 41.674858,
    "lng": 26.561623
-  },
-  {
-   "district": "Merkez",
-   "name": "Çiftçi Eczanesi",
-   "address": "SULTAN 1. MURAT DEVLET HASTANESİ YOLU ÜZERİ FATİH MAH. 10104. CAD. NO:1/8",
-   "phone": "02842350048",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 41.65329,
-   "lng": 26.60213
   },
   {
    "district": "Merkez",

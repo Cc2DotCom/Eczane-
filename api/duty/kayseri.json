@@ -2,19 +2,19 @@
  "city": "Kayseri",
  "code": 38,
  "dutyDay": "2026-11-19",
- "updatedAt": "2026-11-19T18:13:32.548Z",
+ "updatedAt": "2026-11-19T21:37:54.142Z",
  "source": "Kayseri Eczacı Odası",
  "pharmacies": [
   {
-   "district": "Kocasinan",
-   "name": "Parlak Eczanesi",
-   "address": "Gevher Nesibe mah.Atatürk Bulvarı No 108 A (Devlet Hastanesi Acil karşısı)",
-   "phone": "05052823834",
+   "district": "Melikgazi",
+   "name": "Kiçikapu Eczanesi",
+   "address": "Seyyid BUrhaneddin Bulvarı 51/B",
+   "phone": "03522224750",
    "dutyStart": "2026-11-19T08:30:00+03:00",
    "dutyEnd": "2026-11-20T08:30:00+03:00",
    "approved": true,
-   "lat": 38.728046,
-   "lng": 35.479402
+   "lat": 38.716679,
+   "lng": 35.494467
   },
   {
    "district": "Melikgazi",
@@ -29,28 +29,6 @@
   },
   {
    "district": "Kocasinan",
-   "name": "Boduroğlu Eczanesi",
-   "address": "Gevher Nesibe Mah. Kenarcık Sk. No: 7/A",
-   "phone": "03523361312",
-   "dutyStart": "2026-11-19T08:30:00+03:00",
-   "dutyEnd": "2026-11-20T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.723032,
-   "lng": 35.479729
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Kiçikapu Eczanesi",
-   "address": "Seyyid BUrhaneddin Bulvarı 51/B",
-   "phone": "03522224750",
-   "dutyStart": "2026-11-19T08:30:00+03:00",
-   "dutyEnd": "2026-11-20T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.716679,
-   "lng": 35.494467
-  },
-  {
-   "district": "Kocasinan",
    "name": "Yenişehir Eczanesi",
    "address": "Şeker Mah. Muhsin Yazıcıoğlu Bulv. 72/K",
    "phone": "03522212227",
@@ -61,81 +39,26 @@
    "lng": 35.41318
   },
   {
-   "district": "Melikgazi",
-   "name": "Şükran Eczanesi",
-   "address": "CUMHURIYET MH.MILLET CD.N0:172/64",
-   "phone": "03522313573",
+   "district": "Kocasinan",
+   "name": "Boduroğlu Eczanesi",
+   "address": "Gevher Nesibe Mah. Kenarcık Sk. No: 7/A",
+   "phone": "03523361312",
    "dutyStart": "2026-11-19T08:30:00+03:00",
-   "dutyEnd": "2026-11-20T01:00:00+03:00",
+   "dutyEnd": "2026-11-20T08:30:00+03:00",
    "approved": true,
-   "lat": 38.719628,
-   "lng": 35.48972
+   "lat": 38.723032,
+   "lng": 35.479729
   },
   {
    "district": "Kocasinan",
-   "name": "Arzu Eczanesi",
-   "address": "MIMARSINAN MAH. BILLUR CAD. NO: 77/A",
-   "phone": "3522363773",
+   "name": "Parlak Eczanesi",
+   "address": "Gevher Nesibe mah.Atatürk Bulvarı No 108 A (Devlet Hastanesi Acil karşısı)",
+   "phone": "05052823834",
    "dutyStart": "2026-11-19T08:30:00+03:00",
-   "dutyEnd": "2026-11-20T01:00:00+03:00",
+   "dutyEnd": "2026-11-20T08:30:00+03:00",
    "approved": true,
-   "lat": 38.733744,
-   "lng": 35.511013
-  },
-  {
-   "district": "Talas",
-   "name": "Yeni Cura Eczanesi",
-   "address": "Kiçiköy Mah. Kayabağlar Cad. No: 13/A",
-   "phone": "03525033134",
-   "dutyStart": "2026-11-19T08:30:00+03:00",
-   "dutyEnd": "2026-11-20T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.692447,
-   "lng": 35.552495
-  },
-  {
-   "district": "Kocasinan",
-   "name": "Arici Eczanesi",
-   "address": "SAHABIYE MAH. METE CAD. ÇIGDEM SOK. ÇGDEM APT. 9/6",
-   "phone": "03522319555",
-   "dutyStart": "2026-11-19T08:30:00+03:00",
-   "dutyEnd": "2026-11-20T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.724123,
-   "lng": 35.48714
-  },
-  {
-   "district": "Kocasinan",
-   "name": "Kayseri Eczanesi",
-   "address": "Yakut Mah. 3838. Cad. Gökalp Apt. No:25/A",
-   "phone": "",
-   "dutyStart": "2026-11-19T08:30:00+03:00",
-   "dutyEnd": "2026-11-20T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.743552,
-   "lng": 35.496632
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Sakarya Eczanesi",
-   "address": "SAKARYA MAH. DOĞANYURT CAD. NO:26/2",
-   "phone": "03525132786",
-   "dutyStart": "2026-11-19T08:30:00+03:00",
-   "dutyEnd": "2026-11-20T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.735823,
-   "lng": 35.40914
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Sayili Eczanesi",
-   "address": "Yıldırım Beyazıt Mah. Sunay Sk. No: 13/C",
-   "phone": "05453603850",
-   "dutyStart": "2026-11-19T08:30:00+03:00",
-   "dutyEnd": "2026-11-20T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.731103,
-   "lng": 35.544926
+   "lat": 38.728046,
+   "lng": 35.479402
   },
   {
    "district": "Melikgazi",
@@ -150,6 +73,28 @@
   },
   {
    "district": "Talas",
+   "name": "Yeni Cura Eczanesi",
+   "address": "Kiçiköy Mah. Kayabağlar Cad. No: 13/A",
+   "phone": "03525033134",
+   "dutyStart": "2026-11-19T08:30:00+03:00",
+   "dutyEnd": "2026-11-20T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.692447,
+   "lng": 35.552495
+  },
+  {
+   "district": "Kocasinan",
+   "name": "Kayseri Eczanesi",
+   "address": "Yakut Mah. 3838. Cad. Gökalp Apt. No:25/A",
+   "phone": "",
+   "dutyStart": "2026-11-19T08:30:00+03:00",
+   "dutyEnd": "2026-11-20T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.743552,
+   "lng": 35.496632
+  },
+  {
+   "district": "Talas",
    "name": "Anayurt Eczanesi",
    "address": "MEVLANA MAH.ANAYURT CAD.N0:4/A",
    "phone": "03524310260",
@@ -158,6 +103,61 @@
    "approved": true,
    "lat": 38.707092,
    "lng": 35.560404
+  },
+  {
+   "district": "Kocasinan",
+   "name": "Arici Eczanesi",
+   "address": "SAHABIYE MAH. METE CAD. ÇIGDEM SOK. ÇGDEM APT. 9/6",
+   "phone": "03522319555",
+   "dutyStart": "2026-11-19T08:30:00+03:00",
+   "dutyEnd": "2026-11-20T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.724123,
+   "lng": 35.48714
+  },
+  {
+   "district": "Kocasinan",
+   "name": "Arzu Eczanesi",
+   "address": "MIMARSINAN MAH. BILLUR CAD. NO: 77/A",
+   "phone": "3522363773",
+   "dutyStart": "2026-11-19T08:30:00+03:00",
+   "dutyEnd": "2026-11-20T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.733744,
+   "lng": 35.511013
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Sayili Eczanesi",
+   "address": "Yıldırım Beyazıt Mah. Sunay Sk. No: 13/C",
+   "phone": "05453603850",
+   "dutyStart": "2026-11-19T08:30:00+03:00",
+   "dutyEnd": "2026-11-20T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.731103,
+   "lng": 35.544926
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Şükran Eczanesi",
+   "address": "CUMHURIYET MH.MILLET CD.N0:172/64",
+   "phone": "03522313573",
+   "dutyStart": "2026-11-19T08:30:00+03:00",
+   "dutyEnd": "2026-11-20T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.719628,
+   "lng": 35.48972
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Sakarya Eczanesi",
+   "address": "SAKARYA MAH. DOĞANYURT CAD. NO:26/2",
+   "phone": "03525132786",
+   "dutyStart": "2026-11-19T08:30:00+03:00",
+   "dutyEnd": "2026-11-20T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.735823,
+   "lng": 35.40914
   }
  ],
  "sourceUrl": "https://www.kayserieo.org.tr/nobetci-eczaneler"
