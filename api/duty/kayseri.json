@@ -2,20 +2,9 @@
  "city": "Kayseri",
  "code": 38,
  "dutyDay": "2026-11-19",
- "updatedAt": "2026-11-19T15:43:15.194Z",
+ "updatedAt": "2026-11-19T18:13:32.548Z",
  "source": "Kayseri Eczacı Odası",
  "pharmacies": [
-  {
-   "district": "Kocasinan",
-   "name": "Yenişehir Eczanesi",
-   "address": "Şeker Mah. Muhsin Yazıcıoğlu Bulv. 72/K",
-   "phone": "03522212227",
-   "dutyStart": "2026-11-19T08:30:00+03:00",
-   "dutyEnd": "2026-11-20T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.76998,
-   "lng": 35.41318
-  },
   {
    "district": "Kocasinan",
    "name": "Parlak Eczanesi",
@@ -26,17 +15,6 @@
    "approved": true,
    "lat": 38.728046,
    "lng": 35.479402
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Kiçikapu Eczanesi",
-   "address": "Seyyid BUrhaneddin Bulvarı 51/B",
-   "phone": "03522224750",
-   "dutyStart": "2026-11-19T08:30:00+03:00",
-   "dutyEnd": "2026-11-20T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.716679,
-   "lng": 35.494467
   },
   {
    "district": "Melikgazi",
@@ -62,14 +40,47 @@
   },
   {
    "district": "Melikgazi",
-   "name": "Gökçen Eczanesi",
-   "address": "OSMANLI MAH. DALGIÇ SOK. NO:2",
-   "phone": "03523474674",
+   "name": "Kiçikapu Eczanesi",
+   "address": "Seyyid BUrhaneddin Bulvarı 51/B",
+   "phone": "03522224750",
+   "dutyStart": "2026-11-19T08:30:00+03:00",
+   "dutyEnd": "2026-11-20T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.716679,
+   "lng": 35.494467
+  },
+  {
+   "district": "Kocasinan",
+   "name": "Yenişehir Eczanesi",
+   "address": "Şeker Mah. Muhsin Yazıcıoğlu Bulv. 72/K",
+   "phone": "03522212227",
+   "dutyStart": "2026-11-19T08:30:00+03:00",
+   "dutyEnd": "2026-11-20T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.76998,
+   "lng": 35.41318
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Şükran Eczanesi",
+   "address": "CUMHURIYET MH.MILLET CD.N0:172/64",
+   "phone": "03522313573",
    "dutyStart": "2026-11-19T08:30:00+03:00",
    "dutyEnd": "2026-11-20T01:00:00+03:00",
    "approved": true,
-   "lat": 38.688423,
-   "lng": 35.474771
+   "lat": 38.719628,
+   "lng": 35.48972
+  },
+  {
+   "district": "Kocasinan",
+   "name": "Arzu Eczanesi",
+   "address": "MIMARSINAN MAH. BILLUR CAD. NO: 77/A",
+   "phone": "3522363773",
+   "dutyStart": "2026-11-19T08:30:00+03:00",
+   "dutyEnd": "2026-11-20T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.733744,
+   "lng": 35.511013
   },
   {
    "district": "Talas",
@@ -84,28 +95,6 @@
   },
   {
    "district": "Kocasinan",
-   "name": "Kayseri Eczanesi",
-   "address": "Yakut Mah. 3838. Cad. Gökalp Apt. No:25/A",
-   "phone": "",
-   "dutyStart": "2026-11-19T08:30:00+03:00",
-   "dutyEnd": "2026-11-20T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.743552,
-   "lng": 35.496632
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Sayili Eczanesi",
-   "address": "Yıldırım Beyazıt Mah. Sunay Sk. No: 13/C",
-   "phone": "05453603850",
-   "dutyStart": "2026-11-19T08:30:00+03:00",
-   "dutyEnd": "2026-11-20T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.731103,
-   "lng": 35.544926
-  },
-  {
-   "district": "Kocasinan",
    "name": "Arici Eczanesi",
    "address": "SAHABIYE MAH. METE CAD. ÇIGDEM SOK. ÇGDEM APT. 9/6",
    "phone": "03522319555",
@@ -114,6 +103,17 @@
    "approved": true,
    "lat": 38.724123,
    "lng": 35.48714
+  },
+  {
+   "district": "Kocasinan",
+   "name": "Kayseri Eczanesi",
+   "address": "Yakut Mah. 3838. Cad. Gökalp Apt. No:25/A",
+   "phone": "",
+   "dutyStart": "2026-11-19T08:30:00+03:00",
+   "dutyEnd": "2026-11-20T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.743552,
+   "lng": 35.496632
   },
   {
    "district": "Melikgazi",
@@ -127,6 +127,28 @@
    "lng": 35.40914
   },
   {
+   "district": "Melikgazi",
+   "name": "Sayili Eczanesi",
+   "address": "Yıldırım Beyazıt Mah. Sunay Sk. No: 13/C",
+   "phone": "05453603850",
+   "dutyStart": "2026-11-19T08:30:00+03:00",
+   "dutyEnd": "2026-11-20T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.731103,
+   "lng": 35.544926
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Gökçen Eczanesi",
+   "address": "OSMANLI MAH. DALGIÇ SOK. NO:2",
+   "phone": "03523474674",
+   "dutyStart": "2026-11-19T08:30:00+03:00",
+   "dutyEnd": "2026-11-20T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.688423,
+   "lng": 35.474771
+  },
+  {
    "district": "Talas",
    "name": "Anayurt Eczanesi",
    "address": "MEVLANA MAH.ANAYURT CAD.N0:4/A",
@@ -136,28 +158,6 @@
    "approved": true,
    "lat": 38.707092,
    "lng": 35.560404
-  },
-  {
-   "district": "Kocasinan",
-   "name": "Arzu Eczanesi",
-   "address": "MIMARSINAN MAH. BILLUR CAD. NO: 77/A",
-   "phone": "3522363773",
-   "dutyStart": "2026-11-19T08:30:00+03:00",
-   "dutyEnd": "2026-11-20T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.733744,
-   "lng": 35.511013
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Şükran Eczanesi",
-   "address": "CUMHURIYET MH.MILLET CD.N0:172/64",
-   "phone": "03522313573",
-   "dutyStart": "2026-11-19T08:30:00+03:00",
-   "dutyEnd": "2026-11-20T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.719628,
-   "lng": 35.48972
   }
  ],
  "sourceUrl": "https://www.kayserieo.org.tr/nobetci-eczaneler"

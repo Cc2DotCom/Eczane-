@@ -1,86 +1,97 @@
 {
  "city": "Edirne",
  "code": 22,
- "dutyDay": "2026-11-18",
- "updatedAt": "2026-11-18T22:57:49.445Z",
+ "dutyDay": "2026-11-19",
+ "updatedAt": "2026-11-19T18:13:13.947Z",
  "source": "Edirne Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Koray Eczanesi",
-   "address": "SABUNİ MAH. FUZULİ SOK. NO:7",
-   "phone": "02842126329",
+   "name": "Korkut Eczanesi",
+   "address": "EDİRNE ESKİ DEVLET HASTANESİ KARŞISI SARICAPAŞA MAH.ÇUKURÇEŞME SOK.NO:17",
+   "phone": "02842255999",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 41.675372,
-   "lng": 26.554119
+   "lat": 41.674858,
+   "lng": 26.561623
   },
   {
    "district": "Merkez",
-   "name": "Pamuk Eczanesi",
-   "address": "ŞÜKRÜPAŞA MAH. ABDİ İPEKÇİ CD. NO:56 İÇ KAPI NO : 17",
-   "phone": "02842360303",
+   "name": "Çiftçi Eczanesi",
+   "address": "SULTAN 1. MURAT DEVLET HASTANESİ YOLU ÜZERİ FATİH MAH. 10104. CAD. NO:1/8",
+   "phone": "02842350048",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 41.677725,
-   "lng": 26.585168
+   "lat": 41.65329,
+   "lng": 26.60213
+  },
+  {
+   "district": "Merkez",
+   "name": "Rukiye Kantar Eczanesi",
+   "address": "ŞÜKRÜPAŞA MAH. PROF. ÖMER LÜTFÜ BERKAN CAD. NO:1 EDİRNE",
+   "phone": "02842134647",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 41.673327,
+   "lng": 26.584532
   },
   {
    "district": "Enez",
-   "name": "Saglik Eczanesi",
-   "address": "KALE CAD. NO:9/A",
-   "phone": "2848116090",
+   "name": "Saygin Eczanesi",
+   "address": "GAZI ÖMERBEY MAH. KALE CAD. NO:11",
+   "phone": "2848116147",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 40.724737,
-   "lng": 26.084178
+   "lat": 40.724814,
+   "lng": 26.084344
   },
   {
    "district": "Havsa",
-   "name": "Yavuz Eczanesi",
-   "address": "UZUNKÖPRÜ CAD. NO:5/B",
-   "phone": "2843362473",
+   "name": "Gün Eczanesi",
+   "address": "HACI ISA MAH.23 KASIM CAD. NO:22/F",
+   "phone": "05334610130",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 41.548864,
-   "lng": 26.821615
+   "lat": 41.549489,
+   "lng": 26.821152
   },
   {
    "district": "İpsala",
-   "name": "İpsala Taş Eczanesi",
-   "address": "bayrambey mah. dr sadık ahmet caddesı 75/b",
-   "phone": "02846162284",
+   "name": "Çınar Eczanesi",
+   "address": "BAYRAMBEY MAH. DR. SADIK AHMET CAD. İPSALA DEVLET HASTANESİ KARŞISI",
+   "phone": "02846163375",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 40.917259,
-   "lng": 26.380692
+   "lat": 40.917157,
+   "lng": 26.380669
   },
   {
    "district": "Keşan",
-   "name": "Gölemen Eczanesi",
-   "address": "DEMIRCILER CAD. NO:25",
-   "phone": "02847145711",
+   "name": "Mankaliye Eczanesi",
+   "address": "CUMHURİYET MAH. MUHTAR SOK.MUZAFFER GÜVEN APT.NO:6/A KEŞAN",
+   "phone": "02847146162",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 40.853182,
-   "lng": 26.632476
+   "lat": 40.847304,
+   "lng": 26.640658
   },
   {
    "district": "Lalapaşa",
-   "name": "Sevil Eczanesi",
-   "address": "CUMHURIYET CAD.NO:36/B",
-   "phone": "2843214032",
+   "name": "Yaren Eczanesi",
+   "address": "MERKEZ MAH. ŞEHİT ER AHMET BİNGÖL SOK. NO:1/D LALAPAŞA",
+   "phone": "02843214082",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 41.839311,
-   "lng": 26.732826
+   "lat": 41.839159,
+   "lng": 26.735825
   },
   {
    "district": "Meriç",
@@ -95,14 +106,14 @@
   },
   {
    "district": "Uzunköprü",
-   "name": "Basak Eczanesi",
-   "address": "RIZA EFENDI MAH.GAZI CAD.NO:92",
-   "phone": "2845132646",
+   "name": "Özge Eczanesi",
+   "address": "GAZI CAD.KOVANCI APT.NO:94/B",
+   "phone": "2845137788",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 41.267644,
-   "lng": 26.686406
+   "lat": 41.267093,
+   "lng": 26.68736
   },
   {
    "district": "Süloğlu",
