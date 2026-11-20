@@ -2,20 +2,9 @@
  "city": "Edirne",
  "code": 22,
  "dutyDay": "2026-11-20",
- "updatedAt": "2026-11-20T17:45:11.728Z",
+ "updatedAt": "2026-11-20T21:07:48.258Z",
  "source": "Edirne Eczacı Odası",
  "pharmacies": [
-  {
-   "district": "Merkez",
-   "name": "Şeren Eczanesi",
-   "address": "KURTULUŞ MAH.AHMET TAŞÇI CAD. TOKİ AVM İÇİ NO:6 D:9 ESKİ TOKİ EDİRNE",
-   "phone": "02842268118",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 41.69168,
-   "lng": 26.576073
-  },
   {
    "district": "Merkez",
    "name": "Mehmet Ay Eczanesi",
