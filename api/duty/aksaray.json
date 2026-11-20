@@ -1,86 +1,86 @@
 {
  "city": "Aksaray",
  "code": 68,
- "dutyDay": "2026-11-19",
- "updatedAt": "2026-11-19T15:44:56.835Z",
+ "dutyDay": "2026-11-20",
+ "updatedAt": "2026-11-20T15:26:47.581Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Ağaçören",
-   "name": "Sağlık Eczanesi",
-   "address": "AĞAÇÖREN İLÇESİ ZAFER MAH. ANKARA CADDESİ NO:23 AKSARAY",
-   "phone": "0382 331 3165",
-   "dutyStart": "2026-11-19T18:00:00+03:00",
-   "dutyEnd": "2026-11-20T08:00:00+03:00",
+   "name": "Panli Eczanesi",
+   "address": "ZAFER MAH. ANKARA CAD. NO:8/2",
+   "phone": "0532 051 2298",
+   "dutyStart": "2026-11-20T18:00:00+03:00",
+   "dutyEnd": "2026-11-21T08:00:00+03:00",
    "approved": true,
-   "lat": 38.870136,
-   "lng": 33.914715
+   "lat": 38.86953,
+   "lng": 33.915363
   },
   {
    "district": "Eskil",
-   "name": "Mehmet Sevgi Eczanesi",
-   "address": "MERKEZ MAH. ŞEHİT RECEP BOZDAĞ CAD. NO:2/B-C",
-   "phone": "0382 411 4455",
-   "dutyStart": "2026-11-19T18:00:00+03:00",
-   "dutyEnd": "2026-11-20T08:00:00+03:00",
+   "name": "Eyüp Sultan Eczanesi",
+   "address": "MERKEZ MAHALLESİ MUHSİN YAZICIOĞLU CAD. NO:33",
+   "phone": "0382 411 4208",
+   "dutyStart": "2026-11-20T18:00:00+03:00",
+   "dutyEnd": "2026-11-21T08:00:00+03:00",
    "approved": true,
-   "lat": 38.401855,
-   "lng": 33.412521
+   "lat": 38.393692,
+   "lng": 33.419804
   },
   {
    "district": "Merkez",
-   "name": "Cadde Eczanesi",
-   "address": "TACİN MAH. 105. CAD. NO:33/B",
-   "phone": "0534 224 2348",
-   "dutyStart": "2026-11-19T18:00:00+03:00",
-   "dutyEnd": "2026-11-20T08:00:00+03:00",
+   "name": "Gülsün Eczanesi",
+   "address": "BÜYÜK BÖLCEK MAH. 2421 SOK. ŞEVVAL APT. NO:5/A",
+   "phone": "0382 215 4233",
+   "dutyStart": "2026-11-20T18:00:00+03:00",
+   "dutyEnd": "2026-11-21T08:00:00+03:00",
    "approved": true,
-   "lat": 38.36964,
-   "lng": 33.982086
+   "lat": 38.372082,
+   "lng": 34.011955
   },
   {
    "district": "Merkez",
-   "name": "Derman Eczanesi",
-   "address": "ŞİFAHANE MAH. 26/GAZİLER CAD. NO:26/B",
-   "phone": "0382 212 0011",
-   "dutyStart": "2026-11-19T18:00:00+03:00",
-   "dutyEnd": "2026-11-20T08:00:00+03:00",
+   "name": "Mevlana Eczanesi",
+   "address": "HACILAR HARMANI MAH. 5. BULVAR/KONYA BULVARI NO:65/A-B",
+   "phone": "0382 212 1989",
+   "dutyStart": "2026-11-20T18:00:00+03:00",
+   "dutyEnd": "2026-11-21T08:00:00+03:00",
    "approved": true,
-   "lat": 38.393452,
-   "lng": 34.020954
+   "lat": 38.358002,
+   "lng": 33.97961
   },
   {
    "district": "Merkez",
-   "name": "Şifa Eczanesi",
-   "address": "Taşpazar Mahallesi 839. Sokak No:7/8",
-   "phone": "0382 222 2222",
-   "dutyStart": "2026-11-19T18:00:00+03:00",
-   "dutyEnd": "2026-11-20T08:00:00+03:00",
+   "name": "Öztürk Eczanesi",
+   "address": "ÇERDİĞİN MAH. 44/NECİP FAZIL KISAKÜREK CAD. NO:14/A",
+   "phone": "0382 213 7872",
+   "dutyStart": "2026-11-20T18:00:00+03:00",
+   "dutyEnd": "2026-11-21T08:00:00+03:00",
    "approved": true,
-   "lat": 38.366455,
-   "lng": 34.019234
+   "lat": 38.37709,
+   "lng": 34.025688
   },
   {
    "district": "Ortaköy",
-   "name": "Hayat Eczanesi",
-   "address": "Zafer Mah Hastane sok. No:1/11",
-   "phone": "0382 351 2010",
-   "dutyStart": "2026-11-19T17:30:00+03:00",
-   "dutyEnd": "2026-11-20T08:00:00+03:00",
+   "name": "İnceli Eczanesi",
+   "address": "Zafer Mahallesi Hastane Sokak No:1/5",
+   "phone": "0382 351 2423",
+   "dutyStart": "2026-11-20T17:30:00+03:00",
+   "dutyEnd": "2026-11-21T08:00:00+03:00",
    "approved": true,
-   "lat": 38.755135,
-   "lng": 34.070236
+   "lat": 38.754837,
+   "lng": 34.070419
   },
   {
    "district": "Sultanhanı",
-   "name": "Ayşegül Eczanesi",
-   "address": "TÜRKİSTAN MAH.REİS ALİ SOLAK SOKAK NO:2B",
-   "phone": "0530 481 1556",
-   "dutyStart": "2026-11-19T18:00:00+03:00",
-   "dutyEnd": "2026-11-20T08:00:00+03:00",
+   "name": "Bizim Eczanesi",
+   "address": "TÜRKİSTAN MAH. REİS ALİ SOLAK CAD. NO:2/A",
+   "phone": "0546 922 3016",
+   "dutyStart": "2026-11-20T18:00:00+03:00",
+   "dutyEnd": "2026-11-21T08:00:00+03:00",
    "approved": true,
-   "lat": 38.246521,
-   "lng": 33.558167
+   "lat": 38.245155,
+   "lng": 33.542805
   }
  ]
 }

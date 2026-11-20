@@ -1,20 +1,20 @@
 {
  "city": "Van",
  "code": 65,
- "dutyDay": "2026-11-19",
- "updatedAt": "2026-11-19T15:44:47.869Z",
+ "dutyDay": "2026-11-20",
+ "updatedAt": "2026-11-20T15:26:39.654Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Erciş",
-   "name": "Deva Eczanesi",
-   "address": "BEYAZIT MAH. ZEYLAN CAD. NO.24",
-   "phone": "0546 299 2120",
-   "dutyStart": "2026-11-19T18:00:00+03:00",
-   "dutyEnd": "2026-11-20T08:30:00+03:00",
+   "name": "Doğu Eczanesi",
+   "address": "Vanyolu Mahallesi 240 Örnekler 2. Sokak Dış Kapı No:11A",
+   "phone": "0432 351 7330",
+   "dutyStart": "2026-11-20T18:00:00+03:00",
+   "dutyEnd": "2026-11-21T08:30:00+03:00",
    "approved": true,
-   "lat": 39.030357,
-   "lng": 43.359257
+   "lat": 39.0229,
+   "lng": 43.369247
   }
  ]
 }

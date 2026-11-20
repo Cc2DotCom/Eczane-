@@ -1,20 +1,207 @@
 {
  "city": "Trabzon",
  "code": 61,
- "dutyDay": "2026-11-19",
- "updatedAt": "2026-11-19T15:44:34.116Z",
+ "dutyDay": "2026-11-20",
+ "updatedAt": "2026-11-20T15:26:27.593Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Akçaabat",
-   "name": "Gül Eczanesi",
-   "address": "ORTA MAH. İNÖNÜ CAD.NO:.127A",
-   "phone": "0462 228 8989",
-   "dutyStart": "2026-11-19T17:00:00+03:00",
-   "dutyEnd": "2026-11-20T09:00:00+03:00",
+   "name": "Sebat Eczanesi",
+   "address": "Dürbinar Mahallesi İnönü Caddesi No:89B",
+   "phone": "0462 228 6600",
+   "dutyStart": "2026-11-20T17:00:00+03:00",
+   "dutyEnd": "2026-11-21T09:00:00+03:00",
    "approved": true,
-   "lat": 41.022701,
-   "lng": 39.567665
+   "lat": 41.021915,
+   "lng": 39.569824
+  },
+  {
+   "district": "Akçaabat",
+   "name": "Uğur Eczanesi",
+   "address": "Yaylacık Mahallesi Akçaabat Caddesi No:90B",
+   "phone": "0462 227 0405",
+   "dutyStart": "2026-11-20T18:00:00+03:00",
+   "dutyEnd": "2026-11-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.016228,
+   "lng": 39.584465
+  },
+  {
+   "district": "Araklı",
+   "name": "Uzun Eczanesi",
+   "address": "ÖZGEN MAH.ESKİ YOL KÜME EVLER MEVKİİ NO:22/2/C",
+   "phone": "0462 721 7681",
+   "dutyStart": "2026-11-20T18:00:00+03:00",
+   "dutyEnd": "2026-11-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.917126,
+   "lng": 40.043541
+  },
+  {
+   "district": "Arsin",
+   "name": "Hürriyet Eczanesi",
+   "address": "YEŞİLTEPE MAHALLESİ ŞEHİT ASTEĞMEN HALİL ALBAYRAK CADDESİ NO:74/A",
+   "phone": "0462 711 3746",
+   "dutyStart": "2026-11-20T18:00:00+03:00",
+   "dutyEnd": "2026-11-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.954201,
+   "lng": 39.935661
+  },
+  {
+   "district": "Beşikdüzü",
+   "name": "Başkan Ecz. Eczanesi",
+   "address": "Cumhuriyet Mah. Badem Sokak Demirel Apt. No:5A",
+   "phone": "0462 871 6229",
+   "dutyStart": "2026-11-20T17:00:00+03:00",
+   "dutyEnd": "2026-11-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.052578,
+   "lng": 39.231129
+  },
+  {
+   "district": "Çarşıbaşı",
+   "name": "Çarşıbaşı Eczanesi",
+   "address": "Merkez Mahallesi Avni Akkan Caddesi No:79D",
+   "phone": "0555 222 6100",
+   "dutyStart": "2026-11-20T18:00:00+03:00",
+   "dutyEnd": "2026-11-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 41.082241,
+   "lng": 39.381035
+  },
+  {
+   "district": "Çaykara",
+   "name": "Doğa Eczanesi",
+   "address": "Işıklı Mah. Uzun Sokak No: 3G",
+   "phone": "0462 502 5400",
+   "dutyStart": "2026-11-20T17:00:00+03:00",
+   "dutyEnd": "2026-11-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.748577,
+   "lng": 40.242424
+  },
+  {
+   "district": "Maçka",
+   "name": "Muratoğlu Ecz. Eczanesi",
+   "address": "FATİH MAH. ATATÜRK CAD. NO:48C",
+   "phone": "0462 512 3054",
+   "dutyStart": "2026-11-20T18:00:00+03:00",
+   "dutyEnd": "2026-11-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.809807,
+   "lng": 39.61385
+  },
+  {
+   "district": "Of",
+   "name": "Umut Eczanesi",
+   "address": "Sulaklı Mahallesi Sulaklı Atatürk Bulvarı No:4A",
+   "phone": "0462 771 4089",
+   "dutyStart": "2026-11-20T18:00:00+03:00",
+   "dutyEnd": "2026-11-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.947956,
+   "lng": 40.268826
+  },
+  {
+   "district": "Ortahisar",
+   "name": "Çağla Eczanesi",
+   "address": "DEĞİRMENDERE MAHALLESİ SEZAİ UZAY CADDESİ NO:15",
+   "phone": "0462 325 2870",
+   "dutyStart": "2026-11-20T18:00:00+03:00",
+   "dutyEnd": "2026-11-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.997353,
+   "lng": 39.745529
+  },
+  {
+   "district": "Ortahisar",
+   "name": "Kocabaş Eczanesi",
+   "address": "Fatih Mah. Prof. Osman Turan Cad. Gazioğlu Apt. No: 8/A",
+   "phone": "0462 223 9638",
+   "dutyStart": "2026-11-20T18:00:00+03:00",
+   "dutyEnd": "2026-11-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.000179,
+   "lng": 39.69939
+  },
+  {
+   "district": "Ortahisar",
+   "name": "Soğuksu Eczanesi",
+   "address": "Soğuksu Mah. Huzur Cad. No:15",
+   "phone": "0462 232 6661",
+   "dutyStart": "2026-11-20T18:00:00+03:00",
+   "dutyEnd": "2026-11-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.988869,
+   "lng": 39.696404
+  },
+  {
+   "district": "Ortahisar",
+   "name": "Yurdum Eczanesi",
+   "address": "Kemerkaya Mah. İller Sok. Mazlumoğlu Apt. No:8B",
+   "phone": "0462 326 2602",
+   "dutyStart": "2026-11-20T18:00:00+03:00",
+   "dutyEnd": "2026-11-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.00798,
+   "lng": 39.728024
+  },
+  {
+   "district": "Sürmene",
+   "name": "Sürmene Eczanesi",
+   "address": "Soğuksu Mahallesi Soğuksu Caddesi No: 8G",
+   "phone": "0462 746 4445",
+   "dutyStart": "2026-11-20T18:00:00+03:00",
+   "dutyEnd": "2026-11-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.911442,
+   "lng": 40.131374
+  },
+  {
+   "district": "Şalpazarı",
+   "name": "Hastane Eczanesi",
+   "address": "KİREÇ MAH. HASTANE CAD. ÇAKMAK APT. NO: 13B",
+   "phone": "0462 891 3313",
+   "dutyStart": "2026-11-20T18:00:00+03:00",
+   "dutyEnd": "2026-11-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.942383,
+   "lng": 39.193199
+  },
+  {
+   "district": "Tonya",
+   "name": "Tonya Eczanesi",
+   "address": "Orta Mah. Cumhuriyet Meydanı 11/A",
+   "phone": "0462 881 3090",
+   "dutyStart": "2026-11-20T18:00:00+03:00",
+   "dutyEnd": "2026-11-21T08:30:00+03:00",
+   "approved": true,
+   "lat": 40.88641,
+   "lng": 39.290707
+  },
+  {
+   "district": "Vakfıkebir",
+   "name": "Şifa Eczanesi",
+   "address": "ÇARŞI MAH. GAZİ OSMAN PAŞA CAD. NO: 7A",
+   "phone": "0462 841 3575",
+   "dutyStart": "2026-11-20T17:30:00+03:00",
+   "dutyEnd": "2026-11-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.047661,
+   "lng": 39.276062
+  },
+  {
+   "district": "Yomra",
+   "name": "Şifa Eczanesi",
+   "address": "Sancak Mahallesi Trabzon Caddesi No:142A",
+   "phone": "0462 341 4303",
+   "dutyStart": "2026-11-20T18:00:00+03:00",
+   "dutyEnd": "2026-11-21T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.954685,
+   "lng": 39.86372
   }
  ]
 }
