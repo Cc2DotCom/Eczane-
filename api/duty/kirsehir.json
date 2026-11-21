@@ -2,30 +2,30 @@
  "city": "Kırşehir",
  "code": 40,
  "dutyDay": "2026-11-21",
- "updatedAt": "2026-11-21T20:07:51.760Z",
+ "updatedAt": "2026-11-21T21:42:15.673Z",
  "source": "e-Devlet TİTCK, Aksaray-Kırşehir Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Aşıkpaşa Eczanesi",
-   "address": "AŞIKPAŞA MAH. 1. SOK. KELEBEK APT NO:16/A MERKEZ KIRŞEHİR",
-   "phone": "0386 213 1522",
-   "dutyStart": "2026-11-21T13:00:00+03:00",
-   "dutyEnd": "2026-11-22T08:00:00+03:00",
+   "name": "Merve Eczanesi",
+   "address": "KERVAN SARAY MAH.KAYA ÖZ SİTESİ NO:2 MERKEZ/ KIRŞEHİR",
+   "phone": "0386 214 4640",
+   "dutyStart": "2026-11-22T08:00:00+03:00",
+   "dutyEnd": "2026-11-23T08:00:00+03:00",
    "approved": true,
-   "lat": 39.156715,
-   "lng": 34.161839
+   "lat": 39.157032,
+   "lng": 34.163769
   },
   {
    "district": "Merkez",
-   "name": "Genç Eczane Eczanesi",
-   "address": "AŞIKPAŞA MAH. 1.SOKAK ÇELEBİ APT.ALTI NO:1",
-   "phone": "0386 213 7117",
-   "dutyStart": "2026-11-21T13:00:00+03:00",
-   "dutyEnd": "2026-11-22T08:00:00+03:00",
+   "name": "Özgür Eczanesi",
+   "address": "KERVAN SARAY MAH.2019 SOKAK KAYA ÖZ SİTESİ B BLOK NO:13 KIRŞEHİR",
+   "phone": "0386 212 8586",
+   "dutyStart": "2026-11-22T08:00:00+03:00",
+   "dutyEnd": "2026-11-23T08:00:00+03:00",
    "approved": true,
-   "lat": 39.156815,
-   "lng": 34.161926
+   "lat": 39.157299,
+   "lng": 34.164276
   },
   {
    "district": "Kaman",

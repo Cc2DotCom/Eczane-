@@ -2,9 +2,20 @@
  "city": "Kayseri",
  "code": 38,
  "dutyDay": "2026-11-21",
- "updatedAt": "2026-11-21T20:07:47.133Z",
+ "updatedAt": "2026-11-21T21:42:12.665Z",
  "source": "Kayseri Eczacı Odası",
  "pharmacies": [
+  {
+   "district": "Kocasinan",
+   "name": "Mermerkaya Eczanesi",
+   "address": "Sanayi Mah. 6004. Cad. No:77/C",
+   "phone": "03523304590",
+   "dutyStart": "2026-11-21T08:30:00+03:00",
+   "dutyEnd": "2026-11-22T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.726538,
+   "lng": 35.476532
+  },
   {
    "district": "Kocasinan",
    "name": "Karacalar Eczanesi",
@@ -17,15 +28,15 @@
    "lng": 35.482143
   },
   {
-   "district": "Kocasinan",
-   "name": "Beyza Eczanesi",
-   "address": "ŞEKER MAH. MUHSİN YAZICIOĞLU BULV. NO:72/C",
-   "phone": "03525037370",
+   "district": "Melikgazi",
+   "name": "Akşit Eczanesi",
+   "address": "Tacettinveli Mah. Deliklitaş Cad. NO: 13/A",
+   "phone": "03522202035",
    "dutyStart": "2026-11-21T08:30:00+03:00",
    "dutyEnd": "2026-11-22T08:30:00+03:00",
    "approved": true,
-   "lat": 38.769666,
-   "lng": 35.413194
+   "lat": 38.712389,
+   "lng": 35.494054
   },
   {
    "district": "Melikgazi",
@@ -51,25 +62,14 @@
   },
   {
    "district": "Kocasinan",
-   "name": "Mermerkaya Eczanesi",
-   "address": "Sanayi Mah. 6004. Cad. No:77/C",
-   "phone": "03523304590",
+   "name": "Beyza Eczanesi",
+   "address": "ŞEKER MAH. MUHSİN YAZICIOĞLU BULV. NO:72/C",
+   "phone": "03525037370",
    "dutyStart": "2026-11-21T08:30:00+03:00",
    "dutyEnd": "2026-11-22T08:30:00+03:00",
    "approved": true,
-   "lat": 38.726538,
-   "lng": 35.476532
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Akşit Eczanesi",
-   "address": "Tacettinveli Mah. Deliklitaş Cad. NO: 13/A",
-   "phone": "03522202035",
-   "dutyStart": "2026-11-21T08:30:00+03:00",
-   "dutyEnd": "2026-11-22T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.712389,
-   "lng": 35.494054
+   "lat": 38.769666,
+   "lng": 35.413194
   },
   {
    "district": "Melikgazi",
@@ -81,28 +81,6 @@
    "approved": true,
    "lat": 38.787,
    "lng": 35.602714
-  },
-  {
-   "district": "Talas",
-   "name": "Taşkın Eczanesi",
-   "address": "BAHÇELIEVLER MAH.MEVLANA CAD.SEDA SIT.B-BLOK N0:34",
-   "phone": "03524380484",
-   "dutyStart": "2026-11-21T08:30:00+03:00",
-   "dutyEnd": "2026-11-22T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.686765,
-   "lng": 35.545288
-  },
-  {
-   "district": "Talas",
-   "name": "Seniha Çelebi Eczanesi",
-   "address": "Mevlana Mah. Papatya Cad. 51/B",
-   "phone": "03525020397",
-   "dutyStart": "2026-11-21T08:30:00+03:00",
-   "dutyEnd": "2026-11-22T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.70963,
-   "lng": 35.567085
   },
   {
    "district": "Melikgazi",
@@ -125,6 +103,28 @@
    "approved": true,
    "lat": 38.756714,
    "lng": 35.488375
+  },
+  {
+   "district": "Talas",
+   "name": "Taşkın Eczanesi",
+   "address": "BAHÇELIEVLER MAH.MEVLANA CAD.SEDA SIT.B-BLOK N0:34",
+   "phone": "03524380484",
+   "dutyStart": "2026-11-21T08:30:00+03:00",
+   "dutyEnd": "2026-11-22T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.686765,
+   "lng": 35.545288
+  },
+  {
+   "district": "Kocasinan",
+   "name": "Erciyes Eczanesi",
+   "address": "MIMARSINAN MAH. MURAT CAD. ÖZYILMAZ APT. NO: 29/B",
+   "phone": "03522355563",
+   "dutyStart": "2026-11-21T08:30:00+03:00",
+   "dutyEnd": "2026-11-22T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.732964,
+   "lng": 35.510023
   },
   {
    "district": "Melikgazi",
@@ -160,17 +160,6 @@
    "lng": 35.517193
   },
   {
-   "district": "Kocasinan",
-   "name": "Erciyes Eczanesi",
-   "address": "MIMARSINAN MAH. MURAT CAD. ÖZYILMAZ APT. NO: 29/B",
-   "phone": "03522355563",
-   "dutyStart": "2026-11-21T08:30:00+03:00",
-   "dutyEnd": "2026-11-22T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.732964,
-   "lng": 35.510023
-  },
-  {
    "district": "Melikgazi",
    "name": "Elem Eczanesi",
    "address": "OSMAN KAVUNCU MH. 1020 SK. NO:39/E",
@@ -180,6 +169,17 @@
    "approved": true,
    "lat": 38.728772,
    "lng": 35.446059
+  },
+  {
+   "district": "Talas",
+   "name": "Seniha Çelebi Eczanesi",
+   "address": "Mevlana Mah. Papatya Cad. 51/B",
+   "phone": "03525020397",
+   "dutyStart": "2026-11-21T08:30:00+03:00",
+   "dutyEnd": "2026-11-22T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.70963,
+   "lng": 35.567085
   }
  ],
  "sourceUrl": "https://www.kayserieo.org.tr/nobetci-eczaneler"

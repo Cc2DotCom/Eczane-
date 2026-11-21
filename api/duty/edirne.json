@@ -2,7 +2,7 @@
  "city": "Edirne",
  "code": 22,
  "dutyDay": "2026-11-21",
- "updatedAt": "2026-11-21T16:44:59.210Z",
+ "updatedAt": "2026-11-21T21:41:53.585Z",
  "source": "Edirne Eczacı Odası",
  "pharmacies": [
   {
@@ -26,17 +26,6 @@
    "approved": true,
    "lat": 41.657176,
    "lng": 26.598903
-  },
-  {
-   "district": "Merkez",
-   "name": "Ezgi Engin Eczanesi",
-   "address": "1. MURAT MAH. ZÜBEYDE HANIM CAD. ARMAĞAN SİT. B/12 EDİRNE",
-   "phone": "02842132547",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 41.665658,
-   "lng": 26.580969
   },
   {
    "district": "Enez",
