@@ -2,7 +2,7 @@
  "city": "Aydın",
  "code": 9,
  "dutyDay": "2026-11-21",
- "updatedAt": "2026-11-21T14:35:34.344Z",
+ "updatedAt": "2026-11-21T16:44:42.177Z",
  "source": "Aydın Eczacı Odası",
  "pharmacies": [
   {
@@ -301,17 +301,6 @@
    "approved": true,
    "lat": 37.853694,
    "lng": 28.051938
-  },
-  {
-   "district": "Köşk",
-   "name": "Akay Eczanesi",
-   "address": "ÇARŞI MAH. ESKİ AYDIN - NAZİLLİ CAD. NO:34/A ( YENİ TARIM KOOP. ALIŞVERİŞ MERKEZİ KARŞISI )",
-   "phone": "02564614141",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 37.854009,
-   "lng": 28.054386
   },
   {
    "district": "Kuyucak",
