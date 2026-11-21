@@ -1,20 +1,31 @@
 {
  "city": "Van",
  "code": 65,
- "dutyDay": "2026-11-20",
- "updatedAt": "2026-11-20T15:26:39.654Z",
+ "dutyDay": "2026-11-21",
+ "updatedAt": "2026-11-21T14:39:48.275Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Erciş",
-   "name": "Doğu Eczanesi",
-   "address": "Vanyolu Mahallesi 240 Örnekler 2. Sokak Dış Kapı No:11A",
-   "phone": "0432 351 7330",
-   "dutyStart": "2026-11-20T18:00:00+03:00",
-   "dutyEnd": "2026-11-21T08:30:00+03:00",
+   "name": "Lavanta Eczanesi",
+   "address": "Latifiye Mah. İnönü Cad. Dış Kapı No:20",
+   "phone": "0532 281 1265",
+   "dutyStart": "2026-11-21T13:00:00+03:00",
+   "dutyEnd": "2026-11-22T08:30:00+03:00",
    "approved": true,
-   "lat": 39.0229,
-   "lng": 43.369247
+   "lat": 39.028362,
+   "lng": 43.358398
+  },
+  {
+   "district": "Erciş",
+   "name": "Yeni Eczanesi",
+   "address": "Kışla Mah. Çınar Cad. 93/1",
+   "phone": "0432 351 6939",
+   "dutyStart": "2026-11-21T13:00:00+03:00",
+   "dutyEnd": "2026-11-22T08:30:00+03:00",
+   "approved": true,
+   "lat": 39.017033,
+   "lng": 43.352253
   }
  ]
 }

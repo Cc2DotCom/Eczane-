@@ -1,86 +1,97 @@
 {
  "city": "Edirne",
  "code": 22,
- "dutyDay": "2026-11-20",
- "updatedAt": "2026-11-20T22:41:43.703Z",
+ "dutyDay": "2026-11-21",
+ "updatedAt": "2026-11-21T14:36:25.351Z",
  "source": "Edirne Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Mehmet Ay Eczanesi",
-   "address": "ÇILINGIRLER CARSISI NO:74",
-   "phone": "02842251503",
+   "name": "Mercan Eczanesi",
+   "address": "MITHATPASA MAH.LONDRA ASFALTI NO:25/B",
+   "phone": "02842147292",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 41.67431,
-   "lng": 26.553553
+   "lat": 41.67678,
+   "lng": 26.550072
   },
   {
    "district": "Merkez",
-   "name": "Gürkan Eczanesi",
-   "address": "KOCASINAN MAH.MUAMMER AKSOY CAD.34.SOK.MANOLYA KENT APT.ALTI",
-   "phone": "2842363111",
+   "name": "Selimiye Eczanesi",
+   "address": "FATİH MAH. ÜMRAH AKKAN CAD. NO:14",
+   "phone": "02842250833",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 41.65268,
-   "lng": 26.596049
+   "lat": 41.657176,
+   "lng": 26.598903
+  },
+  {
+   "district": "Merkez",
+   "name": "Ezgi Engin Eczanesi",
+   "address": "1. MURAT MAH. ZÜBEYDE HANIM CAD. ARMAĞAN SİT. B/12 EDİRNE",
+   "phone": "02842132547",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 41.665658,
+   "lng": 26.580969
   },
   {
    "district": "Enez",
-   "name": "Hayat Eczanesi",
-   "address": "YENI MAH.MILLI EGEMENLIK CAD. NO:9/A",
-   "phone": "2848116564",
+   "name": "Saglik Eczanesi",
+   "address": "KALE CAD. NO:9/A",
+   "phone": "2848116090",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 40.724876,
-   "lng": 26.086899
+   "lat": 40.724737,
+   "lng": 26.084178
   },
   {
    "district": "Havsa",
-   "name": "Petek Eczanesi",
-   "address": "CUMHURİYET MAH. FATİH CAD. NO:95/F",
-   "phone": "02843361122",
+   "name": "Derman Eczanesi",
+   "address": "23 KASIM CAD.NO:4/D",
+   "phone": "2843361549",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 41.545963,
-   "lng": 26.829652
+   "lat": 41.549707,
+   "lng": 26.822156
   },
   {
    "district": "İpsala",
-   "name": "Uysal Eczanesi",
-   "address": "BAYRAMBEY MAH.HASTANE CAD. NO:5",
-   "phone": "2846161604",
+   "name": "Çitil Eczanesi",
+   "address": "KAPUCU MAH. KURTULUŞ CAD. NO:167/B İPSALA",
+   "phone": "02846164040",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 40.922008,
-   "lng": 26.38486
+   "lat": 40.928146,
+   "lng": 26.391578
   },
   {
    "district": "Keşan",
-   "name": "Merkez Eczanesi",
-   "address": "AŞAĞI ZAFERİYE MAH. ANAFARTALAR CAD.NO:85/A",
-   "phone": "02847145579",
+   "name": "Erkan Eczanesi",
+   "address": "BÜYÜK CAMİ,GÜVEN SOK. NO:9",
+   "phone": "02847149790",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 40.84446,
-   "lng": 26.629543
+   "lat": 40.854408,
+   "lng": 26.63277
   },
   {
    "district": "Lalapaşa",
-   "name": "Sevil Eczanesi",
-   "address": "CUMHURIYET CAD.NO:36/B",
-   "phone": "2843214032",
+   "name": "Yaren Eczanesi",
+   "address": "MERKEZ MAH. ŞEHİT ER AHMET BİNGÖL SOK. NO:1/D LALAPAŞA",
+   "phone": "02843214082",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 41.839311,
-   "lng": 26.732826
+   "lat": 41.839159,
+   "lng": 26.735825
   },
   {
    "district": "Meriç",
@@ -95,14 +106,14 @@
   },
   {
    "district": "Uzunköprü",
-   "name": "Deva Eczanesi",
-   "address": "GAZİCAD. NO:98 UZUNKÖPRÜ",
-   "phone": "02845138540",
+   "name": "Manga Eczanesi",
+   "address": "GAZİ CAD.NO:102",
+   "phone": "02845131295",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 41.267024,
-   "lng": 26.687419
+   "lat": 41.266976,
+   "lng": 26.687576
   },
   {
    "district": "Süloğlu",

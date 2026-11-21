@@ -1,75 +1,97 @@
 {
  "city": "Rize",
  "code": 53,
- "dutyDay": "2026-11-20",
- "updatedAt": "2026-11-20T15:26:02.608Z",
+ "dutyDay": "2026-11-21",
+ "updatedAt": "2026-11-21T14:39:08.057Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Ardeşen",
-   "name": "Kibaroğlu Eczanesi",
-   "address": "CUMHURİYET MAHALLESİ ATATÜRK CADDESİ NO:311 B",
-   "phone": "0538 277 2395",
-   "dutyStart": "2026-11-20T18:00:00+03:00",
-   "dutyEnd": "2026-11-21T08:00:00+03:00",
+   "name": "Sevim Eczanesi",
+   "address": "MERKEZ MAHALLESİ ATATÜRK CADDESİ NO:124/A ARDEŞEN/RİZE",
+   "phone": "0464 715 1583",
+   "dutyStart": "2026-11-21T08:00:00+03:00",
+   "dutyEnd": "2026-11-22T08:00:00+03:00",
    "approved": true,
-   "lat": 41.190849,
-   "lng": 40.9828
+   "lat": 41.192486,
+   "lng": 40.992542
   },
   {
    "district": "Çayeli",
-   "name": "Nur Eczanesi",
-   "address": "YENİPAZAR MAH. 9 MART CAD. NO:109/A",
-   "phone": "0464 532 5070",
-   "dutyStart": "2026-11-20T17:30:00+03:00",
-   "dutyEnd": "2026-11-21T08:00:00+03:00",
+   "name": "Şifa Eczanesi",
+   "address": "Yenipazar Mahallesi Hastane Sokak Kibar Apartmanı No:2/B",
+   "phone": "0464 532 6670",
+   "dutyStart": "2026-11-21T08:00:00+03:00",
+   "dutyEnd": "2026-11-22T08:00:00+03:00",
    "approved": true,
-   "lat": 41.087219,
-   "lng": 40.724007
+   "lat": 41.090294,
+   "lng": 40.726231
   },
   {
    "district": "Fındıklı",
-   "name": "Sağlık Eczanesi",
-   "address": "MERKEZ MAHALLESİ 2.CADDE NO:68A",
-   "phone": "0464 511 5233",
-   "dutyStart": "2026-11-20T18:00:00+03:00",
-   "dutyEnd": "2026-11-21T08:00:00+03:00",
+   "name": "Halk Eczanesi",
+   "address": "MERKEZ MAHALLESİ 2.CADDE NO:72",
+   "phone": "0464 511 3151",
+   "dutyStart": "2026-11-21T08:00:00+03:00",
+   "dutyEnd": "2026-11-22T08:00:00+03:00",
    "approved": true,
-   "lat": 41.271835,
-   "lng": 41.141556
+   "lat": 41.271988,
+   "lng": 41.141762
   },
   {
    "district": "Merkez",
-   "name": "Deva Eczanesi",
-   "address": "ÇARŞI MAHALLESİ ATATÜRK CADDESİ NO:392/A",
-   "phone": "0464 212 0099",
-   "dutyStart": "2026-11-20T08:00:00+03:00",
+   "name": "Bilsel Eczanesi",
+   "address": "CUMHURİYET CADDESİ NO:171/A RİZE",
+   "phone": "0464 212 0690",
+   "dutyStart": "2026-11-21T08:00:00+03:00",
    "dutyEnd": "2026-11-21T18:00:00+03:00",
    "approved": true,
-   "lat": 41.024445,
-   "lng": 40.519466
+   "lat": 41.024906,
+   "lng": 40.520691
   },
   {
    "district": "Merkez",
-   "name": "Gülbahar Eczanesi",
-   "address": "GÜLBAHAR MAHALLESİ ŞEHİT OKTAY TÜRÜT SOKAK 9/B",
-   "phone": "0464 253 0717",
-   "dutyStart": "2026-11-20T18:00:00+03:00",
-   "dutyEnd": "2026-11-21T08:00:00+03:00",
+   "name": "Haşimoğlu Eczanesi",
+   "address": "İSLAMPAŞA MAHALLESİ ŞEHİTLER CADDESİ TOPÇU APARTMANI NO:16 RİZE",
+   "phone": "0464 217 4860",
+   "dutyStart": "2026-11-21T08:00:00+03:00",
+   "dutyEnd": "2026-11-22T08:00:00+03:00",
    "approved": true,
-   "lat": 41.02536,
-   "lng": 40.541603
+   "lat": 41.038635,
+   "lng": 40.573135
+  },
+  {
+   "district": "Merkez",
+   "name": "Ömür Eczanesi",
+   "address": "EMİNETTİN MAHALLESİ CUMHURİYET CADDESİ NO:78/C",
+   "phone": "0464 214 2255",
+   "dutyStart": "2026-11-21T08:00:00+03:00",
+   "dutyEnd": "2026-11-22T08:00:00+03:00",
+   "approved": true,
+   "lat": 41.030121,
+   "lng": 40.513371
+  },
+  {
+   "district": "Merkez",
+   "name": "Serkan Eczanesi",
+   "address": "EMİNETTİN MAH.ATATÜRK CAD.NO:288/C",
+   "phone": "0464 213 2626",
+   "dutyStart": "2026-11-21T08:00:00+03:00",
+   "dutyEnd": "2026-11-21T18:00:00+03:00",
+   "approved": true,
+   "lat": 41.027843,
+   "lng": 40.513973
   },
   {
    "district": "Pazar",
-   "name": "Pazar Eczanesi",
-   "address": "BULVAR CADDESİ NO:19",
-   "phone": "0464 612 1991",
-   "dutyStart": "2026-11-20T18:00:00+03:00",
-   "dutyEnd": "2026-11-21T08:00:00+03:00",
+   "name": "Karadeniz Eczanesi",
+   "address": "PAZAR MAHALLESİ ATATÜRK CADDESİ NO:2",
+   "phone": "0464 612 5331",
+   "dutyStart": "2026-11-21T08:00:00+03:00",
+   "dutyEnd": "2026-11-22T08:00:00+03:00",
    "approved": true,
-   "lat": 41.180569,
-   "lng": 40.887741
+   "lat": 41.180275,
+   "lng": 40.887234
   }
  ]
 }

@@ -1,86 +1,97 @@
 {
  "city": "Bitlis",
  "code": 13,
- "dutyDay": "2026-11-20",
- "updatedAt": "2026-11-20T15:22:43.965Z",
+ "dutyDay": "2026-11-21",
+ "updatedAt": "2026-11-21T14:35:54.561Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Adilcevaz",
-   "name": "Mavi Eczanesi",
-   "address": "ATATÜRK MAH. KARAVELİ CAD. NO:27/2",
-   "phone": "0434 311 4078",
-   "dutyStart": "2026-11-20T18:00:00+03:00",
-   "dutyEnd": "2026-11-21T08:30:00+03:00",
+   "name": "Bulvar Eczanesi",
+   "address": "ÇAYIR MAH. CUMHURİYET CAD. NO:276E",
+   "phone": "0533 468 4210",
+   "dutyStart": "2026-11-21T08:30:00+03:00",
+   "dutyEnd": "2026-11-22T08:30:00+03:00",
    "approved": true,
-   "lat": 38.800644,
-   "lng": 42.763748
+   "lat": 38.804829,
+   "lng": 42.736679
+  },
+  {
+   "district": "Ahlat",
+   "name": "Ahlat Şifa Eczanesi",
+   "address": "Selçuklu Mah. Prof.Dr.Haluk Dursun Sokak No:4 İç Kapı No:31",
+   "phone": "0552 473 9313",
+   "dutyStart": "2026-11-21T08:30:00+03:00",
+   "dutyEnd": "2026-11-22T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.748852,
+   "lng": 42.476566
   },
   {
    "district": "Güroymak",
-   "name": "Emek Eczanesi",
-   "address": "MUŞ CAD. NO :24/A Güroymak/BİTLİS",
-   "phone": "0434 511 2150",
-   "dutyStart": "2026-11-20T17:30:00+03:00",
-   "dutyEnd": "2026-11-21T08:00:00+03:00",
+   "name": "Halk Eczanesi",
+   "address": "ŞİRİNTEPE MAH. 142. SOK. NO:10/C Güroymak/BİTLİS",
+   "phone": "0434 511 3040",
+   "dutyStart": "2026-11-21T08:00:00+03:00",
+   "dutyEnd": "2026-11-22T08:00:00+03:00",
    "approved": true,
-   "lat": 38.577358,
-   "lng": 42.019081
+   "lat": 38.567612,
+   "lng": 42.051487
   },
   {
    "district": "Hizan",
-   "name": "Eylül Eczanesi",
-   "address": "KÜLTÜR MAH. FARUK BEKARLAR CAD. NO:26/D Hizan/ BİTLİS",
-   "phone": "0434 611 1248",
-   "dutyStart": "2026-11-20T18:00:00+03:00",
-   "dutyEnd": "2026-11-21T08:00:00+03:00",
+   "name": "Sağlık Eczanesi",
+   "address": "Kültür Mah. Farukbekarlar Cad. No:3/E Hizan/BİTLİS",
+   "phone": "0546 921 3413",
+   "dutyStart": "2026-11-21T08:00:00+03:00",
+   "dutyEnd": "2026-11-22T08:00:00+03:00",
    "approved": true,
-   "lat": 38.225346,
-   "lng": 42.426582
+   "lat": 38.225128,
+   "lng": 42.428188
   },
   {
    "district": "Merkez",
-   "name": "Eren Eczanesi",
-   "address": "BEŞ MİNARE MAH. AHMET EREN BULVARI 150/D MERKEZ/BİTLİS",
-   "phone": "0434 246 8636",
-   "dutyStart": "2026-11-20T18:00:00+03:00",
-   "dutyEnd": "2026-11-21T08:00:00+03:00",
+   "name": "Zümrüt Eczanesi",
+   "address": "HÜSREVPAŞA MAH. AHMET EREN BULVARI B BLOK APARTMAN NO: 101D MERKEZ/BİTLİS",
+   "phone": "0434 502 0646",
+   "dutyStart": "2026-11-21T08:00:00+03:00",
+   "dutyEnd": "2026-11-22T08:00:00+03:00",
    "approved": true,
-   "lat": 38.443165,
-   "lng": 42.142021
+   "lat": 38.432907,
+   "lng": 42.133747
   },
   {
    "district": "Mutki",
-   "name": "Can Eczanesi",
-   "address": "PINARBAŞI MAH.ZEKİ ERGEZEN CAD.NO:29/C Mutki/BİTLİS",
-   "phone": "0434 611 2122",
-   "dutyStart": "2026-11-20T18:00:00+03:00",
-   "dutyEnd": "2026-11-21T08:00:00+03:00",
+   "name": "Deva Eczanesi",
+   "address": "Yeni Mahalle Kiler Caddesi No:12E",
+   "phone": "0545 371 5329",
+   "dutyStart": "2026-11-21T08:00:00+03:00",
+   "dutyEnd": "2026-11-22T18:00:00+03:00",
    "approved": true,
-   "lat": 38.409554,
-   "lng": 41.921783
+   "lat": 38.407749,
+   "lng": 41.925999
   },
   {
    "district": "Tatvan",
-   "name": "Hizan Gizem Eczanesi",
-   "address": "TUĞ MAH. CUM CAD. NO:254/A",
-   "phone": "0434 827 2811",
-   "dutyStart": "2026-11-20T18:00:00+03:00",
-   "dutyEnd": "2026-11-21T08:30:00+03:00",
+   "name": "Altindal Eczanesi",
+   "address": "Karşıyaka Mah. Hastane Cad. No:20/B TATVAN/BİTLİS",
+   "phone": "0434 829 1381",
+   "dutyStart": "2026-11-21T08:30:00+03:00",
+   "dutyEnd": "2026-11-22T08:30:00+03:00",
    "approved": true,
-   "lat": 38.492153,
-   "lng": 42.288315
+   "lat": 38.491356,
+   "lng": 42.186489
   },
   {
    "district": "Tatvan",
-   "name": "Su Eczanesi",
-   "address": "Karşıyaka Mah. Hastane Cad. Sağlık No:20/F TATVAN/BİTLİS",
-   "phone": "0434 829 1385",
-   "dutyStart": "2026-11-20T18:00:00+03:00",
-   "dutyEnd": "2026-11-21T08:30:00+03:00",
+   "name": "İhlamur Eczanesi",
+   "address": "Aydınlar Mahallesi Lise Caddesi No:6",
+   "phone": "0434 827 7674",
+   "dutyStart": "2026-11-21T08:30:00+03:00",
+   "dutyEnd": "2026-11-22T08:30:00+03:00",
    "approved": true,
-   "lat": 38.491272,
-   "lng": 42.18634
+   "lat": 38.495834,
+   "lng": 42.283546
   }
  ]
 }
