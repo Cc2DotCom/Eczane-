@@ -2,20 +2,9 @@
  "city": "Kayseri",
  "code": 38,
  "dutyDay": "2026-11-22",
- "updatedAt": "2026-11-22T14:32:21.086Z",
+ "updatedAt": "2026-11-22T17:06:23.124Z",
  "source": "Kayseri Eczacı Odası",
  "pharmacies": [
-  {
-   "district": "Kocasinan",
-   "name": "Nilüfer Eczanesi",
-   "address": "Gevher Nesibe Mahallesi, Atatürk Bulvarı 106/B",
-   "phone": "03522222659",
-   "dutyStart": "2026-11-22T08:30:00+03:00",
-   "dutyEnd": "2026-11-23T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.727909,
-   "lng": 35.479462
-  },
   {
    "district": "Kocasinan",
    "name": "Aslim Eczanesi",
@@ -26,6 +15,17 @@
    "approved": true,
    "lat": 38.769752,
    "lng": 35.41319
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Tepe Eczanesi",
+   "address": "TACETTIN VELI MAH. LALEZADE CAD.45/B",
+   "phone": "03522229014",
+   "dutyStart": "2026-11-22T08:30:00+03:00",
+   "dutyEnd": "2026-11-23T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.713473,
+   "lng": 35.49476
   },
   {
    "district": "Melikgazi",
@@ -50,37 +50,15 @@
    "lng": 35.481343
   },
   {
-   "district": "Melikgazi",
-   "name": "Tepe Eczanesi",
-   "address": "TACETTIN VELI MAH. LALEZADE CAD.45/B",
-   "phone": "03522229014",
+   "district": "Kocasinan",
+   "name": "Nilüfer Eczanesi",
+   "address": "Gevher Nesibe Mahallesi, Atatürk Bulvarı 106/B",
+   "phone": "03522222659",
    "dutyStart": "2026-11-22T08:30:00+03:00",
    "dutyEnd": "2026-11-23T08:30:00+03:00",
    "approved": true,
-   "lat": 38.713473,
-   "lng": 35.49476
-  },
-  {
-   "district": "Kocasinan",
-   "name": "Aybüke Eczanesi",
-   "address": "Fevzi Çakmak Mah. Yeşilırmak Cad. 25/B Kocasinan/Kayseri",
-   "phone": "03522334875",
-   "dutyStart": "2026-11-22T08:30:00+03:00",
-   "dutyEnd": "2026-11-23T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.731354,
-   "lng": 35.501557
-  },
-  {
-   "district": "Talas",
-   "name": "Yekta Eczanesi",
-   "address": "Mevlana Mh. Papatya Cd. 53/1-53/1A",
-   "phone": "03522361968",
-   "dutyStart": "2026-11-22T08:30:00+03:00",
-   "dutyEnd": "2026-11-23T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.709058,
-   "lng": 35.567692
+   "lat": 38.727909,
+   "lng": 35.479462
   },
   {
    "district": "Melikgazi",
@@ -94,28 +72,6 @@
    "lng": 35.544921
   },
   {
-   "district": "Talas",
-   "name": "Çakmak Eczanesi",
-   "address": "KIÇIKÖY MAH. ATATÜRK BULVARI NO: 4/I",
-   "phone": "3524373356",
-   "dutyStart": "2026-11-22T08:30:00+03:00",
-   "dutyEnd": "2026-11-23T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.692582,
-   "lng": 35.550733
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Yeni Hilal Eczanesi",
-   "address": "OSMANLI MAH. EDIP GEÇIDI 11/B",
-   "phone": "03523470102",
-   "dutyStart": "2026-11-22T08:30:00+03:00",
-   "dutyEnd": "2026-11-23T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.689571,
-   "lng": 35.475777
-  },
-  {
    "district": "Kocasinan",
    "name": "Yeni Doğumevi Eczanesi",
    "address": "MEVLANA MH.M.KEMAL PASA BUL.N0:93/A",
@@ -125,17 +81,6 @@
    "approved": true,
    "lat": 38.739545,
    "lng": 35.490692
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Hipokrat Eczanesi",
-   "address": "SELIMIYE MH. ORTAHİSAR SOK. N0:11",
-   "phone": "03523272896",
-   "dutyStart": "2026-11-22T08:30:00+03:00",
-   "dutyEnd": "2026-11-23T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.746045,
-   "lng": 35.393018
   },
   {
    "district": "Kocasinan",
@@ -150,6 +95,50 @@
   },
   {
    "district": "Melikgazi",
+   "name": "Hipokrat Eczanesi",
+   "address": "SELIMIYE MH. ORTAHİSAR SOK. N0:11",
+   "phone": "03523272896",
+   "dutyStart": "2026-11-22T08:30:00+03:00",
+   "dutyEnd": "2026-11-23T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.746045,
+   "lng": 35.393018
+  },
+  {
+   "district": "Talas",
+   "name": "Yekta Eczanesi",
+   "address": "Mevlana Mh. Papatya Cd. 53/1-53/1A",
+   "phone": "03522361968",
+   "dutyStart": "2026-11-22T08:30:00+03:00",
+   "dutyEnd": "2026-11-23T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.709058,
+   "lng": 35.567692
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Yeni Hilal Eczanesi",
+   "address": "OSMANLI MAH. EDIP GEÇIDI 11/B",
+   "phone": "03523470102",
+   "dutyStart": "2026-11-22T08:30:00+03:00",
+   "dutyEnd": "2026-11-23T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.689571,
+   "lng": 35.475777
+  },
+  {
+   "district": "Talas",
+   "name": "Çakmak Eczanesi",
+   "address": "KIÇIKÖY MAH. ATATÜRK BULVARI NO: 4/I",
+   "phone": "3524373356",
+   "dutyStart": "2026-11-22T08:30:00+03:00",
+   "dutyEnd": "2026-11-23T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.692582,
+   "lng": 35.550733
+  },
+  {
+   "district": "Melikgazi",
    "name": "Neslihan Eczanesi",
    "address": "KÖŞK MAH.TUNCA SOK.NO:12/D",
    "phone": "03522372352",
@@ -158,6 +147,17 @@
    "approved": true,
    "lat": 38.723527,
    "lng": 35.517922
+  },
+  {
+   "district": "Kocasinan",
+   "name": "Aybüke Eczanesi",
+   "address": "Fevzi Çakmak Mah. Yeşilırmak Cad. 25/B Kocasinan/Kayseri",
+   "phone": "03522334875",
+   "dutyStart": "2026-11-22T08:30:00+03:00",
+   "dutyEnd": "2026-11-23T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.731354,
+   "lng": 35.501557
   }
  ],
  "sourceUrl": "https://www.kayserieo.org.tr/nobetci-eczaneler"

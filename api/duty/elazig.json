@@ -1,8 +1,8 @@
 {
  "city": "Elazığ",
  "code": 23,
- "dutyDay": "2026-11-21",
- "updatedAt": "2026-11-21T21:41:57.323Z",
+ "dutyDay": "2026-11-22",
+ "updatedAt": "2026-11-22T17:06:05.755Z",
  "source": "e-Devlet TİTCK, Elazığ Eczacı Odası",
  "pharmacies": [
   {
@@ -62,47 +62,47 @@
   },
   {
    "district": "Karakoçan",
-   "name": "Nazli Eczanesi",
-   "address": "yeni mahalle cumhuriyet caddesi no:5 Karakoçan/Elazığ YENİ MAH.CUMHURİYET CAD.NO:5",
-   "phone": "05063377195",
+   "name": "Karakoçan Eczanesi",
+   "address": "YENI MAH. CARSI CAD. NO:62",
+   "phone": "04247113328",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.955112,
-   "lng": 40.037725
+   "lat": 38.955172,
+   "lng": 40.036909
   },
   {
    "district": "Keban",
-   "name": "Taşkın Eczanesi",
-   "address": "DEĞİRMENBAŞI MAH.GENERAL POLAT HAŞİMOV CAD. NO:10",
-   "phone": "04245712525",
+   "name": "Keban Eczanesi",
+   "address": "DEĞİRMENBAŞI MAH. ŞEHİT GENERAL POLAT HAŞİMOV CAD.NO:299",
+   "phone": "04245712300",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.793133,
-   "lng": 38.74563
+   "lat": 38.793201,
+   "lng": 38.745569
   },
   {
    "district": "Kovancilar",
-   "name": "Yildirim Eczanesi",
-   "address": "ÇARŞIBAŞI MAH. İLHAMİ ERTEM CAD. NO:12",
-   "phone": "04246112002",
+   "name": "Furkan Eczanesi",
+   "address": "TUNA MAH.SAĞLIK CAD. NO:46/A",
+   "phone": "04246114133",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.718633,
-   "lng": 39.865911
+   "lat": 38.721617,
+   "lng": 39.865111
   },
   {
    "district": "Palu",
-   "name": "Yaşam Eczanesi",
-   "address": "KALEKENT MAH.ŞEHYŞAMİL BLV.NO:3/D",
-   "phone": "04245036934",
+   "name": "Palu Eczanesi",
+   "address": "NUMUNE MAH.CUMHURİYET BLV.NO:16",
+   "phone": "04246512040",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.693789,
-   "lng": 39.914233
+   "lat": 38.693169,
+   "lng": 39.927802
   }
  ],
  "sourceUrl": "https://www.elazigeczaciodasi.org.tr/nobetci-eczaneler/elazig"
