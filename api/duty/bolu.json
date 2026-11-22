@@ -1,86 +1,97 @@
 {
  "city": "Bolu",
  "code": 14,
- "dutyDay": "2026-11-21",
- "updatedAt": "2026-11-21T14:35:57.641Z",
+ "dutyDay": "2026-11-22",
+ "updatedAt": "2026-11-22T14:30:15.415Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Gerede",
-   "name": "Hayat Eczanesi",
-   "address": "KİTİRLER MAH.ATATÜRK BULVARI NO:14",
-   "phone": "0374 311 2455",
-   "dutyStart": "2026-11-21T18:00:00+03:00",
-   "dutyEnd": "2026-11-22T08:00:00+03:00",
+   "name": "Derman Eczanesi",
+   "address": "SEVİLLER MAH. SAKARYA CAD. NO:53/B",
+   "phone": "0374 311 3003",
+   "dutyStart": "2026-11-22T08:00:00+03:00",
+   "dutyEnd": "2026-11-23T08:00:00+03:00",
    "approved": true,
-   "lat": 40.800999,
-   "lng": 32.195351
+   "lat": 40.798916,
+   "lng": 32.192093
   },
   {
    "district": "Göynük",
-   "name": "Göynük Eczanesi",
-   "address": "YENİCE MH. PROF.DR.NECMETTİN ERBAKAN CAD. NO:36/A",
-   "phone": "0374 451 6181",
-   "dutyStart": "2026-11-21T18:30:00+03:00",
-   "dutyEnd": "2026-11-22T08:30:00+03:00",
+   "name": "Şifa Eczanesi",
+   "address": "YENİCE MAH.SELİM ÇAPAR CAD.NO:8/B",
+   "phone": "0374 451 2340",
+   "dutyStart": "2026-11-22T08:30:00+03:00",
+   "dutyEnd": "2026-11-23T08:30:00+03:00",
    "approved": true,
-   "lat": 40.398647,
-   "lng": 30.78463
+   "lat": 40.398346,
+   "lng": 30.783699
   },
   {
    "district": "Mengen",
-   "name": "Emir Eczanesi",
-   "address": "TÜRKBEYLİ MAHALLESİ, MUSTAFA KÖRPEOĞLU CADDESİ NO:29-MENGEN",
-   "phone": "0374 356 3536",
-   "dutyStart": "2026-11-21T18:00:00+03:00",
-   "dutyEnd": "2026-11-22T08:00:00+03:00",
+   "name": "Mengen Eczanesi",
+   "address": "TÜRKBEYLİ MAH.ATATÜRK CAD.NO:24/A",
+   "phone": "0374 356 1205",
+   "dutyStart": "2026-11-22T08:00:00+03:00",
+   "dutyEnd": "2026-11-23T08:00:00+03:00",
    "approved": true,
-   "lat": 40.946377,
-   "lng": 32.075371
+   "lat": 40.938965,
+   "lng": 32.075443
   },
   {
    "district": "Merkez",
-   "name": "Örnekbaş Eczanesi",
-   "address": "Beşkavaklar Mah.Necdet Gören Cad.Yardemir Konutları No.18/A B Blok. 13C",
-   "phone": "0374 220 1010",
-   "dutyStart": "2026-11-21T18:00:00+03:00",
-   "dutyEnd": "2026-11-22T08:00:00+03:00",
+   "name": "Deva Eczanesi",
+   "address": "BORAZANLAR MAHALLESİ MEHMET AKİF ERSOY BULVARI NO.50/A",
+   "phone": "0554 727 4937",
+   "dutyStart": "2026-11-22T08:00:00+03:00",
+   "dutyEnd": "2026-11-23T08:00:00+03:00",
    "approved": true,
-   "lat": 40.73864,
-   "lng": 31.590622
+   "lat": 40.728428,
+   "lng": 31.588982
   },
   {
    "district": "Merkez",
-   "name": "Sümer Eczanesi",
-   "address": "SÜMER MAH.CUMHURİYET CAD. 76/10",
-   "phone": "0374 215 9238",
-   "dutyStart": "2026-11-21T18:00:00+03:00",
-   "dutyEnd": "2026-11-22T08:00:00+03:00",
+   "name": "Nane Limon Eczanesi",
+   "address": "Kültür Mah. Şehitler Cad. No:29/1",
+   "phone": "0374 275 1314",
+   "dutyStart": "2026-11-22T08:00:00+03:00",
+   "dutyEnd": "2026-11-23T08:00:00+03:00",
    "approved": true,
-   "lat": 40.727123,
-   "lng": 31.595264
+   "lat": 40.742657,
+   "lng": 31.607653
+  },
+  {
+   "district": "Merkez",
+   "name": "Ural Eczanesi",
+   "address": "TABAKLAR MAH. MAZHAR MURTEZAOĞLU CAD. NO:21/A",
+   "phone": "0374 212 5499",
+   "dutyStart": "2026-11-22T08:00:00+03:00",
+   "dutyEnd": "2026-11-23T08:00:00+03:00",
+   "approved": true,
+   "lat": 40.733078,
+   "lng": 31.602444
   },
   {
    "district": "Mudurnu",
-   "name": "Beyza Eczanesi",
-   "address": "Seyrancık Mah. Belediye Cd. No:1/C",
-   "phone": "0374 421 3270",
-   "dutyStart": "2026-11-21T18:00:00+03:00",
-   "dutyEnd": "2026-11-22T08:00:00+03:00",
+   "name": "Meydan Eczanesi",
+   "address": "Seyrancık Mah. Bolu Cd. No:3/A",
+   "phone": "0535 038 8114",
+   "dutyStart": "2026-11-22T18:00:00+03:00",
+   "dutyEnd": "2026-11-23T08:00:00+03:00",
    "approved": true,
-   "lat": 40.465969,
-   "lng": 31.212126
+   "lat": 40.466358,
+   "lng": 31.211042
   },
   {
    "district": "Yeniçağa",
-   "name": "Ebrar Eczanesi",
-   "address": "ASİLBEY MAH.SULTAN REŞAT CAD.NO.90",
-   "phone": "0374 356 3536",
-   "dutyStart": "2026-11-21T18:00:00+03:00",
-   "dutyEnd": "2026-11-22T08:00:00+03:00",
+   "name": "Ayçiçeği Eczanesi",
+   "address": "ASİLBEY MAH.SULTAN REŞAT CAD.NO:82/D",
+   "phone": "0374 341 3341",
+   "dutyStart": "2026-11-22T08:00:00+03:00",
+   "dutyEnd": "2026-11-23T08:00:00+03:00",
    "approved": true,
-   "lat": 40.770836,
-   "lng": 32.032257
+   "lat": 40.770962,
+   "lng": 32.032867
   }
  ]
 }

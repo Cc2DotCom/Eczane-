@@ -1,97 +1,75 @@
 {
  "city": "Rize",
  "code": 53,
- "dutyDay": "2026-11-21",
- "updatedAt": "2026-11-21T14:39:08.057Z",
+ "dutyDay": "2026-11-22",
+ "updatedAt": "2026-11-22T14:33:16.173Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Ardeşen",
-   "name": "Sevim Eczanesi",
-   "address": "MERKEZ MAHALLESİ ATATÜRK CADDESİ NO:124/A ARDEŞEN/RİZE",
-   "phone": "0464 715 1583",
-   "dutyStart": "2026-11-21T08:00:00+03:00",
-   "dutyEnd": "2026-11-22T08:00:00+03:00",
+   "name": "Şifa Eczanesi",
+   "address": "MERKEZ MAHALLESİ ATATÜRK CADDESİ NO:177-179/C",
+   "phone": "0464 715 1965",
+   "dutyStart": "2026-11-22T08:00:00+03:00",
+   "dutyEnd": "2026-11-23T08:00:00+03:00",
    "approved": true,
-   "lat": 41.192486,
-   "lng": 40.992542
+   "lat": 41.192474,
+   "lng": 40.99374
   },
   {
    "district": "Çayeli",
-   "name": "Şifa Eczanesi",
-   "address": "Yenipazar Mahallesi Hastane Sokak Kibar Apartmanı No:2/B",
-   "phone": "0464 532 6670",
-   "dutyStart": "2026-11-21T08:00:00+03:00",
-   "dutyEnd": "2026-11-22T08:00:00+03:00",
+   "name": "Ağaran Eczanesi",
+   "address": "ESKİPAZAR MAH. YUSUF ZİYA KURÇENLİ CAD. NO:21/A",
+   "phone": "0464 550 5153",
+   "dutyStart": "2026-11-22T08:00:00+03:00",
+   "dutyEnd": "2026-11-23T08:00:00+03:00",
    "approved": true,
-   "lat": 41.090294,
-   "lng": 40.726231
+   "lat": 41.083382,
+   "lng": 40.725876
   },
   {
    "district": "Fındıklı",
    "name": "Halk Eczanesi",
    "address": "MERKEZ MAHALLESİ 2.CADDE NO:72",
    "phone": "0464 511 3151",
-   "dutyStart": "2026-11-21T08:00:00+03:00",
-   "dutyEnd": "2026-11-22T08:00:00+03:00",
+   "dutyStart": "2026-11-22T08:00:00+03:00",
+   "dutyEnd": "2026-11-23T08:00:00+03:00",
    "approved": true,
    "lat": 41.271988,
    "lng": 41.141762
   },
   {
    "district": "Merkez",
-   "name": "Bilsel Eczanesi",
-   "address": "CUMHURİYET CADDESİ NO:171/A RİZE",
-   "phone": "0464 212 0690",
-   "dutyStart": "2026-11-21T08:00:00+03:00",
-   "dutyEnd": "2026-11-21T18:00:00+03:00",
+   "name": "İmren Eczanesi",
+   "address": "Piriçelebi Mahallesi Atatürk Caddesi No:336/B",
+   "phone": "0464 213 0994",
+   "dutyStart": "2026-11-22T08:00:00+03:00",
+   "dutyEnd": "2026-11-23T08:00:00+03:00",
    "approved": true,
-   "lat": 41.024906,
-   "lng": 40.520691
+   "lat": 41.02552,
+   "lng": 40.515648
   },
   {
    "district": "Merkez",
-   "name": "Haşimoğlu Eczanesi",
-   "address": "İSLAMPAŞA MAHALLESİ ŞEHİTLER CADDESİ TOPÇU APARTMANI NO:16 RİZE",
-   "phone": "0464 217 4860",
-   "dutyStart": "2026-11-21T08:00:00+03:00",
-   "dutyEnd": "2026-11-22T08:00:00+03:00",
+   "name": "Usta Eczanesi",
+   "address": "İSLAMPAŞA MAH. 2 NO'LU ŞEHİTLİK CAD.NO:47/C",
+   "phone": "0464 214 2144",
+   "dutyStart": "2026-11-22T08:00:00+03:00",
+   "dutyEnd": "2026-11-23T08:00:00+03:00",
    "approved": true,
-   "lat": 41.038635,
-   "lng": 40.573135
-  },
-  {
-   "district": "Merkez",
-   "name": "Ömür Eczanesi",
-   "address": "EMİNETTİN MAHALLESİ CUMHURİYET CADDESİ NO:78/C",
-   "phone": "0464 214 2255",
-   "dutyStart": "2026-11-21T08:00:00+03:00",
-   "dutyEnd": "2026-11-22T08:00:00+03:00",
-   "approved": true,
-   "lat": 41.030121,
-   "lng": 40.513371
-  },
-  {
-   "district": "Merkez",
-   "name": "Serkan Eczanesi",
-   "address": "EMİNETTİN MAH.ATATÜRK CAD.NO:288/C",
-   "phone": "0464 213 2626",
-   "dutyStart": "2026-11-21T08:00:00+03:00",
-   "dutyEnd": "2026-11-21T18:00:00+03:00",
-   "approved": true,
-   "lat": 41.027843,
-   "lng": 40.513973
+   "lat": 41.038326,
+   "lng": 40.572781
   },
   {
    "district": "Pazar",
-   "name": "Karadeniz Eczanesi",
-   "address": "PAZAR MAHALLESİ ATATÜRK CADDESİ NO:2",
-   "phone": "0464 612 5331",
-   "dutyStart": "2026-11-21T08:00:00+03:00",
-   "dutyEnd": "2026-11-22T08:00:00+03:00",
+   "name": "Kaçkar Eczanesi",
+   "address": "HAMİDİYE MAH. KARADENİZ CAD. KAÇKAR SOK. NO:40/C",
+   "phone": "0464 623 5545",
+   "dutyStart": "2026-11-22T08:00:00+03:00",
+   "dutyEnd": "2026-11-23T08:00:00+03:00",
    "approved": true,
-   "lat": 41.180275,
-   "lng": 40.887234
+   "lat": 41.179176,
+   "lng": 40.944351
   }
  ]
 }

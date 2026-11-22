@@ -1,8 +1,8 @@
 {
  "city": "Kırşehir",
  "code": 40,
- "dutyDay": "2026-11-21",
- "updatedAt": "2026-11-21T21:42:15.673Z",
+ "dutyDay": "2026-11-22",
+ "updatedAt": "2026-11-22T14:32:25.825Z",
  "source": "e-Devlet TİTCK, Aksaray-Kırşehir Eczacı Odası",
  "pharmacies": [
   {
@@ -29,14 +29,14 @@
   },
   {
    "district": "Kaman",
-   "name": "Emrah Eczanesi",
-   "address": "CUMHURIYET MEYDANI NO:17 KAMAN",
-   "phone": "03867126002",
+   "name": "Aran Eczanesi",
+   "address": "ISTIKLAL CAD. NO:1",
+   "phone": "3867128191",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.35845,
-   "lng": 33.724499
+   "lat": 39.357669,
+   "lng": 33.724608
   },
   {
    "district": "Mucur",

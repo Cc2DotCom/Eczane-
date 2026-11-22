@@ -1,64 +1,53 @@
 {
  "city": "Hakkari",
  "code": 30,
- "dutyDay": "2026-11-21",
- "updatedAt": "2026-11-21T21:42:07.682Z",
+ "dutyDay": "2026-11-22",
+ "updatedAt": "2026-11-22T14:31:12.968Z",
  "source": "Van Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "İkizler Eczanesi",
-   "address": "Pehlivan Mah.Bulvar Cad.Hadi Besi İşhanı No:2",
-   "phone": "04382114976",
+   "name": "Güleryüz Eczanesi",
+   "address": "PEHLİVAN MAH. ÇÖLEMERİK CADDESİ NO:1c",
+   "phone": "04385021719",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.577897,
-   "lng": 43.734857
+   "lat": 37.578018,
+   "lng": 43.733753
   },
   {
    "district": "Yüksekova",
-   "name": "Su Eczanesi",
-   "address": "Büyük Cami Çaprazı Eczaneler Sokağı Emniyet İlçe Müdürlüğü Yanı Çarşı Merkez",
-   "phone": "04383514443",
+   "name": "Şalvacı Eczanesi",
+   "address": "YENİ MAH.DAĞLICA CAD.NO:48/C",
+   "phone": "04383510022",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.57157,
-   "lng": 44.281684
-  },
-  {
-   "district": "Yüksekova",
-   "name": "Özdemir Eczanesi",
-   "address": "HÜKÜMET KONAĞI KARŞISI ESENYURT MAH.1.BÖLGE 1.ETAP MZERALIK TOKİ KONUTLARI CAD.NO:13D",
-   "phone": "05453342775",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 37.573574,
-   "lng": 44.256511
+   "lat": 37.560045,
+   "lng": 44.270362
   },
   {
    "district": "Şemdinli",
-   "name": "Nehr-i Eczanesi",
-   "address": "KARŞIYAKA MAH. CUMHURİYET CADDESİ NO:153/B",
-   "phone": "04384113041",
+   "name": "Şemdinli Eczanesi",
+   "address": "Karşıyaka Mah. Çevreyolu Cad.No:5/C",
+   "phone": "05461501130",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.309234,
-   "lng": 44.569724
+   "lat": 37.308407,
+   "lng": 44.570159
   },
   {
    "district": "Şemdinli",
-   "name": "Bahar Eczanesi",
-   "address": "MERKEZ MAH. VATAN CAD.NO:17/A",
-   "phone": "04384613122",
+   "name": "Aki Eczanesi",
+   "address": "MERKEZ MAH. VATAN CADDESİ NO:12/A",
+   "phone": "04384613320",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.306194,
-   "lng": 44.573294
+   "lat": 37.080915,
+   "lng": 44.310193
   }
  ],
  "sourceUrl": "https://www.vaneczaciodasi.org.tr/nobetci-eczaneler"
