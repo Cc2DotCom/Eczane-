@@ -2,31 +2,9 @@
  "city": "Kayseri",
  "code": 38,
  "dutyDay": "2026-11-22",
- "updatedAt": "2026-11-22T20:22:48.290Z",
+ "updatedAt": "2026-11-22T21:52:08.507Z",
  "source": "Kayseri Eczacı Odası",
  "pharmacies": [
-  {
-   "district": "Melikgazi",
-   "name": "Şubat Eczanesi",
-   "address": "Bahçelievler Mahallesi, 2153. Sokak, 17/2",
-   "phone": "05065990117",
-   "dutyStart": "2026-11-22T08:30:00+03:00",
-   "dutyEnd": "2026-11-23T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.766318,
-   "lng": 35.584466
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Tepe Eczanesi",
-   "address": "TACETTIN VELI MAH. LALEZADE CAD.45/B",
-   "phone": "03522229014",
-   "dutyStart": "2026-11-22T08:30:00+03:00",
-   "dutyEnd": "2026-11-23T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.713473,
-   "lng": 35.49476
-  },
   {
    "district": "Kocasinan",
    "name": "Soylu Eczanesi",
@@ -62,14 +40,25 @@
   },
   {
    "district": "Melikgazi",
-   "name": "Yeni Hilal Eczanesi",
-   "address": "OSMANLI MAH. EDIP GEÇIDI 11/B",
-   "phone": "03523470102",
+   "name": "Şubat Eczanesi",
+   "address": "Bahçelievler Mahallesi, 2153. Sokak, 17/2",
+   "phone": "05065990117",
    "dutyStart": "2026-11-22T08:30:00+03:00",
-   "dutyEnd": "2026-11-23T01:00:00+03:00",
+   "dutyEnd": "2026-11-23T08:30:00+03:00",
    "approved": true,
-   "lat": 38.689571,
-   "lng": 35.475777
+   "lat": 38.766318,
+   "lng": 35.584466
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Tepe Eczanesi",
+   "address": "TACETTIN VELI MAH. LALEZADE CAD.45/B",
+   "phone": "03522229014",
+   "dutyStart": "2026-11-22T08:30:00+03:00",
+   "dutyEnd": "2026-11-23T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.713473,
+   "lng": 35.49476
   },
   {
    "district": "Melikgazi",
@@ -81,6 +70,28 @@
    "approved": true,
    "lat": 38.746045,
    "lng": 35.393018
+  },
+  {
+   "district": "Kocasinan",
+   "name": "İstasyon Eczanesi",
+   "address": "SAHABİYE MAH. İSTASON CAD. NO :32/A",
+   "phone": "03522406573",
+   "dutyStart": "2026-11-22T08:30:00+03:00",
+   "dutyEnd": "2026-11-23T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.727111,
+   "lng": 35.484848
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Aile Eczanesi",
+   "address": "YILDIRIM BEYAZIT MAH. SUNAY SOK. NO :13/B",
+   "phone": "05388681684",
+   "dutyStart": "2026-11-22T08:30:00+03:00",
+   "dutyEnd": "2026-11-23T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.731114,
+   "lng": 35.544921
   },
   {
    "district": "Kocasinan",
@@ -105,28 +116,6 @@
    "lng": 35.501557
   },
   {
-   "district": "Kocasinan",
-   "name": "İstasyon Eczanesi",
-   "address": "SAHABİYE MAH. İSTASON CAD. NO :32/A",
-   "phone": "03522406573",
-   "dutyStart": "2026-11-22T08:30:00+03:00",
-   "dutyEnd": "2026-11-23T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.727111,
-   "lng": 35.484848
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Neslihan Eczanesi",
-   "address": "KÖŞK MAH.TUNCA SOK.NO:12/D",
-   "phone": "03522372352",
-   "dutyStart": "2026-11-22T08:30:00+03:00",
-   "dutyEnd": "2026-11-23T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.723527,
-   "lng": 35.517922
-  },
-  {
    "district": "Talas",
    "name": "Çakmak Eczanesi",
    "address": "KIÇIKÖY MAH. ATATÜRK BULVARI NO: 4/I",
@@ -139,14 +128,25 @@
   },
   {
    "district": "Melikgazi",
-   "name": "Aile Eczanesi",
-   "address": "YILDIRIM BEYAZIT MAH. SUNAY SOK. NO :13/B",
-   "phone": "05388681684",
+   "name": "Yeni Hilal Eczanesi",
+   "address": "OSMANLI MAH. EDIP GEÇIDI 11/B",
+   "phone": "03523470102",
    "dutyStart": "2026-11-22T08:30:00+03:00",
    "dutyEnd": "2026-11-23T01:00:00+03:00",
    "approved": true,
-   "lat": 38.731114,
-   "lng": 35.544921
+   "lat": 38.689571,
+   "lng": 35.475777
+  },
+  {
+   "district": "Melikgazi",
+   "name": "Neslihan Eczanesi",
+   "address": "KÖŞK MAH.TUNCA SOK.NO:12/D",
+   "phone": "03522372352",
+   "dutyStart": "2026-11-22T08:30:00+03:00",
+   "dutyEnd": "2026-11-23T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.723527,
+   "lng": 35.517922
   },
   {
    "district": "Talas",

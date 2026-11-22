@@ -2,20 +2,9 @@
  "city": "Edirne",
  "code": 22,
  "dutyDay": "2026-11-22",
- "updatedAt": "2026-11-22T20:22:31.019Z",
+ "updatedAt": "2026-11-22T21:51:49.799Z",
  "source": "Edirne Eczacı Odası",
  "pharmacies": [
-  {
-   "district": "Merkez",
-   "name": "Filiz Eczanesi",
-   "address": "SABUNİ MAH. KURT DERELİ MEHMET SK. MUHİTTİN GÜLEN İŞ MRKZ. NO:73 (ORDU EVİ KARŞISI) EDİRNE",
-   "phone": "02842124835",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 41.676073,
-   "lng": 26.556638
-  },
   {
    "district": "Merkez",
    "name": "Yaşam Eczanesi",
