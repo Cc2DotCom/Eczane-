@@ -2,20 +2,9 @@
  "city": "Edirne",
  "code": 22,
  "dutyDay": "2026-11-23",
- "updatedAt": "2026-11-23T17:59:22.699Z",
+ "updatedAt": "2026-11-23T21:15:45.986Z",
  "source": "Edirne Eczacı Odası",
  "pharmacies": [
-  {
-   "district": "Merkez",
-   "name": "Berkay Eczanesi",
-   "address": "FATİH MAH. ÜMRAN AKKAN CAD. 44.SOK. FATİH KONAKLARI NO:9",
-   "phone": "02842355041",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 41.656973,
-   "lng": 26.598928
-  },
   {
    "district": "Merkez",
    "name": "Seray Eczanesi",
