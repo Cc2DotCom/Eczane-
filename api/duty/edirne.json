@@ -1,108 +1,119 @@
 {
  "city": "Edirne",
  "code": 22,
- "dutyDay": "2026-11-22",
- "updatedAt": "2026-11-22T21:51:49.799Z",
+ "dutyDay": "2026-11-23",
+ "updatedAt": "2026-11-23T17:59:22.699Z",
  "source": "Edirne Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Yaşam Eczanesi",
-   "address": "MRDRESE ALI BEY MAH.ŞİFA MEKTEP SOK. VENÜS APT.NO:2",
-   "phone": "02842133999",
+   "name": "Berkay Eczanesi",
+   "address": "FATİH MAH. ÜMRAN AKKAN CAD. 44.SOK. FATİH KONAKLARI NO:9",
+   "phone": "02842355041",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 41.674394,
-   "lng": 26.562563
+   "lat": 41.656973,
+   "lng": 26.598928
   },
   {
    "district": "Merkez",
-   "name": "Edirne Yüksel Eczanesi",
-   "address": "FATİH MAH. ALPARSLAN TÜRKEŞ CAD. ALİVA RESİDANCE NO:14/74 SULTAN 1. MURAT DEV. HAST. KARŞISI",
-   "phone": "02845021128",
+   "name": "Seray Eczanesi",
+   "address": "ŞÜKRÜPAŞA MAH. BAHRİYE ÜÇOK CAD. NO:53/62 GÖLET MEVKİ İKİ KATLI ÖZAR MARKET YANI",
+   "phone": "02849991990",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 41.652633,
-   "lng": 26.605255
+   "lat": 41.669806,
+   "lng": 26.592806
+  },
+  {
+   "district": "Merkez",
+   "name": "Edirne Hayat Eczanesi",
+   "address": "İSTASYON MAH.GELİNCİK SOK. NO:12 EDİRNE",
+   "phone": "02842253175",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 41.653322,
+   "lng": 26.578244
   },
   {
    "district": "Enez",
-   "name": "Saygin Eczanesi",
-   "address": "GAZI ÖMERBEY MAH. KALE CAD. NO:11",
-   "phone": "2848116147",
+   "name": "Hayat Eczanesi",
+   "address": "YENI MAH.MILLI EGEMENLIK CAD. NO:9/A",
+   "phone": "2848116564",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 40.724814,
-   "lng": 26.084344
+   "lat": 40.724876,
+   "lng": 26.086899
   },
   {
    "district": "Havsa",
-   "name": "Yavuz Eczanesi",
-   "address": "UZUNKÖPRÜ CAD. NO:5/B",
-   "phone": "2843362473",
+   "name": "Gün Eczanesi",
+   "address": "HACI ISA MAH.23 KASIM CAD. NO:22/F",
+   "phone": "05334610130",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 41.548864,
-   "lng": 26.821615
+   "lat": 41.549489,
+   "lng": 26.821152
   },
   {
    "district": "İpsala",
-   "name": "Coskun Eczanesi",
-   "address": "BAYRAMBEY MAH.ENEZ CAD NO:2",
-   "phone": "2846161050",
+   "name": "İpsala Taş Eczanesi",
+   "address": "bayrambey mah. dr sadık ahmet caddesı 75/b",
+   "phone": "02846162284",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 40.922143,
-   "lng": 26.383545
+   "lat": 40.917259,
+   "lng": 26.380692
   },
   {
    "district": "Keşan",
-   "name": "Birgül Eczanesi",
-   "address": "DEMIRCILER CAD. NO:23",
-   "phone": "02847148420",
+   "name": "Gökhan Eczanesi",
+   "address": "ISPAT CAMI MAH. KURTULUS CAD. NO:103/B",
+   "phone": "02847147964",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 40.853136,
-   "lng": 26.632379
+   "lat": 40.864652,
+   "lng": 26.629901
   },
   {
    "district": "Lalapaşa",
-   "name": "Sevil Eczanesi",
-   "address": "CUMHURIYET CAD.NO:36/B",
-   "phone": "2843214032",
+   "name": "Yaren Eczanesi",
+   "address": "MERKEZ MAH. ŞEHİT ER AHMET BİNGÖL SOK. NO:1/D LALAPAŞA",
+   "phone": "02843214082",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 41.839311,
-   "lng": 26.732826
+   "lat": 41.839159,
+   "lng": 26.735825
   },
   {
    "district": "Meriç",
-   "name": "Ceyda Yilmaz Eczanesi",
-   "address": "BÜYÜKDOĞANCA MAH. ARTEZYEN CAD. NO:1",
-   "phone": "02844151051",
+   "name": "Öden Eczanesi",
+   "address": "CUMHURIYET CAD. NO:6",
+   "phone": "2844151419",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 41.189905,
-   "lng": 26.418703
+   "lat": 41.190576,
+   "lng": 26.418861
   },
   {
    "district": "Uzunköprü",
-   "name": "Özle Naz Akin Eczanesi",
-   "address": "MURADİYE MAH. TELLİ ÇEŞME MEYDANI NO:2/A UZUNKÖPRÜ",
-   "phone": "02845131370",
+   "name": "Tufan Eczanesi",
+   "address": "KESAN CAD.BODUR PASAJI NO:10",
+   "phone": "2845133823",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 41.268744,
-   "lng": 26.685626
+   "lat": 41.265371,
+   "lng": 26.688424
   },
   {
    "district": "Süloğlu",

@@ -1,53 +1,64 @@
 {
  "city": "Hakkari",
  "code": 30,
- "dutyDay": "2026-11-22",
- "updatedAt": "2026-11-22T21:52:03.368Z",
+ "dutyDay": "2026-11-23",
+ "updatedAt": "2026-11-23T17:59:46.646Z",
  "source": "Van Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Güleryüz Eczanesi",
-   "address": "PEHLİVAN MAH. ÇÖLEMERİK CADDESİ NO:1c",
-   "phone": "04385021719",
+   "name": "Pinar Eczanesi",
+   "address": "BULAK MAH.ALTAY CAD.NO:61 HAKKARI",
+   "phone": "4382116742",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.578018,
-   "lng": 43.733753
+   "lat": 37.575901,
+   "lng": 43.737349
   },
   {
    "district": "Yüksekova",
-   "name": "Şalvacı Eczanesi",
-   "address": "YENİ MAH.DAĞLICA CAD.NO:48/C",
-   "phone": "04383510022",
+   "name": "Yakut Eczanesi",
+   "address": "Cengiz Topel caddesi zagros iş merkezi yanı no: 86/C",
+   "phone": "04383515357",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.560045,
-   "lng": 44.270362
+   "lat": 37.56958,
+   "lng": 44.2846
+  },
+  {
+   "district": "Yüksekova",
+   "name": "Altan Eczanesi",
+   "address": "YENİ MAH.DAĞLICA YOLU CAD.46/A",
+   "phone": "05455328353",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 37.560282,
+   "lng": 44.270552
   },
   {
    "district": "Şemdinli",
-   "name": "Şemdinli Eczanesi",
-   "address": "Karşıyaka Mah. Çevreyolu Cad.No:5/C",
-   "phone": "05461501130",
+   "name": "Yaşam Eczanesi",
+   "address": "Yeni Mah.Cumhuriyet Cad.No:70/B",
+   "phone": "04384113357",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.308407,
-   "lng": 44.570159
+   "lat": 37.307227,
+   "lng": 44.572463
   },
   {
    "district": "Şemdinli",
-   "name": "Aki Eczanesi",
-   "address": "MERKEZ MAH. VATAN CADDESİ NO:12/A",
-   "phone": "04384613320",
+   "name": "Bahar Eczanesi",
+   "address": "MERKEZ MAH. VATAN CAD.NO:17/A",
+   "phone": "04384613122",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.080915,
-   "lng": 44.310193
+   "lat": 37.306194,
+   "lng": 44.573294
   }
  ],
  "sourceUrl": "https://www.vaneczaciodasi.org.tr/nobetci-eczaneler"

@@ -1,10 +1,75 @@
 {
  "city": "Burdur",
  "code": 15,
- "dutyDay": "2026-11-22",
- "updatedAt": "2026-11-22T21:51:46.011Z",
+ "dutyDay": "2026-11-23",
+ "updatedAt": "2026-11-23T17:58:52.503Z",
  "source": "e-Devlet TİTCK",
- "pharmacies": [],
- "unavailable": true,
- "note": "class=\"warningContainer\">Seçilen zaman aralığı için nöbetçi eczane bulunamadı. Sayfa Sonu Bağlantıları e-Devlet Kapısı English Hak"
+ "pharmacies": [
+  {
+   "district": "Bucak",
+   "name": "Sarilar Eczanesi",
+   "address": "Yetmişevler Mahallesi Orhangazi Caddesi No:5/Z-12",
+   "phone": "0248 325 6800",
+   "dutyStart": "2026-11-23T18:30:00+03:00",
+   "dutyEnd": "2026-11-24T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.471348,
+   "lng": 30.564369
+  },
+  {
+   "district": "Gölhisar",
+   "name": "Merkez Eczanesi",
+   "address": "PAZAR MAHALLESİ CUMHURİYET CADDESİ NO:69/B",
+   "phone": "0248 411 5251",
+   "dutyStart": "2026-11-23T18:30:00+03:00",
+   "dutyEnd": "2026-11-24T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.144985,
+   "lng": 29.508862
+  },
+  {
+   "district": "Karamanlı",
+   "name": "Karamanli Eczanesi",
+   "address": "FATİH MAHALLESİ BURDUR CADDESİ NO:6/A",
+   "phone": "0248 531 2244",
+   "dutyStart": "2026-11-23T18:00:00+03:00",
+   "dutyEnd": "2026-11-24T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.369999,
+   "lng": 29.82136
+  },
+  {
+   "district": "Merkez",
+   "name": "Bizim Eczanesi",
+   "address": "AYDINLIKEVLER MAHALLESİ KARANFİL SOKAK NO:2/A",
+   "phone": "0248 212 4509",
+   "dutyStart": "2026-11-23T18:30:00+03:00",
+   "dutyEnd": "2026-11-24T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.733704,
+   "lng": 30.302284
+  },
+  {
+   "district": "Tefenni",
+   "name": "Dilim Eczanesi",
+   "address": "Fatih Mahallesi Alparslan Türkeş Caddesi No:49/A Tefenni/BURDUR",
+   "phone": "0505 129 6313",
+   "dutyStart": "2026-11-23T18:00:00+03:00",
+   "dutyEnd": "2026-11-24T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.314751,
+   "lng": 29.778183
+  },
+  {
+   "district": "Yeşilova",
+   "name": "Şifa Eczanesi",
+   "address": "MERKEZ MAHALLESİ ATATÜRK CADDESİ NO:9/A",
+   "phone": "0248 618 1049",
+   "dutyStart": "2026-11-23T17:30:00+03:00",
+   "dutyEnd": "2026-11-24T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.506207,
+   "lng": 29.753452
+  }
+ ]
 }

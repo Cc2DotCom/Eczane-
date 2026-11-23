@@ -1,31 +1,20 @@
 {
  "city": "Van",
  "code": 65,
- "dutyDay": "2026-11-22",
- "updatedAt": "2026-11-22T14:33:46.622Z",
+ "dutyDay": "2026-11-23",
+ "updatedAt": "2026-11-23T18:02:27.559Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Erciş",
-   "name": "Çelebi Eczanesi",
-   "address": "KIŞLA MAH.İNÖNÜ CADDDE NO:12",
-   "phone": "0432 351 7272",
-   "dutyStart": "2026-11-22T08:30:00+03:00",
-   "dutyEnd": "2026-11-23T08:30:00+03:00",
+   "name": "Elif Eczanesi",
+   "address": "Kışla Mahallesi 777. Pancarlar Bölge Şefliği Kışla Bulvarı Sokak Dış Kapı No:2C",
+   "phone": "0534 425 1633",
+   "dutyStart": "2026-11-23T18:00:00+03:00",
+   "dutyEnd": "2026-11-24T08:30:00+03:00",
    "approved": true,
-   "lat": 39.02803,
-   "lng": 43.358017
-  },
-  {
-   "district": "Erciş",
-   "name": "Çiçek Eczanesi",
-   "address": "Vanyolu Mah. Kara Yusuf Bey Bulvarı Dış Kapı No:105B",
-   "phone": "0545 497 8021",
-   "dutyStart": "2026-11-22T08:30:00+03:00",
-   "dutyEnd": "2026-11-23T08:30:00+03:00",
-   "approved": true,
-   "lat": 39.023895,
-   "lng": 43.3703
+   "lat": 39.026123,
+   "lng": 43.349667
   }
  ]
 }

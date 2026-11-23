@@ -1,15 +1,15 @@
 {
  "city": "Kilis",
  "code": 79,
- "dutyDay": "2026-11-22",
- "updatedAt": "2026-11-22T20:23:05.301Z",
+ "dutyDay": "2026-11-23",
+ "updatedAt": "2026-11-23T18:03:01.312Z",
  "source": "Gaziantep Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Ömür Eczanesi",
-   "address": "KANUNI SULTAN SÜLEYMAN MAHALLESI SÖRHABIL CADDESI NO:94",
-   "phone": "03488132053",
+   "name": "Gamze Eczanesi- Kilis Eczanesi",
+   "address": "MEHMET RIFAT KAZANCIOĞLU MAHALLESİ SABİT ERENTÜRK CAD. NO:26/A (KAYABAŞ CAMİ ARKASI)",
+   "phone": "03488142474",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,

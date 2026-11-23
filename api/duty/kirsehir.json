@@ -1,53 +1,53 @@
 {
  "city": "Kırşehir",
  "code": 40,
- "dutyDay": "2026-11-22",
- "updatedAt": "2026-11-22T21:52:11.670Z",
+ "dutyDay": "2026-11-23",
+ "updatedAt": "2026-11-23T18:00:59.679Z",
  "source": "e-Devlet TİTCK, Aksaray-Kırşehir Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Merve Eczanesi",
-   "address": "KERVAN SARAY MAH.KAYA ÖZ SİTESİ NO:2 MERKEZ/ KIRŞEHİR",
-   "phone": "0386 214 4640",
-   "dutyStart": "2026-11-22T08:00:00+03:00",
-   "dutyEnd": "2026-11-23T08:00:00+03:00",
+   "name": "Melisa Eczanesi",
+   "address": "MEDRESE MAH. 61 SOKAK NO:7/6 MERKEZ / KIRŞEHİR",
+   "phone": "0386 214 4140",
+   "dutyStart": "2026-11-23T18:00:00+03:00",
+   "dutyEnd": "2026-11-24T08:00:00+03:00",
    "approved": true,
-   "lat": 39.157032,
-   "lng": 34.163769
+   "lat": 39.146084,
+   "lng": 34.168697
   },
   {
    "district": "Merkez",
-   "name": "Özgür Eczanesi",
-   "address": "KERVAN SARAY MAH.2019 SOKAK KAYA ÖZ SİTESİ B BLOK NO:13 KIRŞEHİR",
-   "phone": "0386 212 8586",
-   "dutyStart": "2026-11-22T08:00:00+03:00",
-   "dutyEnd": "2026-11-23T08:00:00+03:00",
+   "name": "Safir Eczanesi",
+   "address": "MEDRESE MAH.METİN ÇOBANOĞLU CAD. ADALI APT.NO:21/9 MERKEZ /KIRŞEHİR",
+   "phone": "0386 213 0003",
+   "dutyStart": "2026-11-23T18:00:00+03:00",
+   "dutyEnd": "2026-11-24T08:00:00+03:00",
    "approved": true,
-   "lat": 39.157299,
-   "lng": 34.164276
+   "lat": 39.142406,
+   "lng": 34.164772
   },
   {
    "district": "Kaman",
-   "name": "Aran Eczanesi",
-   "address": "ISTIKLAL CAD. NO:1",
-   "phone": "3867128191",
+   "name": "Hayat Eczanesi",
+   "address": "CUMHURIYET MEYDANI NO:38 KAMAN",
+   "phone": "3867127210",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.357669,
-   "lng": 33.724608
+   "lat": 39.358003,
+   "lng": 33.724385
   },
   {
    "district": "Mucur",
-   "name": "Saglik Eczanesi",
-   "address": "YENICE MAH. ENVERPASA CAD. NO:5 MUCUR",
-   "phone": "3868124769",
+   "name": "Sifa Eczanesi",
+   "address": "YENICE MAH. ENVERPASA CAD.NO:3/G",
+   "phone": "3868124065",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.063311,
-   "lng": 34.376217
+   "lat": 39.063197,
+   "lng": 34.376033
   }
  ],
  "sourceUrl": "https://www.aksarayeo.org.tr/nobetci-eczaneler"
