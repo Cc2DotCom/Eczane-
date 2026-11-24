@@ -2,19 +2,19 @@
  "city": "Kayseri",
  "code": 38,
  "dutyDay": "2026-11-23",
- "updatedAt": "2026-11-23T21:16:05.455Z",
+ "updatedAt": "2026-11-24T00:53:56.177Z",
  "source": "Kayseri Eczacı Odası",
  "pharmacies": [
   {
-   "district": "Melikgazi",
-   "name": "Müftüoğlu Eczanesi",
-   "address": "Demokrasi Mahallesi, Celal Bayar Caddesi, No:33/B",
-   "phone": "05525302025",
+   "district": "Kocasinan",
+   "name": "Sümeyye Eczanesi",
+   "address": "Şeker Mahallesi, Muhsin Yazıcıoğlu Bulvarı, 74/I",
+   "phone": "03522355580",
    "dutyStart": "2026-11-23T08:30:00+03:00",
    "dutyEnd": "2026-11-24T08:30:00+03:00",
    "approved": true,
-   "lat": 38.756477,
-   "lng": 35.603045
+   "lat": 38.770638,
+   "lng": 35.413187
   },
   {
    "district": "Kocasinan",
@@ -40,17 +40,6 @@
   },
   {
    "district": "Kocasinan",
-   "name": "Sümeyye Eczanesi",
-   "address": "Şeker Mahallesi, Muhsin Yazıcıoğlu Bulvarı, 74/I",
-   "phone": "03522355580",
-   "dutyStart": "2026-11-23T08:30:00+03:00",
-   "dutyEnd": "2026-11-24T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.770638,
-   "lng": 35.413187
-  },
-  {
-   "district": "Kocasinan",
    "name": "Gölgeli Eczanesi",
    "address": "ÖRNEKEVLER MAHALLESI TEMIZEL SOKAK N0:6",
    "phone": "03522316809",
@@ -62,102 +51,14 @@
   },
   {
    "district": "Melikgazi",
-   "name": "Başoğlu Eczanesi",
-   "address": "ALPASLAN MH.GÖKÇE FIDAN SK.N0:7/B 38030",
-   "phone": "03522352233",
+   "name": "Müftüoğlu Eczanesi",
+   "address": "Demokrasi Mahallesi, Celal Bayar Caddesi, No:33/B",
+   "phone": "05525302025",
    "dutyStart": "2026-11-23T08:30:00+03:00",
-   "dutyEnd": "2026-11-24T01:00:00+03:00",
+   "dutyEnd": "2026-11-24T08:30:00+03:00",
    "approved": true,
-   "lat": 38.723982,
-   "lng": 35.514643
-  },
-  {
-   "district": "Talas",
-   "name": "Gökkuşağı Eczanesi",
-   "address": "YENİDOĞAN MAHALLESİ TİMUÇİN CADDESİ NO:17/A",
-   "phone": "03524379966",
-   "dutyStart": "2026-11-23T08:30:00+03:00",
-   "dutyEnd": "2026-11-24T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.697367,
-   "lng": 35.54432
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Başak Aksoy Eczanesi",
-   "address": "Yıldırım Beyazıt Mahallesi Şht. Ütğm. Mustafa Şimşek Bulvarı No:140/B",
-   "phone": "03524371888",
-   "dutyStart": "2026-11-23T08:30:00+03:00",
-   "dutyEnd": "2026-11-24T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.729206,
-   "lng": 35.530759
-  },
-  {
-   "district": "Talas",
-   "name": "Gülümse Eczanesi",
-   "address": "MEVLANA MAH. SAYER CAD. NO:5/C Talas/Kayseri",
-   "phone": "05551760710",
-   "dutyStart": "2026-11-23T08:30:00+03:00",
-   "dutyEnd": "2026-11-24T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.698565,
-   "lng": 35.561549
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Lidya Eczanesi",
-   "address": "DANİŞMENTGAZİ MAH. REŞADİYE SOKAK NO:30/D",
-   "phone": "",
-   "dutyStart": "2026-11-23T08:30:00+03:00",
-   "dutyEnd": "2026-11-24T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.675389,
-   "lng": 35.474662
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Eylül Eczanesi",
-   "address": "ESENYURT MAH. SAKARYA CAD. 51/A",
-   "phone": "03522255551",
-   "dutyStart": "2026-11-23T08:30:00+03:00",
-   "dutyEnd": "2026-11-24T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.698814,
-   "lng": 35.493001
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Selen Eczanesi",
-   "address": "30 Ağustos Mah. 3017. Sok No:2/A",
-   "phone": "03523269802",
-   "dutyStart": "2026-11-23T08:30:00+03:00",
-   "dutyEnd": "2026-11-24T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.746268,
-   "lng": 35.391572
-  },
-  {
-   "district": "Kocasinan",
-   "name": "Ay Işığı Eczanesi",
-   "address": "Erkilet Osmangazi Mah. 4365. Sokak No:14 A-B Celal Aysel Küçükşahin Asm Yanı",
-   "phone": "03523440414",
-   "dutyStart": "2026-11-23T08:30:00+03:00",
-   "dutyEnd": "2026-11-24T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.790368,
-   "lng": 35.456035
-  },
-  {
-   "district": "Kocasinan",
-   "name": "Gaziosman Eczanesi",
-   "address": "BARBAROS MH.KALDIRIM CAD.N0:38/A",
-   "phone": "03523372879",
-   "dutyStart": "2026-11-23T08:30:00+03:00",
-   "dutyEnd": "2026-11-24T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.732409,
-   "lng": 35.47065
+   "lat": 38.756477,
+   "lng": 35.603045
   }
  ],
  "sourceUrl": "https://www.kayserieo.org.tr/nobetci-eczaneler"
