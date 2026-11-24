@@ -2,7 +2,7 @@
  "city": "Kayseri",
  "code": 38,
  "dutyDay": "2026-11-24",
- "updatedAt": "2026-11-24T20:07:32.312Z",
+ "updatedAt": "2026-11-24T23:02:10.675Z",
  "source": "Kayseri Eczacı Odası",
  "pharmacies": [
   {
@@ -15,17 +15,6 @@
    "approved": true,
    "lat": 38.770569,
    "lng": 35.413186
-  },
-  {
-   "district": "Kocasinan",
-   "name": "Emel Eczanesi",
-   "address": "Gevher Nesibe Mah. Atatürk Bulv. No: 10/B",
-   "phone": "03522313522",
-   "dutyStart": "2026-11-24T08:30:00+03:00",
-   "dutyEnd": "2026-11-25T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.721547,
-   "lng": 35.482526
   },
   {
    "district": "Kocasinan",
@@ -62,102 +51,14 @@
   },
   {
    "district": "Kocasinan",
-   "name": "Erbay Eczanesi",
-   "address": "Uğurevler Mahallesi, 312. Sokak, 18/A",
-   "phone": "05324597229",
+   "name": "Emel Eczanesi",
+   "address": "Gevher Nesibe Mah. Atatürk Bulv. No: 10/B",
+   "phone": "03522313522",
    "dutyStart": "2026-11-24T08:30:00+03:00",
-   "dutyEnd": "2026-11-25T01:00:00+03:00",
+   "dutyEnd": "2026-11-25T08:30:00+03:00",
    "approved": true,
-   "lat": 38.74292,
-   "lng": 35.536775
-  },
-  {
-   "district": "Talas",
-   "name": "Ulutürk Eczanesi",
-   "address": "Kiçiköy Mahallesi, Kayabağlar Caddesi, No:9/B",
-   "phone": "05521260038",
-   "dutyStart": "2026-11-24T08:30:00+03:00",
-   "dutyEnd": "2026-11-25T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.69214,
-   "lng": 35.552572
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Arslan Eczanesi",
-   "address": "Kılıçaslan Mah. Kızılırmak Cad. No: 43/A",
-   "phone": "03522341414",
-   "dutyStart": "2026-11-24T08:30:00+03:00",
-   "dutyEnd": "2026-11-25T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.723115,
-   "lng": 35.506492
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Kaşıkçı Eczanesi",
-   "address": "SAKARYA MAH. EREN YILDIRIM BULV. NO:31/B",
-   "phone": "03523267474",
-   "dutyStart": "2026-11-24T08:30:00+03:00",
-   "dutyEnd": "2026-11-25T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.741188,
-   "lng": 35.400684
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Melisa Eczanesi",
-   "address": "Köşk Mahallesi, Kışla Caddesi, 19/B",
-   "phone": "03527389484",
-   "dutyStart": "2026-11-24T08:30:00+03:00",
-   "dutyEnd": "2026-11-25T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.717764,
-   "lng": 35.514952
-  },
-  {
-   "district": "Melikgazi",
-   "name": "İstikbal Eczanesi",
-   "address": "OSMANLI MH.BATTALGAZI BUL.EDIP GEÇIDI N0:3 38050",
-   "phone": "03523473343",
-   "dutyStart": "2026-11-24T08:30:00+03:00",
-   "dutyEnd": "2026-11-25T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.689652,
-   "lng": 35.475507
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Kağan Eczanesi",
-   "address": "Yeniköy Mahallesi 1171.Sok No:4/2",
-   "phone": "03525034333",
-   "dutyStart": "2026-11-24T08:30:00+03:00",
-   "dutyEnd": "2026-11-25T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.712192,
-   "lng": 35.454872
-  },
-  {
-   "district": "Talas",
-   "name": "Furkan Şahin Eczanesi",
-   "address": "Mevlana Mah. 6085. Sk. No: 4/B (Osman Neyire Akgöz Aile Sağlığı Merkezi Karşısı) Talas / Kayseri (15 Temmuz Caddesi)",
-   "phone": "03529992818",
-   "dutyStart": "2026-11-24T08:30:00+03:00",
-   "dutyEnd": "2026-11-25T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.709876,
-   "lng": 35.552921
-  },
-  {
-   "district": "Kocasinan",
-   "name": "Roza Eczanesi",
-   "address": "Sahabiye Mahallesi, Boylar Sokak, 33/A",
-   "phone": "03523362275",
-   "dutyStart": "2026-11-24T08:30:00+03:00",
-   "dutyEnd": "2026-11-25T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.724045,
-   "lng": 35.494986
+   "lat": 38.721547,
+   "lng": 35.482526
   }
  ],
  "sourceUrl": "https://www.kayserieo.org.tr/nobetci-eczaneler"

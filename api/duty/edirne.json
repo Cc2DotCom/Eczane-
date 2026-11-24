@@ -2,7 +2,7 @@
  "city": "Edirne",
  "code": 22,
  "dutyDay": "2026-11-24",
- "updatedAt": "2026-11-24T20:07:13.490Z",
+ "updatedAt": "2026-11-24T23:01:57.060Z",
  "source": "Edirne Eczacı Odası",
  "pharmacies": [
   {
@@ -15,17 +15,6 @@
    "approved": true,
    "lat": 41.660169,
    "lng": 26.596166
-  },
-  {
-   "district": "Merkez",
-   "name": "Güven Eczanesi",
-   "address": "SARAÇLAR CAD. NO:9",
-   "phone": "2842251543",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 41.676425,
-   "lng": 26.552976
   },
   {
    "district": "Merkez",
