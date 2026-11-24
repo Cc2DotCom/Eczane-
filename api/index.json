@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T00:54:17.766Z",
+ "generatedAt": "2026-11-24T02:56:25.604Z",
  "source": "e-Devlet TİTCK",
  "cities": [
   {
@@ -63,7 +63,7 @@
    "slug": "artvin",
    "code": 8,
    "dutyDay": "2026-11-23",
-   "updatedAt": "2026-11-24T00:53:19.055Z",
+   "updatedAt": "2026-11-24T02:55:33.435Z",
    "count": 9
   },
   {
@@ -71,7 +71,7 @@
    "slug": "aydin",
    "code": 9,
    "dutyDay": "2026-11-23",
-   "updatedAt": "2026-11-24T00:53:24.225Z",
+   "updatedAt": "2026-11-24T02:55:38.263Z",
    "count": 32
   },
   {
@@ -175,7 +175,7 @@
    "slug": "edirne",
    "code": 22,
    "dutyDay": "2026-11-23",
-   "updatedAt": "2026-11-24T00:53:37.682Z",
+   "updatedAt": "2026-11-24T02:55:50.090Z",
    "count": 10
   },
   {
@@ -183,7 +183,7 @@
    "slug": "elazig",
    "code": 23,
    "dutyDay": "2026-11-23",
-   "updatedAt": "2026-11-24T00:53:40.851Z",
+   "updatedAt": "2026-11-24T02:55:53.121Z",
    "count": 9
   },
   {
@@ -207,7 +207,7 @@
    "slug": "eskisehir",
    "code": 26,
    "dutyDay": "2026-11-23",
-   "updatedAt": "2026-11-24T00:53:46.025Z",
+   "updatedAt": "2026-11-24T02:55:58.434Z",
    "count": 14
   },
   {
@@ -239,7 +239,7 @@
    "slug": "hakkari",
    "code": 30,
    "dutyDay": "2026-11-23",
-   "updatedAt": "2026-11-24T00:53:51.036Z",
+   "updatedAt": "2026-11-24T02:56:03.230Z",
    "count": 5
   },
   {
@@ -303,7 +303,7 @@
    "slug": "kayseri",
    "code": 38,
    "dutyDay": "2026-11-23",
-   "updatedAt": "2026-11-24T00:53:56.177Z",
+   "updatedAt": "2026-11-24T02:56:07.933Z",
    "count": 5
   },
   {
@@ -351,7 +351,7 @@
    "slug": "malatya",
    "code": 44,
    "dutyDay": "2026-11-23",
-   "updatedAt": "2026-11-24T00:54:04.500Z",
+   "updatedAt": "2026-11-24T02:56:14.047Z",
    "count": 5
   },
   {
@@ -391,7 +391,7 @@
    "slug": "mus",
    "code": 49,
    "dutyDay": "2026-11-23",
-   "updatedAt": "2026-11-24T00:54:09.708Z",
+   "updatedAt": "2026-11-24T02:56:18.618Z",
    "count": 6
   },
   {
@@ -631,7 +631,7 @@
    "slug": "kilis",
    "code": 79,
    "dutyDay": "2026-11-23",
-   "updatedAt": "2026-11-24T00:54:14.854Z",
+   "updatedAt": "2026-11-24T02:56:23.237Z",
    "count": 1
   },
   {

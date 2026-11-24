@@ -2,9 +2,31 @@
  "city": "Kayseri",
  "code": 38,
  "dutyDay": "2026-11-23",
- "updatedAt": "2026-11-24T00:53:56.177Z",
+ "updatedAt": "2026-11-24T02:56:07.933Z",
  "source": "Kayseri Eczacı Odası",
  "pharmacies": [
+  {
+   "district": "Melikgazi",
+   "name": "Müftüoğlu Eczanesi",
+   "address": "Demokrasi Mahallesi, Celal Bayar Caddesi, No:33/B",
+   "phone": "05525302025",
+   "dutyStart": "2026-11-23T08:30:00+03:00",
+   "dutyEnd": "2026-11-24T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.756477,
+   "lng": 35.603045
+  },
+  {
+   "district": "Kocasinan",
+   "name": "Gölgeli Eczanesi",
+   "address": "ÖRNEKEVLER MAHALLESI TEMIZEL SOKAK N0:6",
+   "phone": "03522316809",
+   "dutyStart": "2026-11-23T08:30:00+03:00",
+   "dutyEnd": "2026-11-24T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.728566,
+   "lng": 35.48
+  },
   {
    "district": "Kocasinan",
    "name": "Sümeyye Eczanesi",
@@ -15,17 +37,6 @@
    "approved": true,
    "lat": 38.770638,
    "lng": 35.413187
-  },
-  {
-   "district": "Kocasinan",
-   "name": "Taşhan Eczanesi",
-   "address": "Sanayi Mahallesi, Çimen Sokak, 36/D",
-   "phone": "03523363611",
-   "dutyStart": "2026-11-23T08:30:00+03:00",
-   "dutyEnd": "2026-11-24T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.72583,
-   "lng": 35.479501
   },
   {
    "district": "Melikgazi",
@@ -40,25 +51,14 @@
   },
   {
    "district": "Kocasinan",
-   "name": "Gölgeli Eczanesi",
-   "address": "ÖRNEKEVLER MAHALLESI TEMIZEL SOKAK N0:6",
-   "phone": "03522316809",
+   "name": "Taşhan Eczanesi",
+   "address": "Sanayi Mahallesi, Çimen Sokak, 36/D",
+   "phone": "03523363611",
    "dutyStart": "2026-11-23T08:30:00+03:00",
    "dutyEnd": "2026-11-24T08:30:00+03:00",
    "approved": true,
-   "lat": 38.728566,
-   "lng": 35.48
-  },
-  {
-   "district": "Melikgazi",
-   "name": "Müftüoğlu Eczanesi",
-   "address": "Demokrasi Mahallesi, Celal Bayar Caddesi, No:33/B",
-   "phone": "05525302025",
-   "dutyStart": "2026-11-23T08:30:00+03:00",
-   "dutyEnd": "2026-11-24T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.756477,
-   "lng": 35.603045
+   "lat": 38.72583,
+   "lng": 35.479501
   }
  ],
  "sourceUrl": "https://www.kayserieo.org.tr/nobetci-eczaneler"
