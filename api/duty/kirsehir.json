@@ -1,53 +1,53 @@
 {
  "city": "Kırşehir",
  "code": 40,
- "dutyDay": "2026-11-23",
- "updatedAt": "2026-11-24T00:53:59.291Z",
+ "dutyDay": "2026-11-24",
+ "updatedAt": "2026-11-24T17:38:45.112Z",
  "source": "e-Devlet TİTCK, Aksaray-Kırşehir Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Melisa Eczanesi",
-   "address": "MEDRESE MAH. 61 SOKAK NO:7/6 MERKEZ / KIRŞEHİR",
-   "phone": "0386 214 4140",
-   "dutyStart": "2026-11-23T18:00:00+03:00",
-   "dutyEnd": "2026-11-24T08:00:00+03:00",
+   "name": "Eda Eczanesi",
+   "address": "AHİ EVRAN MAH. ZÜBEYDE HANIM CAD. TURAN APT. NO:29/A MERKEZ KIRŞEHİR",
+   "phone": "0386 213 0705",
+   "dutyStart": "2026-11-24T18:00:00+03:00",
+   "dutyEnd": "2026-11-25T08:00:00+03:00",
    "approved": true,
-   "lat": 39.146084,
-   "lng": 34.168697
+   "lat": 39.158169,
+   "lng": 34.159721
   },
   {
    "district": "Merkez",
-   "name": "Safir Eczanesi",
-   "address": "MEDRESE MAH.METİN ÇOBANOĞLU CAD. ADALI APT.NO:21/9 MERKEZ /KIRŞEHİR",
-   "phone": "0386 213 0003",
-   "dutyStart": "2026-11-23T18:00:00+03:00",
-   "dutyEnd": "2026-11-24T08:00:00+03:00",
+   "name": "Erdoğdu Eczanesi",
+   "address": "AHİ EVRAN MAH. ZÜBEYDE HANIM CAD. RIZA YAĞMUR APT. NO:23 /C Merkez KIRŞEHİR",
+   "phone": "0386 213 4085",
+   "dutyStart": "2026-11-24T18:00:00+03:00",
+   "dutyEnd": "2026-11-25T08:00:00+03:00",
    "approved": true,
-   "lat": 39.142406,
-   "lng": 34.164772
+   "lat": 39.157639,
+   "lng": 34.159683
   },
   {
    "district": "Kaman",
-   "name": "Hayat Eczanesi",
-   "address": "CUMHURIYET MEYDANI NO:38 KAMAN",
-   "phone": "3867127210",
+   "name": "Akdeniz Eczanesi",
+   "address": "CUMHURIYET MEYDANI NO:18",
+   "phone": "3867122646",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.358003,
-   "lng": 33.724385
+   "lat": 39.358501,
+   "lng": 33.724271
   },
   {
    "district": "Mucur",
-   "name": "Sifa Eczanesi",
-   "address": "YENICE MAH. ENVERPASA CAD.NO:3/G",
-   "phone": "3868124065",
+   "name": "Hendek Eczanesi",
+   "address": "YENİCE MAH.ENVERPAŞA CAD.NO:29",
+   "phone": "03868122223",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.063197,
-   "lng": 34.376033
+   "lat": 39.064625,
+   "lng": 34.376816
   }
  ],
  "sourceUrl": "https://www.aksarayeo.org.tr/nobetci-eczaneler"

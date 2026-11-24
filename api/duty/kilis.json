@@ -1,15 +1,15 @@
 {
  "city": "Kilis",
  "code": 79,
- "dutyDay": "2026-11-23",
- "updatedAt": "2026-11-24T02:56:23.237Z",
+ "dutyDay": "2026-11-24",
+ "updatedAt": "2026-11-24T17:40:50.673Z",
  "source": "Gaziantep Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Gamze Eczanesi- Kilis Eczanesi",
-   "address": "MEHMET RIFAT KAZANCIOĞLU MAHALLESİ SABİT ERENTÜRK CAD. NO:26/A (KAYABAŞ CAMİ ARKASI)",
-   "phone": "03488142474",
+   "name": "Göktürk Eczanesi",
+   "address": "Yaşar Aktürk Mahallesi Av. Mehmet Abdi Bulut Caddesi No:15/D Merkez KİLİS",
+   "phone": "05451747996",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
