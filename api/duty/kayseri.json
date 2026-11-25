@@ -2,30 +2,19 @@
  "city": "Kayseri",
  "code": 38,
  "dutyDay": "2026-11-25",
- "updatedAt": "2026-11-25T17:10:10.795Z",
+ "updatedAt": "2026-11-25T19:12:16.502Z",
  "source": "Kayseri Eczacı Odası",
  "pharmacies": [
   {
    "district": "Kocasinan",
-   "name": "Marmara Eczanesi",
-   "address": "ŞEKER MAH. MUHSİN YAZICIOĞLU BULV. NO:74/L",
-   "phone": "03523362515",
+   "name": "Yilmaz Eczanesi",
+   "address": "Mimarsinan Bahçelievler Mah. Gesi Cad. No:90",
+   "phone": "03522400440",
    "dutyStart": "2026-11-25T08:30:00+03:00",
    "dutyEnd": "2026-11-26T08:30:00+03:00",
    "approved": true,
-   "lat": 38.770805,
-   "lng": 35.413164
-  },
-  {
-   "district": "Kocasinan",
-   "name": "Umut Eczanesi",
-   "address": "GEVHER NESİBE MAH. ATATÜRK BULV. NO:104/F",
-   "phone": "03522210864",
-   "dutyStart": "2026-11-25T08:30:00+03:00",
-   "dutyEnd": "2026-11-26T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.727748,
-   "lng": 35.479427
+   "lat": 38.779413,
+   "lng": 35.592451
   },
   {
    "district": "Melikgazi",
@@ -40,6 +29,28 @@
   },
   {
    "district": "Kocasinan",
+   "name": "Umut Eczanesi",
+   "address": "GEVHER NESİBE MAH. ATATÜRK BULV. NO:104/F",
+   "phone": "03522210864",
+   "dutyStart": "2026-11-25T08:30:00+03:00",
+   "dutyEnd": "2026-11-26T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.727748,
+   "lng": 35.479427
+  },
+  {
+   "district": "Kocasinan",
+   "name": "Marmara Eczanesi",
+   "address": "ŞEKER MAH. MUHSİN YAZICIOĞLU BULV. NO:74/L",
+   "phone": "03523362515",
+   "dutyStart": "2026-11-25T08:30:00+03:00",
+   "dutyEnd": "2026-11-26T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.770805,
+   "lng": 35.413164
+  },
+  {
+   "district": "Kocasinan",
    "name": "Ekinci Eczanesi",
    "address": "GEVHERNESİBE MAH. GÖK GEÇİDİ SK. NO: 12/A",
    "phone": "03522229495",
@@ -48,17 +59,6 @@
    "approved": true,
    "lat": 38.726364,
    "lng": 35.480819
-  },
-  {
-   "district": "Kocasinan",
-   "name": "Yilmaz Eczanesi",
-   "address": "Mimarsinan Bahçelievler Mah. Gesi Cad. No:90",
-   "phone": "03522400440",
-   "dutyStart": "2026-11-25T08:30:00+03:00",
-   "dutyEnd": "2026-11-26T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.779413,
-   "lng": 35.592451
   },
   {
    "district": "Talas",
@@ -72,15 +72,15 @@
    "lng": 35.544545
   },
   {
-   "district": "Talas",
-   "name": "İhya Eczanesi",
-   "address": "Mevlana Mah. 6076. Sk. No: 3",
-   "phone": "03523383720",
+   "district": "Kocasinan",
+   "name": "Osman Gazi Eczanesi",
+   "address": "Erkilet Osman Gazi Mah. 4365. SOK. 16/A",
+   "phone": "03523441313",
    "dutyStart": "2026-11-25T08:30:00+03:00",
    "dutyEnd": "2026-11-26T01:00:00+03:00",
    "approved": true,
-   "lat": 38.705617,
-   "lng": 35.555632
+   "lat": 38.790254,
+   "lng": 35.455659
   },
   {
    "district": "Melikgazi",
@@ -95,14 +95,14 @@
   },
   {
    "district": "Kocasinan",
-   "name": "Billur Eczanesi",
-   "address": "Mimarsinan Mah. Billur Cad. No: 79/B",
-   "phone": "03522362310",
+   "name": "Baykara Eczanesi",
+   "address": "KEYKUBAT MAH. ANAFARTALAR CAD. NO:133",
+   "phone": "03523361868",
    "dutyStart": "2026-11-25T08:30:00+03:00",
    "dutyEnd": "2026-11-26T01:00:00+03:00",
    "approved": true,
-   "lat": 38.733785,
-   "lng": 35.511228
+   "lat": 38.743068,
+   "lng": 35.410067
   },
   {
    "district": "Kocasinan",
@@ -116,6 +116,28 @@
    "lng": 35.489967
   },
   {
+   "district": "Kocasinan",
+   "name": "Billur Eczanesi",
+   "address": "Mimarsinan Mah. Billur Cad. No: 79/B",
+   "phone": "03522362310",
+   "dutyStart": "2026-11-25T08:30:00+03:00",
+   "dutyEnd": "2026-11-26T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.733785,
+   "lng": 35.511228
+  },
+  {
+   "district": "Talas",
+   "name": "İhya Eczanesi",
+   "address": "Mevlana Mah. 6076. Sk. No: 3",
+   "phone": "03523383720",
+   "dutyStart": "2026-11-25T08:30:00+03:00",
+   "dutyEnd": "2026-11-26T01:00:00+03:00",
+   "approved": true,
+   "lat": 38.705617,
+   "lng": 35.555632
+  },
+  {
    "district": "Melikgazi",
    "name": "Köşk Eczanesi",
    "address": "KÖSK MAH.KISLALAR CAD.OBALAR SOK.NO:58",
@@ -125,28 +147,6 @@
    "approved": true,
    "lat": 38.722163,
    "lng": 35.518155
-  },
-  {
-   "district": "Kocasinan",
-   "name": "Baykara Eczanesi",
-   "address": "KEYKUBAT MAH. ANAFARTALAR CAD. NO:133",
-   "phone": "03523361868",
-   "dutyStart": "2026-11-25T08:30:00+03:00",
-   "dutyEnd": "2026-11-26T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.743068,
-   "lng": 35.410067
-  },
-  {
-   "district": "Kocasinan",
-   "name": "Osman Gazi Eczanesi",
-   "address": "Erkilet Osman Gazi Mah. 4365. SOK. 16/A",
-   "phone": "03523441313",
-   "dutyStart": "2026-11-25T08:30:00+03:00",
-   "dutyEnd": "2026-11-26T01:00:00+03:00",
-   "approved": true,
-   "lat": 38.790254,
-   "lng": 35.455659
   },
   {
    "district": "Melikgazi",
