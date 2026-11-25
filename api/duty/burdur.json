@@ -1,75 +1,75 @@
 {
  "city": "Burdur",
  "code": 15,
- "dutyDay": "2026-11-24",
- "updatedAt": "2026-11-24T17:36:35.673Z",
+ "dutyDay": "2026-11-25",
+ "updatedAt": "2026-11-25T17:08:16.600Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Bucak",
-   "name": "Özcan Eczanesi",
-   "address": "Yetmişevler Mahallesi 2493 Sokak No: 8/33",
-   "phone": "0248 325 6616",
-   "dutyStart": "2026-11-24T18:30:00+03:00",
-   "dutyEnd": "2026-11-25T08:00:00+03:00",
+   "name": "Sönmez Eczanesi",
+   "address": "YETMİŞEVLER MAHALLESİ ORHANGAZİ CADDESİ NO:5/7",
+   "phone": "0248 325 1111",
+   "dutyStart": "2026-11-25T18:30:00+03:00",
+   "dutyEnd": "2026-11-26T08:00:00+03:00",
    "approved": true,
-   "lat": 37.472813,
-   "lng": 30.565489
+   "lat": 37.471519,
+   "lng": 30.564425
   },
   {
    "district": "Gölhisar",
-   "name": "Şenel Eczanesi",
-   "address": "Pazar Mahallesi Cumhuriyet Caddesi No:69/A",
-   "phone": "0248 411 6070",
-   "dutyStart": "2026-11-24T18:30:00+03:00",
-   "dutyEnd": "2026-11-25T08:00:00+03:00",
+   "name": "Emre Eczanesi",
+   "address": "Pazar Mahallesi Cumhuriyet Caddesi No:67/A",
+   "phone": "0248 411 4544",
+   "dutyStart": "2026-11-25T18:30:00+03:00",
+   "dutyEnd": "2026-11-26T08:00:00+03:00",
    "approved": true,
-   "lat": 37.14502,
-   "lng": 29.508884
+   "lat": 37.145046,
+   "lng": 29.509003
   },
   {
    "district": "Karamanlı",
-   "name": "Pazar Eczanesi",
-   "address": "Pazar Mah. Yeşilova Caddesi No:2",
-   "phone": "0505 220 2568",
-   "dutyStart": "2026-11-24T18:00:00+03:00",
-   "dutyEnd": "2026-11-25T08:00:00+03:00",
+   "name": "Deva Eczanesi",
+   "address": "BARBAROS MAHALLESİ HASTANE CADDESİ NO:21/A KARAMANLI/BURDUR",
+   "phone": "0248 531 2424",
+   "dutyStart": "2026-11-25T18:00:00+03:00",
+   "dutyEnd": "2026-11-26T08:00:00+03:00",
    "approved": true,
-   "lat": 37.370262,
-   "lng": 29.82218
+   "lat": 37.368031,
+   "lng": 29.818331
   },
   {
    "district": "Merkez",
-   "name": "Çelik Eczanesi",
-   "address": "Bahçelievler Mahallesi Yunus Emre Caddesi 69/A Merkez/BURDUR",
-   "phone": "0248 232 2663",
-   "dutyStart": "2026-11-24T18:30:00+03:00",
-   "dutyEnd": "2026-11-25T08:00:00+03:00",
+   "name": "Sabir Eczanesi",
+   "address": "Yeni Mahalle Şehit Teğmen Halil Demirörs Caddesi No:16/C",
+   "phone": "0248 232 1666",
+   "dutyStart": "2026-11-25T18:30:00+03:00",
+   "dutyEnd": "2026-11-26T08:00:00+03:00",
    "approved": true,
-   "lat": 37.716789,
-   "lng": 30.263334
+   "lat": 37.722912,
+   "lng": 30.293205
   },
   {
    "district": "Tefenni",
-   "name": "Tefenni Eczanesi",
-   "address": "YOKUŞ MAHALLESİ BURDUR CADDESİ NO:4",
-   "phone": "0248 491 2036",
-   "dutyStart": "2026-11-24T18:00:00+03:00",
-   "dutyEnd": "2026-11-25T08:00:00+03:00",
+   "name": "Demirol Eczanesi",
+   "address": "YOKUŞ MAHALLESİ BURDUR CADDESİ NO:18/A",
+   "phone": "0248 491 2135",
+   "dutyStart": "2026-11-25T18:00:00+03:00",
+   "dutyEnd": "2026-11-26T08:00:00+03:00",
    "approved": true,
-   "lat": 37.308556,
-   "lng": 29.774557
+   "lat": 37.309364,
+   "lng": 29.774769
   },
   {
    "district": "Yeşilova",
-   "name": "Yeni Tekin Eczanesi",
-   "address": "MERKEZ MAHALLESİ ATATÜRK CADDESİ NO:23/B",
-   "phone": "0248 618 1616",
-   "dutyStart": "2026-11-24T17:30:00+03:00",
-   "dutyEnd": "2026-11-25T08:30:00+03:00",
+   "name": "Sağlık Eczanesi",
+   "address": "Merkez Mahallesi Atatürk Caddesi İsmail Akıncı Apt. No:28/16",
+   "phone": "0248 618 1286",
+   "dutyStart": "2026-11-25T17:30:00+03:00",
+   "dutyEnd": "2026-11-26T08:30:00+03:00",
    "approved": true,
-   "lat": 37.505325,
-   "lng": 29.754328
+   "lat": 37.505207,
+   "lng": 29.754057
   }
  ]
 }

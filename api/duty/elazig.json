@@ -1,108 +1,108 @@
 {
  "city": "Elazığ",
  "code": 23,
- "dutyDay": "2026-11-24",
- "updatedAt": "2026-11-25T00:49:27.858Z",
+ "dutyDay": "2026-11-25",
+ "updatedAt": "2026-11-25T17:08:49.135Z",
  "source": "e-Devlet TİTCK, Elazığ Eczacı Odası",
  "pharmacies": [
   {
    "district": "Baskil",
-   "name": "Şifa Eczanesi",
-   "address": "Canbeyler Mahallesi, Kıbrıs Şehitler Caddesi, No:159/2",
-   "phone": "0542 491 0590",
-   "dutyStart": "2026-11-24T18:00:00+03:00",
-   "dutyEnd": "2026-11-25T08:30:00+03:00",
+   "name": "Baskil Eczanesi",
+   "address": "Canbeyler Mah. Elazığ Cad. No:21/A",
+   "phone": "0424 511 2233",
+   "dutyStart": "2026-11-25T18:00:00+03:00",
+   "dutyEnd": "2026-11-26T08:30:00+03:00",
    "approved": true,
-   "lat": 38.567921,
-   "lng": 39.82365
+   "lat": 38.56749,
+   "lng": 38.823189
   },
   {
    "district": "Merkez",
-   "name": "Canbay Eczanesi",
-   "address": "Nailbey Mahallesi, Gazi Caddesi, No: 49/D",
-   "phone": "0533 426 1556",
-   "dutyStart": "2026-11-24T18:30:00+03:00",
-   "dutyEnd": "2026-11-25T08:30:00+03:00",
+   "name": "Aksaray Eczanesi",
+   "address": "ULUKENT MAH.17200. SOKAK NO:3/AA",
+   "phone": "0553 101 5085",
+   "dutyStart": "2026-11-25T18:30:00+03:00",
+   "dutyEnd": "2026-11-26T08:30:00+03:00",
    "approved": true,
-   "lat": 38.675179,
-   "lng": 39.2174
+   "lat": 38.689674,
+   "lng": 39.268486
   },
   {
    "district": "Merkez",
-   "name": "Özlem Eczanesi",
-   "address": "Ulukent Mah. Ulukent Cad. No:78/A",
-   "phone": "0424 212 3030",
-   "dutyStart": "2026-11-24T18:30:00+03:00",
-   "dutyEnd": "2026-11-25T08:30:00+03:00",
+   "name": "Kübra Eczanesi",
+   "address": "Nailbey Mahallesi, Akın Sokak No:20A",
+   "phone": "0424 234 0504",
+   "dutyStart": "2026-11-25T18:30:00+03:00",
+   "dutyEnd": "2026-11-26T08:30:00+03:00",
    "approved": true,
-   "lat": 38.690479,
-   "lng": 39.258816
+   "lat": 38.673729,
+   "lng": 39.219364
   },
   {
    "district": "Merkez",
-   "name": "Tuğrul Eczanesi",
-   "address": "ABDULLAHPAŞA MAH. 12. SOKAK 3 NO'LU ÇARŞI NO:61",
-   "phone": "0424 248 1956",
-   "dutyStart": "2026-11-24T18:30:00+03:00",
-   "dutyEnd": "2026-11-25T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.657238,
-   "lng": 39.144207
-  },
-  {
-   "district": "Merkez",
-   "name": "Yildiz Eczanesi",
+   "name": "Merkez Eczanesi",
    "address": "ÜNİVERSİTE MAH. YUNUS EMRE BULVARI NO:2/A",
-   "phone": "0424 236 6140",
-   "dutyStart": "2026-11-24T18:30:00+03:00",
-   "dutyEnd": "2026-11-25T08:30:00+03:00",
+   "phone": "4 242 385 953_",
+   "dutyStart": "2026-11-25T18:30:00+03:00",
+   "dutyEnd": "2026-11-26T08:30:00+03:00",
    "approved": true,
-   "lat": 38.67952,
-   "lng": 39.20731
+   "lat": 38.679626,
+   "lng": 39.207439
+  },
+  {
+   "district": "Merkez",
+   "name": "Vefa Eczanesi",
+   "address": "Abdullahpaşa Mahallesi 252. Sokak No:39A",
+   "phone": "0538 586 2119",
+   "dutyStart": "2026-11-25T18:30:00+03:00",
+   "dutyEnd": "2026-11-26T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.659126,
+   "lng": 39.154392
   },
   {
    "district": "Karakoçan",
-   "name": "Sağlık Eczanesi",
-   "address": "KIRKPINAR MAH.HASTANE CAD.NO:12",
-   "phone": "04247112525",
+   "name": "Sara Eczanesi",
+   "address": "YENİ MAH. KALECİK CAD.NO:9/E",
+   "phone": "04247115005",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.946633,
-   "lng": 40.048619
+   "lat": 38.955383,
+   "lng": 40.039575
   },
   {
    "district": "Keban",
-   "name": "Keban Eczanesi",
-   "address": "DEĞİRMENBAŞI MAH. ŞEHİT GENERAL POLAT HAŞİMOV CAD.NO:299",
-   "phone": "04245712300",
+   "name": "Taşkın Eczanesi",
+   "address": "DEĞİRMENBAŞI MAH.GENERAL POLAT HAŞİMOV CAD. NO:10",
+   "phone": "04245712525",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.793201,
-   "lng": 38.745569
+   "lat": 38.793133,
+   "lng": 38.74563
   },
   {
    "district": "Kovancilar",
-   "name": "Yilmaz Eczanesi",
-   "address": "İSMETPAŞA MAH.ASLAN CAD. NO:46/A",
-   "phone": "04246115200",
+   "name": "Yeni Kovancilar Eczanesi",
+   "address": "ÇARSI MAH. ELAZIG CAD. NO:28",
+   "phone": "04246113023",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.725741,
-   "lng": 39.876719
+   "lat": 38.717724,
+   "lng": 39.86562
   },
   {
    "district": "Palu",
-   "name": "Onur Eczanesi",
-   "address": "NUMUNE MAH CUMHURİYET BULVARI PALU BELEDİYESİ HİZMET BİNASI BLOK NO:4/5",
-   "phone": "04246512310",
+   "name": "Eylül Eczanesi",
+   "address": "NUMUNE MAH.15 TEMMUZ DİRİLİŞ CAD. NO:20/1",
+   "phone": "04246512569",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.693661,
-   "lng": 39.928305
+   "lat": 38.693205,
+   "lng": 39.927578
   }
  ],
  "sourceUrl": "https://www.elazigeczaciodasi.org.tr/nobetci-eczaneler/elazig"

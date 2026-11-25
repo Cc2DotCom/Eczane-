@@ -1,8 +1,8 @@
 {
  "city": "Ardahan",
  "code": 75,
- "dutyDay": "2026-11-24",
- "updatedAt": "2026-11-24T17:40:39.767Z",
+ "dutyDay": "2026-11-25",
+ "updatedAt": "2026-11-25T17:12:18.877Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
@@ -10,8 +10,8 @@
    "name": "Ayaz Eczanesi",
    "address": "Yeni Mahalle, Çıldırlı Aşık Şenlik Caddesi No:6/B Çıldır/Ardahan",
    "phone": "0552 409 6069",
-   "dutyStart": "2026-11-24T17:00:00+03:00",
-   "dutyEnd": "2026-11-25T17:00:00+03:00",
+   "dutyStart": "2026-11-25T17:00:00+03:00",
+   "dutyEnd": "2026-11-26T17:00:00+03:00",
    "approved": true,
    "lat": 41.122875,
    "lng": 43.137939
@@ -21,44 +21,44 @@
    "name": "Damal Eczanesi",
    "address": "Konuksever Mahallesi Atatürk Caddesi No:32",
    "phone": "0478 651 4460",
-   "dutyStart": "2026-11-24T18:00:00+03:00",
-   "dutyEnd": "2026-11-25T08:30:00+03:00",
+   "dutyStart": "2026-11-25T18:00:00+03:00",
+   "dutyEnd": "2026-11-26T08:30:00+03:00",
    "approved": true,
    "lat": 41.341,
    "lng": 42.839069
   },
   {
    "district": "Göle",
-   "name": "Emek Eczanesi",
-   "address": "Kubilay bey Mah. Kars Cad. No:10 Göle/ARDAHAN",
-   "phone": "0478 411 3019",
-   "dutyStart": "2026-11-24T18:00:00+03:00",
-   "dutyEnd": "2026-11-25T08:00:00+03:00",
+   "name": "Yeni Göle Eczanesi",
+   "address": "Salim Bey Mahallesi, Oltu Caddesi No:36 Göle/ Ardahan",
+   "phone": "0554 380 1097",
+   "dutyStart": "2026-11-25T18:00:00+03:00",
+   "dutyEnd": "2026-11-26T08:00:00+03:00",
    "approved": true,
-   "lat": 40.793171,
-   "lng": 42.610214
+   "lat": 40.793003,
+   "lng": 42.607552
   },
   {
    "district": "Hanak",
    "name": "Uygar Eczanesi",
    "address": "Hürriye Mahallesi, Atatürk Caddesi No:89/A Hanak/Ardahan",
    "phone": "0501 525 9116",
-   "dutyStart": "2026-11-24T17:00:00+03:00",
-   "dutyEnd": "2026-11-25T08:00:00+03:00",
+   "dutyStart": "2026-11-25T17:00:00+03:00",
+   "dutyEnd": "2026-11-26T08:00:00+03:00",
    "approved": true,
    "lat": 41.23756,
    "lng": 42.843979
   },
   {
    "district": "Merkez",
-   "name": "Yildirim Eczanesi",
-   "address": "Kaptanpaşa Mahallesi Kongre Caddesi No:5/A",
-   "phone": "0478 211 0505",
-   "dutyStart": "2026-11-24T18:00:00+03:00",
-   "dutyEnd": "2026-11-25T08:30:00+03:00",
+   "name": "Manolya Eczanesi",
+   "address": "kaptanpaşa mah. kazım karabekir cad. no:2 (7/A) MERKEZ/ARDAHAN",
+   "phone": "0478 502 2828",
+   "dutyStart": "2026-11-25T18:00:00+03:00",
+   "dutyEnd": "2026-11-26T08:30:00+03:00",
    "approved": true,
-   "lat": 41.112705,
-   "lng": 42.702023
+   "lat": 41.112274,
+   "lng": 42.701008
   }
  ]
 }

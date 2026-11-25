@@ -1,15 +1,15 @@
 {
  "city": "Kilis",
  "code": 79,
- "dutyDay": "2026-11-24",
- "updatedAt": "2026-11-25T00:49:58.057Z",
+ "dutyDay": "2026-11-25",
+ "updatedAt": "2026-11-25T17:12:28.009Z",
  "source": "Gaziantep Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Göktürk Eczanesi",
-   "address": "Yaşar Aktürk Mahallesi Av. Mehmet Abdi Bulut Caddesi No:15/D Merkez KİLİS",
-   "phone": "05451747996",
+   "name": "Güven Eczanesi",
+   "address": "CUMHURİYET CAD. NO:20 (KİLİS KADI CAMİİ YANİ)",
+   "phone": "03488132773",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,

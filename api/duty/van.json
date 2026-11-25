@@ -1,20 +1,20 @@
 {
  "city": "Van",
  "code": 65,
- "dutyDay": "2026-11-24",
- "updatedAt": "2026-11-24T17:40:18.302Z",
+ "dutyDay": "2026-11-25",
+ "updatedAt": "2026-11-25T17:11:57.984Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Erciş",
-   "name": "Emek Eczanesi",
-   "address": "Kışla Mah. Şehitler Cad. Dış Kapı 91D",
-   "phone": "0545 975 4924",
-   "dutyStart": "2026-11-24T18:00:00+03:00",
-   "dutyEnd": "2026-11-25T08:30:00+03:00",
+   "name": "Engin Eczanesi",
+   "address": "Bayazıt Mah. Zeylan Cad. No:46/A",
+   "phone": "0543 577 1890",
+   "dutyStart": "2026-11-25T18:00:00+03:00",
+   "dutyEnd": "2026-11-26T08:30:00+03:00",
    "approved": true,
-   "lat": 39.017109,
-   "lng": 43.352234
+   "lat": 39.030125,
+   "lng": 43.359303
   }
  ]
 }

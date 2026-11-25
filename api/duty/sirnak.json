@@ -1,75 +1,75 @@
 {
  "city": "Şırnak",
  "code": 73,
- "dutyDay": "2026-11-24",
- "updatedAt": "2026-11-24T20:07:54.839Z",
+ "dutyDay": "2026-11-25",
+ "updatedAt": "2026-11-25T17:12:15.424Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Beytüşşebap",
-   "name": "Sidar Eczanesi",
-   "address": "Aliçavuş Mahallesi 108. Sokak No:32/A",
-   "phone": "0501 329 7480",
-   "dutyStart": "2026-11-24T18:00:00+03:00",
-   "dutyEnd": "2026-11-25T08:00:00+03:00",
+   "name": "Foria Eczanesi",
+   "address": "ELKİ MAHALLE, 5.CADDE NO:11/B",
+   "phone": "0539 430 9956",
+   "dutyStart": "2026-11-25T18:00:00+03:00",
+   "dutyEnd": "2026-11-26T08:00:00+03:00",
    "approved": true,
-   "lat": 37.575642,
-   "lng": 43.16246
+   "lat": 37.570683,
+   "lng": 43.164711
   },
   {
    "district": "Cizre",
-   "name": "Mem U Zin Eczanesi",
-   "address": "Sur Mahallesi Pınarlı Sokak No:7/A",
-   "phone": "0543 337 2394",
-   "dutyStart": "2026-11-24T18:00:00+03:00",
-   "dutyEnd": "2026-11-25T08:00:00+03:00",
+   "name": "Asime Eczanesi",
+   "address": "Şah Mahallesi Memuzin Bulvarı No:141/A Cizre/ŞIRNAK",
+   "phone": "0542 722 2775",
+   "dutyStart": "2026-11-25T18:00:00+03:00",
+   "dutyEnd": "2026-11-26T08:00:00+03:00",
    "approved": true,
-   "lat": 37.321728,
-   "lng": 42.185204
+   "lat": 37.326046,
+   "lng": 42.18515
   },
   {
    "district": "İdil",
-   "name": "Alp Eczanesi",
-   "address": "Aşağı Mahalle Hastane Caddesi No:7/L İdil/ Şırnak",
-   "phone": "0553 144 7461",
-   "dutyStart": "2026-11-24T18:00:00+03:00",
-   "dutyEnd": "2026-11-25T08:00:00+03:00",
+   "name": "İdil Derman Eczanesi",
+   "address": "Aşağı Mahalle Hastane Caddesi No:7/E",
+   "phone": "0538 683 6429",
+   "dutyStart": "2026-11-25T18:00:00+03:00",
+   "dutyEnd": "2026-11-26T08:00:00+03:00",
    "approved": true,
-   "lat": 37.340584,
-   "lng": 41.901505
+   "lat": 37.34066,
+   "lng": 41.901443
   },
   {
    "district": "Merkez",
-   "name": "Bayram Eczanesi",
-   "address": "Bahçelievler Mahallesi Nucan Caddesi No:1/E",
-   "phone": "0543 474 4841",
-   "dutyStart": "2026-11-24T17:00:00+03:00",
-   "dutyEnd": "2026-11-25T08:00:00+03:00",
+   "name": "Embiya Eczanesi",
+   "address": "Bahçelievler Mahallesi Nucan Caddesi No:3/I",
+   "phone": "0544 412 0716",
+   "dutyStart": "2026-11-25T17:00:00+03:00",
+   "dutyEnd": "2026-11-26T08:00:00+03:00",
    "approved": true,
-   "lat": 37.51823,
-   "lng": 42.444427
+   "lat": 37.518063,
+   "lng": 42.44426
   },
   {
    "district": "Silopi",
-   "name": "Deva Eczanesi",
-   "address": "YENİŞEHİR MAHALLESİ 155. SOKAK NO:12/A",
-   "phone": "0486 502 9841",
-   "dutyStart": "2026-11-24T17:00:00+03:00",
-   "dutyEnd": "2026-11-25T08:00:00+03:00",
+   "name": "Mavi Eczanesi",
+   "address": "Yeşiltepe Mahallesi 63. Cadde No:12/D",
+   "phone": "0486 518 2222",
+   "dutyStart": "2026-11-25T17:00:00+03:00",
+   "dutyEnd": "2026-11-26T08:00:00+03:00",
    "approved": true,
-   "lat": 37.260941,
-   "lng": 42.455494
+   "lat": 37.249115,
+   "lng": 42.468941
   },
   {
    "district": "Uludere",
-   "name": "Deniz Eczanesi",
-   "address": "Yeşilyuva Mah. Vatan Cad. No:13/A",
-   "phone": "0486 351 2122",
-   "dutyStart": "2026-11-24T18:00:00+03:00",
-   "dutyEnd": "2026-11-25T08:00:00+03:00",
+   "name": "Aslan Eczanesi",
+   "address": "YEŞİLYOVA MAHALLESİ VATAN CADDESİ NO:10/D ULUDERE/ŞIRNAK",
+   "phone": "0486 351 3030",
+   "dutyStart": "2026-11-25T18:00:00+03:00",
+   "dutyEnd": "2026-11-26T08:00:00+03:00",
    "approved": true,
-   "lat": 37.446743,
-   "lng": 42.844856
+   "lat": 37.446953,
+   "lng": 42.845585
   }
  ]
 }
