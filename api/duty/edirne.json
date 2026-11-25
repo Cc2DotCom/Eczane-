@@ -2,7 +2,7 @@
  "city": "Edirne",
  "code": 22,
  "dutyDay": "2026-11-25",
- "updatedAt": "2026-11-25T19:11:58.627Z",
+ "updatedAt": "2026-11-25T22:34:49.107Z",
  "source": "Edirne Eczacı Odası",
  "pharmacies": [
   {
@@ -26,17 +26,6 @@
    "approved": true,
    "lat": 41.636712,
    "lng": 26.609303
-  },
-  {
-   "district": "Merkez",
-   "name": "Baraj Eczanesi",
-   "address": "BIRINCI MURAT MAH.ZÜBEYDE HANIM CAD.36 SOK.ELBIKO 84 APT.D-11",
-   "phone": "2842364017",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 41.663985,
-   "lng": 26.585526
   },
   {
    "district": "Enez",
