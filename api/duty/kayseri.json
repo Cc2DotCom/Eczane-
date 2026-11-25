@@ -2,7 +2,7 @@
  "city": "Kayseri",
  "code": 38,
  "dutyDay": "2026-11-24",
- "updatedAt": "2026-11-24T23:02:10.675Z",
+ "updatedAt": "2026-11-25T00:49:41.457Z",
  "source": "Kayseri Eczacı Odası",
  "pharmacies": [
   {
@@ -18,14 +18,14 @@
   },
   {
    "district": "Kocasinan",
-   "name": "Yiğit Eczanesi",
-   "address": "BEYAZŞEHİR MAH. KOÇKAYA CAD. 19/D",
-   "phone": "03522512755",
+   "name": "Günaydın Eczanesi",
+   "address": "Erkilet Camikebir Mah. Mehmet Tarman Cad. 7/A",
+   "phone": "03523512211",
    "dutyStart": "2026-11-24T08:30:00+03:00",
    "dutyEnd": "2026-11-25T08:30:00+03:00",
    "approved": true,
-   "lat": 38.784051,
-   "lng": 35.586387
+   "lat": 38.780932,
+   "lng": 35.454409
   },
   {
    "district": "Kocasinan",
@@ -40,17 +40,6 @@
   },
   {
    "district": "Kocasinan",
-   "name": "Günaydın Eczanesi",
-   "address": "Erkilet Camikebir Mah. Mehmet Tarman Cad. 7/A",
-   "phone": "03523512211",
-   "dutyStart": "2026-11-24T08:30:00+03:00",
-   "dutyEnd": "2026-11-25T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.780932,
-   "lng": 35.454409
-  },
-  {
-   "district": "Kocasinan",
    "name": "Emel Eczanesi",
    "address": "Gevher Nesibe Mah. Atatürk Bulv. No: 10/B",
    "phone": "03522313522",
@@ -59,6 +48,17 @@
    "approved": true,
    "lat": 38.721547,
    "lng": 35.482526
+  },
+  {
+   "district": "Kocasinan",
+   "name": "Yiğit Eczanesi",
+   "address": "BEYAZŞEHİR MAH. KOÇKAYA CAD. 19/D",
+   "phone": "03522512755",
+   "dutyStart": "2026-11-24T08:30:00+03:00",
+   "dutyEnd": "2026-11-25T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.784051,
+   "lng": 35.586387
   }
  ],
  "sourceUrl": "https://www.kayserieo.org.tr/nobetci-eczaneler"
