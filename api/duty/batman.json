@@ -1,97 +1,97 @@
 {
  "city": "Batman",
  "code": 72,
- "dutyDay": "2026-11-25",
- "updatedAt": "2026-11-25T17:12:12.545Z",
+ "dutyDay": "2026-11-26",
+ "updatedAt": "2026-11-26T16:52:45.556Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Beşiri",
-   "name": "Soylu Eczanesi",
-   "address": "BAĞDU MAH.YAŞAR KEMAL BULV.NO:13/A",
-   "phone": "0488 311 3303",
-   "dutyStart": "2026-11-25T18:30:00+03:00",
-   "dutyEnd": "2026-11-26T08:30:00+03:00",
+   "name": "Şifa Eczanesi",
+   "address": "Bağdu Mah. Yaşar Kemal Cad. No:11/A",
+   "phone": "0531 839 4838",
+   "dutyStart": "2026-11-26T18:30:00+03:00",
+   "dutyEnd": "2026-11-27T08:30:00+03:00",
    "approved": true,
-   "lat": 37.922363,
-   "lng": 41.290009
+   "lat": 37.922394,
+   "lng": 41.289978
   },
   {
    "district": "Gercüş",
-   "name": "Gercüş Eczanesi",
-   "address": "Bağlarbaşı Mah. Mehmet Nuri Kaya Cad. No:24/B",
-   "phone": "0488 341 2172",
-   "dutyStart": "2026-11-25T17:00:00+03:00",
-   "dutyEnd": "2026-11-26T08:00:00+03:00",
+   "name": "Vefa Eczanesi",
+   "address": "BAĞLARBAŞI MAH. KAZIM KOYUNCU BULV.NO:51/B",
+   "phone": "0488 341 2555",
+   "dutyStart": "2026-11-26T17:00:00+03:00",
+   "dutyEnd": "2026-11-27T08:00:00+03:00",
    "approved": true,
-   "lat": 37.567062,
-   "lng": 41.38591
+   "lat": 37.568027,
+   "lng": 41.386112
   },
   {
    "district": "Kozluk",
-   "name": "Gümüş Eczanesi",
-   "address": "Sağlık Mah. 2404 Sok. Yaşam Kent Sit. B Blok No:24/Z5",
-   "phone": "0551 364 4846",
-   "dutyStart": "2026-11-25T17:00:00+03:00",
-   "dutyEnd": "2026-11-26T08:00:00+03:00",
-   "approved": true,
-   "lat": 38.16341,
-   "lng": 41.499279
-  },
-  {
-   "district": "Merkez",
-   "name": "Adar Eczanesi",
-   "address": "RAMAN MAH.EDİP SOLMAZ BULV.NO:101/B MERKEZ/BATMAN",
-   "phone": "0488 212 3949",
-   "dutyStart": "2026-11-25T18:00:00+03:00",
-   "dutyEnd": "2026-11-26T08:30:00+03:00",
-   "approved": true,
-   "lat": 37.887714,
-   "lng": 41.125572
-  },
-  {
-   "district": "Merkez",
-   "name": "Başaran Eczanesi",
-   "address": "BELDE MAH.ÖMER MUHTAR BULVARI NO:85/BC",
-   "phone": "0488 214 8595",
-   "dutyStart": "2026-11-25T18:00:00+03:00",
-   "dutyEnd": "2026-11-26T08:30:00+03:00",
-   "approved": true,
-   "lat": 37.900826,
-   "lng": 41.138454
-  },
-  {
-   "district": "Merkez",
-   "name": "Hira Eczanesi",
-   "address": "Pınarbaşı Mah.2209 Sok.No:7/A",
-   "phone": "0488 213 5511",
-   "dutyStart": "2026-11-25T18:00:00+03:00",
-   "dutyEnd": "2026-11-26T08:30:00+03:00",
-   "approved": true,
-   "lat": 37.894196,
-   "lng": 41.128773
-  },
-  {
-   "district": "Merkez",
    "name": "Ebru Eczanesi",
-   "address": "BELDE MAH.3243 SOK.NO:5/E",
-   "phone": "0488 212 1073",
-   "dutyStart": "2026-11-25T18:30:00+03:00",
-   "dutyEnd": "2026-11-26T08:30:00+03:00",
+   "address": "Sağlık Mah. 2404 Sok. No:22 İç Kapı No:Z4",
+   "phone": "0534 657 7575",
+   "dutyStart": "2026-11-26T17:00:00+03:00",
+   "dutyEnd": "2026-11-27T08:00:00+03:00",
    "approved": true,
-   "lat": 37.911606,
-   "lng": 41.138603
+   "lat": 38.163551,
+   "lng": 41.499767
+  },
+  {
+   "district": "Merkez",
+   "name": "İstanbul Eczanesi",
+   "address": "KÜLTÜR MAH.MAHATMA GANDİ CAD. NO:30/E MERKEZ BATMAN",
+   "phone": "0488 213 3737",
+   "dutyStart": "2026-11-26T18:00:00+03:00",
+   "dutyEnd": "2026-11-27T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.897045,
+   "lng": 41.12645
+  },
+  {
+   "district": "Merkez",
+   "name": "Lokman Hekim Eczanesi",
+   "address": "Çamlıtepe Mah. TPAO Bulv. Dış Kapı No:112/1A",
+   "phone": "0546 720 7016",
+   "dutyStart": "2026-11-26T18:00:00+03:00",
+   "dutyEnd": "2026-11-27T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.893261,
+   "lng": 41.150822
+  },
+  {
+   "district": "Merkez",
+   "name": "Yeşil Eczanesi",
+   "address": "KARDELEN MAH.ADAR CAD.NO:16/2",
+   "phone": "0488 502 1304",
+   "dutyStart": "2026-11-26T18:00:00+03:00",
+   "dutyEnd": "2026-11-27T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.832531,
+   "lng": 41.084595
+  },
+  {
+   "district": "Merkez",
+   "name": "Malabadi Eczanesi",
+   "address": "GÜLTEPE MAH.EFLATUN CAD.NO:2-E",
+   "phone": "0488 221 0198",
+   "dutyStart": "2026-11-26T18:30:00+03:00",
+   "dutyEnd": "2026-11-27T08:30:00+03:00",
+   "approved": true,
+   "lat": 37.913574,
+   "lng": 41.14043
   },
   {
    "district": "Sason",
-   "name": "Şifa Eczanesi",
-   "address": "AŞAĞI MAH.HASTANE SOK.NO:32 SASON",
-   "phone": "0488 461 4000",
-   "dutyStart": "2026-11-25T17:00:00+03:00",
-   "dutyEnd": "2026-11-26T08:00:00+03:00",
+   "name": "Erdem Eczanesi",
+   "address": "AŞAĞI MAH. HASTANE SOK. NO:34/A SASON/BATMAN",
+   "phone": "0488 461 3030",
+   "dutyStart": "2026-11-26T17:00:00+03:00",
+   "dutyEnd": "2026-11-27T08:00:00+03:00",
    "approved": true,
-   "lat": 38.33952,
-   "lng": 41.412128
+   "lat": 38.339565,
+   "lng": 41.412251
   }
  ]
 }

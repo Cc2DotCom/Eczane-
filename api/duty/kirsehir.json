@@ -1,53 +1,53 @@
 {
  "city": "Kırşehir",
  "code": 40,
- "dutyDay": "2026-11-25",
- "updatedAt": "2026-11-26T00:27:32.089Z",
+ "dutyDay": "2026-11-26",
+ "updatedAt": "2026-11-26T16:51:10.782Z",
  "source": "e-Devlet TİTCK, Aksaray-Kırşehir Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Kırşehir Eczanesi",
-   "address": "AHİ EVRAN MAH.729.SOKAK NO:1/A",
-   "phone": "0386 213 5157",
-   "dutyStart": "2026-11-25T18:00:00+03:00",
-   "dutyEnd": "2026-11-26T08:00:00+03:00",
+   "name": "Ahi Eczanesi",
+   "address": "KUŞDİLİ MAH. TERME CAD.MİNİ ÇARŞI NO 12/A",
+   "phone": "0386 214 4600",
+   "dutyStart": "2026-11-26T18:00:00+03:00",
+   "dutyEnd": "2026-11-27T08:00:00+03:00",
    "approved": true,
-   "lat": 39.148758,
-   "lng": 34.159431
+   "lat": 39.14547,
+   "lng": 34.160347
   },
   {
    "district": "Merkez",
-   "name": "Şifa Eczanesi",
-   "address": "AHİ EVRAN MAH. AHİ EVRAN CAD. AGAH APT. NO:2B KIRŞEHİR UAVT:5051710340",
-   "phone": "0386 213 3918",
-   "dutyStart": "2026-11-25T18:00:00+03:00",
-   "dutyEnd": "2026-11-26T08:00:00+03:00",
+   "name": "Gülver Eczanesi",
+   "address": "AŞIKPAŞA MAHALLESİ LİSE CADDESİ ONURAY PASAJI NO:10",
+   "phone": "0386 212 3688",
+   "dutyStart": "2026-11-26T18:00:00+03:00",
+   "dutyEnd": "2026-11-27T08:00:00+03:00",
    "approved": true,
-   "lat": 39.148857,
-   "lng": 34.15976
+   "lat": 39.1469,
+   "lng": 34.161926
   },
   {
    "district": "Kaman",
-   "name": "Deva Eczanesi",
-   "address": "ORTA MAHALLE ISTIKLAL CAD. NO:92",
-   "phone": "3867122121",
+   "name": "Defne Eczanesi",
+   "address": "Sarıuşağı Mah. Turgut Aslan Cad. 233.Sokak No:28",
+   "phone": "03867128208",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.357578,
-   "lng": 33.724427
+   "lat": 39.356283,
+   "lng": 33.726513
   },
   {
    "district": "Mucur",
-   "name": "Emin Eczanesi",
-   "address": "Hamidiye Mah.İnönü Cad. No:16",
-   "phone": "03868126027",
+   "name": "Mucur Eczanesi",
+   "address": "Yenice Mah. Enver Paşa Cad. No : 34/A",
+   "phone": "03868124588",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.062735,
-   "lng": 34.376231
+   "lat": 39.064548,
+   "lng": 34.377001
   }
  ],
  "sourceUrl": "https://www.aksarayeo.org.tr/nobetci-eczaneler"

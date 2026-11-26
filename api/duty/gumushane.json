@@ -1,75 +1,75 @@
 {
  "city": "Gümüşhane",
  "code": 29,
- "dutyDay": "2026-11-25",
- "updatedAt": "2026-11-25T17:09:04.892Z",
+ "dutyDay": "2026-11-26",
+ "updatedAt": "2026-11-26T16:49:59.496Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Kelkit",
-   "name": "Sağlık Eczanesi",
-   "address": "Cumhuriyet Mahallesi, Aydın Doğan Caddesi, No:34/B KELKİT / GÜMÜŞHANE",
-   "phone": "0541 317 0029",
-   "dutyStart": "2026-11-25T18:00:00+03:00",
-   "dutyEnd": "2026-11-26T07:30:00+03:00",
+   "name": "Deva Eczanesi",
+   "address": "Cumhuriyet Mahallesi, Aydın Doğan Caddesi No:164\\A",
+   "phone": "0543 521 9251",
+   "dutyStart": "2026-11-26T18:00:00+03:00",
+   "dutyEnd": "2026-11-27T07:30:00+03:00",
    "approved": true,
-   "lat": 40.131985,
-   "lng": 39.435947
+   "lat": 40.128059,
+   "lng": 39.435345
   },
   {
    "district": "Köse",
-   "name": "Nur Eczanesi",
-   "address": "Yeni Mahalle, Hilal Sokak, No: 6/A",
-   "phone": "0545 403 5180",
-   "dutyStart": "2026-11-25T18:00:00+03:00",
-   "dutyEnd": "2026-11-26T08:00:00+03:00",
+   "name": "Huzur Eczanesi",
+   "address": "Oltan Sungurlu Caddesi, No:45 KÖSE/GÜMÜŞHANE",
+   "phone": "0456 411 5202",
+   "dutyStart": "2026-11-26T18:00:00+03:00",
+   "dutyEnd": "2026-11-27T08:00:00+03:00",
    "approved": true,
-   "lat": 40.20871,
-   "lng": 39.657932
+   "lat": 40.20927,
+   "lng": 39.653568
   },
   {
    "district": "Kürtün",
-   "name": "Soylu Eczanesi",
-   "address": "Aşağı Uluköy Mahallesi, Uluköy Caddesi, No:14A-14B KÜRTÜN/ GÜMÜŞHANE",
-   "phone": "0554 626 5387",
-   "dutyStart": "2026-11-25T18:00:00+03:00",
-   "dutyEnd": "2026-11-26T08:00:00+03:00",
+   "name": "Karadeniz Eczanesi",
+   "address": "Belediye Caddesi, No:1/A KÜRTÜN/GÜMÜŞHANE",
+   "phone": "0456 711 6367",
+   "dutyStart": "2026-11-26T18:00:00+03:00",
+   "dutyEnd": "2026-11-27T08:00:00+03:00",
    "approved": true,
-   "lat": 40.703049,
-   "lng": 39.085773
+   "lat": 40.700687,
+   "lng": 39.088238
   },
   {
    "district": "Merkez",
-   "name": "Yüce Eczanesi",
-   "address": "Bağlarbaşı Mahallesi, Kazım Karabekir Caddesi No:28/B GÜMÜŞHANE",
-   "phone": "0456 213 7083",
-   "dutyStart": "2026-11-25T18:00:00+03:00",
-   "dutyEnd": "2026-11-26T08:00:00+03:00",
+   "name": "Sağlık Eczanesi",
+   "address": "Karaer Mahallesi, Atatürk Caddesi, No:13/ A GÜMÜŞHANE",
+   "phone": "0456 213 4142",
+   "dutyStart": "2026-11-26T18:00:00+03:00",
+   "dutyEnd": "2026-11-27T08:00:00+03:00",
    "approved": true,
-   "lat": 40.436363,
-   "lng": 39.51265
+   "lat": 40.458946,
+   "lng": 39.479164
   },
   {
    "district": "Şiran",
-   "name": "Şifa Eczanesi",
-   "address": "Tekke Mahallesi Şehit Teğmen Tuna Kara Caddesi No:39\\B ŞİRAN/GÜMÜŞHANE",
-   "phone": "0456 511 8401",
-   "dutyStart": "2026-11-25T18:00:00+03:00",
-   "dutyEnd": "2026-11-26T08:00:00+03:00",
+   "name": "Giriftinoğlu Eczanesi",
+   "address": "Tekke Mahallesi, Şehit Tuna Kara Caddesi No:17/B ŞİRAN /GÜMÜŞHANE",
+   "phone": "0456 511 7083",
+   "dutyStart": "2026-11-26T18:00:00+03:00",
+   "dutyEnd": "2026-11-27T08:00:00+03:00",
    "approved": true,
-   "lat": 40.188728,
-   "lng": 39.124016
+   "lat": 40.188923,
+   "lng": 39.124226
   },
   {
    "district": "Torul",
-   "name": "Yaren Eczanesi",
-   "address": "Tugrulbey mah. Atatürk cad. No:109 Torul/Gümüşhane",
-   "phone": "0538 943 9172",
-   "dutyStart": "2026-11-25T18:00:00+03:00",
-   "dutyEnd": "2026-11-26T08:00:00+03:00",
+   "name": "Öztürk Eczanesi",
+   "address": "Atatürk Caddesi NO:66 TORUL/GÜMÜŞHANE",
+   "phone": "0456 611 2275",
+   "dutyStart": "2026-11-26T18:00:00+03:00",
+   "dutyEnd": "2026-11-27T08:00:00+03:00",
    "approved": true,
-   "lat": 40.560089,
-   "lng": 39.29538
+   "lat": 40.558449,
+   "lng": 39.294491
   }
  ]
 }
