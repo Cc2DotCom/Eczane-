@@ -2,20 +2,9 @@
  "city": "Malatya",
  "code": 44,
  "dutyDay": "2026-11-26",
- "updatedAt": "2026-11-26T18:58:52.719Z",
+ "updatedAt": "2026-11-26T22:22:59.363Z",
  "source": "Malatya Eczacı Odası",
  "pharmacies": [
-  {
-   "district": "Merkez",
-   "name": "Özşifa Eczanesi",
-   "address": "HALFETİN MAH. AKPINAR, İBRAHİM PERK CAMİİ CİVARI, HEDİYELİK KAYISI SATILAN BÖLGE CİVARI",
-   "phone": "05538690146",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 37.4879562,
-   "lng": 37.2934941
-  },
   {
    "district": "Merkez",
    "name": "Emeksiz Eczanesi",
@@ -26,6 +15,17 @@
    "approved": true,
    "lat": 38.3435687,
    "lng": 38.3124485
+  },
+  {
+   "district": "Merkez",
+   "name": "Özşifa Eczanesi",
+   "address": "HALFETİN MAH. AKPINAR, İBRAHİM PERK CAMİİ CİVARI, HEDİYELİK KAYISI SATILAN BÖLGE CİVARI",
+   "phone": "05538690146",
+   "dutyStart": null,
+   "dutyEnd": null,
+   "approved": true,
+   "lat": 37.4879562,
+   "lng": 37.2934941
   },
   {
    "district": "Merkez",

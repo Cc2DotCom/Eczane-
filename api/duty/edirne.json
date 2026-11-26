@@ -2,20 +2,9 @@
  "city": "Edirne",
  "code": 22,
  "dutyDay": "2026-11-26",
- "updatedAt": "2026-11-26T18:58:24.109Z",
+ "updatedAt": "2026-11-26T22:22:31.543Z",
  "source": "Edirne Eczacı Odası",
  "pharmacies": [
-  {
-   "district": "Merkez",
-   "name": "Derdiman Eczanesi",
-   "address": "ŞÜKRÜPAŞA MAH. AHMET YALÇIN SARIGÖL CAD. ŞEHİT YAVUZ ZOGO APT. NO:11",
-   "phone": "02842362238",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 41.665171,
-   "lng": 26.598461
-  },
   {
    "district": "Merkez",
    "name": "Pirko Eczanesi",
