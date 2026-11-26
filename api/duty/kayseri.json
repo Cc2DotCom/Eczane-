@@ -2,19 +2,30 @@
  "city": "Kayseri",
  "code": 38,
  "dutyDay": "2026-11-25",
- "updatedAt": "2026-11-25T22:35:04.765Z",
+ "updatedAt": "2026-11-26T00:27:29.558Z",
  "source": "Kayseri Eczacı Odası",
  "pharmacies": [
   {
    "district": "Kocasinan",
-   "name": "Marmara Eczanesi",
-   "address": "ŞEKER MAH. MUHSİN YAZICIOĞLU BULV. NO:74/L",
-   "phone": "03523362515",
+   "name": "Umut Eczanesi",
+   "address": "GEVHER NESİBE MAH. ATATÜRK BULV. NO:104/F",
+   "phone": "03522210864",
    "dutyStart": "2026-11-25T08:30:00+03:00",
    "dutyEnd": "2026-11-26T08:30:00+03:00",
    "approved": true,
-   "lat": 38.770805,
-   "lng": 35.413164
+   "lat": 38.727748,
+   "lng": 35.479427
+  },
+  {
+   "district": "Kocasinan",
+   "name": "Yilmaz Eczanesi",
+   "address": "Mimarsinan Bahçelievler Mah. Gesi Cad. No:90",
+   "phone": "03522400440",
+   "dutyStart": "2026-11-25T08:30:00+03:00",
+   "dutyEnd": "2026-11-26T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.779413,
+   "lng": 35.592451
   },
   {
    "district": "Melikgazi",
@@ -29,14 +40,14 @@
   },
   {
    "district": "Kocasinan",
-   "name": "Yilmaz Eczanesi",
-   "address": "Mimarsinan Bahçelievler Mah. Gesi Cad. No:90",
-   "phone": "03522400440",
+   "name": "Marmara Eczanesi",
+   "address": "ŞEKER MAH. MUHSİN YAZICIOĞLU BULV. NO:74/L",
+   "phone": "03523362515",
    "dutyStart": "2026-11-25T08:30:00+03:00",
    "dutyEnd": "2026-11-26T08:30:00+03:00",
    "approved": true,
-   "lat": 38.779413,
-   "lng": 35.592451
+   "lat": 38.770805,
+   "lng": 35.413164
   },
   {
    "district": "Kocasinan",
@@ -48,17 +59,6 @@
    "approved": true,
    "lat": 38.726364,
    "lng": 35.480819
-  },
-  {
-   "district": "Kocasinan",
-   "name": "Umut Eczanesi",
-   "address": "GEVHER NESİBE MAH. ATATÜRK BULV. NO:104/F",
-   "phone": "03522210864",
-   "dutyStart": "2026-11-25T08:30:00+03:00",
-   "dutyEnd": "2026-11-26T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.727748,
-   "lng": 35.479427
   }
  ],
  "sourceUrl": "https://www.kayserieo.org.tr/nobetci-eczaneler"
