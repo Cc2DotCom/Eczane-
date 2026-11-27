@@ -2,7 +2,7 @@
  "city": "Kayseri",
  "code": 38,
  "dutyDay": "2026-11-26",
- "updatedAt": "2026-11-26T22:22:51.647Z",
+ "updatedAt": "2026-11-27T00:38:37.222Z",
  "source": "Kayseri Eczacı Odası",
  "pharmacies": [
   {
@@ -17,15 +17,15 @@
    "lng": 35.479925
   },
   {
-   "district": "Kocasinan",
-   "name": "Güngören Eczanesi",
-   "address": "ŞEKER MAH. MUHSİN YAZICIOĞLU BULV. NO:74/D",
-   "phone": "03523366200",
+   "district": "Melikgazi",
+   "name": "Yeşilyurt Eczanesi",
+   "address": "YEŞİLYURT MAH. 3220. CAD. NO:8/2D",
+   "phone": "03525132288",
    "dutyStart": "2026-11-26T08:30:00+03:00",
    "dutyEnd": "2026-11-27T08:30:00+03:00",
    "approved": true,
-   "lat": 38.769946,
-   "lng": 35.413188
+   "lat": 38.792786,
+   "lng": 35.621207
   },
   {
    "district": "Kocasinan",
@@ -40,17 +40,6 @@
   },
   {
    "district": "Melikgazi",
-   "name": "Yeşilyurt Eczanesi",
-   "address": "YEŞİLYURT MAH. 3220. CAD. NO:8/2D",
-   "phone": "03525132288",
-   "dutyStart": "2026-11-26T08:30:00+03:00",
-   "dutyEnd": "2026-11-27T08:30:00+03:00",
-   "approved": true,
-   "lat": 38.792786,
-   "lng": 35.621207
-  },
-  {
-   "district": "Melikgazi",
    "name": "İşler Eczanesi",
    "address": "Tacettinveli Mah. Lalezade Cad. 45/D",
    "phone": "03522200094",
@@ -59,6 +48,17 @@
    "approved": true,
    "lat": 38.713376,
    "lng": 35.494773
+  },
+  {
+   "district": "Kocasinan",
+   "name": "Güngören Eczanesi",
+   "address": "ŞEKER MAH. MUHSİN YAZICIOĞLU BULV. NO:74/D",
+   "phone": "03523366200",
+   "dutyStart": "2026-11-26T08:30:00+03:00",
+   "dutyEnd": "2026-11-27T08:30:00+03:00",
+   "approved": true,
+   "lat": 38.769946,
+   "lng": 35.413188
   }
  ],
  "sourceUrl": "https://www.kayserieo.org.tr/nobetci-eczaneler"
