@@ -1,86 +1,86 @@
 {
  "city": "Sinop",
  "code": 57,
- "dutyDay": "2026-11-26",
- "updatedAt": "2026-11-26T16:52:09.316Z",
+ "dutyDay": "2026-11-27",
+ "updatedAt": "2026-11-27T16:37:39.753Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Ayancık",
-   "name": "Yüksel Eczanesi",
-   "address": "YALI MAH. ATATÜRK CAD. NO:32/A",
-   "phone": "0368 613 1631",
-   "dutyStart": "2026-11-26T17:00:00+03:00",
-   "dutyEnd": "2026-11-27T09:00:00+03:00",
+   "name": "Güven Eczanesi",
+   "address": "YALI MAH. ATATÜRK CAD. NO:24/A",
+   "phone": "0368 613 3388",
+   "dutyStart": "2026-11-27T17:00:00+03:00",
+   "dutyEnd": "2026-11-28T09:00:00+03:00",
    "approved": true,
-   "lat": 41.943409,
-   "lng": 34.588257
+   "lat": 41.943932,
+   "lng": 34.588242
   },
   {
    "district": "Boyabat",
-   "name": "Çınar Eczanesi",
-   "address": "ÇAMLICA MAH. EROL DEMİRKOL CAD. NO:3/D",
-   "phone": "0545 889 7369",
-   "dutyStart": "2026-11-26T18:00:00+03:00",
-   "dutyEnd": "2026-11-27T08:00:00+03:00",
+   "name": "Anka Eczanesi",
+   "address": "CAMİKEBİR MAH. ADNAN MENDERES BUL. NO:39/F",
+   "phone": "0541 845 1090",
+   "dutyStart": "2026-11-27T18:00:00+03:00",
+   "dutyEnd": "2026-11-28T08:00:00+03:00",
    "approved": true,
-   "lat": 41.463215,
-   "lng": 34.783539
+   "lat": 41.465919,
+   "lng": 34.771851
   },
   {
    "district": "Durağan",
-   "name": "Altinkaynak Eczanesi",
-   "address": "MERKEZ MAH. PLEVNE CAD. NO:17/2",
-   "phone": "0368 416 1451",
-   "dutyStart": "2026-11-26T18:00:00+03:00",
-   "dutyEnd": "2026-11-27T08:30:00+03:00",
+   "name": "Erdoğan Eczanesi",
+   "address": "MERKEZ MAH. YUSUF KEMAL TENGİRŞEK CD. NO: 30",
+   "phone": "0368 416 2277",
+   "dutyStart": "2026-11-27T18:00:00+03:00",
+   "dutyEnd": "2026-11-28T08:30:00+03:00",
    "approved": true,
-   "lat": 41.416012,
-   "lng": 35.056438
+   "lat": 41.419613,
+   "lng": 35.053459
   },
   {
    "district": "Erfelek",
-   "name": "Şifa Eczanesi",
-   "address": "MERKEZ MAH. CUMHURİYET CAD. NO:2",
-   "phone": "0368 511 2115",
-   "dutyStart": "2026-11-26T19:00:00+03:00",
-   "dutyEnd": "2026-11-27T08:00:00+03:00",
+   "name": "Çağlar Eczanesi",
+   "address": "MERKEZ MAH. CUMHURİYET CAD. NO:12/A",
+   "phone": "0368 511 2020",
+   "dutyStart": "2026-11-27T19:00:00+03:00",
+   "dutyEnd": "2026-11-28T08:00:00+03:00",
    "approved": true,
-   "lat": 41.879581,
-   "lng": 34.907822
+   "lat": 41.879681,
+   "lng": 34.907478
   },
   {
    "district": "Gerze",
-   "name": "Yenice Eczanesi",
-   "address": "HAMİDİYE MAH. RECAİ KURUOĞLU BUL. NO:2/A",
-   "phone": "0368 718 4885",
-   "dutyStart": "2026-11-26T18:00:00+03:00",
-   "dutyEnd": "2026-11-27T08:30:00+03:00",
+   "name": "Yumuk Eczanesi",
+   "address": "ÇARŞI MAH. GENERAL OSMAN PAMUKOĞLU CAD. NO:6",
+   "phone": "0368 718 4428",
+   "dutyStart": "2026-11-27T18:00:00+03:00",
+   "dutyEnd": "2026-11-28T08:30:00+03:00",
    "approved": true,
-   "lat": 41.80407,
-   "lng": 35.195072
+   "lat": 41.80254,
+   "lng": 35.197929
   },
   {
    "district": "Merkez",
-   "name": "Karadeniz Eczanesi",
-   "address": "GELİNCİK MAH. FATİH CAD. NO:35",
-   "phone": "0368 260 0018",
-   "dutyStart": "2026-11-26T18:00:00+03:00",
-   "dutyEnd": "2026-11-27T08:00:00+03:00",
+   "name": "Zeytinlik Eczanesi",
+   "address": "ADA MH. YAKAMOZ SK. NO: 47/A",
+   "phone": "0545 405 9705",
+   "dutyStart": "2026-11-27T18:00:00+03:00",
+   "dutyEnd": "2026-11-28T08:00:00+03:00",
    "approved": true,
-   "lat": 42.022404,
-   "lng": 35.13694
+   "lat": 42.021187,
+   "lng": 35.162628
   },
   {
    "district": "Türkeli",
-   "name": "Özlem Eczanesi",
-   "address": "GÜZELYURT MAH. CUMHURİYET CAD. NO:10/B",
-   "phone": "0368 671 2692",
-   "dutyStart": "2026-11-26T18:00:00+03:00",
-   "dutyEnd": "2026-11-27T08:00:00+03:00",
+   "name": "Gizem Eczanesi",
+   "address": "GÜZELYURT MH. ALPARSLAN TÜRKEŞ CD. NO:9/A",
+   "phone": "0368 671 2792",
+   "dutyStart": "2026-11-27T18:00:00+03:00",
+   "dutyEnd": "2026-11-28T08:00:00+03:00",
    "approved": true,
-   "lat": 41.946556,
-   "lng": 34.33662
+   "lat": 41.947079,
+   "lng": 34.337921
   }
  ]
 }

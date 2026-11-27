@@ -1,75 +1,75 @@
 {
  "city": "Muş",
  "code": 49,
- "dutyDay": "2026-11-26",
- "updatedAt": "2026-11-27T00:38:49.567Z",
+ "dutyDay": "2026-11-27",
+ "updatedAt": "2026-11-27T16:37:17.670Z",
  "source": "Batman Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Bal Eczanesi",
-   "address": "DEVLET HASTANESİ KARŞISI",
-   "phone": "04362124921",
+   "name": "Furkan Eczanesi",
+   "address": "SSK CADDESİ KARŞISI,SARAY ASM KARŞISI,LACİVERT SİTESİ ALTI",
+   "phone": "04365023434",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.744303,
-   "lng": 41.5178
+   "lat": 38.742937,
+   "lng": 41.512716
   },
   {
    "district": "Bulanık",
-   "name": "Enes Eczanesi",
-   "address": "KÜLTÜR MAH. ŞEHİT ÜSTEĞMEN SUAT İSHAKOĞLU CAD. NO:10/C (BULANIK MERKEZ CAMİ KARŞISI BELEDİYE YANI)",
-   "phone": "04363112100",
+   "name": "Sipan Eczanesi",
+   "address": "ZAFER MAH.HASTANE CAD. BULANIK DEVLET HASTENESİ KARŞISI",
+   "phone": "04363115959",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.092076,
-   "lng": 42.271749
+   "lat": 39.09467,
+   "lng": 42.274854
   },
   {
    "district": "Hasköy",
-   "name": "Derman Eczanesi",
-   "address": "VATAN MAH. SEFA DEMİRYÜREK CAD. NO:48/B",
-   "phone": "04364112323",
+   "name": "İstanbul Eczanesi",
+   "address": "YENİ HASKÖY DEVLET HASTANESİ KARŞISI, ALPARSLAN ORTAOKULU YANINDA",
+   "phone": "04364113400",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.683236,
-   "lng": 41.691762
+   "lat": 38.683305,
+   "lng": 41.692534
   },
   {
    "district": "Korkut",
-   "name": "Şifa Eczanesi",
-   "address": "ADNAN MENDERES MAH.2 CAD. NO:51/J",
-   "phone": "04366116769",
+   "name": "Korkut Eczanesi",
+   "address": "BAHÇELİEVLER MAH.İKİNCİ CAD.NO:11/C",
+   "phone": "04366116026",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 38.734309,
-   "lng": 41.776712
+   "lat": 38.738225,
+   "lng": 41.782945
   },
   {
    "district": "Malazgirt",
-   "name": "Yaşam Eczanesi",
-   "address": "SELÇUKLU MAH.HASTANE CAD.NO:70/B MALAZGİRT/MUŞ",
-   "phone": "04365113601",
+   "name": "Öz Malazgirt Eczanesi",
+   "address": "YILANKIRAN CAD. NO:6",
+   "phone": "4365112207",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.151962,
-   "lng": 42.550245
+   "lat": 39.146692,
+   "lng": 42.542267
   },
   {
    "district": "Varto",
-   "name": "Han Eczanesi",
-   "address": "GÜMGÜM MAH. SAĞLIK SOKAK NO:5/2A BLOK",
-   "phone": "04365024969",
+   "name": "Güneş Eczanesi",
+   "address": "GÜMGÜM MAH. SAĞLIK SOK. NO:6",
+   "phone": "04365024181",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 39.170486,
-   "lng": 41.455843
+   "lat": 39.170331,
+   "lng": 41.45576
   }
  ],
  "sourceUrl": "https://www.batmaneczaciodasi.org.tr/nobetci-eczaneler"

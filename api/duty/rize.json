@@ -1,75 +1,75 @@
 {
  "city": "Rize",
  "code": 53,
- "dutyDay": "2026-11-26",
- "updatedAt": "2026-11-26T16:51:57.765Z",
+ "dutyDay": "2026-11-27",
+ "updatedAt": "2026-11-27T16:37:27.726Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Ardeşen",
-   "name": "Bizim Eczanesi",
-   "address": "FATİH MAHALLESİ LÜTFÜ ALEMDAR CADDESİ NO:28B",
-   "phone": "0464 715 6422",
-   "dutyStart": "2026-11-26T18:00:00+03:00",
-   "dutyEnd": "2026-11-27T08:00:00+03:00",
+   "name": "Deva Eczanesi",
+   "address": "FATİH MAHALLESİ LÜTFÜ ALEMDAR CADDESİ NO:26A",
+   "phone": "0464 715 6846",
+   "dutyStart": "2026-11-27T18:00:00+03:00",
+   "dutyEnd": "2026-11-28T08:00:00+03:00",
    "approved": true,
-   "lat": 41.193218,
-   "lng": 40.982357
+   "lat": 41.192905,
+   "lng": 40.982197
   },
   {
    "district": "Çayeli",
-   "name": "Yeni Öztürk Eczanesi",
-   "address": "SÜLEYMAN SABİT İSHAKOĞLU CADDESİ NO:21/B",
-   "phone": "0464 532 1663",
-   "dutyStart": "2026-11-26T17:30:00+03:00",
-   "dutyEnd": "2026-11-27T08:00:00+03:00",
+   "name": "Çomoğlu Eczanesi",
+   "address": "YENİPAZAR MAHALLESİ İSHAKOĞLU CADDESİ NO:12/A",
+   "phone": "0464 532 1409",
+   "dutyStart": "2026-11-27T17:30:00+03:00",
+   "dutyEnd": "2026-11-28T08:00:00+03:00",
    "approved": true,
-   "lat": 41.090385,
-   "lng": 40.726013
+   "lat": 41.090015,
+   "lng": 40.725895
   },
   {
    "district": "Fındıklı",
-   "name": "Deniz Eczanesi",
-   "address": "SAHİL MAHALLESİ 34. CADDE NO:162A",
-   "phone": "0464 511 5305",
-   "dutyStart": "2026-11-26T18:00:00+03:00",
-   "dutyEnd": "2026-11-27T08:00:00+03:00",
+   "name": "Halk Eczanesi",
+   "address": "MERKEZ MAHALLESİ 2.CADDE NO:72",
+   "phone": "0464 511 3151",
+   "dutyStart": "2026-11-27T18:00:00+03:00",
+   "dutyEnd": "2026-11-28T08:00:00+03:00",
    "approved": true,
-   "lat": 41.267143,
-   "lng": 41.136467
+   "lat": 41.271988,
+   "lng": 41.141762
   },
   {
    "district": "Merkez",
-   "name": "Yeşil Mavi Eczanesi",
-   "address": "ÇAMLIBEL MAH. ZÜBEYDE HANIM CAD. 8/A",
-   "phone": "0464 212 2053",
-   "dutyStart": "2026-11-26T08:00:00+03:00",
-   "dutyEnd": "2026-11-27T18:00:00+03:00",
+   "name": "Çamlıbel Eczanesi",
+   "address": "ÇAMLIBEL MAH. ZÜBEYDE HANIM CAD. No:10/B MERKEZ RİZE",
+   "phone": "0464 214 1442",
+   "dutyStart": "2026-11-27T08:00:00+03:00",
+   "dutyEnd": "2026-11-28T18:00:00+03:00",
    "approved": true,
-   "lat": 41.02277,
-   "lng": 40.528236
+   "lat": 41.022652,
+   "lng": 40.528255
   },
   {
    "district": "Merkez",
-   "name": "Sevgi Eczanesi",
-   "address": "İslampaşa Mahallesi 2 No'lu Şehitler Caddesi No:43E",
-   "phone": "0464 213 3585",
-   "dutyStart": "2026-11-26T18:00:00+03:00",
-   "dutyEnd": "2026-11-27T08:00:00+03:00",
+   "name": "Kudret Eczanesi",
+   "address": "İslampaşa Mahallesi 2 No'lu Şehitler Caddesi No:45A",
+   "phone": "0464 214 6800",
+   "dutyStart": "2026-11-27T18:00:00+03:00",
+   "dutyEnd": "2026-11-28T08:00:00+03:00",
    "approved": true,
-   "lat": 41.038616,
-   "lng": 40.573109
+   "lat": 41.038475,
+   "lng": 40.572956
   },
   {
    "district": "Pazar",
-   "name": "Barış Eczanesi",
-   "address": "PAZAR MAHALLESİ PROF.DR. MEHMET HABERAL CADDESİ NO:80A",
-   "phone": "0464 612 5631",
-   "dutyStart": "2026-11-26T18:00:00+03:00",
-   "dutyEnd": "2026-11-27T08:00:00+03:00",
+   "name": "Derman Eczanesi",
+   "address": "PAZAR MAHALLESİ PROF. DR. MEHMET HABERAL CADDESİ NO:8C",
+   "phone": "0464 612 2650",
+   "dutyStart": "2026-11-27T18:00:00+03:00",
+   "dutyEnd": "2026-11-28T08:00:00+03:00",
    "approved": true,
-   "lat": 41.180367,
-   "lng": 40.883358
+   "lat": 41.180958,
+   "lng": 40.88802
   }
  ]
 }

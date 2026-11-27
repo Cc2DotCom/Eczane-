@@ -1,64 +1,64 @@
 {
  "city": "Hakkari",
  "code": 30,
- "dutyDay": "2026-11-26",
- "updatedAt": "2026-11-27T00:38:29.440Z",
+ "dutyDay": "2026-11-27",
+ "updatedAt": "2026-11-27T16:35:34.438Z",
  "source": "Van Eczacı Odası",
  "pharmacies": [
   {
    "district": "Merkez",
-   "name": "Umut Eczanesi",
-   "address": "PEHLIVAN MAH. DEVLET HAST. KARSISI NO:93/1",
-   "phone": "4382113200",
+   "name": "Vural Eczanesi",
+   "address": "PEHLİVAN MAH.ÇÖLEMERİK CAD.NO:63/A",
+   "phone": "04382116996",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.573514,
-   "lng": 43.732111
+   "lat": 37.57354,
+   "lng": 43.732054
   },
   {
    "district": "Yüksekova",
-   "name": "Canan Eczanesi",
-   "address": "İNANLI MAH.İNANLI CAD.YÜKSEKOVA DEVLET HASTANESİ KARŞISI NO:317/A",
-   "phone": "04383512464",
+   "name": "Zap Eczanesi Eczanesi",
+   "address": "GÜNGÖR MAHALLESİ CENGİZ TOPEL CADDESİ NO:4 AMED ÇARŞISI",
+   "phone": "04383510666",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.568107,
-   "lng": 44.229767
+   "lat": 37.568796,
+   "lng": 44.285539
   },
   {
    "district": "Yüksekova",
-   "name": "Yusuf Eczanesi",
-   "address": "Yeni yol caddesi No:2/A Özgürlük Meydanı Doğu Döner Karşısı",
-   "phone": "04383510011",
+   "name": "Gever Eczanesi",
+   "address": "YÜKSEKOVA DEVLET HASTANESİ KARŞISI NO:3",
+   "phone": "04383510004",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.569993,
-   "lng": 44.282407
+   "lat": 37.567838,
+   "lng": 44.229582
   },
   {
    "district": "Şemdinli",
-   "name": "Navşar Eczanesi",
-   "address": "CUMHURİYET CAD.ULU CAMİ KARŞISI NO:111",
-   "phone": "04384120098",
+   "name": "Nehr-i Eczanesi",
+   "address": "KARŞIYAKA MAH. CUMHURİYET CADDESİ NO:153/B",
+   "phone": "04384113041",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.307384,
-   "lng": 44.571761
+   "lat": 37.309234,
+   "lng": 44.569724
   },
   {
    "district": "Şemdinli",
-   "name": "Bahar Eczanesi",
-   "address": "MERKEZ MAH. VATAN CAD.NO:17/A",
-   "phone": "04384613122",
+   "name": "Aki Eczanesi",
+   "address": "MERKEZ MAH. VATAN CADDESİ NO:12/A",
+   "phone": "04384613320",
    "dutyStart": null,
    "dutyEnd": null,
    "approved": true,
-   "lat": 37.306194,
-   "lng": 44.573294
+   "lat": 37.080915,
+   "lng": 44.310193
   }
  ],
  "sourceUrl": "https://www.vaneczaciodasi.org.tr/nobetci-eczaneler"

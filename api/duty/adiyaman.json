@@ -1,108 +1,108 @@
 {
  "city": "Adıyaman",
  "code": 2,
- "dutyDay": "2026-11-26",
- "updatedAt": "2026-11-26T16:48:08.302Z",
+ "dutyDay": "2026-11-27",
+ "updatedAt": "2026-11-27T16:33:48.365Z",
  "source": "e-Devlet TİTCK",
  "pharmacies": [
   {
    "district": "Besni",
-   "name": "Güneş Eczanesi",
-   "address": "Ali Erdemoğlu Mahallesi Ali Erdemoğlu Bulvarı Dış kapı No:27/E",
-   "phone": "0507 438 2136",
-   "dutyStart": "2026-11-26T18:00:00+03:00",
-   "dutyEnd": "2026-11-27T08:00:00+03:00",
+   "name": "Besni Eczanesi",
+   "address": "ALİ ERDEMOĞLU MAHALLESİ ALİ ERDEMOĞLU BULVARI NO: 25/B",
+   "phone": "0416 318 1868",
+   "dutyStart": "2026-11-27T18:00:00+03:00",
+   "dutyEnd": "2026-11-28T08:00:00+03:00",
    "approved": true,
-   "lat": 37.679508,
-   "lng": 37.886101
+   "lat": 37.679466,
+   "lng": 37.886688
   },
   {
    "district": "Çelikhan",
-   "name": "Taltem Eczanesi",
-   "address": "ZAFER MAH.HÜKÜMET CAD. NO:44/B ÇELİKHAN/ADIYAMAN",
-   "phone": "4 164 512 902_",
-   "dutyStart": "2026-11-26T08:30:00+03:00",
-   "dutyEnd": "2026-11-27T08:30:00+03:00",
+   "name": "Akdağ Eczanesi",
+   "address": "YUNUS EMRE MAH. HÜKÜMET CAD. NO:51 ÇELİKHAN/ADIYAMAN",
+   "phone": "0416 541 2221",
+   "dutyStart": "2026-11-27T08:30:00+03:00",
+   "dutyEnd": "2026-11-28T08:30:00+03:00",
    "approved": true,
-   "lat": 38.0327,
-   "lng": 38.23864
+   "lat": 38.032639,
+   "lng": 38.237869
   },
   {
    "district": "Gölbaşı",
-   "name": "Şifam Eczanesi",
-   "address": "YENİ MAHALLE ATATÜRK BULVARI NO:36/B GÖLBAŞI/ADIYAMAN",
-   "phone": "0416 318 0613",
-   "dutyStart": "2026-11-26T18:00:00+03:00",
-   "dutyEnd": "2026-11-27T08:00:00+03:00",
-   "approved": true,
-   "lat": 37.783916,
-   "lng": 37.642284
-  },
-  {
-   "district": "Kahta",
-   "name": "Armağan Eczanesi",
-   "address": "YAVUZ SELİM MAHALLESİ 5085 NOLU SOKAK NO:27/C-D KAHTA/ADIYAMAN",
-   "phone": "0416 726 3116",
-   "dutyStart": "2026-11-26T18:00:00+03:00",
-   "dutyEnd": "2026-11-27T08:00:00+03:00",
-   "approved": true,
-   "lat": 37.797291,
-   "lng": 38.605389
-  },
-  {
-   "district": "Kahta",
-   "name": "Kardelen Eczanesi",
-   "address": "YAVUZ SELİM MAH. 5085 NOLU SOKAK NO:27A KAHTA/ADIYAMAN",
-   "phone": "0416 725 5425",
-   "dutyStart": "2026-11-26T18:00:00+03:00",
-   "dutyEnd": "2026-11-27T08:00:00+03:00",
-   "approved": true,
-   "lat": 37.797409,
-   "lng": 38.605415
-  },
-  {
-   "district": "Merkez",
-   "name": "Huzur Eczanesi",
-   "address": "SİTELER MAH. 20272 SK. NO:5/B",
-   "phone": "0542 436 5632",
-   "dutyStart": "2026-11-26T18:00:00+03:00",
-   "dutyEnd": "2026-11-27T08:00:00+03:00",
-   "approved": true,
-   "lat": 37.777843,
-   "lng": 38.321033
-  },
-  {
-   "district": "Merkez",
-   "name": "Köroğlu Eczanesi",
-   "address": "BAHÇELİEVLER MAHALLESİ ESKİ SAMSAT CADDESİ NO:39/A",
-   "phone": "0416 227 0037",
-   "dutyStart": "2026-11-26T18:00:00+03:00",
-   "dutyEnd": "2026-11-27T08:00:00+03:00",
-   "approved": true,
-   "lat": 37.758694,
-   "lng": 38.2826
-  },
-  {
-   "district": "Merkez",
    "name": "Yaşam Eczanesi",
-   "address": "FATİH MAH. MALATYA CAD. NO:89/A",
-   "phone": "0416 213 4860",
-   "dutyStart": "2026-11-26T18:00:00+03:00",
-   "dutyEnd": "2026-11-27T08:00:00+03:00",
+   "address": "CUMHURİYET MAH. GÜNAYDIN CAD. NO:67/A",
+   "phone": "0416 781 9977",
+   "dutyStart": "2026-11-27T18:00:00+03:00",
+   "dutyEnd": "2026-11-28T08:00:00+03:00",
    "approved": true,
-   "lat": 37.771458,
-   "lng": 38.28157
+   "lat": 37.78611,
+   "lng": 37.635513
+  },
+  {
+   "district": "Kahta",
+   "name": "Lokman Eczanesi",
+   "address": "YAVUZ SELİM MAH. 5085 SOKAK NO:29/C KAHTA/ADIYAMAN",
+   "phone": "0416 725 76__",
+   "dutyStart": "2026-11-27T18:00:00+03:00",
+   "dutyEnd": "2026-11-28T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.797634,
+   "lng": 38.605476
+  },
+  {
+   "district": "Kahta",
+   "name": "Pinar Eczanesi",
+   "address": "YAVUZ SELİM MAH. 5085 SK. NO:31/A",
+   "phone": "0538 772 2633",
+   "dutyStart": "2026-11-27T18:00:00+03:00",
+   "dutyEnd": "2026-11-28T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.797665,
+   "lng": 38.605499
+  },
+  {
+   "district": "Merkez",
+   "name": "Görmez Eczanesi",
+   "address": "Yeni Mahalle 26191 Sokak No:12/B",
+   "phone": "0552 899 0068",
+   "dutyStart": "2026-11-27T18:00:00+03:00",
+   "dutyEnd": "2026-11-28T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.76828,
+   "lng": 38.242321
+  },
+  {
+   "district": "Merkez",
+   "name": "Merve Eczanesi",
+   "address": "Yunus Emre Mah.Yaşam Cad.No:2/1",
+   "phone": "0533 137 9540",
+   "dutyStart": "2026-11-27T18:00:00+03:00",
+   "dutyEnd": "2026-11-28T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.767452,
+   "lng": 38.321251
+  },
+  {
+   "district": "Merkez",
+   "name": "Üniversite Eczanesi",
+   "address": "Turgut Reis Mah.153. Sokak No:29/B",
+   "phone": "0416 451 3030",
+   "dutyStart": "2026-11-27T18:00:00+03:00",
+   "dutyEnd": "2026-11-28T08:00:00+03:00",
+   "approved": true,
+   "lat": 37.767139,
+   "lng": 38.270927
   },
   {
    "district": "Sincik",
-   "name": "Sibel Eczanesi",
-   "address": "Merkez Mahallesi Halil Peker Bulvarı No:37/1A",
-   "phone": "0543 169 0947",
-   "dutyStart": "2026-11-26T18:00:00+03:00",
-   "dutyEnd": "2026-11-27T08:00:00+03:00",
+   "name": "Ünlü Eczanesi",
+   "address": "Karaman Mahallesi Mehmet Ataman Caddesi No:7/A",
+   "phone": "0533 208 8302",
+   "dutyStart": "2026-11-27T18:00:00+03:00",
+   "dutyEnd": "2026-11-28T08:00:00+03:00",
    "approved": true,
-   "lat": 38.025402,
-   "lng": 38.619102
+   "lat": 38.032104,
+   "lng": 38.630825
   }
  ]
 }
