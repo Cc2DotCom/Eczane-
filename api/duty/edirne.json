@@ -2,20 +2,9 @@
  "city": "Edirne",
  "code": 22,
  "dutyDay": "2026-11-27",
- "updatedAt": "2026-11-27T18:54:32.847Z",
+ "updatedAt": "2026-11-27T21:58:49.552Z",
  "source": "Edirne Eczacı Odası",
  "pharmacies": [
-  {
-   "district": "Merkez",
-   "name": "Yaşam Eczanesi",
-   "address": "MRDRESE ALI BEY MAH.ŞİFA MEKTEP SOK. VENÜS APT.NO:2",
-   "phone": "02842133999",
-   "dutyStart": null,
-   "dutyEnd": null,
-   "approved": true,
-   "lat": 41.674394,
-   "lng": 26.562563
-  },
   {
    "district": "Merkez",
    "name": "Reyhan Eczanesi",
